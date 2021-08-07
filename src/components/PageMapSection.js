@@ -6,7 +6,7 @@ import { Link } from 'gatsby'
 import { Row, Col, Card } from 'antd'
 import { PrinterOutlined, FileOutlined, BulbOutlined } from '@ant-design/icons'
 import Paragraph from 'antd/lib/typography/Paragraph';
-import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
+import 'antd/dist/antd.css';
 import styles from '../sass/components/map.module.scss'
 
 const { Meta } = Card
