@@ -1,4 +1,5 @@
 import Action from './Action';
+import BannerSection from './BannerSection';
 import BlogFeedItemFilter from './BlogFeedItemFilter';
 import BlogFeedSection from './BlogFeedSection';
 import BlogPostCategories from './BlogPostCategories';
@@ -17,6 +18,7 @@ import Layout from './Layout';
 
 export {
     Action,
+    BannerSection,
     BlogFeedItemFilter,
     BlogFeedSection,
     BlogPostCategories,
@@ -36,6 +38,7 @@ export {
 
 export default {
     Action,
+    BannerSection,
     BlogFeedItemFilter,
     BlogFeedSection,
     BlogPostCategories,
