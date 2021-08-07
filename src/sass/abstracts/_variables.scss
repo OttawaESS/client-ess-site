@@ -1,5 +1,8 @@
 // Colors
 // Base
+$primary-color:                #5201FF !default;
+$primary-color-dark-variant:   #270059 !default;
+
 $color-text:                   #536171 !default;
 $color-heading:                #282f36 !default;
 $color-meta:                   #8594a5 !default;
@@ -9,35 +12,35 @@ $color-bg-overlay:             rgba(245,246,247,.8) !default;
 $color-border:                 #e1e4e9 !default;
 
 // Links
-$color-link:                   #28aaff !default;
+$color-link:                   $primary-color;
 
 // Blockquotes
 $color-blockquote:             #282f36 !default;
-$color-blockquote-border:      #28aaff !default;
+$color-blockquote-border:      $primary-color;
 
 // Buttons
 $color-btn:                    #fff !default;
-$color-btn-bg:                 #28aaff !default;
-$color-btn-border:             #28aaff !default;
-$color-btn-alt:                #28aaff !default;
+$color-btn-bg:                 $primary-color;
+$color-btn-border:             $primary-color;
+$color-btn-alt:                $primary-color;
 $color-btn-alt-bg:             transparent !default;
-$color-btn-alt-border:         #28aaff !default;
+$color-btn-alt-border:         $primary-color;
 $color-btn-clear:              #282f36 !default;
 
 // Navigation
 $color-nav-link:               #536171 !default;
-$color-nav-link-hover:         #28aaff !default;
-$color-nav-link-active:        #28aaff !default;
+$color-nav-link-hover:         $primary-color;
+$color-nav-link-active:        $primary-color;
 
 // Inverse (light text on dark background)
 $color-inverse-text:           #f5f6f7 !default;
 $color-inverse-heading:        #fff !default;
-$color-inverse-bg:             #005bc4 !default;
+$color-inverse-bg:             $primary-color-dark-variant;
 $color-inverse-link:           #f5f6f7 !default;
 $color-inverse-btn:            #fff !default;
-$color-inverse-btn-bg:         #28aaff !default;
-$color-inverse-btn-border:     #28aaff !default;
-$color-inverse-btn-alt:        #28aaff !default;
+$color-inverse-btn-bg:         $primary-color;
+$color-inverse-btn-border:     $primary-color;
+$color-inverse-btn-alt:        $primary-color;
 $color-inverse-btn-alt-bg:     #fff !default;
 $color-inverse-btn-alt-border: #fff !default;
 $color-inverse-btn-clear:      #fff !default;
