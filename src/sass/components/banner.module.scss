@@ -1,3 +1,5 @@
+@import "../abstracts/variables";
+
 .bannerComponent {
     display: flex;
 }
@@ -13,10 +15,10 @@
     button {
         width: 197px;
         height: 51px;
-        border-radius: 15px;
-        background-color: #DDCDFF;
-        border: 2px solid #5201FF;
-        color: #5201FF;
+        border-radius: 6px;
+        background-color: $primary-color-light-variant;
+        border: 2px solid;
+        color: $primary-color;
     }
 }
 

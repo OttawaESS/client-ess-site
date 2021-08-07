@@ -13,7 +13,7 @@ export default class BannerSection extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             <section className="section section--banner">
-              <div className="container container--lg">
+              <div>
               <BannerCaroussel>
                {_.map(_.get(section, 'slides', null), (slide, slide_idx) => {
                    let slide_data = getData(this.props.pageContext.site.data, slide);
