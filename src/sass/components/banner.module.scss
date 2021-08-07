@@ -1,0 +1,72 @@
+@import "../abstracts/variables";
+
+.bannerComponent {
+    display: flex;
+}
+
+.componentInfo {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    margin: auto;
+    margin-top: 100px;
+    margin-right: 0px;
+
+    button {
+        width: 197px;
+        height: 51px;
+        border-radius: 6px;
+        background-color: $primary-color-light-variant;
+        border: 2px solid;
+        color: $primary-color;
+    }
+}
+
+.title {
+    font-weight: 100;
+    font-size: 48px;
+    letter-spacing: 2px;
+}
+
+.date {
+    font-weight: 600;
+    color: #FF6B00;
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+
+.description {
+    font-size: 15px;
+    margin-bottom: 20px;
+    color: #6B7280;
+}
+
+.componentImg {
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 0px;
+
+    img {
+        width: 322px;
+        height: 238px;
+        border-radius: 1000px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .bannerComponent {
+        flex-direction: column;
+    }
+
+    .componentInfo {
+        margin: auto;
+        margin-top: 30px;
+        align-items: center;
+        text-align: center;
+    }
+
+    .componentImg {
+        margin: auto;
+        margin-top: 40px;
+    }
+}

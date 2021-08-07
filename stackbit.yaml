@@ -145,6 +145,36 @@ models:
       - type: markdown
         name: bio
         label: Bio
+  slide:
+    type: data
+    label: Slide
+    folder: banner-slides
+    labelField: id
+    fields:
+      - type: string
+        name: id
+        label: ID
+        description: 'A unique identifier'
+        required: true
+      - type: string
+        name: title
+        label: Title
+        required: true
+      - type: string
+        name: date
+        label: Date
+      - type: string
+        name: description
+        label: Description
+      - type: image
+        name: photo
+        label: Image
+      - type: string
+        name: button_link
+        label: Button Link
+      - type: string
+        name: button_label
+        label: Button Label
   category:
     type: data
     label: Category
@@ -261,10 +291,27 @@ models:
             - features_section
             - hero_section
             - team_section
+            - banner_section
       - type: model
         name: seo
         models:
           - stackbit_page_meta
+  banner_section:
+    type: object
+    label: Banner Section
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the slide
+      - type: list
+        name: slides
+        label: Slides
+        items:
+          type: reference
+          models:
+            - slide
   blog_feed_section:
     type: object
     label: Blog Feed Section
