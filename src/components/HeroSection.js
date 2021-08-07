@@ -3,6 +3,7 @@ import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix} from '../utils';
 import SectionActions from './SectionActions';
+import Title from 'antd/lib/typography/Title';
 
 export default class HeroSection extends React.Component {
     render() {
@@ -27,11 +28,11 @@ export default class HeroSection extends React.Component {
                   )}
                   <div className="cell section__body">
                     {_.get(section, 'title', null) && (
-                    <h1 className="section__title">{_.get(section, 'title', null)}</h1>
+                    <Title className="section__title">{_.get(section, 'title', null)}</Title>
                     )}
                     {_.get(section, 'subtitle', null) && (
                     <div className="section__copy">
-                      <p>{_.get(section, 'subtitle', null)}</p>
+                      <p style={{ fontSize: "18px" }}>{_.get(section, 'subtitle', null)}</p>
                     </div>
                     )}
                     {_.get(section, 'actions', null) && (
