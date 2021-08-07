@@ -1,16 +1,11 @@
 {
     "header": {
-        "title": "Starter",
+        "title": "ESSociety",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
-                "url": "/features",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Home",
+                "url": "/",
                 "style": "link"
             },
             {
@@ -19,14 +14,19 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Resources",
+                "url": "/resources",
                 "style": "link"
             },
             {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "primary"
+                "label": "Services",
+                "url": "/services",
+                "style": "link"
+            },
+            {
+                "label": "Events",
+                "url": "/events",
+                "style": "link"
             }
         ]
     },
@@ -37,35 +37,24 @@
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "link"
-            },
-            {
-                "label": "Privacy and Terms",
-                "url": "/terms",
-                "style": "link"
             }
         ],
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/uottawaessaeg",
                 "style": "link",
                 "new_window": true
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/uottawa_essaeg/",
                 "style": "link",
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Engineering Student Society. All rights reserved."
     },
     "title": "Stackbit Starter Theme"
 }
