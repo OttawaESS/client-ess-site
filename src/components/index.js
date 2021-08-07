@@ -13,6 +13,7 @@ import Footer from './Footer';
 import Header from './Header';
 import HeroSection from './HeroSection';
 import SectionActions from './SectionActions';
+import PageMapSection from './PageMapSection';
 import TeamSection from './TeamSection';
 import Layout from './Layout';
 
@@ -32,6 +33,7 @@ export {
     Header,
     HeroSection,
     SectionActions,
+    PageMapSection,
     TeamSection,
     Layout
 };
@@ -51,6 +53,7 @@ export default {
     Footer,
     Header,
     HeroSection,
+    PageMapSection,
     SectionActions,
     TeamSection,
     Layout

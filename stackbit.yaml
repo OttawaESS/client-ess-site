@@ -292,6 +292,7 @@ models:
             - hero_section
             - team_section
             - banner_section
+            - page_map_section
       - type: model
         name: seo
         models:
@@ -498,6 +499,15 @@ models:
               - no-repeat
             default: no-repeat
             description: Repeat the image to cover the whole area.
+  page_map_section:
+    type: object
+    label: Page Map Section
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section
   team_section:
     type: object
     label: Team Section
