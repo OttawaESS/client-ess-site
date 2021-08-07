@@ -7,14 +7,14 @@ input[type="button"],
 input[type="reset"],
 .btn {
   background-color: $color-btn-bg;
-  border: 2px solid $color-btn-border;
+  border: 1px solid $color-btn-border;
   border-radius: 5px;
   box-sizing: border-box;
   color: $color-btn;
   cursor: pointer;
   display: inline-block;
   font-size: 1em;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 1.25;
   padding: 0.625em 1.5em;
   text-align: center;

@@ -2,28 +2,27 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Welcome to the Engineering Students Society
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet nam at amet congue vel nunc. Arcu lobortis in facilisis ut ipsum volutpat gravida. 
     actions:
       - label: Learn More
-        url: /features
+        url: /about/who-we-are
         style: primary
-      - label: Contact Us
-        url: /contact
+      - label: Get Involved
+        url: /about/join-our-team
         style: secondary
     align: left
-    image: images/hero.svg
-    image_alt: Hero placeholder image
+    image: images/site-drawing.svg
+    image_alt: SITE Building Drawing
     image_position: right
     has_background: true
     background:
-      background_color: blue
-      background_image: images/diagonal-lines.svg
-      background_image_opacity: 20
-      background_image_size: auto
-      background_image_repeat: repeat
+      background_color: white
+      # background_image: images/diagonal-lines.svg
+      # background_image_opacity: 20
+      # background_image_size: auto
+      # background_image_repeat: repeat
   - type: features_section
     title: Features
     features:
