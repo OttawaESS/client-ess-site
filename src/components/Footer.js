@@ -1,5 +1,4 @@
 import React from 'react';
-import _ from 'lodash';
 import styles from '../sass/components/footer.module.scss';
 
 export default class Footer extends React.Component {
