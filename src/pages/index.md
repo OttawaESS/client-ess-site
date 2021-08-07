@@ -25,6 +25,8 @@ sections:
       - src/data/banner-slides/slide-2.yaml
       - src/data/banner-slides/slide-1.yaml
       - src/data/banner-slides/slide-2.yaml
+  - type: page_map_section
+    title: Page Map
   - type: features_section
     title: Features
     features:
