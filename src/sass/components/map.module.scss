@@ -1,0 +1,20 @@
+@import "../abstracts/variables";
+
+.icon {
+    color: $primary-color;
+    font-size: 28px;
+    margin-bottom: 1rem;
+}
+
+.card-body {
+    text-align: left;
+    text-decoration: none;
+}
+
+.card {
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+}

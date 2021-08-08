@@ -1,4 +1,5 @@
 import Action from './Action';
+import BannerSection from './BannerSection';
 import BlogFeedItemFilter from './BlogFeedItemFilter';
 import BlogFeedSection from './BlogFeedSection';
 import BlogPostCategories from './BlogPostCategories';
@@ -12,11 +13,13 @@ import Footer from './Footer';
 import Header from './Header';
 import HeroSection from './HeroSection';
 import SectionActions from './SectionActions';
+import PageMapSection from './PageMapSection';
 import TeamSection from './TeamSection';
 import Layout from './Layout';
 
 export {
     Action,
+    BannerSection,
     BlogFeedItemFilter,
     BlogFeedSection,
     BlogPostCategories,
@@ -30,12 +33,14 @@ export {
     Header,
     HeroSection,
     SectionActions,
+    PageMapSection,
     TeamSection,
     Layout
 };
 
 export default {
     Action,
+    BannerSection,
     BlogFeedItemFilter,
     BlogFeedSection,
     BlogPostCategories,
@@ -48,6 +53,7 @@ export default {
     Footer,
     Header,
     HeroSection,
+    PageMapSection,
     SectionActions,
     TeamSection,
     Layout
