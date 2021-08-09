@@ -4,17 +4,15 @@ sections:
     - type: documents_section
       title: Important Documents
       actions:
-        - label: Documents 1
-          url: /
+        - label: General
+          style: primary
+        - label: 2018-2019
           style: secondary
-        - label: Documents 2
-          url: /about
+        - label: 2019-2020
           style: secondary
-        - label: Documents 3
-          url: /about
+        - label: 2020-2021
           style: secondary
-        - label: Documents 4
-          url: /about
+        - label: 2021-2022
           style: secondary
       image: images/site-drawing.svg
       image_position: right

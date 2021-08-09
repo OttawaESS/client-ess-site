@@ -4,12 +4,24 @@ import _ from 'lodash';
 import {classNames, toStyleObj, withPrefix} from '../utils';
 import SectionActions from './SectionActions';
 import Title from 'antd/lib/typography/Title';
-import { Collapse } from 'antd';
+import { Collapse, Radio } from 'antd';
 import {getData} from '../utils';
 
 const { Panel } = Collapse;
 
 export default class DocumentsSection extends React.Component {
+    constructor(props) {
+      super(props);
+      this.state = {
+        activeMenu: 'General'
+      };
+    }
+
+    handleOnChange = (e) => {
+      // console.log(e);
+      this.setState({ activeMenu: e.target.value })
+    }
+
     render() {
         let section = _.get(this.props, 'section', null);
         let background = _.get(section, 'background', null);
@@ -24,9 +36,9 @@ export default class DocumentsSection extends React.Component {
         it can be found as a welcome guest in many households across the world.
         `
         const docs = _.get(section, 'documents', null)
-        // console.log(docs);
+        console.log(docs);
 
-
+        // let year = _.get(section, 'documents', null)
 
         return (
             <section className={classNames('section', 'hero', {'bg-image': _.get(section, 'has_background', null) && _.get(background, 'background_image', null), 'inverse bg-blue': _.get(section, 'has_background', null) && (background_color === 'blue'), 'bg-gray': _.get(section, 'has_background', null) && (background_color === 'gray'), 'section--padding': _.get(section, 'has_background', null) || _.get(section, 'image', null)})}>
@@ -53,7 +65,7 @@ export default class DocumentsSection extends React.Component {
                       let slide_data = getData(this.props.pageContext.site.data, slide);
                       console.log(slide_data);
                       return (
-                        <Collapse>
+                        slide_data.year === this.state.activeMenu && <Collapse>
                          {slide_data.types.map((type, idx) => (
                            <Panel header={type.type}>
                              {type.files.map((file, id) => (
@@ -64,6 +76,7 @@ export default class DocumentsSection extends React.Component {
                         </Collapse>
                       )
                   })}
+
                   </div>
                   )}
                   <div className="cell section__body">
@@ -72,7 +85,12 @@ export default class DocumentsSection extends React.Component {
                     )}
                     {_.get(section, 'actions', null) && (
                     <div className="section__actions btn-group">
-                      <SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
+                      {/* <SectionActions {...this.props} actions={_.get(section, 'actions', null)} /> */}
+                      <Radio.Group defaultValue={this.state.activeMenu} buttonStyle="solid" onChange={this.handleOnChange}>
+                        {_.get(section, 'actions', null).map((action, idx) => (
+                          <Radio.Button key={idx} value={action.label}>{action.label}</Radio.Button>
+                        ))}
+                      </Radio.Group>
                     </div>
                     )}
                     {/* NAVIGATION BUTTONS HERE */}
