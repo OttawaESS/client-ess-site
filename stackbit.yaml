@@ -175,6 +175,63 @@ models:
       - type: string
         name: button_label
         label: Button Label
+  file:
+    type: data
+    label: File
+    description: File data
+    fields:
+      - type: string
+        name: label
+        label: Label
+        description: Document Label
+        required: true
+      - type: string
+        name: path
+        label: Path
+        description: Document Path
+        required: true
+      - type: date
+        name: date
+        label: Date
+        description: Exact document was created / last updated
+        required: true
+  files:
+    type: model
+    name: files
+    label: Files
+    description: Files
+    fields:
+      - type: string
+        name: type
+        label: Document Type
+        description: Document Type
+      - type: list
+        name: files
+        label: Pdfs
+        description: List of pdf metadata objects
+        items:
+          - type: model
+            models:
+              - file
+  documents:
+    type: data
+    label: Documents
+    folder: documents
+    labelField: id
+    fields:
+      - type: string
+        name: year
+        label: Year
+        description: 'School year document was created/updated (ex: general, 2019-2020, 2020-2021)'
+        required: true
+      - type: list
+        name: types
+        label: Types
+        description: 'List of types document in a current school-year (ex: general, budgets, elections)'
+        items:
+          - type: model
+            models:
+              - files
   category:
     type: data
     label: Category
@@ -288,6 +345,7 @@ models:
             - contact_section
             - content_section
             - cta_section
+            - documents_section
             - features_section
             - hero_section
             - team_section
@@ -394,6 +452,50 @@ models:
           - blue
         default: white
         description: The background color of the section
+  documents_section:
+    type: object
+    label: Documents Section
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section
+      - type: list
+        name: actions
+        label: Action Buttons
+        items:
+          type: model
+          models:
+            - action
+      - type: enum
+        name: align
+        label: Align
+        options:
+          - left
+          - right
+          - center
+        default: left
+        description: The alignment of the text content
+      - type: image
+        name: image
+        label: Image
+        description: The image of the section
+      - type: enum
+        name: image_position
+        label: Image Position
+        options:
+          - left
+          - right
+        default: left
+        description: The position of the image
+      - type: list
+        name: documents
+        label: Documents
+        items:
+          type: model
+          models:
+            - documents
   features_section:
     type: object
     label: Features Section

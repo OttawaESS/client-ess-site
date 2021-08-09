@@ -1,0 +1,16 @@
+year: General
+types:
+  - type: General
+    files:
+      - label: Policy and Procedure Manual
+        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
+        date: '2020-09-12'
+      - label: Nomination Form
+        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
+        date: '2020-09-12'
+      - label: By-Laws
+        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
+        date: '2020-09-12'
+      - label: Form Expense Report
+        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
+        date: '2020-09-12'
