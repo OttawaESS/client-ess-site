@@ -4,6 +4,7 @@ import _ from 'lodash';
 import {getData, classNames, toStyleObj, withPrefix} from '../utils';
 import Title from 'antd/lib/typography/Title';
 import { Collapse, Radio } from 'antd';
+import Document from './Document';
 
 const { Panel } = Collapse;
 
@@ -47,8 +48,9 @@ export default class DocumentsSection extends React.Component {
                            <Panel header={type.type} key={idx}>
                              {type.files.map((file, id) => (
                                <li key={id}>
-                                 <a href={withPrefix(file.path)} target = "_blank" rel="noreferrer">{file.label}</a>
-                                 </li>
+                                 {/* <a href={withPrefix(file.path)} target = "_blank" rel="noreferrer">{file.label}</a> */}
+                                 <Document document={file}/>
+                                </li>
                              ))}
                            </Panel>
                          ))}

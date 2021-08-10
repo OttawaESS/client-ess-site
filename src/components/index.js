@@ -8,6 +8,7 @@ import BlogPostTags from './BlogPostTags';
 import ContactSection from './ContactSection';
 import ContentSection from './ContentSection';
 import CtaSection from './CtaSection';
+import Document from './Document';
 import DocumentsSection from './DocumentsSection';
 import FeaturesSection from './FeaturesSection';
 import Footer from './Footer';
@@ -29,6 +30,7 @@ export {
     ContactSection,
     ContentSection,
     CtaSection,
+    Document,
     DocumentsSection,
     FeaturesSection,
     Footer,
@@ -51,6 +53,7 @@ export default {
     ContactSection,
     ContentSection,
     CtaSection,
+    Document,
     DocumentsSection,
     FeaturesSection,
     Footer,
