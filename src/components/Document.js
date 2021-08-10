@@ -1,6 +1,6 @@
 import React from 'react';
 import { EyeOutlined, DownloadOutlined } from '@ant-design/icons'
-import {getData, classNames, toStyleObj, withPrefix} from '../utils';
+import { withPrefix } from '../utils';
 import styles from '../sass/components/document.module.scss';
 
 const docDivStyle = {
@@ -20,8 +20,8 @@ export default class Document extends React.Component {
                     <p>{this.props.document.label}</p>
                 </div>
                 <div>
-                    <a className={styles.icon} href={withPrefix(this.props.document.path)} target = "_blank" rel="noreferrer"><EyeOutlined /></a>
-                    <a className={styles.icon} href={withPrefix(this.props.document.path)} target = "_blank" rel="noreferrer" download><DownloadOutlined /></a>
+                    <a className={styles.icon} href={withPrefix(this.props.document.path)} target = "_blank" rel="noreferrer" aria-label="view-document"><EyeOutlined /></a>
+                    <a className={styles.icon} href={withPrefix(this.props.document.path)} target = "_blank" rel="noreferrer" aria-label="download-document" download><DownloadOutlined /></a>
                 </div>
             </div>
         );
