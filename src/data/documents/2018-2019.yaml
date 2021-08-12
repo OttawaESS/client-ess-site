@@ -2,43 +2,32 @@ year: 2018-2019
 types:
   - type: Meetings
     files:
-      - label: AGM 1
-        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-        date: '2020-09-12'
-      - label: AGM 2
-        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-        date: '2020-09-12'
-      - label: AGM 3
-        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-        date: '2020-09-12'
-      - label: AGM 4
-        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-        date: '2020-09-12'
+      - label: 1st Meeting of the Board
+        path: documents/2018-2019/meeting-minutes/ESSAEG-BoD-Meeting-Minutes-Sept-2018.docx
+        date: '2018-09-23'
+      - label: 2nd Meeting of the Board
+        path: documents/2018-2019/meeting-minutes/ESSAEG-BoD-Minutes-Sept-2-2018-Emergency-meeting.docx
+        date: '2018-09-23'
+      - label: 3rd Meeting of the Board
+        path: documents/2018-2019/meeting-minutes/ESSAEG-BoD-Minutes-Oct-2018-Emergency.docx
+        date: '2018-11-04'
+      - label: 4th Meeting of the Board
+        path: documents/2018-2019/meeting-minutes/ESSAEG-BoD-Minutes-Nov-2018-Emergency.docx
+        date: '2018-11-18'
+      - label: 5th Meeting of the Board - Part 1
+        path: documents/2018-2019/meeting-minutes/ESSAEG-BoD-Minutes-Jan-2019.docx
+        date: '2019-01-27'
+      - label: 5th Meeting of the Board - Part 2
+        path: documents/2018-2019/meeting-minutes/ESSAEG-BoD-Minutes-Feb-2019.docx
+        date: '2019-01-27'
+      - label: 6th Meeting of the Board
+        path: documents/2018-2019/meeting-minutes/ESSAEG-BoD-Minutes-Emergency-Feb-2019.docx
+        date: '2019-03-24'
   - type: Budgets
     files:
-      - label: Budget 1
+      - label: 2018-2019 Budget Overview
+        path: documents/2018-2019/budget/Budget-2018-2019-November-18th.pdf
+        date: '2018-11-18'
+      - label: 2018-2019 Fall Budget Report
         path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-        date: '2020-09-12'
-      - label: Budget 2
-        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-        date: '2020-09-12'
-      - label: Budget 3
-        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-        date: '2020-09-12'
-      - label: Budget 4
-        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-        date: '2020-09-12'
-  - type: Elections
-    files:
-     - label: Election Platform 0
-       path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-       date: '2020-09-12'
-     - label: Election Platform 1
-       path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-       date: '2020-09-12'
-     - label: Election Platform 2
-       path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-       date: '2020-09-12'
-     - label: Election Platform 3
-       path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-       date: '2020-09-12'
+        date: '2019-01-01'
