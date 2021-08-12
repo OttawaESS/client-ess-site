@@ -81,7 +81,7 @@ export default class DocumentsSection extends React.Component {
 }
 
 const Accordion = styled(Collapse)`
-  font-size: 1em;
+  font-size: 1.125em;
 
   .ant-collapse-header {
     font-weight: bold;

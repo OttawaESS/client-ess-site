@@ -6,13 +6,13 @@ sections:
       actions:
         - label: General
           style: primary
-        - label: 2018-2019
-          style: secondary
-        - label: 2019-2020
+        - label: 2021-2022
           style: secondary
         - label: 2020-2021
           style: secondary
-        - label: 2021-2022
+        - label: 2019-2020
+          style: secondary
+        - label: 2018-2019
           style: secondary
       image: images/site-drawing.svg
       image_position: right
