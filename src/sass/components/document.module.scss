@@ -11,3 +11,26 @@
 .icon {
     margin: 0 0.325rem;
 }
+
+.activeMenu {
+    background-color: $primary-color;
+    color: $color-inverse-text;
+    width: 100%;
+    border-radius: 0%;
+    padding: 1rem 0;
+}
+
+.nonActiveMenu {
+    background-color: transparent;
+    color: $primary-color;
+    border-color: $primary-color;
+    width: 100%;
+    border-radius: 0%;
+    padding: 1rem 0;
+}
+
+.navButton {
+    display: block;
+    margin: 1rem 0;
+    font-size: 1.125em;
+}

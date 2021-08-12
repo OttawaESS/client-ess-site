@@ -5,6 +5,7 @@ import {getData, classNames, toStyleObj, withPrefix} from '../utils';
 import Title from 'antd/lib/typography/Title';
 import { Collapse, Radio } from 'antd';
 import Document from './Document';
+import styles from '../sass/components/document.module.scss';
 
 const { Panel } = Collapse;
 
@@ -48,7 +49,6 @@ export default class DocumentsSection extends React.Component {
                            <Panel header={type.type} key={idx}>
                              {type.files.map((file, id) => (
                                <li key={id}>
-                                 {/* <a href={withPrefix(file.path)} target = "_blank" rel="noreferrer">{file.label}</a> */}
                                  <Document document={file}/>
                                 </li>
                              ))}
@@ -66,12 +66,16 @@ export default class DocumentsSection extends React.Component {
                     <Title className="section__title">{_.get(section, 'title', null)}</Title>
                     )}
                     {_.get(section, 'actions', null) && (
-                    <div className="section__actions btn-group" style={{ display: 'block' }}>
-                      <Radio.Group defaultValue={this.state.activeMenu} buttonStyle="solid" onChange={this.handleOnChange} style={{ display: 'block' }}>
-                        {_.get(section, 'actions', null).map((action, idx) => (
-                          <Radio.Button key={idx} value={action.label} style={{ display: 'block', margin: '0.5rem 0' }}>{action.label}</Radio.Button>
-                        ))}
-                      </Radio.Group>
+                    <div className="section__actions">
+                        <div>
+                          {_.get(section, 'actions', null).map((action, idx) => (
+                            <div className={styles.navButton}>
+                              <button key={idx} value={action.label} className={this.state.activeMenu === action.label ? styles.activeMenu : styles.nonActiveMenu} onClick={this.handleOnChange}>
+                                {action.label}
+                              </button>
+                            </div>
+                          ))}
+                        </div>
                     </div>
                     )}
                   </div>
