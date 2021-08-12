@@ -55,12 +55,11 @@ export default class DocumentsSection extends React.Component {
                   </Col>
 
                   <Col xs={24} md={24} lg={12} style={panelDiv}>
-                    {_.map(_.get(section, 'documents', null), (slide, slide_idx) => {
-                      let slide_data = getData(this.props.pageContext.site.data, slide);
-                      console.log(slide_data);
+                    {_.map(_.get(section, 'documents', null), (doc_year, doc_year_idx) => {
+                      let doc_year_data = getData(this.props.pageContext.site.data, doc_year);
                       return (
-                        slide_data.year === this.state.activeMenu && <Accordion key={slide_idx}>
-                         {slide_data.types.map((type, idx) => (
+                        doc_year_data.year === this.state.activeMenu && <Accordion key={doc_year_idx}>
+                         {doc_year_data.types.map((type, idx) => (
                            <Panel header={type.type} key={idx}>
                              {type.files.map((file, id) => (
                                <li key={id}>

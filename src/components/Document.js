@@ -5,13 +5,6 @@ import styles from '../sass/components/document.module.scss';
 import styled from 'styled-components'
 import { Card } from 'antd';
 
-const docDivStyle = {
-    display: 'flex',
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-
-}
-
 export default class Document extends React.Component {
     render() {
         return (
