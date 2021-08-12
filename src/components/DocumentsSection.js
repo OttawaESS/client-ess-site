@@ -1,13 +1,19 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {getData, classNames, toStyleObj, withPrefix} from '../utils';
+import { getData, classNames } from '../utils';
 import Title from 'antd/lib/typography/Title';
-import { Collapse, Radio } from 'antd';
+import { Collapse, Row, Col } from 'antd';
 import Document from './Document';
 import styles from '../sass/components/document.module.scss';
+import styled from 'styled-components'
 
 const { Panel } = Collapse;
+
+const panelDiv = {
+  margin: 'auto',
+  width: '50%',
+}
 
 export default class DocumentsSection extends React.Component {
     constructor(props) {
@@ -23,28 +29,37 @@ export default class DocumentsSection extends React.Component {
 
     render() {
         let section = _.get(this.props, 'section', null);
-        let background = _.get(section, 'background', null);
-        let background_color = _.get(background, 'background_color', null) || 'white';
-        let background_opacity_pct = _.get(background, 'background_image_opacity', null) || 100;
-        let background_opacity = background_opacity_pct * 0.01;
-        let background_size = _.get(background, 'background_image_size', null) || 'cover';
-        let background_repeat = _.get(background, 'background_image_repeat', null) || 'no-repeat';
 
         return (
-            <section className={classNames('section', 'hero', {'bg-image': _.get(section, 'has_background', null) && _.get(background, 'background_image', null), 'inverse bg-blue': _.get(section, 'has_background', null) && (background_color === 'blue'), 'bg-gray': _.get(section, 'has_background', null) && (background_color === 'gray'), 'section--padding': _.get(section, 'has_background', null) || _.get(section, 'image', null)})}>
-              {(_.get(section, 'has_background', null) && _.get(background, 'background_image', null)) && (
-              <div className="bg-image__image" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(background, 'background_image', null)) + '\'); opacity: ' + background_opacity + '; background-size: ' + background_size + '; background-repeat: ' + background_repeat)}/>
-              )}
+            <section className={classNames('section', 'hero')}>
               <div className="container container--lg">
-                <div className={classNames('flex', 'flex--middle', 'flex--center', 'flex--col-2', {'align-center': _.get(section, 'align', null) === 'center', 'align-right': _.get(section, 'align', null) === 'right'})}>
-                  {_.get(section, 'image', null) && (
-                  <div className={classNames('cell', 'section__media', {'section__media--right': _.get(section, 'image_position', null) === 'right'})}>
-                    {/* DOCUMENTS NAV HERE */}
+                <Row gutter={[16, 16]}>
+
+                  <Col xs={24} md={24} lg={12}>
+                    {_.get(section, 'title', null) && (
+                      <Title className="section__title">{_.get(section, 'title', null)}</Title>
+                    )}
+                    {_.get(section, 'actions', null) && (
+                    <div className="section__actions">
+                      <div>
+                        {_.get(section, 'actions', null).map((action, idx) => (
+                          <div className={styles.navButton}>
+                            <button key={idx} value={action.label} className={this.state.activeMenu === action.label ? styles.activeMenu : styles.nonActiveMenu} onClick={this.handleOnChange}>
+                              {action.label}
+                            </button>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                    )}
+                  </Col>
+
+                  <Col xs={24} md={24} lg={12} style={panelDiv}>
                     {_.map(_.get(section, 'documents', null), (slide, slide_idx) => {
                       let slide_data = getData(this.props.pageContext.site.data, slide);
                       console.log(slide_data);
                       return (
-                        slide_data.year === this.state.activeMenu && <Collapse key={slide_idx}>
+                        slide_data.year === this.state.activeMenu && <Accordion key={slide_idx}>
                          {slide_data.types.map((type, idx) => (
                            <Panel header={type.type} key={idx}>
                              {type.files.map((file, id) => (
@@ -54,37 +69,19 @@ export default class DocumentsSection extends React.Component {
                              ))}
                            </Panel>
                          ))}
-                        </Collapse>
+                        </Accordion>
                       )
-                  })}
-
-                  </div>
-                  )}
-                  {/* NAVIGATION BUTTONS HERE */}
-                  <div className="cell section__body">
-                    {_.get(section, 'title', null) && (
-                    <Title className="section__title">{_.get(section, 'title', null)}</Title>
-                    )}
-                    {_.get(section, 'actions', null) && (
-                    <div className="section__actions">
-                        <div>
-                          {_.get(section, 'actions', null).map((action, idx) => (
-                            <div className={styles.navButton}>
-                              <button key={idx} value={action.label} className={this.state.activeMenu === action.label ? styles.activeMenu : styles.nonActiveMenu} onClick={this.handleOnChange}>
-                                {action.label}
-                              </button>
-                            </div>
-                          ))}
-                        </div>
-                    </div>
-                    )}
-                  </div>
-                  <div>
+                    })}
+                  </Col>
                   
-                  </div>
-                </div>
+                </Row>
               </div>
             </section>
         );
     }
 }
+
+const Accordion = styled(Collapse)`
+  font-size: 1em;
+  font-weight: bold;
+`

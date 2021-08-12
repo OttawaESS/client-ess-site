@@ -15,7 +15,8 @@
 .activeMenu {
     background-color: $primary-color;
     color: $color-inverse-text;
-    width: 100%;
+    width: 370px;
+    max-width: 100%;
     border-radius: 0%;
     padding: 1rem 0;
 }
@@ -24,13 +25,14 @@
     background-color: transparent;
     color: $primary-color;
     border-color: $primary-color;
-    width: 100%;
+    width: 370px;
+    max-width: 100%;
     border-radius: 0%;
     padding: 1rem 0;
 }
 
 .navButton {
     display: block;
-    margin: 1rem 0;
+    margin: 0.75rem 0;
     font-size: 1.125em;
 }
