@@ -1,16 +1,18 @@
 year: General
 types:
-  - type: General
+  - type: Governing Documents
     files:
       - label: Policy and Procedure Manual
-        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-        date: '2020-09-12'
-      - label: Nomination Form
-        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-        date: '2020-09-12'
+        path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
+        date: '2021-04-30'
       - label: By-Laws
-        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-        date: '2020-09-12'
-      - label: Form Expense Report
-        path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
-        date: '2020-09-12'
+        path: documents/general/governing-documents/By-Laws-2021-Final.pdf
+        date: '2021-04-30'
+  - type: Forms
+    files:
+      - label: Execs Elections Nomination Form
+        path: documents/general/forms/Nomination-Form-.pdf
+        date: '2018-30-04'
+      - label: Exepense Report Form
+        path: documents/general/forms/Form-F1-Expense-Report-.pdf
+        date: '2018-30-04'
