@@ -499,6 +499,19 @@ models:
               - no-repeat
             default: no-repeat
             description: Repeat the image to cover the whole area.
+  secondary_hero_section:
+    type: object
+    label: Secondary Hero Section
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section
+      - type: string
+        name: image
+        label: Image
+        description: The path of the image
   page_map_section:
     type: object
     label: Page Map Section

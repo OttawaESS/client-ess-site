@@ -1,0 +1,32 @@
+.container {
+    position: relative;
+    text-align: center;
+    height: 520px;
+    overflow: hidden;
+}
+
+.background {
+    width: 103%;
+    height: 103%;
+    filter: blur(10px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: -10px;
+    max-width: 103%;
+}
+
+.centeredText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 85px;
+    color: #FFFFFF;
+    border: 5px solid #FFFFFF;
+    padding: 37px 270px;
+    border-radius: 15px;
+}
