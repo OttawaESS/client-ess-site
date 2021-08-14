@@ -1,0 +1,44 @@
+year: 2021-2022
+types:
+  - type: Meetings
+    files:
+      - label: AGM 1
+        path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
+        date: '2020-09-12'
+      - label: AGM 2
+        path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
+        date: '2020-09-12'
+      - label: AGM 3
+        path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
+        date: '2020-09-12'
+      - label: AGM 4
+        path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
+        date: '2020-09-12'
+  - type: Budgets
+    files:
+      - label: Budget 1
+        path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
+        date: '2020-09-12'
+      - label: Budget 2
+        path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
+        date: '2020-09-12'
+      - label: Budget 3
+        path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
+        date: '2020-09-12'
+      - label: Budget 4
+        path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
+        date: '2020-09-12'
+  - type: Elections
+    files:
+     - label: Election Platform 0
+       path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
+       date: '2020-09-12'
+     - label: Election Platform 1
+       path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
+       date: '2020-09-12'
+     - label: Election Platform 2
+       path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
+       date: '2020-09-12'
+     - label: Election Platform 3
+       path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
+       date: '2020-09-12'
