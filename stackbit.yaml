@@ -350,6 +350,7 @@ models:
             - hero_section
             - team_section
             - banner_section
+            - line_divider
             - page_map_section
       - type: model
         name: seo
@@ -601,6 +602,9 @@ models:
               - no-repeat
             default: no-repeat
             description: Repeat the image to cover the whole area.
+  line_divider:
+    type: object
+    label: Entity Separator
   page_map_section:
     type: object
     label: Page Map Section
