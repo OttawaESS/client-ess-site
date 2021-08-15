@@ -16,6 +16,8 @@ import SectionActions from './SectionActions';
 import PageMapSection from './PageMapSection';
 import TeamSection from './TeamSection';
 import Layout from './Layout';
+import GridSection from './GridSection';
+
 
 export {
     Action,
@@ -35,6 +37,7 @@ export {
     SectionActions,
     PageMapSection,
     TeamSection,
+    GridSection,
     Layout
 };
 
@@ -56,5 +59,6 @@ export default {
     PageMapSection,
     SectionActions,
     TeamSection,
+    GridSection,
     Layout
 };
