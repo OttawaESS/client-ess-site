@@ -1,0 +1,38 @@
+@import '../abstracts/variables';
+
+.meta {
+    color: $color-meta;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.icon {
+    margin: 0 0.325rem;
+}
+
+.activeMenu {
+    background-color: $primary-color;
+    color: $color-inverse-text;
+    width: 370px;
+    max-width: 100%;
+    border-radius: 0%;
+    padding: 1rem 0;
+}
+
+.nonActiveMenu {
+    background-color: transparent;
+    color: $primary-color;
+    border-color: $primary-color;
+    width: 370px;
+    max-width: 100%;
+    border-radius: 0%;
+    padding: 1rem 0;
+}
+
+.navButton {
+    display: block;
+    margin: 0.75rem 0;
+    font-size: 1.125em;
+}

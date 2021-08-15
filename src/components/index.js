@@ -8,10 +8,13 @@ import BlogPostTags from './BlogPostTags';
 import ContactSection from './ContactSection';
 import ContentSection from './ContentSection';
 import CtaSection from './CtaSection';
+import Document from './Document';
+import DocumentsSection from './DocumentsSection';
 import FeaturesSection from './FeaturesSection';
 import Footer from './Footer';
 import Header from './Header';
 import HeroSection from './HeroSection';
+import LineDivider from './LineDivider';
 import SectionActions from './SectionActions';
 import PageMapSection from './PageMapSection';
 import TeamSection from './TeamSection';
@@ -29,10 +32,13 @@ export {
     ContactSection,
     ContentSection,
     CtaSection,
+    Document,
+    DocumentsSection,
     FeaturesSection,
     Footer,
     Header,
     HeroSection,
+    LineDivider,
     SectionActions,
     PageMapSection,
     TeamSection,
@@ -51,10 +57,13 @@ export default {
     ContactSection,
     ContentSection,
     CtaSection,
+    Document,
+    DocumentsSection,
     FeaturesSection,
     Footer,
     Header,
     HeroSection,
+    LineDivider,
     PageMapSection,
     SectionActions,
     TeamSection,
