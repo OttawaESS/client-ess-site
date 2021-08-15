@@ -1,0 +1,54 @@
+.container {
+    position: relative;
+    text-align: center;
+    height: 520px;
+    overflow: hidden;
+}
+
+.background {
+    width: 103%;
+    height: 103%;
+    filter: blur(10px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: -10px;
+    max-width: 103%;
+}
+
+.centeredText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 5em;
+    color: #FFFFFF;
+    border: 5px solid #FFFFFF;
+    padding: 37px 270px;
+    border-radius: 15px;
+}
+
+@media screen and (max-width: 800px) {
+    .centeredText {
+        padding: 30px 170px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+        height: 450px;
+    }
+
+    .centeredText {
+        padding: 30px 100px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .centeredText {
+        padding: 20px 50px;
+    }
+}
