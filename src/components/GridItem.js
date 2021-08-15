@@ -3,6 +3,7 @@ import _ from 'lodash';
 
 import { classNames, withPrefix, markdownify } from '../utils';
 import SectionActions from './SectionActions';
+import styles from '../sass/components/grid-section.module.scss';
 
 export default class GridItem extends React.Component {
     render() {
@@ -144,7 +145,7 @@ export default class GridItem extends React.Component {
                                     )}
                                     {content && (
                                         <div
-                                            className={classNames('item__copy', {
+                                            className={classNames('item__copy', styles.primary, {
                                                 'text-center': contentAlignX === 'center',
                                                 'text-right': contentAlignX === 'right'
                                             })}

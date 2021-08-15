@@ -5,6 +5,7 @@ import { classNames } from '../utils';
 import GridItem from './GridItem';
 import SectionActions from './SectionActions';
 import SectionBackground from './SectionBackground';
+import styles from '../sass/components/grid-section.module.scss';
 
 export default class GridSection extends React.Component {
     render() {
@@ -40,6 +41,7 @@ export default class GridSection extends React.Component {
                     'pb-md-7': paddingBottom === 'large'
                 })}
             >
+                <div className="container container--lg">
                 {backgroundImage && <SectionBackground section={section} />}
                 {(title || subtitle) && (
                     <div
@@ -51,7 +53,7 @@ export default class GridSection extends React.Component {
                         })}
                     >
                         {subtitle && <div className="section__subtitle">{subtitle}</div>}
-                        {title && <h2 className="section__title mt-0">{title}</h2>}
+                        {title && <p className={styles.meta}>{title}</p>}
                     </div>
                 )}
                 {!_.isEmpty(gridItems) && (
@@ -85,6 +87,7 @@ export default class GridSection extends React.Component {
                         </div>
                     </div>
                 )}
+                </div>
             </section>
         );
     }
