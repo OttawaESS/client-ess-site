@@ -154,7 +154,7 @@ models:
       - type: string
         name: id
         label: ID
-        description: 'A unique identifier'
+        description: "A unique identifier"
         required: true
       - type: string
         name: title
@@ -211,7 +211,7 @@ models:
           - stackbit_page_meta
   post:
     type: page
-    urlPath: '/blog/{slug}'
+    urlPath: "/blog/{slug}"
     label: Post
     layout: post
     folder: blog
@@ -582,7 +582,7 @@ models:
         name: url
         label: URL
         required: true
-        default: '#'
+        default: "#"
       - type: enum
         name: style
         label: Style
@@ -609,12 +609,12 @@ models:
         name: title
         label: Title
         description: The page title that goes into the <title> tag
-        default: ''
+        default: ""
       - type: string
         name: description
         label: Description
         description: The page description that goes into the <meta name="description"> tag
-        default: ''
+        default: ""
       - type: list
         name: robots
         label: Robots
@@ -642,12 +642,39 @@ models:
           fields:
             - type: string
               name: name
-              default: ''
+              default: ""
             - type: string
               name: value
-              default: ''
+              default: ""
             - type: string
               name: keyName
               default: name
             - type: boolean
               name: relativeUrl
+  instructions_section:
+    type: object
+    label: Instructions
+    labelField: title
+    fields:
+      - type: string
+        name: important_note
+        label: Important Note
+        required: false
+      - type: list
+        name: instructions
+        label: Instructions
+        instructions:
+          type: model
+          models:
+            - instruction
+  instruction:
+    type: object
+    label: instruction
+    labelField: instruction
+    fields:
+      - type: string
+        name: title
+        required: true
+      - type: string
+        name: description
+        required: true
