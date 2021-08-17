@@ -14,6 +14,7 @@ import FeaturesSection from './FeaturesSection';
 import Footer from './Footer';
 import Header from './Header';
 import HeroSection from './HeroSection';
+import InstructionsSection from "./InstructionsSection";
 import LineDivider from './LineDivider';
 import SectionActions from './SectionActions';
 import PageMapSection from './PageMapSection';
@@ -38,6 +39,7 @@ export {
     Footer,
     Header,
     HeroSection,
+    InstructionsSection,
     LineDivider,
     SectionActions,
     PageMapSection,
@@ -63,6 +65,7 @@ export default {
     Footer,
     Header,
     HeroSection,
+    InstructionsSection,
     LineDivider,
     PageMapSection,
     SectionActions,
