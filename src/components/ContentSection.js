@@ -8,7 +8,7 @@ export default class ContentSection extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             <section className="section">
-              <div className="container container--md">
+              <div className="container container--lg">
                 {_.get(section, 'title', null) && (
                 <h2 className="section__title align-center">{_.get(section, 'title', null)}</h2>
                 )}
