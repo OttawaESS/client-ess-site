@@ -38,6 +38,10 @@
   position: relative;
 }
 
+.section__media {
+  text-align: center;
+}
+
 .section__actions {
   a {
     &:not(.btn) {
