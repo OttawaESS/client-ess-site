@@ -36,6 +36,13 @@ textarea {
   }
 }
 
+input[type="email"]:focus:invalid {
+  border : 1px solid red;
+}
+input[type="email"]:valid {
+  border : 1px solid #4BB543;
+}
+
 .form-group {
   margin-bottom: 1.125rem;
 }
