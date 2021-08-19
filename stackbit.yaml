@@ -409,7 +409,7 @@ models:
       - type: string
         name: id
         label: ID
-        description: 'A unique identifier'
+        description: "A unique identifier"
         required: true
       - type: string
         name: title
@@ -430,6 +430,63 @@ models:
       - type: string
         name: button_label
         label: Button Label
+  file:
+    type: data
+    label: File
+    description: File data
+    fields:
+      - type: string
+        name: label
+        label: Label
+        description: Document Label
+        required: true
+      - type: string
+        name: path
+        label: Path
+        description: Document Path
+        required: true
+      - type: date
+        name: date
+        label: Date
+        description: Exact document was created / last updated
+        required: true
+  files:
+    type: model
+    name: files
+    label: Files
+    description: Files
+    fields:
+      - type: string
+        name: type
+        label: Document Type
+        description: Document Type
+      - type: list
+        name: files
+        label: Pdfs
+        description: List of pdf metadata objects
+        items:
+          - type: model
+            models:
+              - file
+  documents:
+    type: data
+    label: Documents
+    folder: documents
+    labelField: id
+    fields:
+      - type: string
+        name: year
+        label: Year
+        description: 'School year document was created/updated (ex: general, 2019-2020, 2020-2021)'
+        required: true
+      - type: list
+        name: types
+        label: Types
+        description: 'List of types document in a current school-year (ex: general, budgets, elections)'
+        items:
+          - type: model
+            models:
+              - files
   category:
     type: data
     label: Category
@@ -466,7 +523,7 @@ models:
           - stackbit_page_meta
   post:
     type: page
-    urlPath: '/blog/{slug}'
+    urlPath: "/blog/{slug}"
     label: Post
     layout: post
     folder: blog
@@ -543,10 +600,12 @@ models:
             - contact_section
             - content_section
             - cta_section
+            - documents_section
             - features_section
             - hero_section
             - team_section
             - banner_section
+            - line_divider
             - page_map_section
             - grid_section
       - type: model
@@ -650,6 +709,50 @@ models:
           - blue
         default: white
         description: The background color of the section
+  documents_section:
+    type: object
+    label: Documents Section
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section
+      - type: list
+        name: actions
+        label: Action Buttons
+        items:
+          type: model
+          models:
+            - action
+      - type: enum
+        name: align
+        label: Align
+        options:
+          - left
+          - right
+          - center
+        default: left
+        description: The alignment of the text content
+      - type: image
+        name: image
+        label: Image
+        description: The image of the section
+      - type: enum
+        name: image_position
+        label: Image Position
+        options:
+          - left
+          - right
+        default: left
+        description: The position of the image
+      - type: list
+        name: documents
+        label: Documents
+        items:
+          type: model
+          models:
+            - documents
   features_section:
     type: object
     label: Features Section
@@ -755,6 +858,22 @@ models:
               - no-repeat
             default: no-repeat
             description: Repeat the image to cover the whole area.
+  secondary_hero_section:
+    type: object
+    label: Secondary Hero Section
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section
+      - type: string
+        name: image
+        label: Image
+        description: The path of the image
+  line_divider:
+    type: object
+    label: Entity Separator
   page_map_section:
     type: object
     label: Page Map Section
@@ -838,7 +957,7 @@ models:
         name: url
         label: URL
         required: true
-        default: '#'
+        default: "#"
       - type: enum
         name: style
         label: Style
@@ -865,12 +984,12 @@ models:
         name: title
         label: Title
         description: The page title that goes into the <title> tag
-        default: ''
+        default: ""
       - type: string
         name: description
         label: Description
         description: The page description that goes into the <meta name="description"> tag
-        default: ''
+        default: ""
       - type: list
         name: robots
         label: Robots
@@ -898,12 +1017,39 @@ models:
           fields:
             - type: string
               name: name
-              default: ''
+              default: ""
             - type: string
               name: value
-              default: ''
+              default: ""
             - type: string
               name: keyName
               default: name
             - type: boolean
               name: relativeUrl
+  instructions_section:
+    type: object
+    label: Instructions
+    labelField: title
+    fields:
+      - type: string
+        name: important_note
+        label: Important Note
+        required: false
+      - type: list
+        name: instructions
+        label: Instructions
+        instructions:
+          type: model
+          models:
+            - instruction
+  instruction:
+    type: object
+    label: instruction
+    labelField: instruction
+    fields:
+      - type: string
+        name: title
+        required: true
+      - type: string
+        name: description
+        required: true
