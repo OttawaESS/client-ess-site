@@ -1,0 +1,52 @@
+.container {
+  padding-left: 1.125rem;
+  padding-right: 1.125em;
+  background: #ebe2ff;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+
+.headerStyles {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1140px;
+  overflow: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  height: 74px;
+  background: #ebe2ff;
+}
+
+.listItem {
+  height: 74px;
+  display: flex;
+  max-width: 250px;
+  justify-content: center;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  white-space: initial;
+  a {
+    text-align: center;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+  }
+}
+
+.inactive {
+  background: #ebe2ff;
+  a {
+    color: #7c7c7c;
+  }
+}
+
+.active {
+  background: #8349ff;
+  a {
+    color: #fff;
+  }
+}
