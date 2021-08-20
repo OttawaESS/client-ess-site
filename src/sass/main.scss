@@ -7,6 +7,15 @@
 @import "base/base";
 @import "base/helpers";
 
+// Utilities
+@import "utilities/grid";
+@import "utilities/flex";
+@import "utilities/spacing";
+@import "utilities/sizing";
+@import "utilities/typography";
+@import "utilities/accessibility";
+@import "utilities/clearing";
+
 // Components
 @import "components/forms";
 @import "components/buttons";
