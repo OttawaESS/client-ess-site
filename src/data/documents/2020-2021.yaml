@@ -1,0 +1,44 @@
+year: 2020-2021
+types:
+  - type: Meetings
+    files:
+      - label: Meeting Minutes - September
+        path: documents/2020-2021/meeting-minutes/2020-09-27-Meeting-Minutes.pdf
+        date: '2020-09-27'
+      - label: Meeting Minutes - Emergency Meeting
+        path: documents/2020-2021/meeting-minutes/2020-10-04-EMERGENCY-MEETING.pdf
+        date: '2020-10-04'
+      - label: Meeting Minutes - October
+        path: documents/2020-2021/meeting-minutes/Meeting-Minutes-2020-10-25.pdf
+        date: '2020-10-25'
+      - label: Meeting Minutes - November
+        path: documents/2020-2021/meeting-minutes/2020-11-29-MeetingMinutes.pdf
+        date: '2020-11-29'
+      - label: Meeting Minutes - January
+        path: documents/2020-2021/meeting-minutes/Meeting-Minutes_-2021-01-31.pdf
+        date: '2021-01-31'
+      - label: Meeting Minutes - March
+        path: static/documents/2020-2021/meeting-minutes/2021-03-21.pdf
+        date: '2021-03-21'
+      - label: Winter AGM Meeting Minutes
+        path: documents/2020-2021/meeting-minutes/2021-03-28-AGM.pdf
+        date: '2021-03-28'
+  - type: Budgets
+    files:
+      - label: BOD Compressed Budget
+        path: documents/2020-2021/budget/BOD-Compressed-Budget-2020-2021-Sheet1.pdf
+        date: '2021-04-30'
+      - label: BOD Detailed Budget
+        path: documents/2020-2021/budget/BOD-Detailed-Budget-2020-2021-Sheet1-1.pdf
+        date: '2021-04-30'
+      - label: BOD Detailed Budget
+        path: documents/2020-2021/budget/BOD-Detailed-Budget-2020-2021-Sheet1.pdf
+        date: '2021-04-30'
+      - label: BOD Detailed Budget
+        path: documents/2020-2021/budget/BOD-Detailed-Budget-2020-2021-Updated-V2.pdf
+        date: '2021-04-30'
+  - type: Elections
+    files:
+     - label: 2021-2022 Elections Platforms
+       path: documents/2020-2021/elections/ESS-Elections-Platforms-2021-2022.pdf
+       date: '2021-03-30'

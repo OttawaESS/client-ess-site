@@ -1,0 +1,29 @@
+year: 2019-2020
+types:
+  - type: Meetings
+    files:
+      - label: Meeting of the Board - September
+        path: documents/2019-2020/meeting-minutes/September-BoD-Council-Agenda-and-Minutes.pdf
+        date: '2019-09-29'
+      - label: Meeting of the Board - October
+        path: documents/2019-2020/meeting-minutes/October-BoD-Council-Agenda-and-Minutes.pdf
+        date: '2019-11-03'
+      - label: Meeting of the Board - November
+        path: documents/2019-2020/meeting-minutes/November-BoD-Council-Agenda-and-Minutes.pdf
+        date: '2019-11-24'
+      - label: Meeting of the Board - January
+        path: documents/2019-2020/meeting-minutes/January-BoD-Council-Agenda-and-Minutes.pdf
+        date: '2019-11-24'
+  - type: Budgets
+    files:
+      - label: End of the Year Budget
+        path: documents/2019-2020/budget/End-of-Year-Budget.pdf
+        date: '2020-04-30'
+      - label: ESS Budget
+        path: documents/2019-2020/budget/ESS-Budget-2019-2020-English.pdf
+        date: '2020-04-30'
+  - type: Elections
+    files:
+     - label: 2020 Elections Platforms
+       path: documents/2019-2020/elections/ESS-Elections-2020-Platforms.pdf
+       date: '2020-03-30'
