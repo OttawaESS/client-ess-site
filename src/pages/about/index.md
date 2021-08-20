@@ -1,9 +1,9 @@
 ---
-title: Resources
+title: About
 sections:
    - type: secondary_hero_section
      title: About
-     image: images/hero-background.png
+     image: images/site-building-pic.jpeg
    - type: grid_section
      title: Lorem ipsum dolor sit amet
      grid_items:
