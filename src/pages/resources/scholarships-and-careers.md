@@ -17,6 +17,7 @@ sections:
   - type: content_section
     content: >-
       # Scholarships and Careers
+      
       The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
   - type: features_section
     title: Scholarships
