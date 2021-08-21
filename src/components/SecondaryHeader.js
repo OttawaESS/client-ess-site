@@ -5,7 +5,8 @@ import _ from "lodash";
 
 const SecondaryHeader = (props) => {
   const { nav_items, baseUrl } = _.get(props, "section", null);
-  const pathname = window ? window.location.pathname : "";
+  const pathname =
+    typeof window !== "undefined" ? window.location.pathname : "";
 
   return (
     <div className={styles.container}>
