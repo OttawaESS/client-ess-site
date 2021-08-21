@@ -46,3 +46,48 @@
     }
   }
 }
+
+// Grid
+@mixin make-grid($size: $grid-gap) {
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: -$size / 2;
+	margin-right: -$size / 2;
+}
+
+@mixin make-grid-gap($size) {
+	margin-left: -$size / 2;
+	margin-right: -$size / 2;
+
+	> .cell,
+	> [class*="cell-"] {
+		padding-left: $size / 2;
+		padding-right: $size / 2;
+	}
+}
+
+@mixin make-cell-default($size: $grid-gap) {
+	box-sizing: border-box;
+	padding-left: $size / 2;
+	padding-right: $size / 2;
+	position: relative;
+	width: 100%;
+}
+
+@mixin make-cell-auto() {
+	flex: 0 0 auto;
+	width: auto;
+	max-width: 100%;
+}
+
+@mixin make-cell() {
+	flex-basis: 0;
+	flex-grow: 1;
+	min-width: 0;
+	max-width: 100%;
+}
+
+@mixin make-cell-size($size, $cells: $grid-cells) {
+	flex: 0 0 round(percentage($size / $cells) * 100000)/100000;
+	max-width: round(percentage($size / $cells) * 100000)/100000;
+}
