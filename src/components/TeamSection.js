@@ -14,7 +14,7 @@ export default class TeamSection extends React.Component {
               </div>
               )}
               <div className="container container--lg">
-                <div className="flex flex--col-3">
+                <div className="flex flex--col-2">
                   {_.map(_.get(section, 'team', null), (person, person_idx) => {
                       let person_data = getData(this.props.pageContext.site.data, person);
                       return (
