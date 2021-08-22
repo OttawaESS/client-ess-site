@@ -5,7 +5,6 @@ sections:
     title: Committees
     grid_items:
       - subtitle: |-
-          
           Charity Committee
 
       - content: |-
