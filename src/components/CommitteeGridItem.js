@@ -3,8 +3,8 @@ import _ from 'lodash';
 
 import { classNames, withPrefix, markdownify } from '../utils';
 import SectionActions from './SectionActions';
-import styles from '../sass/components/grid-section.module.scss';
-import styles2 from '../sass/components/committees-section.module.scss';
+//import styles from '../sass/components/grid-section.module.scss';
+import styles from '../sass/components/committees-section.module.scss';
 
 export default class GridItem extends React.Component {
     render() {
@@ -136,18 +136,20 @@ export default class GridItem extends React.Component {
                                             : <h2 className={titleClasses}>{title}</h2>
                                     )}
                                     {subtitle && (
-                                          <h2
-                                          className={classNames('item__copy', styles.primary, {
+                                          <h3
+                                          className={classNames('item__copy', styles.primary, styles.playfair, styles.normal, {
                                               'text-center': contentAlignX === 'center',
                                               'text-right': contentAlignX === 'right'
                                           })}
                                       >
                                           {markdownify(subtitle) }
-                                      </h2>
+                                      </h3>
+
+                                      
                                     )}
                                     {content  && (
                                         <div
-                                            className={classNames('item__copy', styles.primary,{
+                                            className={classNames('item__copy', styles.primary,styles.underline,{
                                                 'text-center': contentAlignX === 'center',
                                                 'text-right': contentAlignX === 'right'
                                             })}

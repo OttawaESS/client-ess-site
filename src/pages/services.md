@@ -1,29 +1,44 @@
 ---
 title: Home
 sections:
-  - type: grid_section
-    title: Lorem ipsum dolor sit amet
+  - type: committee_section_grid
+    title: Committees
     grid_items:
+      - subtitle: |-
+          
+          Charity Committee
+
       - content: |-
-          ### [Important Documents](google.com)
+          ### [Charity Committee](google.com)
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+      - subtitle: |-
+          Constiution Committee
       - content: |-
-          ### [Accessibility](google.com)
+          ### [Constiution Committee](google.com)
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - subtitle: |-
+          Design Committee
       - content: |-
-          ### [Incident reports](google.com)
+          ### [Design Committee](google.com)
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - subtitle: |-
+          Incident Response Committee
       - content: |-
-          ### [Charity work](google.com)
+          ### [Incident Response Committee](google.com)
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - subtitle: |-
+          Transparent Committee
       - content: |-
-          ### [Scholarships and careers](google.com)
+          ### [Transparent Committee](google.com)
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.         
+          
+          
 
     grid_cols: two
     grid_gap_horiz: large

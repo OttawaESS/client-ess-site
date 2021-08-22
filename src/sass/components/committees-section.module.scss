@@ -1,0 +1,27 @@
+@import "../abstracts/variables.scss";
+
+.meta {
+    color:black;
+    font-size: 30px;
+    
+}
+
+.primary h3 {
+    color:black;
+    font-size: 18px;
+    
+}
+
+.normal {
+    font-weight: normal;
+    word-spacing: 9999px; 
+  }
+
+.playfair {
+    font-family:"Playfair Display";
+}
+
+.underline h3 {
+    text-decoration: underline;
+  }
+
