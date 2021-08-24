@@ -278,7 +278,7 @@ models:
         description: The subtitle of the item displayed below the title
       - type: enum
         name: title_align
-        label: 'Title, subtitle alignment'
+        label: "Title, subtitle alignment"
         options:
           - left
           - right
@@ -1077,4 +1077,18 @@ models:
         required: true
       - type: string
         name: description
+        required: true
+  upcoming_events:
+    type: object
+    label: upcoming_events
+    labelField: instruction
+    fields:
+      - type: string
+        name: calendar_link
+        required: true
+      - type: string
+        name: agenda_link
+        required: true
+      - type: string
+        name: title
         required: true
