@@ -608,6 +608,7 @@ models:
             - line_divider
             - page_map_section
             - grid_section
+            - recurring_events_section
       - type: model
         name: seo
         models:
@@ -1077,4 +1078,33 @@ models:
         required: true
       - type: string
         name: description
+        required: true
+  recurring_events_section:
+    type: object
+    label: Recurring Events Section
+    labelField: Recurring Events Section
+    fields:
+      - type: string
+        name: title
+        label: Section title
+      - type: list
+        name: events
+        label: List of recurring events
+        events:
+          type: model
+          models:
+            - event
+  event:
+    type: object
+    label: event
+    labelField: event
+    fields:
+      - type: string
+        name: title
+        required: true
+      - type: string
+        name: description
+        required: true
+      - type: string
+        name: frequency
         required: true

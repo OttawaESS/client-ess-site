@@ -17,6 +17,7 @@ import Header from './Header';
 import HeroSection from './HeroSection';
 import InstructionsSection from "./InstructionsSection";
 import LineDivider from './LineDivider';
+import RecurringEventsSection from './RecurringEventsSection';
 import SecondaryHeader from './SecondaryHeader';
 import SecondaryHeroSection from './SecondaryHeroSection';
 import SectionActions from './SectionActions';
@@ -45,6 +46,7 @@ export {
     HeroSection,
     InstructionsSection,
     LineDivider,
+    RecurringEventsSection,
     SecondaryHeader,
     SecondaryHeroSection,
     SectionActions,
@@ -73,6 +75,7 @@ export default {
     HeroSection,
     InstructionsSection,
     LineDivider,
+    RecurringEventsSection,
     PageMapSection,
     SecondaryHeader,
     SecondaryHeroSection,
