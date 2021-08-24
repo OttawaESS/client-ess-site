@@ -513,6 +513,22 @@ models:
           type: model
           models:
             - feature
+  positions_slider:
+    type: object
+    label: Positions Slider
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the slider
+      - type: list
+        name: positions
+        label: Positions
+        items:
+          type: model
+          models:
+            - position
   hero_section:
     type: object
     label: Hero Section
@@ -720,6 +736,27 @@ models:
         label: No follow
         default: false
         description: Add rel="nofollow" attribute to the link
+  position:
+    type: object
+    label: Position
+    labelField: title
+    fields:
+      - type: string
+        name: title_1
+        label: Title 1
+        description: The title of the position 1
+      - type: markdown
+        name: content_1
+        label: Content 1
+        description: The text description of the position 1
+      - type: string
+        name: title_2
+        label: Title 2
+        description: The title of the position 2
+      - type: markdown
+        name: content_2
+        label: Content 2
+        description: The text description of the position 2
   stackbit_page_meta:
     type: object
     label: Page meta data
