@@ -1,0 +1,84 @@
+$text-color: #000;
+$instruction-number-size: 38px;
+$circular-border-radius: 50%;
+
+.container {
+  padding: 0.5rem 1rem;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 1.25em;
+  margin: 0px;
+  color: $text-color;
+}
+
+.description {
+  font-size: 16px;
+  margin-top: 22px;
+  color: $text-color;
+}
+
+.importantNote {
+  font-size: 18px;
+  margin-top: 11px;
+  color: $text-color;
+  @media screen and (min-width: 992px) and (max-width: 1112px) {
+    font-size: 16px;
+  }
+  @media screen and (max-width: 530px) {
+    font-size: 16px;
+  }
+  @media screen and (max-width: 465px) {
+    font-size: 12px;
+  }
+  @media screen and (max-width: 350px) {
+    font-size: 9px;
+  }
+}
+
+.importantNoteContainer {
+  max-width: 473px;
+  height: 438px;
+  word-wrap: break-word;
+  border-radius: $circular-border-radius;
+  background: #ebe2ff;
+  box-shadow: 30px 40px 1px #eeeeee;
+  padding: 48px 74px 70px 101px;
+  @media screen and (min-width: 992px) and (max-width: 1112px) {
+    max-width: 426px;
+    height: 395px;
+    padding: 40px 54px 50px 101px;
+  }
+  @media screen and (max-width: 530px) {
+    max-width: 400px;
+    height: 370px;
+    padding: 30px 44px 50px 91px;
+  }
+  @media screen and (max-width: 465px) {
+    max-width: 310px;
+    height: 290px;
+    padding: 24px 44px 50px 80px;
+  }
+  @media screen and (max-width: 350px) {
+    max-width: 250px;
+    height: 230px;
+    padding: 18px 44px 50px 60px;
+  }
+}
+
+.instructionNumberContainer {
+  width: $instruction-number-size;
+  height: $instruction-number-size;
+  background: #5201ff;
+  color: #fff;
+  border-radius: $circular-border-radius;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 17px;
+}

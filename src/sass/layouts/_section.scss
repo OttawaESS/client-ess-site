@@ -38,6 +38,10 @@
   position: relative;
 }
 
+.section__media {
+  text-align: center;
+}
+
 .section__actions {
   a {
     &:not(.btn) {
@@ -78,6 +82,15 @@
     margin-bottom: 1.5rem;
     max-width: $width-sm;
   }
+}
+
+// Grid section
+.item__subtitle {
+	font-size: 0.88889em;
+}
+
+.item__actions {
+	margin-top: 1.66667em;
 }
 
 .section--team {

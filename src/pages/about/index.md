@@ -1,4 +1,41 @@
 ---
+title: About
+sections:
+   - type: secondary_hero_section
+     title: About
+     image: images/site-building-pic.jpeg
+   - type: grid_section
+     title: Lorem ipsum dolor sit amet
+     grid_items:
+       - content: |-
+           ### [Who We Are?](/about/who-are-we)
+ 
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+       - content: |-
+           ### [Our Team](/about/team)
+ 
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+       - content: |-
+           ### [Join Our Team](/about/join-our-team)
+ 
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+       - content: |-
+           ### [Affiliated Groups](/about/affiliated-groups)
+ 
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+       - content: |-
+           ### [Contact Us](/about/contact-us)
+ 
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+     grid_cols: two
+     grid_gap_horiz: large
+     grid_gap_vert: small
+     enable_cards: false
+     align: center
+     background_color: none
+template: advanced
+---
+<!-- ---
 title: Who We Are
 sections:
   - type: hero_section
@@ -36,7 +73,7 @@ sections:
     has_background: true
     background_color: blue
 seo:
-  title: Who We Are
+  title: About
   description: This is the about us page
   extra:
     - name: 'og:type'
@@ -62,4 +99,4 @@ seo:
       value: images/1.png
       relativeUrl: true
 template: advanced
----
+--- -->
