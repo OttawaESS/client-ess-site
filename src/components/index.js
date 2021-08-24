@@ -23,7 +23,7 @@ import SectionActions from './SectionActions';
 import PageMapSection from './PageMapSection';
 import TeamSection from './TeamSection';
 import Layout from './Layout';
-
+import LocationSection from './LocationSection'
 
 export {
     Action,
@@ -50,7 +50,8 @@ export {
     SectionActions,
     PageMapSection,
     TeamSection,
-    Layout
+    Layout,
+    LocationSection
 };
 
 export default {
@@ -78,5 +79,6 @@ export default {
     SecondaryHeroSection,
     SectionActions,
     TeamSection,
-    Layout
+    Layout,
+    LocationSection
 };

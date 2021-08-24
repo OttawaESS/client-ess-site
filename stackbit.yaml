@@ -871,6 +871,10 @@ models:
         name: image
         label: Image
         description: The path of the image
+  location_section:
+    type: object
+    label: Location Section
+    labelField: title
   line_divider:
     type: object
     label: Entity Separator
