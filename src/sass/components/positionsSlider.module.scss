@@ -1,20 +1,26 @@
 .container {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.carousel_container {
+    display: flex;
+    margin-top: 15px;
 }
 
 .left_arrow {
     background: #E5E5E5;
     font-size: 16px;
     width: 50px;
-    height: 270px;
+    height: 200px;
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
     text-align: right;
 
     svg {
-        margin-top: 130px;
+        margin-top: 95px;
     }
 }
 
@@ -22,144 +28,99 @@
     background: #E5E5E5;
     font-size: 16px;
     width: 50px;
-    height: 270px;
+    height: 200px;
     border-bottom-right-radius: 15px;
     border-top-right-radius: 15px;
     text-align: left;
 
     svg {
-        margin-top: 130px;
+        margin-top: 95px;
     }
 }
 
 .carousel {
-    height: 270px;
+    height: 200px;
     background: #E5E5E5;
-    text-align: center;
-    width: 1000px;
+    text-align: left;
+    width: 750px;
 }
 
 .carousel_title {
     font-size: 22px;
-    font-style: italic;
-    margin-top: 20px;
 }
 
 .position_section {
     display: flex;
-}
-
-.position_left {
+    flex-direction: column;
     margin: auto;
-    margin-top: 45px;
-    margin-right: 35px;
-    width: 423px;
-    text-align: left;
+    vertical-align: bottom;
+    margin-top: 40px;
+    width: 580px;
 }
 
-.position_right {
-    margin: auto;
-    margin-top: 45px;
-    margin-left: 35px;
-    width: 423px;
-    text-align: left;
-}
-
-.position_left_title {
+.position_title {
     font-size: 18px;
     font-weight: 500;
     color: #5201FF;
+    text-align: center;
 }
 
-.position_left_info {
+.position_info {
     font-size: 16px;
     color: #6B7280;
+    margin-top: 10px;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
-.position_right_title {
-    font-size: 18px;
-    font-weight: 500;
-    color: #5201FF;
-}
-
-.position_right_info {
-    font-size: 16px;
-    color: #6B7280;
-}
-
-@media screen and (max-width: 1150px) {
+@media screen and (max-width: 880px) {
     .carousel {
-        width: 900px;
-    }
-
-    .left_arrow, .right_arrow {
-        width: 25px;
-    }
-
-    .position_left {
-        margin-right: 15px;
-    }
-
-    .position_right {
-        margin-left: 15px;
-    }
-}
-
-@media screen and (max-width: 970px) {
-    .carousel {
-        width: 470px;
-        height: 450px;
-    }
-
-    .left_arrow, .right_arrow {
-        width: 50px;
-        height: 450px;
-        text-align: center;
-
-        svg {
-            margin-top: 215px;
-        }
-    }
-
-    .position_section {
-        flex-direction: column;
-    }
-
-    .position_left {
-        margin: auto;
-        margin-top: 45px;
-    }
-    
-    .position_right {
-        margin: auto;
-        margin-top: 20px;
-    }
-}
-
-@media screen and (max-width: 600px) {
-    .carousel {
-        width: 320px;
-        height: 550px;
+        width: 635px;
     }
 
     .left_arrow, .right_arrow {
         width: 35px;
-        height: 550px;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .carousel, .position_section {
+        width: 470px;
+    }
+
+    .left_arrow, .right_arrow {
+        width: 50px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 590px) {
+    .carousel {
+        width: 320px;
+        height: 240px;
+    }
+
+    .left_arrow, .right_arrow {
+        width: 35px;
+        height: 240px;
 
         svg {
-            margin-top: 290px;
+            margin-top: 120px;
         }
     }
 
-    .left_arrow {
-        text-align: right;
+    .position_section {
+        width: 300px;
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .carousel {
+        width: 300px;
     }
 
-    .right_arrow {
-        text-align: left;
-    }
-
-    .position_left, .position_right {
-        width: 270px;
+    .left_arrow, .right_arrow {
+        width: 25px;
     }
 }
