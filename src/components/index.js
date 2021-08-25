@@ -17,13 +17,14 @@ import Header from './Header';
 import HeroSection from './HeroSection';
 import InstructionsSection from "./InstructionsSection";
 import LineDivider from './LineDivider';
+import LocationSection from './LocationSection';
+import PositionsSlider from './PositionsSlider';
 import SecondaryHeader from './SecondaryHeader';
 import SecondaryHeroSection from './SecondaryHeroSection';
 import SectionActions from './SectionActions';
 import PageMapSection from './PageMapSection';
 import TeamSection from './TeamSection';
 import Layout from './Layout';
-import LocationSection from './LocationSection'
 
 export {
     Action,
@@ -45,13 +46,14 @@ export {
     HeroSection,
     InstructionsSection,
     LineDivider,
+    LocationSection,
+    PositionsSlider,
     SecondaryHeader,
     SecondaryHeroSection,
     SectionActions,
     PageMapSection,
     TeamSection,
-    Layout,
-    LocationSection
+    Layout
 };
 
 export default {
@@ -74,11 +76,12 @@ export default {
     HeroSection,
     InstructionsSection,
     LineDivider,
+    LocationSection,
     PageMapSection,
+    PositionsSlider,
     SecondaryHeader,
     SecondaryHeroSection,
     SectionActions,
     TeamSection,
     Layout,
-    LocationSection
 };
