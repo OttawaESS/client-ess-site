@@ -887,6 +887,22 @@ models:
         name: image
         label: Image
         description: The path of the image
+  location_section:
+    type: object
+    label: Location Section
+    labelField: title
+      - type: string
+        name: location
+        label: Location
+        description: The location of the student society
+      - type: string
+        name: telephone
+        label: Telephone
+        description: The contact number
+      - type: string
+        name: email
+        label: Email
+        description: The email id
   line_divider:
     type: object
     label: Entity Separator
