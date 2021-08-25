@@ -15,13 +15,14 @@ import Footer from './Footer';
 import GridSection from './GridSection';
 import Header from './Header';
 import HeroSection from './HeroSection';
-import InstructionsSection from "./InstructionsSection";
+import InstructionsSection from './InstructionsSection';
 import LineDivider from './LineDivider';
 import LocationSection from './LocationSection';
 import PositionsSlider from './PositionsSlider';
 import SecondaryHeader from './SecondaryHeader';
 import SecondaryHeroSection from './SecondaryHeroSection';
 import SectionActions from './SectionActions';
+import UpcomingEvents from './UpcomingEvents';
 import PageMapSection from './PageMapSection';
 import TeamSection from './TeamSection';
 import Layout from './Layout';
@@ -53,6 +54,7 @@ export {
     SectionActions,
     PageMapSection,
     TeamSection,
+    UpcomingEvents,
     Layout
 };
 
@@ -83,5 +85,6 @@ export default {
     SecondaryHeroSection,
     SectionActions,
     TeamSection,
-    Layout,
+    UpcomingEvents,
+    Layout
 };
