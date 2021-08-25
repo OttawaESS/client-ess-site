@@ -1,18 +1,17 @@
+@import "../abstracts/variables";
+
+p, span {
+    font-size: 1rem;
+}
+
 .container {
+    max-width: $width-lg;
     display: flex;
     justify-content: space-between;
 }
 
 .info_section {
-    margin: auto;
-    margin-top: 0;
-    padding-left: 50px;
     color: black;
-}
-
-.title {
-    font-size: 24px;
-    font-weight: 700;
 }
 
 .location, .telephone, .email {
@@ -25,18 +24,13 @@
 
 .info_title {
     font-weight: 700;
-    font-size: 20px;
-    color: #5201FF;
+    color: $primary-color;
 }
 
-.info {
-    font-size: 20px;
-    font-weight: 400;
-}
 
 .map_section {
-    margin: auto;
-    padding-right: 30px;
+    margin-left: auto;
+    margin-right: 0;
 }
 
 .map {
@@ -45,28 +39,29 @@
     border: 0;
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 768px) {
     .container {
         flex-direction: column;
     }
 
     .info_section {
         padding: 0px;
-        padding-left: 20px;
     }
 
     .map_section {
-        margin-top: 50px;
+        margin: 16px 0 0 0;
         padding: 0px;
     }
 
     .map, .info_section {
-        width: 500px;
+        width: 98vw;
+        max-width: 98vw;
     }
 }
 
 @media screen and (max-width: 520px) {
     .map, .info_section {
-        width: 380px;
+        width: 98vw;
+        max-width: 98vw;
     }
 }
