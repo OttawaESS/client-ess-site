@@ -5,6 +5,7 @@ import BlogFeedSection from './BlogFeedSection';
 import BlogPostCategories from './BlogPostCategories';
 import BlogPostFeedItem from './BlogPostFeedItem';
 import BlogPostTags from './BlogPostTags';
+import ConferencesSection from './ConferencesSection';
 import ContactSection from './ContactSection';
 import ContentSection from './ContentSection';
 import CtaSection from './CtaSection';
@@ -34,6 +35,7 @@ export {
     BlogPostCategories,
     BlogPostFeedItem,
     BlogPostTags,
+    ConferencesSection,
     ContactSection,
     ContentSection,
     CtaSection,
@@ -63,6 +65,7 @@ export default {
     BlogPostCategories,
     BlogPostFeedItem,
     BlogPostTags,
+    ConferencesSection,
     ContactSection,
     ContentSection,
     CtaSection,

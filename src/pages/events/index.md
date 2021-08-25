@@ -25,6 +25,5 @@ sections:
      enable_cards: false
      align: center
      background_color: none
-#    - type:
 template: advanced
 ---
