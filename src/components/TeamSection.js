@@ -31,7 +31,8 @@ export default class TeamSection extends React.Component {
                                     style={{ width: 300,
                                       justifyContent: 'center',
                                       alignItems: 'center',
-                                      align: 'center'
+                                      align: 'center',
+                                      padding:20
                                     }}
                                     cover={
                                       <img
@@ -41,6 +42,7 @@ export default class TeamSection extends React.Component {
                                           width: 200,
                                           height: 200,
                                           borderRadius:200/2,
+                                          marginLeft:25,
                                           justifyContent: 'center',
                                           alignItems: 'center',
                                           align: 'center'}}
