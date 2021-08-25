@@ -769,6 +769,22 @@ models:
           type: model
           models:
             - feature
+  positions_slider:
+    type: object
+    label: Positions Slider
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the slider
+      - type: list
+        name: positions
+        label: Positions
+        items:
+          type: model
+          models:
+            - position
   hero_section:
     type: object
     label: Hero Section
@@ -976,6 +992,19 @@ models:
         label: No follow
         default: false
         description: Add rel="nofollow" attribute to the link
+  position:
+    type: object
+    label: Position
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the position
+      - type: markdown
+        name: content
+        label: Content
+        description: The text description of the position
   stackbit_page_meta:
     type: object
     label: Page meta data
