@@ -21,7 +21,7 @@ export default class PositionsSlider extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         return (
-            <div className="section" style={{ paddingTop: 0 }}>
+            <div className="section">
                 <div className={styles.container}>
                     <div>
                         {_.get(section, 'title', null) && (
