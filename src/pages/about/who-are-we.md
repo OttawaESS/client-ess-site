@@ -13,6 +13,7 @@ sections:
         image: images/ess-who-we-are.png
         image_alt: Feature 1 placeholder image
         image_position: left
+
       - title: Our Missions and Our Values
         content: >-
           All Engineering students are members, and have powers and privileges throughout their academic career at the University of Ottawa. Not only do you get to attend some of the greatest events on campus, but also you get to show all the other faculties that Engineers Rule The World with your super smarts and ability to drink anyone under the table!
@@ -36,16 +37,16 @@ sections:
   - type: hero_section
     title:  
     align: center
-  - type: features_section
-    features:
-      - title: Find out what events are coming up!
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        align: center
-        actions:
-          - label: Events
-            url: /about
-            style: primary    
-
+  - type: cta_section
+    title: Find out what events are coming up!
+    subtitle: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
+      quis lorem malesuada luctus.
+    actions:
+      - label: Events
+        url: /features
+        style: primary
+    has_background: true
+    background_color: gray
 template: advanced
 ---
