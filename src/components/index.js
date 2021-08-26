@@ -17,6 +17,7 @@ import Header from './Header';
 import HeroSection from './HeroSection';
 import InstructionsSection from './InstructionsSection';
 import LineDivider from './LineDivider';
+import RecurringEventsSection from './RecurringEventsSection';
 import LocationSection from './LocationSection';
 import PositionsSlider from './PositionsSlider';
 import SecondaryHeader from './SecondaryHeader';
@@ -47,6 +48,7 @@ export {
     HeroSection,
     InstructionsSection,
     LineDivider,
+    RecurringEventsSection,
     LocationSection,
     PositionsSlider,
     SecondaryHeader,
@@ -78,6 +80,7 @@ export default {
     HeroSection,
     InstructionsSection,
     LineDivider,
+    RecurringEventsSection,
     LocationSection,
     PageMapSection,
     PositionsSlider,

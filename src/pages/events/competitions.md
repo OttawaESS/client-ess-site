@@ -1,0 +1,4 @@
+---
+title: Competitions
+template: advanced
+---
