@@ -601,6 +601,7 @@ models:
             - content_section
             - cta_section
             - documents_section
+            - faq_section
             - features_section
             - hero_section
             - team_section
@@ -1206,6 +1207,9 @@ models:
         name: author_picture
         description: Testimonial Author Picture
         required: true
+  faq_section:
+    type: object
+    label: FAQ Section
   upcoming_events:
     type: object
     label: upcoming_events
