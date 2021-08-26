@@ -22,13 +22,8 @@ import SectionActions from './SectionActions';
 import PageMapSection from './PageMapSection';
 import TeamSection from './TeamSection';
 import Layout from './Layout';
-<<<<<<< Updated upstream
-
-=======
-import GridSection from './GridSection';
 import CommitteeSectionGrid from './CommitteeSectionGrid';
 import CommitteeGridItem from './CommitteeGridItem';
->>>>>>> Stashed changes
 
 export {
     Action,
@@ -54,12 +49,8 @@ export {
     SectionActions,
     PageMapSection,
     TeamSection,
-<<<<<<< Updated upstream
-=======
-    GridSection,
     CommitteeSectionGrid,
     CommitteeGridItem,
->>>>>>> Stashed changes
     Layout
 };
 
@@ -87,11 +78,7 @@ export default {
     SecondaryHeroSection,
     SectionActions,
     TeamSection,
-<<<<<<< Updated upstream
-=======
-    GridSection,
     CommitteeSectionGrid,
     CommitteeGridItem,
->>>>>>> Stashed changes
     Layout
 };
