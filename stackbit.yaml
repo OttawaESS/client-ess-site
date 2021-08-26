@@ -1153,6 +1153,59 @@ models:
       - type: string
         name: frequency
         required: true
+  conferences_section:
+    type: object
+    label: Conferences Section
+    labelField: conferences
+    fields:
+      - type: string
+        name: title
+        label: Section title
+      - type: list
+        name: conferences
+        label: List of conferences
+        events:
+          type: model
+          models:
+            - conference
+  conference:
+    type: object
+    label: conference
+    labelField: conference
+    fields:
+      - type: string
+        name: title
+        description: Conference name
+        required: true
+      - type: string
+        name: description
+        description: Conference description
+        required: true
+      - type: list
+        name: testimonials
+        description: List of testimonials
+        required: true
+        testimonials:
+          type: model
+          models:
+            - testimonial
+  testimonial:
+    type: object
+    label: testimonial
+    labelField: testimonial
+    fields:
+      - type: string
+        name: author
+        description: Testimonial Author
+        required: true
+      - type: markdown
+        name: message
+        description: Testimonial Message
+        required: true
+      - type: image
+        name: author_picture
+        description: Testimonial Author Picture
+        required: true
   upcoming_events:
     type: object
     label: upcoming_events
