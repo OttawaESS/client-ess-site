@@ -3,7 +3,6 @@ import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix} from '../utils';
 import SectionActions from './SectionActions';
-import Title from 'antd/lib/typography/Title';
 
 export default class HeroSection extends React.Component {
     render() {
