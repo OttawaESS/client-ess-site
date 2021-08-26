@@ -1,6 +1,10 @@
 ---
-title: Home
+title: Services
 sections:
+  - type: secondary_hero_section
+    title: Services
+    image: images/services-hero-bg-pic.jpeg
+    
   - type: grid_section
     title: Lorem ipsum dolor sit amet
     grid_items:
@@ -25,5 +29,6 @@ sections:
     enable_cards: false
     align: center
     background_color: none
+    
 template: advanced
 ---

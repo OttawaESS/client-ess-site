@@ -31,7 +31,7 @@ export default class DocumentsSection extends React.Component {
         let section = _.get(this.props, 'section', null);
 
         return (
-            <section className={classNames('section', 'hero')}>
+            <section className={classNames('section')}>
               <div className="container container--lg">
                 <Row gutter={[16, 16]}>
 

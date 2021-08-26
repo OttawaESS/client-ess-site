@@ -1,10 +1,10 @@
 ---
 title: Contact
 sections:
-  - type: hero_section
-    title: Contact
-    align: center
+  - type: page_title
+    title: Contact Us
   - type: contact_section
+    title: Contact
 seo:
   title: Contact
   description: This is the contact page

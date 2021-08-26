@@ -277,7 +277,7 @@ models:
         description: The subtitle of the item displayed below the title
       - type: enum
         name: title_align
-        label: 'Title, subtitle alignment'
+        label: "Title, subtitle alignment"
         options:
           - left
           - right
@@ -476,12 +476,12 @@ models:
       - type: string
         name: year
         label: Year
-        description: 'School year document was created/updated (ex: general, 2019-2020, 2020-2021)'
+        description: "School year document was created/updated (ex: general, 2019-2020, 2020-2021)"
         required: true
       - type: list
         name: types
         label: Types
-        description: 'List of types document in a current school-year (ex: general, budgets, elections)'
+        description: "List of types document in a current school-year (ex: general, budgets, elections)"
         items:
           - type: model
             models:
@@ -600,13 +600,16 @@ models:
             - content_section
             - cta_section
             - documents_section
+            - faq_section
             - features_section
             - hero_section
             - team_section
             - banner_section
             - line_divider
             - page_map_section
+            - page_title
             - grid_section
+            - recurring_events_section
       - type: model
         name: seo
         models:
@@ -768,6 +771,22 @@ models:
           type: model
           models:
             - feature
+  positions_slider:
+    type: object
+    label: Positions Slider
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the slider
+      - type: list
+        name: positions
+        label: Positions
+        items:
+          type: model
+          models:
+            - position
   hero_section:
     type: object
     label: Hero Section
@@ -870,6 +889,22 @@ models:
         name: image
         label: Image
         description: The path of the image
+  location_section:
+    type: object
+    label: Location Section
+    labelField: title
+      - type: string
+        name: location
+        label: Location
+        description: The location of the student society
+      - type: string
+        name: telephone
+        label: Telephone
+        description: The contact number
+      - type: string
+        name: email
+        label: Email
+        description: The email id
   line_divider:
     type: object
     label: Entity Separator
@@ -975,6 +1010,19 @@ models:
         label: No follow
         default: false
         description: Add rel="nofollow" attribute to the link
+  position:
+    type: object
+    label: Position
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the position
+      - type: markdown
+        name: content
+        label: Content
+        description: The text description of the position
   stackbit_page_meta:
     type: object
     label: Page meta data
@@ -1025,6 +1073,31 @@ models:
               default: name
             - type: boolean
               name: relativeUrl
+  secondary_header:
+    type: object
+    label: Secondary Header
+    labelField: title
+    fields:
+      - type: string
+        name: baseUrl
+        required: false
+      - type: list
+        name: Nav Items
+        label: Nav Items
+        nav_items:
+          type: model
+          models:
+            - secondary_header_nav_item
+  secondary_header_nav_item:
+    type: object
+    label: Secondary Header Nav Item
+    labelField: Secondary Header Nav Item
+    fields:
+      - type: string
+        name: label
+        required: true
+      - type: string
+        name: link
   instructions_section:
     type: object
     label: Instructions
@@ -1051,4 +1124,111 @@ models:
         required: true
       - type: string
         name: description
+        required: true
+  recurring_events_section:
+    type: object
+    label: Recurring Events Section
+    labelField: Recurring Events Section
+    fields:
+      - type: string
+        name: title
+        label: Section title
+      - type: list
+        name: events
+        label: List of recurring events
+        events:
+          type: model
+          models:
+            - event
+  event:
+    type: object
+    label: event
+    labelField: event
+    fields:
+      - type: string
+        name: title
+        required: true
+      - type: string
+        name: description
+        required: true
+      - type: string
+        name: frequency
+        required: true
+  conferences_section:
+    type: object
+    label: Conferences Section
+    labelField: conferences
+    fields:
+      - type: string
+        name: title
+        label: Section title
+      - type: list
+        name: conferences
+        label: List of conferences
+        events:
+          type: model
+          models:
+            - conference
+  conference:
+    type: object
+    label: conference
+    labelField: conference
+    fields:
+      - type: string
+        name: title
+        description: Conference name
+        required: true
+      - type: string
+        name: description
+        description: Conference description
+        required: true
+      - type: list
+        name: testimonials
+        description: List of testimonials
+        required: true
+        testimonials:
+          type: model
+          models:
+            - testimonial
+  testimonial:
+    type: object
+    label: testimonial
+    labelField: testimonial
+    fields:
+      - type: string
+        name: author
+        description: Testimonial Author
+        required: true
+      - type: markdown
+        name: message
+        description: Testimonial Message
+        required: true
+      - type: image
+        name: author_picture
+        description: Testimonial Author Picture
+        required: true
+  faq_section:
+    type: object
+    label: FAQ Section
+  page_title:
+    type: object
+    label: Page Title
+    fields:
+      - type: string
+        name: title
+        description: Page Title
+        required: true
+  upcoming_events:
+    type: object
+    label: upcoming_events
+    labelField: instruction
+    fields:
+      - type: string
+        name: calendar_link
+        required: true
+      - type: string
+        name: agenda_link
+        required: true
+      - type: string
+        name: title
         required: true
