@@ -24,6 +24,7 @@ import TeamSection from './TeamSection';
 import Layout from './Layout';
 import CommitteeSectionGrid from './CommitteeSectionGrid';
 import CommitteeGridItem from './CommitteeGridItem';
+import CommitteeSection from './CommitteeSection';
 
 export {
     Action,
@@ -51,7 +52,8 @@ export {
     TeamSection,
     CommitteeSectionGrid,
     CommitteeGridItem,
-    Layout
+    Layout,
+    CommitteeSection
 };
 
 export default {
@@ -80,5 +82,6 @@ export default {
     TeamSection,
     CommitteeSectionGrid,
     CommitteeGridItem,
-    Layout
+    Layout,
+    CommitteeSection
 };
