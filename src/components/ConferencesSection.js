@@ -19,8 +19,8 @@ export default class ConferencesSection extends React.Component {
                     return (
                       <div key={conference_idx} className="section">
                         <div className="container container--md">
-                        {_.get(section, 'title', null) && (
-                          <h3 className="section__title">{_.get(conference, 'title', null)}</h3>
+                        {_.get(conference, 'title', null) && (
+                          <h3 className="section__title align-center">{_.get(conference, 'title', null)}</h3>
                         )}
                         {_.get(conference, 'description', null) && (
                           <div className="section__copy">

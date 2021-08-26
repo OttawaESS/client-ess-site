@@ -24,6 +24,7 @@ import SecondaryHeader from './SecondaryHeader';
 import SecondaryHeroSection from './SecondaryHeroSection';
 import SectionActions from './SectionActions';
 import PageMapSection from './PageMapSection';
+import PageTitle from './PageTitle';
 import TeamSection from './TeamSection';
 import Layout from './Layout';
 
@@ -55,6 +56,7 @@ export {
     SecondaryHeroSection,
     SectionActions,
     PageMapSection,
+    PageTitle,
     TeamSection,
     Layout
 };
@@ -83,6 +85,7 @@ export default {
     LineDivider,
     RecurringEventsSection,
     PageMapSection,
+    PageTitle,
     SecondaryHeader,
     SecondaryHeroSection,
     SectionActions,
