@@ -10,7 +10,7 @@ export default class PageTitle extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             // <section className="section">
-              <div style={{ marginTop: '2rem' }} className={classNames("container", {'container--md': _.get(section, 'container', null) === 'medium'}, {'container--lg': _.get(section, 'container', null) !== 'medium'})}>
+              <div style={{ marginTop: '2rem', marginBottom: '2rem' }} className={classNames("container", {'container--md': _.get(section, 'container', null) === 'medium'}, {'container--lg': _.get(section, 'container', null) !== 'medium'})}>
                 {_.get(section, 'title', null) && (
                 <Title className="section__title">{_.get(section, 'title', null)}</Title>
                 )}

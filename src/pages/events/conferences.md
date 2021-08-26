@@ -1,8 +1,9 @@
 ---
 title: Conferences
 sections:
-    - type: conferences_section
+    - type: page_title
       title: Conferences
+    - type: conferences_section
       conferences:
         - title: PEO-SC
           description: The Professional Engineering Ontario Student Conference (PEO-SC) is a student conference hosted annually by ESSCO with support by Professional Engineers Ontario. The goal of the conference is to help upper year students in engineering with the process and opportunities that might arrive through the profession of engineering. Topics include ways to grow your network and opportunities, licensing requirements and non traditional aspects of engineering such as environmental impact and non traditional engineering jobs.
@@ -36,6 +37,6 @@ sections:
 
                 I had the opportunity to attend the Conference of Diversity in Engineering, hosted by the University of Calgary. I was a bit hesitant due to the format of the conference (online), but it was great. It was a way for me to reflect and to see what I, as a future engineer, could do to make it better. It is a bit overwhelming at first when you realize you have a lot to learn but I had a great support! Chloe was always available to answer my questions (and I do ask a lot of them). <br>
 
-                I think that as an engineer you have to care about diversity because this is what makes us stronger as a community, this is how we take better decisions and this is how we can help to make the world a better place for everyone. I 100% recommend! Even if it is online! It was great and breaks were given so you could breathe a little bit! I am happy to have had the opportunity to attend!       
+                I think that as an engineer you have to care about diversity because this is what makes us stronger as a community, this is how we take better decisions and this is how we can help to make the world a better place for everyone. I 100% recommend! Even if it is online! It was great and breaks were given so you could breathe a little bit! I am happy to have had the opportunity to attend! 
 template: advanced
 ---

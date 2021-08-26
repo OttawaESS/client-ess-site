@@ -1,6 +1,8 @@
 ---
 title: Upcoming and Recurring Events
 sections:
+    - type: page_title
+      title: Events
     - type: recurring_events_section
       title: Recurring Events
       events:
