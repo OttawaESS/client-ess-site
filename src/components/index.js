@@ -11,6 +11,7 @@ import ContentSection from './ContentSection';
 import CtaSection from './CtaSection';
 import Document from './Document';
 import DocumentsSection from './DocumentsSection';
+import FaqSection from './FaqSection';
 import FeaturesSection from './FeaturesSection';
 import Footer from './Footer';
 import GridSection from './GridSection';
@@ -41,6 +42,7 @@ export {
     CtaSection,
     Document,
     DocumentsSection,
+    FaqSection,
     FeaturesSection,
     Footer,
     GridSection,
@@ -71,6 +73,7 @@ export default {
     CtaSection,
     Document,
     DocumentsSection,
+    FaqSection,
     FeaturesSection,
     Footer,
     GridSection,
