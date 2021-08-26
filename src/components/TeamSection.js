@@ -43,14 +43,15 @@ export default class TeamSection extends React.Component {
                               style={{
                                 width: 200,
                                 height: 200,
-                                borderRadius: '50%',
+                                maxWidth: '100%',
+                                WebkitBorderRadius: '50%',
                                 margin: 'auto',
                               }}
                             />
                           }
                         >
                           <Meta
-                            title={person_data.first_name}
+                            title={person_data.first_name + " " + person_data.last_name}
                             description={markdownify(person_data.bio)}
                           />
                         </StyledCard>
