@@ -278,7 +278,7 @@ models:
         description: The subtitle of the item displayed below the title
       - type: enum
         name: title_align
-        label: 'Title, subtitle alignment'
+        label: "Title, subtitle alignment"
         options:
           - left
           - right
@@ -770,6 +770,22 @@ models:
           type: model
           models:
             - feature
+  positions_slider:
+    type: object
+    label: Positions Slider
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the slider
+      - type: list
+        name: positions
+        label: Positions
+        items:
+          type: model
+          models:
+            - position
   hero_section:
     type: object
     label: Hero Section
@@ -872,6 +888,22 @@ models:
         name: image
         label: Image
         description: The path of the image
+  location_section:
+    type: object
+    label: Location Section
+    labelField: title
+      - type: string
+        name: location
+        label: Location
+        description: The location of the student society
+      - type: string
+        name: telephone
+        label: Telephone
+        description: The contact number
+      - type: string
+        name: email
+        label: Email
+        description: The email id
   line_divider:
     type: object
     label: Entity Separator
@@ -977,6 +1009,19 @@ models:
         label: No follow
         default: false
         description: Add rel="nofollow" attribute to the link
+  position:
+    type: object
+    label: Position
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the position
+      - type: markdown
+        name: content
+        label: Content
+        description: The text description of the position
   stackbit_page_meta:
     type: object
     label: Page meta data
@@ -1160,4 +1205,18 @@ models:
       - type: image
         name: author_picture
         description: Testimonial Author Picture
+        required: true
+  upcoming_events:
+    type: object
+    label: upcoming_events
+    labelField: instruction
+    fields:
+      - type: string
+        name: calendar_link
+        required: true
+      - type: string
+        name: agenda_link
+        required: true
+      - type: string
+        name: title
         required: true
