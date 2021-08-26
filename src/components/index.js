@@ -13,6 +13,7 @@ import Document from './Document';
 import DocumentsSection from './DocumentsSection';
 import FaqSection from './FaqSection';
 import FeaturesSection from './FeaturesSection';
+import FlatCardsSection from './FlatCardsSection';
 import Footer from './Footer';
 import GridSection from './GridSection';
 import Header from './Header';
@@ -47,6 +48,7 @@ export {
     DocumentsSection,
     FaqSection,
     FeaturesSection,
+    FlatCardsSection,
     Footer,
     GridSection,
     Header,
@@ -82,6 +84,7 @@ export default {
     DocumentsSection,
     FaqSection,
     FeaturesSection,
+    FlatCardsSection,
     Footer,
     GridSection,
     Header,
