@@ -12,7 +12,7 @@ export default class ContactSection extends React.Component {
               <div className="container container--lg align-center">
                 <div className="cell section__body">
                     {_.get(section, 'title', null) && (
-                    <h3 className="section__title">{_.get(section, 'title', null)}</h3>
+                    <h2 className="section__title">{_.get(section, 'title', null)}</h2>
                     )}
                     {_.get(section, 'subtitle', null) && (
                     <div className="section__copy">

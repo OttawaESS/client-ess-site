@@ -608,6 +608,7 @@ models:
             - banner_section
             - line_divider
             - page_map_section
+            - page_title
             - grid_section
             - recurring_events_section
       - type: model
@@ -1210,6 +1211,14 @@ models:
   faq_section:
     type: object
     label: FAQ Section
+  page_title:
+    type: object
+    label: Page Title
+    fields:
+      - type: string
+        name: title
+        description: Page Title
+        required: true
   upcoming_events:
     type: object
     label: upcoming_events

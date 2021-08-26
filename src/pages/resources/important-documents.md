@@ -14,8 +14,10 @@ sections:
         link: /charity-work
       - label: Scholarships and careers
         link: /scholarships-and-careers
-  - type: documents_section
+  - type: page_title
     title: Important Documents
+  - type: documents_section
+    # title: Important Documents
     actions:
       - label: General
         style: primary

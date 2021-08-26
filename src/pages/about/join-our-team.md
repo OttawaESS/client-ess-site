@@ -1,6 +1,8 @@
 ---
 title: Join Our Team
 sections:
+  - type: page_title
+    title: Join Our Team
   - type: features_section
     features:
       - title: Execs (Elections Closed)

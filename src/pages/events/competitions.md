@@ -1,6 +1,8 @@
 ---
 title: Competitions
 sections:
+    - type: page_title
+      title: Competitions
     - type: content_section
       content: >-
         ## University of Ottawa Engineering Competition (uOEC)
