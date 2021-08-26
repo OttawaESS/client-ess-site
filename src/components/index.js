@@ -22,8 +22,6 @@ import SectionActions from './SectionActions';
 import PageMapSection from './PageMapSection';
 import TeamSection from './TeamSection';
 import Layout from './Layout';
-import CommitteeSectionGrid from './CommitteeSectionGrid';
-import CommitteeGridItem from './CommitteeGridItem';
 import CommitteeSection from './CommitteeSection';
 
 export {
@@ -50,8 +48,6 @@ export {
     SectionActions,
     PageMapSection,
     TeamSection,
-    CommitteeSectionGrid,
-    CommitteeGridItem,
     Layout,
     CommitteeSection
 };
@@ -80,8 +76,6 @@ export default {
     SecondaryHeroSection,
     SectionActions,
     TeamSection,
-    CommitteeSectionGrid,
-    CommitteeGridItem,
     Layout,
     CommitteeSection
 };

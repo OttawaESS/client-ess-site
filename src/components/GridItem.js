@@ -4,7 +4,6 @@ import _ from 'lodash';
 import { classNames, withPrefix, markdownify } from '../utils';
 import SectionActions from './SectionActions';
 import styles from '../sass/components/grid-section.module.scss';
-import styles2 from '../sass/components/committees-section.module.scss';
 
 export default class GridItem extends React.Component {
     render() {
@@ -24,7 +23,6 @@ export default class GridItem extends React.Component {
             'text-right': titleAlignX === 'right'
         });
         const content = _.get(item, 'content');
-        const side_title = _.get(item, 'content');
         const contentAlignX = _.get(item, 'content_align', 'left');
         const actions = _.get(item, 'actions');
         const actionsWidth = _.get(item, 'actions_width', 'auto');
