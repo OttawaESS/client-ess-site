@@ -114,7 +114,6 @@ models:
           type: model
           models:
             - action
-
   grid_section:
     type: object
     label: Grid section

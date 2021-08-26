@@ -8,6 +8,7 @@ import BlogPostTags from './BlogPostTags';
 import ConferencesSection from './ConferencesSection';
 import ContactSection from './ContactSection';
 import ContentSection from './ContentSection';
+import CommitteeSection from './CommitteeSection';
 import CtaSection from './CtaSection';
 import Document from './Document';
 import DocumentsSection from './DocumentsSection';
@@ -42,6 +43,7 @@ export {
     ConferencesSection,
     ContactSection,
     ContentSection,
+    CommitteeSection,
     CtaSection,
     Document,
     DocumentsSection,
@@ -77,6 +79,7 @@ export default {
     ConferencesSection,
     ContactSection,
     ContentSection,
+    CommitteeSection,
     CtaSection,
     Document,
     DocumentsSection,
