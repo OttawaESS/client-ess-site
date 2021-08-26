@@ -5,7 +5,7 @@
   margin-bottom: 3.75rem;
 
   &:first-child {
-    padding-top: 3.75rem;
+    padding-top: 0.75rem;
   }
 
   &:last-child {
@@ -25,6 +25,10 @@
   padding-top: 3.75em;
 }
 
+.x-sm-padding {
+  padding: 1.5em;
+}
+
 .bg-blue {
   background-color: $color-inverse-bg;
 }
@@ -36,6 +40,10 @@
 .section__media,
 .section__body {
   position: relative;
+}
+
+.section__media {
+  text-align: center;
 }
 
 .section__actions {
@@ -58,6 +66,8 @@
 }
 
 .hero {
+  padding-top: 3.75rem;
+  margin-bottom: 3.75rem;
   &:first-child {
     &:not(.section--padding) {
       margin-bottom: 2.25rem;

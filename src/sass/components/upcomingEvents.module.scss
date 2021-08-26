@@ -1,0 +1,53 @@
+.container {
+  width: 100%;
+}
+
+.title {
+  font-size: 22px;
+  margin-bottom: 40px;
+  color: #8f8f8f;
+  text-align: center;
+}
+
+HTML CSSResult Skip Results Iframe .big {
+  position: relative;
+  padding-bottom: 75%;
+  /* 75% of the width--These values are 900px and 675px, respectively. */
+  height: 0;
+  overflow: hidden;
+}
+
+.big {
+  display: flex;
+  justify-content: center;
+  iframe {
+    width: 100%;
+    max-width: 1050px;
+    height: 600px;
+  }
+}
+
+.little {
+  display: flex;
+  justify-content: center;
+  iframe {
+    width: 100%;
+    max-width: 1050px;
+    height: 100%;
+  }
+  position: relative;
+  height: 500px; /* Set the height of your agenda visibility  */
+  overflow: hidden;
+}
+
+@media (min-width: 700px) {
+  .little {
+    display: none !important;
+  }
+}
+
+@media (max-width: 699px) {
+  .big {
+    display: none !important;
+  }
+}
