@@ -1,17 +1,20 @@
 ---
+title: Initiatives And Support
 sections:
   - type: secondary_header
     baseUrl: /resources
     nav_items:
       - label: Important documents
         link: /important-documents
-      - label: Acessibility
+      - label: Accessibility
         link: /accessibility
       - label: Incident reports
         link: /incident-reports
-      - label: Charity work
-        link: /charity-work
+      - label: Initiatives and Support
+        link: /initiatives-and-support
       - label: Scholarships and careers
         link: /scholarships-and-careers
+  - type: page_title
+    title: Initiatives And Support    
 template: advanced
 ---

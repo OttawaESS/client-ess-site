@@ -20,7 +20,7 @@ sections:
  
            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
        - content: |-
-           ### [Charity work](/resources/charity-work)
+           ### [Initiatives and Support](/resources/initiatives-and-support)
  
            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
        - content: |-
