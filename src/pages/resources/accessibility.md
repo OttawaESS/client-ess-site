@@ -5,7 +5,7 @@ sections:
     nav_items:
       - label: Important documents
         link: /important-documents
-      - label: Acessibility
+      - label: Accessibility
         link: /accessibility
       - label: Incident reports
         link: /incident-reports
