@@ -14,5 +14,7 @@ sections:
         link: /affiliated-groups
       - label: Contact Us
         link: /contact-us
+  - type: page_title
+    title: Affiliated Groups
 template: advanced
 ---

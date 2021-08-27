@@ -14,8 +14,9 @@ sections:
         link: /affiliated-groups
       - label: Contact Us
         link: /contact-us
+  - type: page_title
+    title: Who is ESS?
   - type: features_section
-    title: Who is the ESS?
     features:
       - title: Who Are We?
         content: >-

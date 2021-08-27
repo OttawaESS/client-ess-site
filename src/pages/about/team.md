@@ -14,8 +14,10 @@ sections:
         link: /affiliated-groups
       - label: Contact Us
         link: /contact-us
-  - type: team_section
+  - type: page_title
     title: Our Team
+  - type: team_section
+    title: Meet the Team
     team:
       - src/data/team/ess-president.yaml
       - src/data/team/ess-vp-external.yaml

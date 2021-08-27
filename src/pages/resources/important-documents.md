@@ -10,8 +10,8 @@ sections:
         link: /accessibility
       - label: Incident reports
         link: /incident-reports
-      - label: Charity work
-        link: /charity-work
+      - label: Initiatives and Support
+        link: /initiatives-and-support
       - label: Scholarships and careers
         link: /scholarships-and-careers
   - type: page_title
