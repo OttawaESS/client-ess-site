@@ -1,4 +1,5 @@
 ---
+title: Initiatives And Support
 sections:
   - type: secondary_header
     baseUrl: /resources

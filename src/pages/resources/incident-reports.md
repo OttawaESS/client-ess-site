@@ -1,4 +1,5 @@
 ---
+title: Incident Reports
 sections:
   - type: secondary_header
     baseUrl: /resources

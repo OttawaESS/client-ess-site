@@ -1,4 +1,5 @@
 ---
+title: Accessibility
 sections:
   - type: secondary_header
     baseUrl: /resources

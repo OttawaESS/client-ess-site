@@ -1,5 +1,5 @@
 ---
-title: who-are-we
+title: Who Are We
 sections:
   - type: secondary_header
     baseUrl: /about
