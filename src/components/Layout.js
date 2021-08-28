@@ -15,9 +15,7 @@ export default class Body extends React.Component {
           <title>
             {_.get(this.props, "pageContext.frontmatter.seo.title", null)
               ? _.get(this.props, "pageContext.frontmatter.seo.title", null)
-              : _.get(this.props, "pageContext.frontmatter.title", null) +
-                " | " +
-                _.get(this.props, "pageContext.site.siteMetadata.title", null)}
+              : _.get(this.props, "pageContext.frontmatter.title", null)}
           </title>
           <meta charSet="utf-8" />
           <meta

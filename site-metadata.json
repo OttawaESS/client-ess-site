@@ -1,4 +1,6 @@
 {
+    "description": "Welcome to the Engineering Student Society website.",
+    "favicon":"images/ess-logo.jpeg",
     "header": {
         "title": "ESSociety",
         "has_nav": true,
