@@ -1,8 +1,22 @@
 ---
-title: who-are-we
+title: Who Are We
 sections:
+  - type: secondary_header
+    baseUrl: /about
+    nav_items:
+      - label: Who We Are
+        link: /who-are-we
+      - label: Our Team
+        link: /team
+      - label: Join Our Team
+        link: /join-our-team
+      - label: Affiliated Groups
+        link: /affiliated-groups
+      - label: Contact Us
+        link: /contact-us
+  - type: page_title
+    title: Who is ESS?
   - type: features_section
-    title: Who is the ESS?
     features:
       - title: Who Are We?
         content: >-

@@ -8,11 +8,13 @@ import BlogPostTags from './BlogPostTags';
 import ConferencesSection from './ConferencesSection';
 import ContactSection from './ContactSection';
 import ContentSection from './ContentSection';
+import CommitteeSection from './CommitteeSection';
 import CtaSection from './CtaSection';
 import Document from './Document';
 import DocumentsSection from './DocumentsSection';
 import FaqSection from './FaqSection';
 import FeaturesSection from './FeaturesSection';
+import FlatCardsSection from './FlatCardsSection';
 import Footer from './Footer';
 import GridSection from './GridSection';
 import Header from './Header';
@@ -42,11 +44,13 @@ export {
     ConferencesSection,
     ContactSection,
     ContentSection,
+    CommitteeSection,
     CtaSection,
     Document,
     DocumentsSection,
     FaqSection,
     FeaturesSection,
+    FlatCardsSection,
     Footer,
     GridSection,
     Header,
@@ -77,11 +81,13 @@ export default {
     ConferencesSection,
     ContactSection,
     ContentSection,
+    CommitteeSection,
     CtaSection,
     Document,
     DocumentsSection,
     FaqSection,
     FeaturesSection,
+    FlatCardsSection,
     Footer,
     GridSection,
     Header,
