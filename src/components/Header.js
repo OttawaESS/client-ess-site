@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+/* eslint-disable jsx-a11y/no-noninteractive-element-interactions */
+import React from "react";
 import _ from "lodash";
 import Logo from "../../static/images/logo.svg";
 import { Dropdown, Menu } from "antd";
@@ -6,6 +7,7 @@ import { Link, withPrefix, classNames } from "../utils";
 import Action from "./Action";
 import DownArrow from "../../static/images/down-arrow.svg";
 import DownArrowHovered from "../../static/images/down-arrow-hovered.svg";
+
 export default class Header extends React.Component {
   constructor(props) {
     super(props);
@@ -106,6 +108,7 @@ export default class Header extends React.Component {
                               );
                               return (
                                 <Dropdown
+                                  trigger={["click", "hover"]}
                                   overlay={menu}
                                   key={`dropdown-${action_idx}`}
                                 >
