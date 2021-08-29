@@ -1,10 +1,16 @@
-import React from "react";
+import React, { useState } from "react";
 import _ from "lodash";
 import Logo from "../../static/images/logo.svg";
-
+import { Dropdown, Menu } from "antd";
 import { Link, withPrefix, classNames } from "../utils";
 import Action from "./Action";
+import DownArrow from "../../static/images/down-arrow.svg";
+import DownArrowHovered from "../../static/images/down-arrow-hovered.svg";
 export default class Header extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { itemHovered: false, itemLink: null };
+  }
   render() {
     return (
       <header className="site-header">
@@ -13,36 +19,6 @@ export default class Header extends React.Component {
             <Link className="sr-only" to="#content">
               Skip to main content
             </Link>
-            {/* {_.get(
-              this.props,
-              "pageContext.site.siteMetadata.header.logo",
-              null
-            ) ? (
-              <Link className="navbar__logo" to={withPrefix("/")}>
-                <img
-                  src={withPrefix(
-                    _.get(
-                      this.props,
-                      "pageContext.site.siteMetadata.header.logo",
-                      null
-                    )
-                  )}
-                  alt={_.get(
-                    this.props,
-                    "pageContext.site.siteMetadata.header.logo_alt",
-                    null
-                  )}
-                />
-              </Link>
-            ) : (
-              <Link className="h4 navbar__title" to={withPrefix("/")}>
-                {_.get(
-                  this.props,
-                  "pageContext.site.siteMetadata.header.title",
-                  null
-                )}
-              </Link>
-            )} */}
             <div className="logo__container">
               <Link className="h4 navbar__title" to={withPrefix("/")}>
                 <img src={Logo} alt="logo" className="navbar__logo" />
@@ -114,6 +90,58 @@ export default class Header extends React.Component {
                               _.get(action, "url", null),
                               "/"
                             );
+                            if (action.sub_links) {
+                              const menu = (
+                                <Menu>
+                                  {action.sub_links.map(({ label, url }) => (
+                                    <Link
+                                      className="dropdown__item"
+                                      key={`menu-item-${url}`}
+                                      to={`${action.url}${url}`}
+                                    >
+                                      <Menu.Item>{label}</Menu.Item>
+                                    </Link>
+                                  ))}
+                                </Menu>
+                              );
+                              return (
+                                <Dropdown
+                                  overlay={menu}
+                                  key={`dropdown-${action_idx}`}
+                                >
+                                  <li
+                                    onMouseEnter={() =>
+                                      this.setState({
+                                        itemHovered: true,
+                                        itemLink: action.url,
+                                      })
+                                    }
+                                    onMouseLeave={() =>
+                                      this.setState({
+                                        itemHovered: false,
+                                        itemLink: null,
+                                      })
+                                    }
+                                    key={action_idx}
+                                    className={classNames("navbar__item", {
+                                      "is-active": pageUrl === actionUrl,
+                                    })}
+                                  >
+                                    <Action {...this.props} action={action} />
+                                    <img
+                                      src={
+                                        this.state.itemHovered &&
+                                        action.url === this.state.itemLink
+                                          ? DownArrowHovered
+                                          : DownArrow
+                                      }
+                                      alt="down-arrow"
+                                      className="down__arrow"
+                                    />
+                                  </li>
+                                </Dropdown>
+                              );
+                            }
                             return (
                               <li
                                 key={action_idx}

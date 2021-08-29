@@ -12,12 +12,56 @@
       {
         "label": "About",
         "url": "/about",
-        "style": "link"
+        "style": "link",
+        "sub_links": [
+          {
+            "label": "Affiliated Groups",
+            "url": "/affiliated-groups"
+          },
+          {
+            "label": "Contact Us",
+            "url": "/contact-us"
+          },
+          {
+            "label": "Join Our Team",
+            "url": "/join-our-team"
+          },
+          {
+            "label": "Team",
+            "url": "/team"
+          },
+          {
+            "label": "Who Are We",
+            "url": "/who-are-we"
+          }
+        ]
       },
       {
         "label": "Resources",
         "url": "/resources",
-        "style": "link"
+        "style": "link",
+        "sub_links": [
+          {
+            "label": "Important Documents",
+            "url": "/important-documents"
+          },
+          {
+            "label": "Accessibility",
+            "url": "/accessibility"
+          },
+          {
+            "label": "Incident Reports",
+            "url": "/incident-reports"
+          },
+          {
+            "label": "Charity Work",
+            "url": "/charity-work"
+          },
+          {
+            "label": "Scholarships and Careers",
+            "url": "/scholarships-and-careers"
+          }
+        ]
       },
       {
         "label": "Services",
@@ -27,7 +71,21 @@
       {
         "label": "Events",
         "url": "/events",
-        "style": "link"
+        "style": "link",
+        "sub_links": [
+          {
+            "label": "Competitions",
+            "url": "/competitions"
+          },
+          {
+            "label": "Conferences",
+            "url": "/conferences"
+          },
+          {
+            "label": "Upcoming and Recurring Events",
+            "url": "/upcoming-and-recurring"
+          }
+        ]
       }
     ]
   },
