@@ -7,6 +7,7 @@ sections:
   - type: page_title
     title: On-Campus Services  
   - type: flat_cards_section
+    title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     cards:
       - title: Paper Printing - 15$
         image: images/printer.png
