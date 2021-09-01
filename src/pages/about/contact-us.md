@@ -25,7 +25,7 @@ sections:
       Wnat to know more about ESS? Got a school question you need help with? Or just want to chat? Come see us during our office hours.
 
   - type: image_section
-    image: images/office-hours/2020-2021.jpeg
+    image: images/office-hours/2020-2021-W.jpeg
     alt_image: Office Hours 2020-2021    
   - type: contact_section
     title: Contact
