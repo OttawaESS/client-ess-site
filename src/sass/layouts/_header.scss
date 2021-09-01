@@ -1,6 +1,9 @@
 /**
  * Site Header
  */
+
+@import "../abstracts/variables";
+
 .site-header {
   border-bottom: 1px solid $color-border;
   padding-bottom: 1.125rem;
@@ -21,7 +24,8 @@
 
 .down__arrow {
   cursor: pointer;
-  margin-left: 8px;
+  margin-left: 5px;
+  width: 0.625em;
 }
 
 .navbar__title {
@@ -32,7 +36,7 @@
   font-weight: 700;
   font-size: 24px;
   &:hover {
-    color: #5201ff;
+    color: $primary-color;
   }
 
   span {
@@ -41,7 +45,7 @@
     font-family: Playfair Display;
     font-weight: 700;
     font-size: 24px;
-    color: #5201ff;
+    color: $primary-color;
   }
 }
 
@@ -61,19 +65,17 @@
 }
 
 .navbar__item {
-  font-size: 0.875em;
-  font-family: Playfair Display;
+  font-size: 1em;
   font-style: normal;
-  font-weight: bold;
-  font-size: 1.125rem;
   line-height: 24px;
+  
   @media only screen and (max-width: 800px) {
     display: flex;
   }
 
   /* identical to box height */
 
-  color: #5201ff;
+  color: $primary-color;
 }
 
 @include media-breakpoint-up(md) {
@@ -87,7 +89,7 @@
   }
 
   .navbar__item {
-    margin-left: 1.25rem;
+    margin-left: 2rem;
   }
 
   .js-menu-toggle {
