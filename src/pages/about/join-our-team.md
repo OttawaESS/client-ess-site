@@ -38,6 +38,7 @@ sections:
         image: images/ess-agm.jpg
         image_alt: ESS AGM Poster
         image_position: left
+  - type: line_divider
   - type: committee_section
     title: Committees
     committees:
