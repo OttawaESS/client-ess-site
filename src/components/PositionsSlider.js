@@ -22,10 +22,11 @@ export default class PositionsSlider extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             <div className="section">
+                <div className="container container--lg">
                 <div className={styles.container}>
                     <div>
                         {_.get(section, 'title', null) && (
-                            <h3 className={styles.carousel_title}>{_.get(section, 'title', null)}</h3>
+                            <h3 className="section__title align-center">{_.get(section, 'title', null)}</h3>
                         )}
                     </div>
                     <div className={styles.carousel_container}>
@@ -50,6 +51,7 @@ export default class PositionsSlider extends React.Component {
                     </Carousel>
                     <RightOutlined className={styles.right_arrow} onClick={this.next}/>
                     </div>
+                </div>
                 </div>
             </div>
         );
