@@ -11,7 +11,7 @@ export default class FaqSection extends React.Component {
     render() {
         let section = _.get(this.props, "section", null);
         return (
-            <section className={classNames("section", "hero")}>
+            <section className={classNames("section")}>
               <div className="container container--md">
                 {_.get(section, "title", null) && (
                     <h3 className="section__title align-center">

@@ -20,6 +20,7 @@ import Footer from './Footer';
 import GridSection from './GridSection';
 import Header from './Header';
 import HeroSection from './HeroSection';
+import ImageSection from './ImageSection';
 import InstructionsSection from './InstructionsSection';
 import LineDivider from './LineDivider';
 import RecurringEventsSection from './RecurringEventsSection';
@@ -57,6 +58,7 @@ export {
     GridSection,
     Header,
     HeroSection,
+    ImageSection,
     InstructionsSection,
     LineDivider,
     RecurringEventsSection,
@@ -95,6 +97,7 @@ export default {
     GridSection,
     Header,
     HeroSection,
+    ImageSection,
     InstructionsSection,
     LineDivider,
     RecurringEventsSection,
