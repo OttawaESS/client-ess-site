@@ -34,5 +34,11 @@ sections:
       - title: Engineering Charity Ball
         description: The Charity Ball features a cocktail hour, 3-course meal, raffle, and dancing. All proceeds from the event and raffle go to a charity.
         frequency: Annual
+  - type: content_section
+    title: 101 Week
+    content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim integer augue justo morbi ut arcu, diam, luctus ante. Velit tristique risus sit dignissim nam lacus, id molestie velit. Sed et facilisis nibh tellus, sem rhoncus vulputate laoreet. Enim nunc pretium, tincidunt nunc nec ullamcorper convallis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim integer augue justo morbi ut arcu, diam, luctus ante. Velit tristique risus sit dignissim nam lacus, id molestie velit. Sed et facilisis nibh tellus, sem rhoncus vulputate laoreet. Enim nunc pretium, tincidunt nunc nec ullamcorper convallis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim integer augue justo morbi ut arcu, diam, luctus ante. Velit tristique risus sit dignissim nam lacus, id molestie velit. Sed et facilisis nibh tellus, sem rhoncus. 
+  - type: image_section
+    image: images/Frosh-Schedule.jpg      
 template: advanced
 ---
