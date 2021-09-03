@@ -12,9 +12,9 @@ export default class ImageSection extends React.Component {
         let section = _.get(this.props, "section", null);
         return (
             <section className="section">
-              <div className="container container--lg">
+              <div className="container container--lg align-center">
                 {_.get(section, "image", null) && (
-                    <img src={withPrefix(_.get(section, "image", null))} alt={_.get(section, "alt_image", null)} />
+                    <img src={withPrefix(_.get(section, "image", null))} alt={_.get(section, "alt_image", null)}/>
                 )}
               </div>
             </section>
