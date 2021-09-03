@@ -22,7 +22,10 @@ $primary-color-dark-variant:   #270059 !default; // used for footer
   - **Important Documents:** `src/pages/resources/important-documents.md`
   - **Scholarships and Careers:** `src/pages/resources/scholarships-and-careers.md`
   - **Accessibility:** `src/pages/resources/accessibility.md`
-  - **Charity Work and Other Initiatives:** `src/pages/resources/charity-work.md`
+  - **Initiatives and Support:** `src/pages/resources/initiatives-and-support.md`
   - **Incident Reports:** `src/pages/resources/incident-reports.md`
 - **Services:** `src/pages/services.md`
 - **Events:** `src/pages/events.md`
+  - **Upcoming and Recurring**: `src/pages/events/upcoming-and-recurring`
+  - **Conferences**: `src/pages/events/conferences`
+  - **Competitions**: `src/pages/events/competitions`

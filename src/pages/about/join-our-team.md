@@ -1,6 +1,19 @@
 ---
 title: Join Our Team
 sections:
+  - type: secondary_header
+    baseUrl: /about
+    nav_items:
+      - label: Who We Are
+        link: /who-are-we
+      - label: Our Team
+        link: /team
+      - label: Join Our Team
+        link: /join-our-team
+      - label: Affiliated Groups
+        link: /affiliated-groups
+      - label: Contact Us
+        link: /contact-us
   - type: page_title
     title: Join Our Team
   - type: features_section
@@ -25,5 +38,39 @@ sections:
         image: images/ess-agm.jpg
         image_alt: ESS AGM Poster
         image_position: left
+  - type: line_divider
+  - type: committee_section
+    title: Committees
+    committees:
+      - title: Charity Committee
+        description: >-
+          IEEE represents computer engineering, software engineering, and electrical engineering students. IEEE welcomes all technology enthusiasts and strives to create a platform.
+
+
+          Apply through this form: https://www.link-to-form.com
+      - title: Constitution Committee
+        description: >-
+          IEEE represents computer engineering, software engineering, and electrical engineering students. IEEE welcomes all technology enthusiasts and strives to create a platform.
+
+
+          Apply through this form: https://www.link-to-form.com
+      - title: Design Committee
+        description: >-
+          IEEE represents computer engineering, software engineering, and electrical engineering students. IEEE welcomes all technology enthusiasts and strives to create a platform.
+
+
+          Apply through this form: https://www.link-to-form.com
+      - title: Incident Response Committee
+        description: >-
+          IEEE represents computer engineering, software engineering, and electrical engineering students. IEEE welcomes all technology enthusiasts and strives to create a platform.
+
+
+          Apply through this form: https://www.link-to-form.com
+      - title: Transparency Committee
+        description: >-
+          IEEE represents computer engineering, software engineering, and electrical engineering students. IEEE welcomes all technology enthusiasts and strives to create a platform.
+
+
+          Apply through this form: https://www.link-to-form.com
 template: advanced
 ---

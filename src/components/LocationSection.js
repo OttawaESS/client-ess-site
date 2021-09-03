@@ -6,7 +6,7 @@ export default class LocationSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         return (
-            <div className="section">
+            <div className="section hero">
                 <div className="container container--lg">
                     <div className="flex flex--col-2">
                         <div className={styles.info_section}>

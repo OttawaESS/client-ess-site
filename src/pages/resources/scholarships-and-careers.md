@@ -6,12 +6,12 @@ sections:
     nav_items:
       - label: Important documents
         link: /important-documents
-      - label: Acessibility
+      - label: Accessibility
         link: /accessibility
       - label: Incident reports
         link: /incident-reports
-      - label: Charity work
-        link: /charity-work
+      - label: Initiatives and Support
+        link: /initiatives-and-support
       - label: Scholarships and careers
         link: /scholarships-and-careers
   - type: page_title

@@ -134,25 +134,29 @@ export default class GridItem extends React.Component {
                                             : <h2 className={titleClasses}>{title}</h2>
                                     )}
                                     {subtitle && (
-                                        <p
-                                            className={classNames('item__subtitle', {
-                                                'text-center': titleAlignX === 'center',
-                                                'text-right': titleAlignX === 'right'
-                                            })}
-                                        >
-                                            {subtitle}
-                                        </p>
+                                          <h2
+                                          className={classNames('item__copy', styles.primary, {
+                                              'text-center': contentAlignX === 'center',
+                                              'text-right': contentAlignX === 'right'
+                                          })}
+                                      >
+                                          {markdownify(subtitle) }
+                                      </h2>
                                     )}
-                                    {content && (
+                                    {content  && (
                                         <div
-                                            className={classNames('item__copy', styles.primary, {
+                                            className={classNames('item__copy', styles.primary,{
                                                 'text-center': contentAlignX === 'center',
                                                 'text-right': contentAlignX === 'right'
                                             })}
                                         >
-                                            {markdownify(content)}
+                                            {markdownify(content) }
                                         </div>
                                     )}
+
+                                    
+
+
                                     {!_.isEmpty(actions) && (
                                         <div
                                             className={classNames('item__actions', 'btn-group', {

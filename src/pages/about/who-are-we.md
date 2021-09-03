@@ -1,8 +1,22 @@
 ---
-title: who-are-we
+title: Who Are We
 sections:
+  - type: secondary_header
+    baseUrl: /about
+    nav_items:
+      - label: Who We Are
+        link: /who-are-we
+      - label: Our Team
+        link: /team
+      - label: Join Our Team
+        link: /join-our-team
+      - label: Affiliated Groups
+        link: /affiliated-groups
+      - label: Contact Us
+        link: /contact-us
+  - type: page_title
+    title: Who is ESS?
   - type: features_section
-    title: Who is the ESS?
     features:
       - title: Who Are We?
         content: >-
@@ -19,10 +33,11 @@ sections:
         image: images/ess-our-values.jpeg
         image_alt: Our Values
         image_position: left
+  - type: line_divider
   - type: features_section
     title: Sponsors
     features:
-      - title: Who Are We?
+      - title: National Bank of Canada
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim integer augue justo morbi ut arcu, diam, luctus ante. Velit tristique risus sit dignissim nam lacus, id molestie velit. Sed et facilisis nibh tellus, sem rhoncus vulputate laoreet. Enim nunc pretium, tincidunt nunc nec ullamcorper convallis.
 
