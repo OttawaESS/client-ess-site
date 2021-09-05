@@ -24,15 +24,15 @@ sections:
   - type: grid_section
     grid_items:
        - content: |-
-           ### Availability of all documents in English/French
+           #### Availability of all documents in English/French
  
            The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
        - content: |-
-           ### Alt Description on all Media Assets
+           #### Alt Description on all Media Assets
  
            The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
        - content: |-
-           ### Another Accessibility Measure
+           #### Another Accessibility Measure
  
            The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
     grid_cols: two
