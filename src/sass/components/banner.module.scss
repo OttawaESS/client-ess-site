@@ -2,6 +2,8 @@
 
 .bannerComponent {
     display: flex;
+    flex-direction: row;
+    margin-bottom: 110px;
 }
 
 .componentInfo {
@@ -15,10 +17,12 @@
     button {
         width: 197px;
         height: 51px;
-        border-radius: 6px;
+        border-radius: 15px;
         background-color: $primary-color-light-variant;
         border: 2px solid;
         color: $primary-color;
+        font-weight: normal;
+        font-size: 18px;
     }
 }
 
@@ -26,8 +30,6 @@
     font-weight: 100;
     font-size: 48px;
     letter-spacing: 2px;
-    
-    
 }
 
 .date {
@@ -36,8 +38,6 @@
     font-size: 18px;
     margin-bottom: 6px;
 }
-
-
 
 .description {
     font-size: 15px;
@@ -57,9 +57,10 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 720px) {
     .bannerComponent {
         flex-direction: column;
+        margin-bottom: 80px;
     }
 
     .componentInfo {

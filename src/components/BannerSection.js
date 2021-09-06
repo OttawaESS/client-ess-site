@@ -1,24 +1,33 @@
 import React from 'react';
 import _ from 'lodash';
 import { Link } from 'gatsby'
-
-import Carousel from 'react-bootstrap/esm/Carousel'
+import { Carousel } from 'antd';
 import styled from 'styled-components'
-import 'bootstrap/dist/css/bootstrap.min.css';
 import {getData} from '../utils';
 import styles from '../sass/components/banner.module.scss'
 
 export default class BannerSection extends React.Component {
+    constructor(props) {
+        super(props);
+        this.next = this.next.bind(this);
+        this.previous = this.previous.bind(this);
+    }
+    next() {
+        this.carousel.next();
+    }
+    previous() {
+        this.carousel.prev();
+    }
+
     render() {
         let section = _.get(this.props, 'section', null);
         return (
             <section className="section section--banner">
-              <div>
-              <BannerCaroussel>
+              <BannerCarousel autoplay  ref={slide => (this.carousel = slide)} speed={1000} autoplaySpeed={5000}>
                {_.map(_.get(section, 'slides', null), (slide, slide_idx) => {
                    let slide_data = getData(this.props.pageContext.site.data, slide);
                    return (
-                  <Carousel.Item key={slide_idx}>
+                    <div key={slide_idx}>
                     <div className={styles.bannerComponent}>
                       <div className={styles.componentInfo}>
                         <span className={styles.title}>
@@ -36,52 +45,35 @@ export default class BannerSection extends React.Component {
                           <img alt="Event" src={slide_data.image} />
                       </div>
                     </div>
-                  </Carousel.Item>
+                    </div>
                    )
                })}
-               </BannerCaroussel>
-              </div>
+               </BannerCarousel>
             </section>
-
         );
     }
 }
 
 
-const BannerCaroussel = styled(Carousel)`
-    height: 464px;
-    weight: 100%;
+const BannerCarousel = styled(Carousel)`
     background-color: #DDCDFF;
     vertical-align: middle;
-    .carousel-indicators li {
-        border-bottom: 1px solid #6B7280;
-        height: 0;
+
+    .slick-dots li {
         width: 116px;
+        border-bottom: 1px solid #6B7280;
     }
-    li.active {
-        background-color: #FF6B00;
-        height: 4px;
+    .slick-dots li button {
+        background: #DDCDFF;
+    }
+
+    .slick-dots li.slick-active {
+        width: 116px;
         border-bottom: none;
-        margin-bottom: 50px;
     }
-    @media screen and (max-width: 900px) {
-        .carousel-control-next {
-            margin-right: -40px;
-        }
-        .carousel-control-prev {
-            margin-left: -40px;
-        }
-    }
-    @media screen and (max-width: 768px) {
-        height: 640px;
-        .carousel-indicators {
-            margin-bottom: 0px;
-        }
-        .carousel-control-next {
-            margin-right: 0px;
-        }
-        .carousel-control-prev {
-            margin-left: 0px;
-        }
+
+    .slick-dots li.slick-active button {
+        background: #FF6B00;
+        height: 4px;
     }
 `
