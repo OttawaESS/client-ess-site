@@ -7,23 +7,11 @@ import {getData} from '../utils';
 import styles from '../sass/components/banner.module.scss'
 
 export default class BannerSection extends React.Component {
-    constructor(props) {
-        super(props);
-        this.next = this.next.bind(this);
-        this.previous = this.previous.bind(this);
-    }
-    next() {
-        this.carousel.next();
-    }
-    previous() {
-        this.carousel.prev();
-    }
-
     render() {
         let section = _.get(this.props, 'section', null);
         return (
             <section className="section section--banner">
-              <BannerCarousel autoplay  ref={slide => (this.carousel = slide)} speed={1000} autoplaySpeed={5000}>
+              <BannerCarousel autoplay speed={1000} autoplaySpeed={5000}>
                {_.map(_.get(section, 'slides', null), (slide, slide_idx) => {
                    let slide_data = getData(this.props.pageContext.site.data, slide);
                    return (
