@@ -12,7 +12,6 @@ export default class RecurringEventsSection extends React.Component {
                 <h2 className="section__title">{_.get(section, 'title', null)}</h2>
               </div>
               )}
-              
               <div className="container container--lg">
                 <div className="flex flex--col-2">
                   {_.map(_.get(section, 'events', null), (event, event_idx) => {
