@@ -40,35 +40,44 @@ sections:
 
   - type: grid_section
     grid_items:
-       - content: |-
-           ### Policy and Procedure Manual
-           
-           Policy and Procedure Manual The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
+      - content: |-
+          #### Policy and Procedure Manual
 
-       - content: |-
-           ### By-Laws
- 
-           By-Laws ESS By-Laws are updated every other year alongside the constitution. This document provides more detailed information regarding financial procedures, membership requirements, information about the board of directors and their meetings, and procedures for filling vacant officer positions.
-       
-       - content: |-
-           ### Officer Nomination Form
-           
-           Officer Nomination Form Copied from the constitution for your convenience, this form is the first step on the path to becoming an executive member of the ESS. When the nomination period begins each year in the winter semester, fill out this form stating your desired position and obtain signatures from any 15 engineering students!
-       
-       - content: |-
-           ### Candidate Platforms
- 
-           Candidate Platforms It’s that time of year again… Get ready to choose your next ESS executive team! Meet your candidates and get to know a little bit about their campaigns by reading the election platforms. Read something you like? Remember to cast your vote when the time comes.
-       
-       - content: |-
-           ### Budget
-           
-           Wondering how ESS spends their money? Curious how much it costs to keep the organization going? In this section, you can find live, detailed budgets for each academic year, to get a sense of how student money comes back around to benefit their university experience.
-       
-       - content: |-
-           ### Expense Report Form
- 
-           Did you help ESS run an event and need to be reimbursed for a cost paid out-of- pocket? Look no further! Fill out the following expense report form, copied from the constitution for your convenience, to be paid back for your contribution.
+          The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
+
+      - content: |-
+          #### By-Laws
+
+          ESS By-Laws are updated every other year alongside the constitution. This document provides more detailed information regarding financial procedures, membership requirements, information about the board of directors and their meetings, and procedures for filling vacant officer positions.
+
+      - content: |-
+          #### Board of Directors Meetings
+
+          Want to know what was discussed at this month’s BoD meeting? Need to refer to a meeting from a previous month? Here you can find detailed minutes from every meeting of the Board of Directors. What a great way to get updates on how the executive team is keeping up with their mandates, or to understand how important decisions are made in the ESS!
+
+      - content: |-
+          #### Officer Meeting Minutes
+
+          Ever wonder what the ESS officers discuss every other week? Do you find yourself reflecting on ESS’ decisions, and why they were made? Check out the Internal Meeting Minutes to catch a glimpse of the discussions that drive what we do.
+      - content: |-
+          #### Budget
+
+          Wondering how ESS spends their money? Curious how much it costs to keep the organization going? In this section, you can find live, detailed budgets for each academic year, to get a sense of how student money comes back around to benefit their university experience.
+
+      - content: |-
+          #### Expense Report Form
+
+          Did you help ESS run an event and need to be reimbursed for a cost paid out-of-pocket? Look no further! Fill out the following expense report form, copied from the constitution for your convenience, to be paid back for your contribution.
+
+      - content: |-
+          #### Officer Nomination Form
+
+          Copied from the constitution for your convenience, this form is the first step on the path to becoming an executive member of the ESS. When the nomination period begins each year in the winter semester, fill out this form stating your desired position and obtain signatures from any 15 engineering students!
+
+      - content: |-
+          #### Candidate Platforms
+
+          It’s that time of year again… Get ready to choose your next ESS executive team! Meet your candidates and get to know a little bit about their campaigns by reading the election platforms. Read something you like? Remember to cast your vote when the time comes.
 
     grid_cols: two
     grid_gap_horiz: large
@@ -76,7 +85,6 @@ sections:
     enable_cards: false
     align: center
     background_color: none
-
 
 template: advanced
 ---
