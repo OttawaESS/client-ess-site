@@ -20,7 +20,7 @@ sections:
     features:
       - title: Who Are We?
         content: >-
-          The Engineering Students’ Society (ESS for short) is an amazing organization run by your fellow students just for you! We plan events, attend conferences and help to make your school experience the best it can be. After paying your awfully expensive tuition, you have contributed an extremely small portion of that money to the Engineering Students’ Society, in exchange for membership.
+          The Engineering Students' Society is an organization run by students, for students. Throughout the year, the ESS works hard to improve your student experience by planning events, providing services, connecting you with other schools, and more! Each time you pay your tuition, a small portion comes to the ESS in exchange for your membership, giving you full access to the organization. Have Questions? Feel free to reach out to us on social media, send us an email, or stop by our office hours for a chat!
         align: left
         image: images/ess-who-we-are.jpeg
         image_alt: Who We Are
@@ -28,7 +28,16 @@ sections:
 
       - title: Our Missions and Our Values
         content: >-
-          All Engineering students are members, and have powers and privileges throughout their academic career at the University of Ottawa. Not only do you get to attend some of the greatest events on campus, but also you get to show all the other faculties that Engineers Rule The World with your super smarts and ability to drink anyone under the table!
+          At uOttawa ESS, we hope to redefine engineering culture, and ensure everyone feels as though they belong. We strive to create an inviting and positive learning environment for all our members. The ESS believes the tradition should never stand in the way of progress, and try to consider the following core values in all we do…
+
+
+          **Respect and Empathy:** We aim to understand and respect the perspectives of all our members and consider them in all the organization’s operations
+
+
+          **Ethics, Transparency, and Accessibility:** We aim to have complete transparency in our organization and work to ensure all decisions are made ethically. We strive to make our operations accessible to all members, regardless of their ability.
+
+
+          **Accountability:** We aim to continuously clearly identify any difficulties within the organization, remedy them, and grow from our experiences.
         align: left
         image: images/ess-our-values.jpeg
         image_alt: Our Values
