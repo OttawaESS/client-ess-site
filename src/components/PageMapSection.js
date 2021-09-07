@@ -15,19 +15,19 @@ const data = [
     {
         title: 'Important Documents',
         illustration: <FileOutlined className={styles.icon}/>,
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet nam at amet congue vel nunc. Arcu lobortis in facilisis ut ipsum volutpat gravida.",
+        description: "Want to know more about the ESS’ constitution? Curious about our internal operations? Click here to access all the ESS’ most important documents!",
         link: '/resources/important-documents',
     },
     {
         title: 'Resources',
         illustration: <BulbOutlined className={styles.icon}/>,
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet nam at amet congue vel nunc. Arcu lobortis in facilisis ut ipsum volutpat gravida.",
+        description: "As a member, you have access to all of ESS’ resources. From accessibility to scholarships, we want to do what we can to help you out. Click here for more information.",
         link: '/resources',
     },
     {
         title: 'Services',
         illustration: <PrinterOutlined className={styles.icon}/>,
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet nam at amet congue vel nunc. Arcu lobortis in facilisis ut ipsum volutpat gravida.",
+        description: "Need to rent a locker? Want to buy some cool ESS merch? Click here to learn about the services available to you as an ESS member!",
         link: '/services',
     }
 ]
