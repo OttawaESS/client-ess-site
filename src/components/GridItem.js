@@ -133,6 +133,9 @@ export default class GridItem extends React.Component {
                                         sectionTitle ? <h3 className={titleClasses}>{title}</h3>
                                             : <h2 className={titleClasses}>{title}</h2>
                                     )}
+                                    
+
+
                                     {subtitle && (
                                           <h2
                                           className={classNames('item__copy', styles.primary, {
