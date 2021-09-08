@@ -41,10 +41,12 @@ sections:
 
 
       #### Guides
+
       If you want to put your leadership skills to the test and help us welcome in our new students, keep an eye on our social media and website throughout the summer to see when applications are released. (Applications for 2021 are closed)
 
 
       #### 101ers
+      
       We are so excited you will be joining us on-campus and/or virtually this fall! Keep an eye on our social media and website to see when kits go on sale so you can take part in 101 Week!
   - type: image_section
     image: images/Frosh-Schedule.jpg
