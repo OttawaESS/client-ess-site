@@ -16,6 +16,24 @@ sections:
         link: /contact-us
   - type: page_title
     title: Our Team
+  - type: content_section
+    content: >-
+      **Executive members** of the ESS are elected each academic year in March. Their term begins on May 1st and ends on April 30th the subsequent year. 
+
+
+      **Managers** are elected each academic year at the Annual General Meeting. Their term begins on May 1st and ends on April 30th the subsequent year.
+  # - type: positions_slider
+  #   title: Available Positions
+  #   positions:
+  #   - title: Dusted DD
+  #     content: >-
+  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim integer augue justo morbi ut arcu, diam, luctus ante. Velit tristique risus sit dignissim nam lacus, id molestie velit.
+  #   - title: External VP
+  #     content: >-
+  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim integer augue justo morbi ut arcu, diam, luctus ante. Velit tristique risus sit dignissim nam lacus, id molestie velit.
+  #   - title: Ex CEO
+  #     content: >-
+  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim integer augue justo morbi ut arcu, diam, luctus ante. Velit tristique risus sit dignissim nam lacus, id molestie velit.
   - type: team_section
     title: Meet the Team
     team:
