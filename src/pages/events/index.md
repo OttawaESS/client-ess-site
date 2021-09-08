@@ -10,7 +10,8 @@ sections:
        - content: |-
            ### [Upcoming and Recurring Events](/events/upcoming-and-recurring)
  
-           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+           There are a few events that are just so great we have to bring them back every year. You don’t want to miss out on these ones… click here to learn more about our recurring events!
+
        - content: |-
            ### [Conferences](/events/conferences)
  
