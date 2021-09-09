@@ -20,20 +20,16 @@ sections:
     features:
       - title: Execs (Elections Closed)
         content: >-
-          Executive Members of ESS are elected in April of each year. Their term officially begins on May 1st and ends on April 30th of the following year. If there are any vacant positions, they will be filled during the Annual General Meeting. <br><br>
-          To apply,<br><br> 
-          <li>Fill out this nomination [form](documents/general/forms/Nomination-Form-.pdf)</li>
-          <li>Send it to [elections-ceo@uottawaess.ca](mailto:elections-ceo@uottawaess.ca)</li>
+          Executive members of the ESS are elected each academic year in March. Their term begins on May 1st and ends on April 30th the subsequent year. Any vacant positions will be filled through a by-election at the beginning of the fall term. <br><br>
+          To apply, fill out a nomination form during the announced nomination period by getting signatures from any 15 engineering students and send it to [elections-ceo@uottawaess.ca](mailto:elections-ceo@uottawaess.ca)
         align: left
         image: images/ess-elections.jpg
         image_alt: ESS Elections Poster
         image_position: left
       - title: Managers (Positions Filled)
         content: >-
-          ESS Managers are elected in April of each year. Their term officially begins on May 1st and ends on April 30th of the following year. If there are any vacant positions, they will be filled during the Annual General Meeting.<br><br>
-          To apply,<br><br>
-          <li>Send it to [elections-ceo@uottawaess.ca](mailto:elections-ceo@uottawaess.ca)</li>
-          <li>Show up at upcoming AGM where the elections will be ratified</li>
+          Managers are elected each academic year at the Annual General Meeting. Their term begins on May 1st and ends on April 30th the subsequent year.<br><br>
+          To apply, come to the Annual General Meeting on the announced date to run for your desired position.
         align: left
         image: images/ess-agm.jpg
         image_alt: ESS AGM Poster
@@ -44,33 +40,30 @@ sections:
     committees:
       - title: Charity Committee
         description: >-
-          IEEE represents computer engineering, software engineering, and electrical engineering students. IEEE welcomes all technology enthusiasts and strives to create a platform.
+          The Charity Committee is formed to assist our VP of Philanthropic Affairs with all things charity! Its members are responsible for suggesting charities to support, helping with events and best of all, helping plan the annual engineering charity ball!
 
 
-          Apply through this form: https://www.link-to-form.com
-      - title: Constitution Committee
+          Applications for this committee are currently closed.
+
+      - title: Selection Committee
         description: >-
-          IEEE represents computer engineering, software engineering, and electrical engineering students. IEEE welcomes all technology enthusiasts and strives to create a platform.
+          For each conference, delegates to represent uOttawa are selected by the selection committee. Members of this committee are tasked with reviewing applications anonymously and helping our VP external select delegates for several conferences throughout the academic year.
 
 
-          Apply through this form: https://www.link-to-form.com
-      - title: Design Committee
+          Applications for this committee are currently closed.
+
+      - title: UOEC Committee
         description: >-
-          IEEE represents computer engineering, software engineering, and electrical engineering students. IEEE welcomes all technology enthusiasts and strives to create a platform.
+          The University of Ottawa Engineering Competition happens every year in the fall semester. Each year, a committee of students is pulled together to assist our VP of Internal Affairs in the organization and execution of the event. 
 
 
-          Apply through this form: https://www.link-to-form.com
-      - title: Incident Response Committee
+          Keep an eye on our social media and website for applications information!
+
+      - title: Equity Committee / Roundtable
         description: >-
-          IEEE represents computer engineering, software engineering, and electrical engineering students. IEEE welcomes all technology enthusiasts and strives to create a platform.
+          Led by our VP Equity, the equity committee will serve as a support to all clubs. The meetings of the committee are open to all members in a roundtable form. 
+          
+          Keep an eye on our social media for information about meetings!
 
-
-          Apply through this form: https://www.link-to-form.com
-      - title: Transparency Committee
-        description: >-
-          IEEE represents computer engineering, software engineering, and electrical engineering students. IEEE welcomes all technology enthusiasts and strives to create a platform.
-
-
-          Apply through this form: https://www.link-to-form.com
 template: advanced
 ---

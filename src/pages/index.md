@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Welcome to the Engineering Students Society
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet nam at amet congue vel nunc. Arcu lobortis in facilisis ut ipsum volutpat gravida. 
+      The Engineering Students' Society is an organization run by students, for students. Our aim is to provide you, a uOttawa engineering student, with services, fun events, and much more! Want to know more? Click below for more information!
     actions:
       - label: Learn More
         url: /about/who-we-are

@@ -30,7 +30,7 @@ sections:
 
   - type: contact_section
     title: Send us a message
-    subtitle: Please feel free to leave your questions, feedback or suggestions
+    subtitle: Have a question? Have feedback? Just want to chat? Send us a message using the form below!
 
   - type: location_section
     location: 161 Louis-Pasteur Private A05, Ottawa, ON, K1N 6N5
