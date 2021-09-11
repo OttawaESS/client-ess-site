@@ -15,6 +15,13 @@
   display: flex;
 }
 
+.language__container {
+  display: block;
+  padding: 0.75rem 0;
+  border: 0;
+  background-color: transparent;
+}
+
 .logo__container {
   display: flex;
   justify-content: left;
@@ -68,7 +75,7 @@
   font-size: 1em;
   font-style: normal;
   line-height: 24px;
-  
+
   @media only screen and (max-width: 800px) {
     display: flex;
   }

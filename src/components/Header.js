@@ -11,8 +11,9 @@ import DownArrowHovered from "../../static/images/down-arrow-hovered.svg";
 export default class Header extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { itemHovered: false, itemLink: null };
+    this.state = { itemHovered: false, itemLink: null, language: "English" };
   }
+
   render() {
     return (
       <header className="site-header">
@@ -157,6 +158,54 @@ export default class Header extends React.Component {
                             );
                           }
                         )}
+                        <Dropdown
+                          overlay={
+                            <Menu defaultActiveFirst="en">
+                              <Menu.Item
+                                key="English"
+                                onClick={() =>
+                                  this.setState({ language: "English" })
+                                }
+                              >
+                                English
+                              </Menu.Item>
+                              <Menu.Item
+                                key="Français"
+                                onClick={() =>
+                                  this.setState({ language: "Français" })
+                                }
+                              >
+                                Français
+                              </Menu.Item>
+                            </Menu>
+                          }
+                        >
+                          <li
+                            className="navbar__item"
+                            onMouseEnter={() =>
+                              this.setState({
+                                itemHovered: true,
+                              })
+                            }
+                            onMouseLeave={() =>
+                              this.setState({
+                                itemHovered: false,
+                              })
+                            }
+                          >
+                            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
+                            <a>{this.state.language}</a>
+                            <img
+                              src={
+                                this.state.itemHovered
+                                  ? DownArrowHovered
+                                  : DownArrow
+                              }
+                              alt="down-arrow"
+                              className="down__arrow"
+                            />
+                          </li>
+                        </Dropdown>
                       </ul>
                     </div>
                   </div>
