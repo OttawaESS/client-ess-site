@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from '../sass/components/footer.module.scss';
+import translate from '../i18n/translate';
 
 export default class Footer extends React.Component {
     render() {
@@ -7,7 +8,7 @@ export default class Footer extends React.Component {
           <footer className={styles.siteFooter}>
           <nav className={styles.footerNav}>
             <nav className={styles.footerColumn1}>
-              <nav className={styles.footerHeader}>Engineering Students Society</nav>
+              <nav className={styles.footerHeader}>{translate("Engineering Students Society")}</nav>
               <nav className={styles.footerAddress}>
                 161 Louis-Pasteur Private A05<br></br>
                 Ottawa, ON<br></br>

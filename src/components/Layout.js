@@ -6,11 +6,15 @@ import { withPrefix, attribute } from "../utils";
 import "../sass/main.scss";
 import Header from "./Header";
 import Footer from "./Footer";
+import { I18nProvider, LOCALES } from '../i18n';
+// import translate from '../i18n/translate';
 
 export default class Body extends React.Component {
   render() {
+    const locale = LOCALES.FRENCH;
+
     return (
-      <React.Fragment>
+      <I18nProvider locale={locale}>
         <Helmet>
           <title>
             {_.get(this.props, "pageContext.frontmatter.seo.title", null)
@@ -98,7 +102,7 @@ export default class Body extends React.Component {
           </main>
           <Footer {...this.props} />
         </div>
-      </React.Fragment>
+      </I18nProvider>
     );
   }
 }
