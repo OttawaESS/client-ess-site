@@ -1,4 +1,5 @@
 import React from 'react';
+import { useIntl } from 'react-intl';
 import _ from 'lodash';
 import { Link } from 'gatsby'
 import { Carousel } from 'antd';
@@ -9,12 +10,16 @@ import styles from '../sass/components/banner.module.scss'
 export default function BannerSection(props) {
 
    let section = _.get(props, 'section', null);
-   
+   const locale = useIntl().locale;
+
    return (
        <section className="section section--banner">
          <BannerCarousel autoplay speed={1000} autoplaySpeed={5000}>
           {_.map(_.get(section, 'slides', null), (slide, slide_idx) => {
-              let slide_data = getData(props.pageContext.site.data, slide);
+              let slide_data = locale === 'fr-Ca' ? 
+                getData(props.pageContext.site.data, slide).fr :
+                getData(props.pageContext.site.data, slide).en;
+
               return (
                <div key={slide_idx}>
                <div className={styles.bannerComponent}>
@@ -25,7 +30,7 @@ export default function BannerSection(props) {
                    <span className={styles.date}>{slide_data.date}</span>
                    <span className={styles.description}>{slide_data.description}</span>
                    <Link to={slide_data.button_link}>
-                   <button>
+                   <button className="btn--secondary">
                        {slide_data.button_label}
                    </button>
                    </Link>

@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+import { useIntl } from 'react-intl';
 
 // import {getData, withPrefix, markdownify} from '../utils';
 import { Link } from 'gatsby'
@@ -10,6 +11,12 @@ import 'antd/dist/antd.css';
 import styles from '../sass/components/map.module.scss'
 
 const { Meta } = Card
+
+const icons = {
+    documents_icon : <FileOutlined className={styles.icon}/>,
+    services_icon: <PrinterOutlined className={styles.icon}/>,
+    resources_icon: <BulbOutlined className={styles.icon}/>,
+}
 
 const data = [
     {
@@ -34,24 +41,35 @@ const data = [
 
 export default function PageMapSection(props) {
     
+    let intl = useIntl();
+    
     let section = _.get(props, 'section', null);
+
+    const getCurrentLocale = () => { 
+      let locale = intl.locale;
+      return locale === 'fr-Ca' ? _.get(section, 'fr', null) : _.get(section, 'en', null)
+    }
+
+    let language = getCurrentLocale();
+    let title = _.get(language, 'title', null);
+    let cards = _.get(language, 'cards', null);
     
     return (
         <section className="section section--team">
-          {_.get(section, 'title', null) && (
+          {title && (
           <div className="container container--md align-center">
-            <h2 className="section__title">{_.get(section, 'title', null)}</h2>
+            <h2 className="section__title">{title}</h2>
           </div>
           )}
           <div className="container container--lg">
             <Row gutter={[32, 32]}>
-                {data.map((pageInfo, index) => {
+                {cards.map((pageInfo, index) => {
                     return (
                     <Col xs={24} md={12} lg={8} key={index}>
                         <Link to={pageInfo.link} className={styles.link}>
                             <Card className={styles.card} style={{ height: '100%' }} hoverable
                             >
-                                {pageInfo.illustration}
+                                {icons[pageInfo.illustration]}
                                 <Meta
                                 title={pageInfo.title}
                                 description={<Paragraph className={styles.cardBody} type="secondary">{pageInfo.description}</Paragraph>}
