@@ -1,11 +1,11 @@
 ---
 title: Home
-sections:
-  - type: hero_section
-    en:
-      title: Welcome to the Engineering Students Society 
-      subtitle: >- 
-        The Engineering Students' Society is an organization run by students, for students. Our aim is to provide you a uOttawa engineering student, with services, fun events, and much more! Want to know more? Click below for more information!
+en:
+  sections:
+    - type: hero_section
+      title: Welcome to the Engineering Students Society
+      subtitle: >-
+        The Engineering Students' Society is an organization run by students, for students. Our aim is to provide you, a uOttawa engineering student, with services, fun events, and much more! Want to know more? Click below for more information!
       actions:
         - label: Learn More
           url: /about/who-we-are
@@ -21,35 +21,14 @@ sections:
       background:
         background_color: white
 
-    fr:
-      title: Bienvenue à l'association des étudiants en génie
-      subtitle: >- 
-        L'association des étudiants en génie est une organisation dirigée par des étudiants, pour des étudiants. Notre objectif est de vous fournir, en tant qu'étudiant en génie de l'Université d'Ottawa, des services, des événements amusants, et bien plus encore ! Vous voulez en savoir plus ? Cliquez ci-dessous pour plus d'informations !
-      actions:
-        - label: En apprendre plus
-          url: /about/who-we-are
-          style: primary
-        - label: Impliquez-vous
-          url: /about/join-our-team
-          style: secondary
-      align: left
-      image: images/site-drawing.svg
-      image_alt: SITE Building Drawing
-      image_position: right
-      has_background: true
-      background:
-        background_color: white
-        
-        
-  - type: banner_section
-    slides:
-      - src/data/banner-slides/slide-1.yaml
-      - src/data/banner-slides/slide-2.yaml
-      - src/data/banner-slides/slide-1.yaml
-      - src/data/banner-slides/slide-2.yaml
-  
-  - type: page_map_section
-    en:
+    - type: banner_section
+      slides:
+        - src/data/banner-slides/slide-1.yaml
+        - src/data/banner-slides/slide-2.yaml
+        - src/data/banner-slides/slide-1.yaml
+        - src/data/banner-slides/slide-2.yaml
+
+    - type: page_map_section
       title: Quick Access
       cards:
         - title: Important Documents
@@ -69,8 +48,36 @@ sections:
             Need to rent a locker? Want to buy some cool ESS merch? Click here to learn about the services available to you as an ESS member!
           icon: services_icon
           link: /services
-          
-    fr:
+
+fr:
+  sections:
+    - type: hero_section
+      title: Bienvenue à l'association des étudiants en génie
+      subtitle: >-
+        L'association des étudiants en génie est une organisation dirigée par des étudiants, pour des étudiants. Notre objectif est de vous fournir, en tant qu'étudiant en génie de l'Université d'Ottawa, des services, des événements amusants, et bien plus encore ! Vous voulez en savoir plus ? Cliquez ci-dessous pour plus d'informations !
+      actions:
+        - label: Learn More
+          url: /about/who-we-are
+          style: primary
+        - label: Get Involved
+          url: /about/join-our-team
+          style: secondary
+      align: left
+      image: images/site-drawing.svg
+      image_alt: SITE Building Drawing
+      image_position: right
+      has_background: true
+      background:
+        background_color: white
+        
+    - type: banner_section
+      slides:
+        - src/data/banner-slides/slide-1.yaml
+        - src/data/banner-slides/slide-2.yaml
+        - src/data/banner-slides/slide-1.yaml
+        - src/data/banner-slides/slide-2.yaml
+
+    - type: page_map_section
       title: Accès rapide
       cards:
         - title: Document Importants
@@ -89,8 +96,8 @@ sections:
           description: >-
             Vous avez besoin de louer un casier ? Vous voulez acheter des produits de l'AEG ? Cliquez ici pour en savoir plus sur les services qui vous sont offerts en tant que membre de l'AEG !
           icon: services_icon
-          link: /services    
-
+          link: /services      
+          
 seo:
   title: ESS/AEG
   description: Welcome to the Engineering Student Society website
@@ -99,23 +106,24 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: ESS/AEG
+      value: Welcome to uOttawa's Engineering Student Society website
       keyName: property
     - name: 'og:description'
-      value: Welcome to the Engineering Student Society website
+      value: The Engineering Students' Society is an organization run by students, for students. Our aim is to provide you, a uOttawa engineering student, with services, fun events, and much more! Want to know more? Click below for more information!
       keyName: property
     - name: 'og:image'
       value: images/ess-logo.jpeg
       keyName: property
       relativeUrl: true
-    # - name: 'twitter:card'
-    #   value: summary_large_image
-    # - name: 'twitter:title'
-    #   value: Stackbit Starter Theme
-    # - name: 'twitter:description'
-    #   value: The preview of the Starter theme
-    # - name: 'twitter:image'
-    #   value: images/starter-preview.png
-    #   relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: Welcome to uOttawa's Engineering Student Society website
+    - name: 'twitter:description'
+      value: The Engineering Students' Society is an organization run by students, for students. Our aim is to provide you, a uOttawa engineering student, with services, fun events, and much more! Want to know more? Click below for more information!
+    - name: 'twitter:image'
+      value: images/ess-logo.jpeg
+      relativeUrl: true
+
 template: advanced
 ---

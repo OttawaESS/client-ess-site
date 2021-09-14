@@ -6,16 +6,16 @@ import { withPrefix, attribute } from "../utils";
 import "../sass/main.scss";
 import Header from "./Header";
 import Footer from "./Footer";
-import { I18nProvider, LOCALES } from '../i18n';
+// import { I18nProvider, LOCALES } from '../i18n';
 // import translate from '../i18n/translate';
 
 export default function Body(props) {
   
-  const locale = LOCALES.FRENCH;
+  // const locale = LOCALES.FRENCH;
 
   return (
     <React.Fragment>
-      <I18nProvider locale={locale}>
+      {/* <I18nProvider locale={locale}> */}
         <Helmet>
           <title>
             {_.get(props, "pageContext.frontmatter.seo.title", null)
@@ -103,7 +103,7 @@ export default function Body(props) {
           </main>
           <Footer {...props} />
         </div>
-      </I18nProvider>
+      {/* </I18nProvider> */}
     </React.Fragment>
   );
 }
