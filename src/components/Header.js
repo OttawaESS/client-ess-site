@@ -2,7 +2,7 @@
 import React from "react";
 import _ from "lodash";
 import Logo from "../../static/images/logo.svg";
-import { Dropdown, Menu } from "antd";
+import { Dropdown, Menu, Select } from "antd";
 import { Link, withPrefix, classNames } from "../utils";
 import Action from "./Action";
 import DownArrow from "../../static/images/down-arrow.svg";
@@ -11,8 +11,9 @@ import DownArrowHovered from "../../static/images/down-arrow-hovered.svg";
 export default class Header extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { itemHovered: false, itemLink: null };
+    this.state = { itemHovered: false, itemLink: null, language: "English" };
   }
+
   render() {
     return (
       <header className="site-header">
@@ -157,6 +158,26 @@ export default class Header extends React.Component {
                             );
                           }
                         )}
+                        <Select
+                          onChange={(value) => {
+                            this.setState({ language: value });
+                            console.log(this.state.language);
+                          }}
+                          defaultValue={this.state.language}
+                          className="navbar__item language__container"
+                          suffixIcon={
+                            <img
+                              src={DownArrow}
+                              alt="down-arrow"
+                              className="down__arrow"
+                            />
+                          }
+                        >
+                          <Select.Option value="English">English</Select.Option>
+                          <Select.Option value="Français">
+                            Français
+                          </Select.Option>
+                        </Select>
                       </ul>
                     </div>
                   </div>
