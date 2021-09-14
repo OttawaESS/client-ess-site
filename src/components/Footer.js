@@ -19,7 +19,7 @@ export default function Footer(props) {
       </nav>
       <nav className={styles.footerNav2}>
           <div>
-            <nav className={styles.footerHeader}>Find us on Social Media</nav>
+            <nav className={styles.footerHeader}>{translate("Find us on Social Media")}</nav>
             <div className={styles.social}>
               <a href="https://www.facebook.com/uottawaessaeg" target="_blank" rel="noopener noreferrer">
                 <img className={styles.socialIcon} src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/1200px-Facebook_icon_2013.svg.png" alt="Facebook Icon" width="28px" />

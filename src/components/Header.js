@@ -7,6 +7,7 @@ import { Link, withPrefix, classNames } from "../utils";
 import Action from "./Action";
 import DownArrow from "../../static/images/down-arrow.svg";
 import DownArrowHovered from "../../static/images/down-arrow-hovered.svg";
+import translate from "../i18n/translate";
 
 export default function Header(props) {
   
@@ -26,17 +27,17 @@ export default function Header(props) {
             <Link className="h4 navbar__title" to={withPrefix("/")}>
               <img src={Logo} alt="logo" className="navbar__logo" />
               <span>
-                {_.get(
+                {translate(_.get(
                   props,
                   "pageContext.site.siteMetadata.header.primary_title",
                   null
-                )}
+                ))}
               </span>
-              {_.get(
+              {translate(_.get(
                 props,
                 "pageContext.site.siteMetadata.header.secondary_title",
                 null
-              )}
+              ))}
             </Link>
           </div>
 
@@ -102,7 +103,7 @@ export default function Header(props) {
                                     key={`menu-item-${url}`}
                                     to={`${action.url}${url}`}
                                   >
-                                    <Menu.Item>{label}</Menu.Item>
+                                    <Menu.Item>{translate(label)}</Menu.Item>
                                   </Link>
                                 ))}
                               </Menu>

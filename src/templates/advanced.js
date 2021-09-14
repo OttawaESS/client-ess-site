@@ -1,7 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
-import { useIntl } from 'react-intl';
 
 import components, {Layout} from '../components/index';
 import { I18nProvider, LOCALES } from '../i18n';
@@ -17,13 +16,16 @@ export const query = graphql`
 `;
 
 export default function Advanced(props) {
-    // render() {
-    const locale = LOCALES.FRENCH;
-    console.log(_.get(props, 'pageContext.frontmatter.fr.sections', null));
+    
+  const locale = LOCALES.FRENCH;
+  let sections = locale === LOCALES.FRENCH ? 
+    _.get(props, 'pageContext.frontmatter.fr.sections', null) :
+    _.get(props, 'pageContext.frontmatter.en.sections', null)
+
     return (
         <I18nProvider locale={locale}>
           <Layout {...props}>
-          {_.map(_.get(props, 'pageContext.frontmatter.fr.sections', null), (section, section_idx) => {
+          {_.map(sections, (section, section_idx) => {
               let component = _.upperFirst(_.camelCase(_.get(section, 'type', null)));
               let Component = components[component];
               return (
@@ -33,5 +35,4 @@ export default function Advanced(props) {
           </Layout>
         </I18nProvider>
     );
-    // }
 }

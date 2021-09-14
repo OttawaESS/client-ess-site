@@ -56,10 +56,10 @@ fr:
       subtitle: >-
         L'association des étudiants en génie est une organisation dirigée par des étudiants, pour des étudiants. Notre objectif est de vous fournir, en tant qu'étudiant en génie de l'Université d'Ottawa, des services, des événements amusants, et bien plus encore ! Vous voulez en savoir plus ? Cliquez ci-dessous pour plus d'informations !
       actions:
-        - label: Learn More
+        - label: Apprendre plus
           url: /about/who-we-are
           style: primary
-        - label: Get Involved
+        - label: Impliquez-vous
           url: /about/join-our-team
           style: secondary
       align: left
