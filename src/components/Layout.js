@@ -6,18 +6,23 @@ import { withPrefix, attribute } from "../utils";
 import "../sass/main.scss";
 import Header from "./Header";
 import Footer from "./Footer";
+// import { I18nProvider, LOCALES } from '../i18n';
+// import translate from '../i18n/translate';
 
-export default class Body extends React.Component {
-  render() {
-    return (
-      <React.Fragment>
+export default function Body(props) {
+  
+  // const locale = LOCALES.FRENCH;
+
+  return (
+    <React.Fragment>
+      {/* <I18nProvider locale={locale}> */}
         <Helmet>
           <title>
-            {_.get(this.props, "pageContext.frontmatter.seo.title", null)
-              ? _.get(this.props, "pageContext.frontmatter.seo.title", null)
-              : _.get(this.props, "pageContext.frontmatter.title", null) +
+            {_.get(props, "pageContext.frontmatter.seo.title", null)
+              ? _.get(props, "pageContext.frontmatter.seo.title", null)
+              : _.get(props, "pageContext.frontmatter.title", null) +
                 " - " +
-                _.get(this.props, "pageContext.site.siteMetadata.title", null)}
+                _.get(props, "pageContext.site.siteMetadata.title", null)}
           </title>
           <meta charSet="utf-8" />
           <meta
@@ -29,35 +34,35 @@ export default class Body extends React.Component {
             name="description"
             content={
               _.get(
-                this.props,
+                props,
                 "pageContext.frontmatter.seo.description",
                 null
               ) || ""
             }
           />
-          {_.get(this.props, "pageContext.frontmatter.seo.robots", null) && (
+          {_.get(props, "pageContext.frontmatter.seo.robots", null) && (
             <meta
               name="robots"
               content={_.join(
-                _.get(this.props, "pageContext.frontmatter.seo.robots", null),
+                _.get(props, "pageContext.frontmatter.seo.robots", null),
                 ","
               )}
             />
           )}
           {_.map(
-            _.get(this.props, "pageContext.frontmatter.seo.extra", null),
+            _.get(props, "pageContext.frontmatter.seo.extra", null),
             (meta, meta_idx) => {
               let key_name = _.get(meta, "keyName", null) || "name";
               return _.get(meta, "relativeUrl", null) ? (
                 _.get(
-                  this.props,
+                  props,
                   "pageContext.site.siteMetadata.domain",
                   null
                 ) &&
                   (() => {
                     let domain = _.trim(
                       _.get(
-                        this.props,
+                        props,
                         "pageContext.site.siteMetadata.domain",
                         null
                       ),
@@ -82,23 +87,23 @@ export default class Body extends React.Component {
               );
             }
           )}
-          {_.get(this.props, "pageContext.site.siteMetadata.favicon", null) && (
+          {_.get(props, "pageContext.site.siteMetadata.favicon", null) && (
             <link
               rel="icon"
               href={withPrefix(
-                _.get(this.props, "pageContext.site.siteMetadata.favicon", null)
+                _.get(props, "pageContext.site.siteMetadata.favicon", null)
               )}
             />
           )}
         </Helmet>
         <div id="site-wrap" className="site">
-          <Header {...this.props} />
+          <Header {...props} />
           <main id="content" className="site-content">
-            {this.props.children}
+            {props.children}
           </main>
-          <Footer {...this.props} />
+          <Footer {...props} />
         </div>
-      </React.Fragment>
-    );
-  }
+      {/* </I18nProvider> */}
+    </React.Fragment>
+  );
 }

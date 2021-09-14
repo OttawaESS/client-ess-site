@@ -1,7 +1,15 @@
 id: slide-2
-title: After Hours
-date: February 29, 2021 @ 8:00 pm
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet nam
-image: images/site-drawing.svg
-button_link: /features
-button_label: Learn More
+en:
+  title: Disco Night
+  date: February 21, 2021 @ 8:00 pm
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet nam.
+  image: images/site-drawing.svg
+  button_link: /who-we-are
+  button_label: Learn More
+fr:
+  title: Soirée Disco
+  date: 21 Février, 2021 @ 8:00 pm
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet nam.
+  image: images/site-drawing.svg
+  button_link: /who-we-are
+  button_label: En apprendre plus
