@@ -24,5 +24,6 @@ export default {
         'Conferences': "Conferences",
         'Upcoming and Recurring Events' : "Upcoming and Recurring Events",
         'Engineering Students Society' : "Engineering Students Society",
+        'Find us on Social Media' : 'Find us on Social Media'
     }
 }
