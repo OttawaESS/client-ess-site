@@ -15,6 +15,13 @@
   display: flex;
 }
 
+.language__container {
+  span {
+    font-size: 1em;
+    color: $color-nav-link;
+  }
+}
+
 .logo__container {
   display: flex;
   justify-content: left;
@@ -68,7 +75,7 @@
   font-size: 1em;
   font-style: normal;
   line-height: 24px;
-  
+
   @media only screen and (max-width: 800px) {
     display: flex;
   }

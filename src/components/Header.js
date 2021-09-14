@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import _ from "lodash";
 import Logo from "../../static/images/logo.svg";
-import { Dropdown, Menu } from "antd";
+import { Dropdown, Menu, Select } from "antd";
 import { Link, withPrefix, classNames } from "../utils";
 import Action from "./Action";
 import DownArrow from "../../static/images/down-arrow.svg";
@@ -15,6 +15,8 @@ export default function Header(props) {
     itemHovered: false,
     itemLink: null,
   });
+  
+  const [language, setLanguage] = useState("English");
 
   return (
     <header className="site-header">
@@ -147,6 +149,7 @@ export default function Header(props) {
                               </Dropdown>
                             );
                           }
+                          
                           return (
                             <li
                               key={action_idx}
@@ -159,7 +162,28 @@ export default function Header(props) {
                           );
                         }
                       )}
-                    </ul>
+                      
+                      <Select
+                          onChange={(value) => {
+                            this.setLanguage(value);
+                          }}
+                          defaultValue={language}
+                          className="navbar__item language__container"
+                          suffixIcon={
+                            <img
+                              src={DownArrow}
+                              alt="down-arrow"
+                              className="down__arrow"
+                            />
+                          }
+                        >
+                          <Select.Option value="English">English</Select.Option>
+                          <Select.Option value="Français">
+                            Français
+                          </Select.Option>
+                        </Select>
+                        
+                    </ul>                    
                   </div>
                 </div>
               </div>
