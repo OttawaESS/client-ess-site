@@ -2,7 +2,7 @@
 import React from "react";
 import _ from "lodash";
 import Logo from "../../static/images/logo.svg";
-import { Dropdown, Menu } from "antd";
+import { Dropdown, Menu, Select } from "antd";
 import { Link, withPrefix, classNames } from "../utils";
 import Action from "./Action";
 import DownArrow from "../../static/images/down-arrow.svg";
@@ -158,54 +158,26 @@ export default class Header extends React.Component {
                             );
                           }
                         )}
-                        <Dropdown
-                          overlay={
-                            <Menu defaultActiveFirst="en">
-                              <Menu.Item
-                                key="English"
-                                onClick={() =>
-                                  this.setState({ language: "English" })
-                                }
-                              >
-                                English
-                              </Menu.Item>
-                              <Menu.Item
-                                key="Français"
-                                onClick={() =>
-                                  this.setState({ language: "Français" })
-                                }
-                              >
-                                Français
-                              </Menu.Item>
-                            </Menu>
-                          }
-                        >
-                          <li
-                            className="navbar__item"
-                            onMouseEnter={() =>
-                              this.setState({
-                                itemHovered: true,
-                              })
-                            }
-                            onMouseLeave={() =>
-                              this.setState({
-                                itemHovered: false,
-                              })
-                            }
-                          >
-                            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-                            <a>{this.state.language}</a>
+                        <Select
+                          onChange={(value) => {
+                            this.setState({ language: value });
+                            console.log(this.state.language);
+                          }}
+                          defaultValue={this.state.language}
+                          className="navbar__item language__container"
+                          suffixIcon={
                             <img
-                              src={
-                                this.state.itemHovered
-                                  ? DownArrowHovered
-                                  : DownArrow
-                              }
+                              src={DownArrow}
                               alt="down-arrow"
                               className="down__arrow"
                             />
-                          </li>
-                        </Dropdown>
+                          }
+                        >
+                          <Select.Option value="English">English</Select.Option>
+                          <Select.Option value="Français">
+                            Français
+                          </Select.Option>
+                        </Select>
                       </ul>
                     </div>
                   </div>

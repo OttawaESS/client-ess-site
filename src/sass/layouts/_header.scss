@@ -16,10 +16,10 @@
 }
 
 .language__container {
-  display: block;
-  padding: 0.75rem 0;
-  border: 0;
-  background-color: transparent;
+  span {
+    font-size: 1em;
+    color: $color-nav-link;
+  }
 }
 
 .logo__container {
