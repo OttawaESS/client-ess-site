@@ -4,59 +4,59 @@ import { Comment, Avatar } from 'antd';
 import { markdownify, withPrefix } from '../utils';
 import styled from 'styled-components';
 
-export default class ConferencesSection extends React.Component {
-    render() {
-        let section = _.get(this.props, 'section', null);
-        return (
-            <section className="section">              
-              <div className="container container--lg">
-                {_.get(section, 'title', null) && (
-                  <div className="container container--md align-center">
-                    <h2 className="section__title">{_.get(section, 'title', null)}</h2>
-                  </div>
-                )}
-                {_.map(_.get(section, 'conferences', null), (conference, conference_idx) => {
-                    return (
-                      <div key={conference_idx} className="section">
-                        <div className="container container--md">
-                        {_.get(conference, 'title', null) && (
-                          <h3 className="section__title align-center">{_.get(conference, 'title', null)}</h3>
-                        )}
-                        {_.get(conference, 'description', null) && (
-                          <div className="section__copy">
-                            {markdownify(_.get(conference, 'description', null))}
-                          </div>
-                        )}
-                        </div>
+export default function ConferencesSection(props) {
+    
+    let section = _.get(props, 'section', null);
 
-                        <div className="bg-gray x-sm-padding">
-                          {_.map(_.get(conference, 'testimonials', null), (testimonial, testimonial_idx) => {
-                            return (
-                              <div key={testimonial_idx}>
-                                <StyledComment
-                                author={testimonial.author}
-                                avatar={
-                                  <Avatar
-                                    size="large"
-                                    src={withPrefix(testimonial.author_picture)}
-                                    alt={testimonial.author}
-                                  />
-                                }
-                                content={
-                                  markdownify(testimonial.message)
-                                }
-                              /> 
-                              </div>
-                            )
-                          })}
-                        </div>
-                      </div>
-                    )
-                })}
+    return (
+        <section className="section">              
+          <div className="container container--lg">
+            {_.get(section, 'title', null) && (
+              <div className="container container--md align-center">
+                <h2 className="section__title">{_.get(section, 'title', null)}</h2>
               </div>
-            </section>
-        );
-    }
+            )}
+            {_.map(_.get(section, 'conferences', null), (conference, conference_idx) => {
+                return (
+                  <div key={conference_idx} className="section">
+                    <div className="container container--md">
+                    {_.get(conference, 'title', null) && (
+                      <h3 className="section__title align-center">{_.get(conference, 'title', null)}</h3>
+                    )}
+                    {_.get(conference, 'description', null) && (
+                      <div className="section__copy">
+                        {markdownify(_.get(conference, 'description', null))}
+                      </div>
+                    )}
+                    </div>
+
+                    <div className="bg-gray x-sm-padding">
+                      {_.map(_.get(conference, 'testimonials', null), (testimonial, testimonial_idx) => {
+                        return (
+                          <div key={testimonial_idx}>
+                            <StyledComment
+                            author={testimonial.author}
+                            avatar={
+                              <Avatar
+                                size="large"
+                                src={withPrefix(testimonial.author_picture)}
+                                alt={testimonial.author}
+                              />
+                            }
+                            content={
+                              markdownify(testimonial.message)
+                            }
+                          /> 
+                          </div>
+                        )
+                      })}
+                    </div>
+                  </div>
+                )
+            })}
+          </div>
+        </section>
+    );
 }
 
 const StyledComment = styled(Comment)`

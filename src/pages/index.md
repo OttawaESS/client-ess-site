@@ -2,9 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to the Engineering Students Society
-    subtitle: >-
-      The Engineering Students' Society is an organization run by students, for students. Our aim is to provide you, a uOttawa engineering student, with services, fun events, and much more! Want to know more? Click below for more information!
+    title: 
+      - en: Welcome to the Engineering Students Society
+        fr: Bienvenue à l'Association des Étudiants en Génie
+    subtitle:
+      - en: The Engineering Students' Society is an organization run by students, for students. Our aim is to provide you a uOttawa engineering student, with services, fun events, and much more! Want to know more? Click below for more information!
+        fr: La Société des étudiants en génie est une organisation dirigée par des étudiants, pour des étudiants. Notre objectif est de vous fournir, en tant qu'étudiant en génie de l'Université d'Ottawa, des services, des événements amusants, et bien plus encore ! Vous voulez en savoir plus ? Cliquez ci-dessous pour plus d'informations !
     actions:
       - label: Learn More
         url: /about/who-we-are
@@ -28,7 +31,7 @@ sections:
   
   - type: page_map_section
     title: Page Map
-    
+
 seo:
   title: ESS/AEG
   description: Welcome to the Engineering Student Society website

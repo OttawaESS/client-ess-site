@@ -7,62 +7,59 @@ import styled from 'styled-components';
 
 const { Meta } = Card;
 
-export default class TeamSection extends React.Component {
+export default function TeamSection(props) {
 
-    render() {
+    let section = _.get(props, 'section', null);
 
-        let section = _.get(this.props, 'section', null);
+    return (
+        <section className="section section--team">
+          {_.get(section, 'title', null) && (
+            <div className="container container--md align-center">
+              <h2 className="section__title">{_.get(section, 'title', null)}</h2>
+            </div>
+          )}
 
-        return (
-            <section className="section section--team">
-              {_.get(section, 'title', null) && (
-                <div className="container container--md align-center">
-                  <h2 className="section__title">{_.get(section, 'title', null)}</h2>
-                </div>
-              )}
-
-              <div className="container container--lg align-center">
-                <Row gutter={[32, 32]}>
-                  {_.map(_.get(section, 'team', null), (person, person_idx)=> {
-                    let person_data = getData(this.props.pageContext.site.data, person);
-                    
-                    return (
-                      <Col xs={24} sm={24} md={12} lg={8} key={person_idx}>
-                        <StyledCard
-                          style={{ 
-                            height: 'auto',
-                            justifyContent: 'center',
-                            alignItems: 'center',
-                            align: 'center',
-                            padding: 24
+          <div className="container container--lg align-center">
+            <Row gutter={[32, 32]}>
+              {_.map(_.get(section, 'team', null), (person, person_idx)=> {
+                let person_data = getData(props.pageContext.site.data, person);
+                
+                return (
+                  <Col xs={24} sm={24} md={12} lg={8} key={person_idx}>
+                    <StyledCard
+                      style={{ 
+                        height: 'auto',
+                        justifyContent: 'center',
+                        alignItems: 'center',
+                        align: 'center',
+                        padding: 24
+                      }}
+                      cover={
+                        <img
+                          alt="example"
+                          src={withPrefix(person_data.photo)}
+                          style={{
+                            width: 200,
+                            height: 200,
+                            maxWidth: '100%',
+                            WebkitBorderRadius: '50%',
+                            margin: 'auto',
                           }}
-                          cover={
-                            <img
-                              alt="example"
-                              src={withPrefix(person_data.photo)}
-                              style={{
-                                width: 200,
-                                height: 200,
-                                maxWidth: '100%',
-                                WebkitBorderRadius: '50%',
-                                margin: 'auto',
-                              }}
-                            />
-                          }
-                        >
-                          <Meta
-                            title={person_data.first_name + " " + person_data.last_name}
-                            description={markdownify(person_data.bio)}
-                          />
-                        </StyledCard>
-                      </Col>
-                      );
-                  })}
-                </Row>
-              </div>
-            </section>
-        );
-    }
+                        />
+                      }
+                    >
+                      <Meta
+                        title={person_data.first_name + " " + person_data.last_name}
+                        description={markdownify(person_data.bio)}
+                      />
+                    </StyledCard>
+                  </Col>
+                  );
+              })}
+            </Row>
+          </div>
+        </section>
+    );
 }
 
 const StyledCard = styled(Card)`

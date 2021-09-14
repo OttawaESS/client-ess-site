@@ -32,37 +32,37 @@ const data = [
     }
 ]
 
-export default class PageMapSection extends React.Component {
-    render() {
-        let section = _.get(this.props, 'section', null);
-        return (
-            <section className="section section--team">
-              {_.get(section, 'title', null) && (
-              <div className="container container--md align-center">
-                <h2 className="section__title">{_.get(section, 'title', null)}</h2>
-              </div>
-              )}
-              <div className="container container--lg">
-                <Row gutter={[32, 32]}>
-                    {data.map((pageInfo, index) => {
-                        return (
-                        <Col xs={24} md={12} lg={8} key={index}>
-                            <Link to={pageInfo.link} className={styles.link}>
-                                <Card className={styles.card} hoverable
-                                >
-                                    {pageInfo.illustration}
-                                    <Meta
-                                    title={pageInfo.title}
-                                    description={<Paragraph className={styles.cardBody} type="secondary">{pageInfo.description}</Paragraph>}
-                                    />
-                                </Card>
-                            </Link>
-                        </Col>
-                        )
-                    })}
-                </Row>
-              </div>
-            </section>
-        );
-    }
+export default function PageMapSection(props) {
+    
+    let section = _.get(props, 'section', null);
+    
+    return (
+        <section className="section section--team">
+          {_.get(section, 'title', null) && (
+          <div className="container container--md align-center">
+            <h2 className="section__title">{_.get(section, 'title', null)}</h2>
+          </div>
+          )}
+          <div className="container container--lg">
+            <Row gutter={[32, 32]}>
+                {data.map((pageInfo, index) => {
+                    return (
+                    <Col xs={24} md={12} lg={8} key={index}>
+                        <Link to={pageInfo.link} className={styles.link}>
+                            <Card className={styles.card} style={{ height: '100%' }} hoverable
+                            >
+                                {pageInfo.illustration}
+                                <Meta
+                                title={pageInfo.title}
+                                description={<Paragraph className={styles.cardBody} type="secondary">{pageInfo.description}</Paragraph>}
+                                />
+                            </Card>
+                        </Link>
+                    </Col>
+                    )
+                })}
+            </Row>
+          </div>
+        </section>
+    );
 }
