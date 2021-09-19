@@ -8,15 +8,14 @@ import Action from "./Action";
 import DownArrow from "../../static/images/down-arrow.svg";
 import DownArrowHovered from "../../static/images/down-arrow-hovered.svg";
 import translate from "../i18n/translate";
+import { LOCALES } from "../i18n";
 
 export default function Header(props) {
-  
+  const { setLocale } = props;
   const [linkState, setLinkState] = useState({
     itemHovered: false,
     itemLink: null,
   });
-  
-  const [language, setLanguage] = useState("English");
 
   return (
     <header className="site-header">
@@ -29,17 +28,21 @@ export default function Header(props) {
             <Link className="h4 navbar__title" to={withPrefix("/")}>
               <img src={Logo} alt="logo" className="navbar__logo" />
               <span>
-                {translate(_.get(
-                  props,
-                  "pageContext.site.siteMetadata.header.primary_title",
-                  null
-                ))}
+                {translate(
+                  _.get(
+                    props,
+                    "pageContext.site.siteMetadata.header.primary_title",
+                    null
+                  )
+                )}
               </span>
-              {translate(_.get(
-                props,
-                "pageContext.site.siteMetadata.header.secondary_title",
-                null
-              ))}
+              {translate(
+                _.get(
+                  props,
+                  "pageContext.site.siteMetadata.header.secondary_title",
+                  null
+                )
+              )}
             </Link>
           </div>
 
@@ -149,7 +152,7 @@ export default function Header(props) {
                               </Dropdown>
                             );
                           }
-                          
+
                           return (
                             <li
                               key={action_idx}
@@ -162,28 +165,29 @@ export default function Header(props) {
                           );
                         }
                       )}
-                      
+
                       <Select
-                          onChange={(value) => {
-                            this.setLanguage(value);
-                          }}
-                          defaultValue={language}
-                          className="navbar__item language__container"
-                          suffixIcon={
-                            <img
-                              src={DownArrow}
-                              alt="down-arrow"
-                              className="down__arrow"
-                            />
-                          }
-                        >
-                          <Select.Option value="English">English</Select.Option>
-                          <Select.Option value="Français">
-                            Français
-                          </Select.Option>
-                        </Select>
-                        
-                    </ul>                    
+                        onChange={(value) => {
+                          setLocale(value);
+                        }}
+                        defaultValue={LOCALES.FRENCH}
+                        className="navbar__item language__container"
+                        suffixIcon={
+                          <img
+                            src={DownArrow}
+                            alt="down-arrow"
+                            className="down__arrow"
+                          />
+                        }
+                      >
+                        <Select.Option value={LOCALES.ENGLISH}>
+                          English
+                        </Select.Option>
+                        <Select.Option value={LOCALES.FRENCH}>
+                          Français
+                        </Select.Option>
+                      </Select>
+                    </ul>
                   </div>
                 </div>
               </div>
