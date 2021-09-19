@@ -28,6 +28,13 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
+        },
+        {
+            resolve: 'gatsby-plugin-i18n',
+            options: {        
+                langKeyDefault: 'en',
+                useLangKeyLayout: false,
+            }
         }
     ]
 };

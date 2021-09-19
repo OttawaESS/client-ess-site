@@ -1,10 +1,5 @@
 import Action from './Action';
 import BannerSection from './BannerSection';
-import BlogFeedItemFilter from './BlogFeedItemFilter';
-import BlogFeedSection from './BlogFeedSection';
-import BlogPostCategories from './BlogPostCategories';
-import BlogPostFeedItem from './BlogPostFeedItem';
-import BlogPostTags from './BlogPostTags';
 import ConferencesSection from './ConferencesSection';
 import ContactSection from './ContactSection';
 import ContentSection from './ContentSection';
@@ -38,11 +33,6 @@ import Layout from './Layout';
 export {
     Action,
     BannerSection,
-    BlogFeedItemFilter,
-    BlogFeedSection,
-    BlogPostCategories,
-    BlogPostFeedItem,
-    BlogPostTags,
     ConferencesSection,
     ContactSection,
     ContentSection,
@@ -77,11 +67,6 @@ export {
 export default {
     Action,
     BannerSection,
-    BlogFeedItemFilter,
-    BlogFeedSection,
-    BlogPostCategories,
-    BlogPostFeedItem,
-    BlogPostTags,
     ConferencesSection,
     ContactSection,
     ContentSection,

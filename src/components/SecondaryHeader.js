@@ -2,6 +2,7 @@ import React from "react";
 import styles from "../sass/layouts/_secondary_header.module.scss";
 import { Link } from "../utils/";
 import _ from "lodash";
+import translate from "../i18n/translate";
 
 const SecondaryHeader = (props) => {
   const { nav_items, baseUrl } = _.get(props, "section", null);
@@ -18,7 +19,7 @@ const SecondaryHeader = (props) => {
             }`}
             key={`item-${label}`}
           >
-            <Link to={`${baseUrl || ""}${link}`}>{label}</Link>
+            <Link to={`${baseUrl || ""}${link}`}>{translate(label)}</Link>
           </div>
         ))}
       </div>

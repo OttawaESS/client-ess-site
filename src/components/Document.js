@@ -5,36 +5,35 @@ import styles from '../sass/components/document.module.scss';
 import styled from 'styled-components'
 import { Card } from 'antd';
 
-export default class Document extends React.Component {
-    render() {
-        return (
-            <div>
-               <Container className="docContainer">
+export default function Document(props) {
+
+    return (
+        <div>
+           <Container className="docContainer">
+               <div className={styles.meta}>
+                   <p>{props.document.date}</p>
+               </div>
+               <div className={styles.bold}>
+                   <p>{props.document.label}</p>
+               </div>
+               <div>
+                   <a className={styles.icon} href={withPrefix(props.document.path)} target = "_blank" rel="noreferrer" aria-label="view-document"><EyeOutlined /></a>
+                   <a className={styles.icon} href={withPrefix(props.document.path)} target = "_blank" rel="noreferrer" aria-label="download-document" download><DownloadOutlined /></a>
+               </div>
+           </Container>
+           
+           <MobileContainer>
+               <Card>
                    <div className={styles.meta}>
-                       <p>{this.props.document.date}</p>
+                       <span>{props.document.date}</span>
                    </div>
-                   <div className={styles.bold}>
-                       <p>{this.props.document.label}</p>
+                   <div className={styles.meta}>
+                       <a aria-label="view-document" href={withPrefix(props.document.path)}>{props.document.label}</a>
                    </div>
-                   <div>
-                       <a className={styles.icon} href={withPrefix(this.props.document.path)} target = "_blank" rel="noreferrer" aria-label="view-document"><EyeOutlined /></a>
-                       <a className={styles.icon} href={withPrefix(this.props.document.path)} target = "_blank" rel="noreferrer" aria-label="download-document" download><DownloadOutlined /></a>
-                   </div>
-               </Container>
-               
-               <MobileContainer>
-                   <Card>
-                       <div className={styles.meta}>
-                           <span>{this.props.document.date}</span>
-                       </div>
-                       <div className={styles.meta}>
-                           <a aria-label="view-document" href={withPrefix(this.props.document.path)}>{this.props.document.label}</a>
-                       </div>
-                    </Card>
-                </MobileContainer>
-            </div>
-        );
-    }
+                </Card>
+            </MobileContainer>
+        </div>
+    );
 }
 
 const Container = styled.div`

@@ -16,24 +16,24 @@
         "style": "link",
         "sub_links": [
           {
+            "label": "Who We Are",
+            "url": "/who-are-we"
+          },
+          {
             "label": "Affiliated Groups",
             "url": "/affiliated-groups"
           },
           {
-            "label": "Contact Us",
-            "url": "/contact-us"
+            "label": "Our Team",
+            "url": "/team"
           },
           {
             "label": "Join Our Team",
             "url": "/join-our-team"
           },
           {
-            "label": "Team",
-            "url": "/team"
-          },
-          {
-            "label": "Who Are We",
-            "url": "/who-are-we"
+            "label": "Contact Us",
+            "url": "/contact-us"
           }
         ]
       },
@@ -43,24 +43,24 @@
         "style": "link",
         "sub_links": [
           {
-            "label": "Important Documents",
-            "url": "/important-documents"
-          },
-          {
-            "label": "Accessibility",
-            "url": "/accessibility"
-          },
-          {
-            "label": "Incident Reports",
-            "url": "/incident-reports"
+            "label": "Scholarships and Careers",
+            "url": "/scholarships-and-careers"
           },
           {
             "label": "Initiatives And Support",
             "url": "/initiatives-and-support"
           },
           {
-            "label": "Scholarships and Careers",
-            "url": "/scholarships-and-careers"
+            "label": "Important Documents",
+            "url": "/important-documents"
+          },
+          {
+            "label": "Incident Reports",
+            "url": "/incident-reports"
+          },
+          {
+            "label": "Accessibility",
+            "url": "/accessibility"
           }
         ]
       },
