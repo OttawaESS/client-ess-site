@@ -16,6 +16,8 @@ export default function Header(props) {
     itemHovered: false,
     itemLink: null,
   });
+  const defaultLanguage =
+    typeof window !== "undefined" && window.localStorage.getItem("locale");
 
   return (
     <header className="site-header">
@@ -168,12 +170,12 @@ export default function Header(props) {
 
                       <Select
                         onChange={(value) => {
-                          localStorage.setItem("locale", value);
+                          if (typeof window !== "undefined") {
+                            window.localStorage.setItem("locale", value);
+                          }
                           setLocale(value);
                         }}
-                        defaultValue={
-                          localStorage.getItem("locale") || LOCALES.ENGLISH
-                        }
+                        defaultValue={defaultLanguage || LOCALES.ENGLISH}
                         className="navbar__item language__container"
                         suffixIcon={
                           <img
