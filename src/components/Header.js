@@ -168,9 +168,12 @@ export default function Header(props) {
 
                       <Select
                         onChange={(value) => {
+                          localStorage.setItem("locale", value);
                           setLocale(value);
                         }}
-                        defaultValue={LOCALES.FRENCH}
+                        defaultValue={
+                          localStorage.getItem("locale") || LOCALES.ENGLISH
+                        }
                         className="navbar__item language__container"
                         suffixIcon={
                           <img

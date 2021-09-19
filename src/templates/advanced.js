@@ -17,7 +17,7 @@ export const query = graphql`
 `;
 
 export default function Advanced(props) {
-  const [locale, setLocale] = useState(LOCALES.FRENCH);
+  const [locale, setLocale] = useState(localStorage.getItem("locale"));
   let sections =
     locale === LOCALES.FRENCH
       ? _.get(props, "pageContext.frontmatter.fr.sections", null)
