@@ -44,7 +44,9 @@ export default function ConferencesSection(props) {
                               />
                             }
                             content={
-                              markdownify(testimonial.message)
+                              <blockquote>
+                                {markdownify(testimonial.message)}
+                              </blockquote>
                             }
                           /> 
                           </div>
