@@ -3,8 +3,7 @@ first_name: Chloe
 last_name: Bergeron
 photo: images/team/president.jpeg
 photo_alt: Chloe Bergeron
-position: President
+position:
+  en: President
+  fr: Présidente
 email: president@uottawaess.ca
-bio: >-
-  President <br>
-  [president@uottawaess.ca](mailto:president@uottawaess.ca)

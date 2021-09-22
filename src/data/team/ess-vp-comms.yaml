@@ -3,8 +3,7 @@ first_name: Kaleigh
 last_name: Ionadi
 photo: images/team/vp-comms.png
 photo_alt: Kaleigh Ionadi
-position: Vice President of Communications
+position:
+  en: Vice President of Communications
+  fr: Vice-présidente des communications
 email: communications@uottawaess.ca
-bio: >-
-  Vice President of Communications <br>
-  [communications@uottawaess.ca](mailto:communications@uottawaess.ca)

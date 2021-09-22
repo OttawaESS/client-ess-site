@@ -3,8 +3,7 @@ first_name: Sally
 last_name: Raad
 photo: images/team/vp-internal.png
 photo_alt: Sally Raad
-position: Vice President of Internal Affairs
+position:
+  en: Vice President of Internal Affairs
+  fr: Vice-présidente des affaires internes
 email: internal@uottawaess.ca
-bio: >-
-  Vice President of Internal Affairs <br>
-  [internal@uottawaess.ca](mailto:internal@uottawaess.ca)

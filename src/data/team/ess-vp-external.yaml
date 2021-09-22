@@ -3,8 +3,7 @@ first_name: Kayla
 last_name: Phillips
 photo: images/team/vp-external.png
 photo_alt: Kayla Phillips
-position: Vice President of External Affairs
+position:
+  en: Vice President of External Affairs
+  fr: Vice-présidente des affaires extérieures
 email: external@uottawaess.ca
-bio: >-
-  Vice President of External Affairs <br>
-  [external@uottawaess.ca](mailto:external@uottawaess.ca)

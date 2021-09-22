@@ -4,12 +4,13 @@ import 'antd/dist/antd.css';
 import { Card, Col, Row} from 'antd';
 import {getData, withPrefix} from '../utils';
 import styled from 'styled-components';
-// import { useIntl } from 'react-intl';
+import { useIntl } from 'react-intl';
 const { Meta } = Card;
 
 export default function TeamSection(props) {
 
     let section = _.get(props, 'section', null);
+    let currentLocale = useIntl().locale;
 
     return (
         <section className="section section--team">
@@ -53,7 +54,7 @@ export default function TeamSection(props) {
                         description={
                           <p>
                             <span>
-                              {person_data.position}
+                              {currentLocale === 'fr-Ca' ? person_data.position.fr : person_data.position.en}
                             </span>
                             <br/>
                             <span>

@@ -3,8 +3,7 @@ first_name: Julian
 last_name: Ward
 photo: images/team/vp-phil.jpeg
 photo_alt: Julian Ward
-position: Vice President of Philanthropic
+position:
+  en: Vice President of Philanthropic
+  fr: Vice-président de la philanthropie
 email: philanthropic@uottawaess.ca
-bio: >-
-  Vice President of Philanthropic <br>
-  [philanthropic@uottawaess.ca](mailto:philanthropic@uottawaess.ca)

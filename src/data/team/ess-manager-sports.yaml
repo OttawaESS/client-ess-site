@@ -3,8 +3,7 @@ first_name: Adam
 last_name: Walter
 photo: images/team/manager-sports.jpeg
 photo_alt: Adam Walter
-position: Manager of Sports
+position:
+  en: Manager of Sports
+  fr: Directeur des sports
 email: sports@uottawaess.ca
-bio: >-
-  Manager of Sports <br>
-  [sports@uottawaess.ca](mailto:sports@uottawaess.ca)
