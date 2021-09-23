@@ -34,11 +34,11 @@ en:
       content: >-
         #### We're open on:
 
-        **Monday:** 8:30am – 11:30am, 5:30pm – 8:30pm
-        **Tuesday:** 1:00pm – 5:30pm, 7:00pm – 8:30pm
-        **Wednesday:** 1:00pm – 2:30pm, 4:00pm – 7:00pm
-        **Thursday:** 11:30am – 1:00pm, 4:00pm – 5:30pm
-        **Friday:** 10:00am – 1:00pm, 4:00pm – 5:30pm
+        **Monday:** 8:30am – 11:30am, 5:30pm – 8:30pm<br>
+        **Tuesday:** 1:00pm – 5:30pm, 7:00pm – 8:30pm<br>
+        **Wednesday:** 1:00pm – 2:30pm, 4:00pm – 7:00pm<br>
+        **Thursday:** 11:30am – 1:00pm, 4:00pm – 5:30pm<br>
+        **Friday:** 10:00am – 1:00pm, 4:00pm – 5:30pm<br>
 
   
     - type: contact_section
