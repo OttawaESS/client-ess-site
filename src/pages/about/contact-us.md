@@ -28,6 +28,18 @@ en:
     - type: image_section
       image: images/office-hours/2020-2021-W.jpeg
       alt_image: Office Hours 2020-2021
+
+    - type: content_section
+      align: center
+      content: >-
+        #### We're open on:
+
+        **Monday:** 8:30am – 11:30am, 5:30pm – 8:30pm
+        **Tuesday:** 1:00pm – 5:30pm, 7:00pm – 8:30pm
+        **Wednesday:** 1:00pm – 2:30pm, 4:00pm – 7:00pm
+        **Thursday:** 11:30am – 1:00pm, 4:00pm – 5:30pm
+        **Friday:** 10:00am – 1:00pm, 4:00pm – 5:30pm
+
   
     - type: contact_section
       title: Send us a message
@@ -67,6 +79,17 @@ fr:
       image: images/office-hours/2020-2021-W.jpeg
       alt_image: Office Hours 2020-2021
   
+    - type: content_section
+      align: center
+      content: >-
+        #### Nous sommes ouverts:
+
+        **Lundi:** 8h30 – 11h30, 17h30 – 20h30 <br>
+        **Mardi:** 13h – 17h30, 19h – 20h30 <br>
+        **Mercredi:** 13h – 14h30, 16h – 19h <br>
+        **Jeudi:** 11h30 – 13h, 16h – 17h30 <br>
+        **Vendredi:** 10h – 13h, 16h – 17h30 <br>
+
     - type: contact_section
       title: Send us a message
       subtitle: Have a question? Have feedback? Just want to chat? Send us a message using the form below!

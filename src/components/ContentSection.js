@@ -9,7 +9,7 @@ export default function ContentSection(props) {
 
     return (
         <section className="section">
-          <div className={classNames("container", {'container--md': _.get(section, 'container', null) === 'medium'}, {'container--lg': _.get(section, 'container', null) !== 'medium'})}>
+          <div className={classNames("container", {'container--md': _.get(section, 'container', null) === 'medium'}, {'container--lg': _.get(section, 'container', null) !== 'medium'}, {'align-center': _.get(section, 'align', null) === 'center'})}>
             {_.get(section, 'title', null) && (
             <h2 className="section__title align-center">{_.get(section, 'title', null)}</h2>
             )}
