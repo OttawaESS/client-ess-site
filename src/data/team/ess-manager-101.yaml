@@ -3,6 +3,7 @@ first_name: Ben
 last_name: Leeder
 photo: images/team/manager-101.jpg
 photo_alt: Ben Leeder
-bio: >-
-  Manager of 101 Week <br>
-  [101wkcoordinator@uottawaess.ca](mailto:101wkcoordinator@uottawaess.ca)
+position:
+  en: Manager of 101 Week
+  fr: Directeur de la Semaine 101
+email: 101wkcoordinator@uottawaess.ca

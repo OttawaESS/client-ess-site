@@ -3,6 +3,7 @@ first_name: Anjaliya
 last_name: Sonnilal
 photo: images/team/vp-social.png
 photo_alt: Anjaliya Sonnilal
-bio: >-
-  Vice President of Communications <br>
-  [social@uottawaess.ca](mailto:social@uottawaess.ca)
+position:
+  en: Vice President of Social Affairs
+  fr: Vice-présidente des affaires sociales
+email: social@uottawaess.ca

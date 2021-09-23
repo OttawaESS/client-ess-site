@@ -3,6 +3,7 @@ first_name: Yzabelle
 last_name: Bisa
 photo: images/team/vp-services.jpg
 photo_alt: Yzabelle Bisa
-bio: >-
-  Vice President of Services <br>
-  [merch@uottawaess.ca](mailto:merch@uottawaess.ca)
+position: 
+  en: Vice President of Services
+  fr: Vice-présidente des services
+email: merch@uottawaess.ca

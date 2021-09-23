@@ -3,6 +3,7 @@ first_name: Ayan
 last_name: Aden
 photo: images/team/manager-translations.png
 photo_alt: Ayan Aden
-bio: >-
-  Manager of Translations <br>
-  [translations@uottawaess.ca](mailto:translations@uottawaess.ca)
+position:
+  en: Manager of Translations
+  fr: Directrice des traductions
+email: translations@uottawaess.ca

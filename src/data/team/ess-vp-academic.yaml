@@ -3,6 +3,7 @@ first_name: José
 last_name: Barragán
 photo: images/team/vp-academic.png
 photo_alt: José Barragán
-bio: >-
-  Vice President of Academic Affairs <br>
-  [academic@uottawaess.ca](mailto:academic@uottawaess.ca)
+position:
+  en: Vice President of Academic Affairs
+  fr: Vice-président des affaires académiques
+email: academic@uottawaess.ca

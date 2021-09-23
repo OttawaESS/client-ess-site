@@ -2,14 +2,15 @@ import React from 'react';
 import _ from 'lodash';
 import 'antd/dist/antd.css';
 import { Card, Col, Row} from 'antd';
-import {getData, withPrefix, markdownify} from '../utils';
+import {getData, withPrefix} from '../utils';
 import styled from 'styled-components';
-
+import { useIntl } from 'react-intl';
 const { Meta } = Card;
 
 export default function TeamSection(props) {
 
     let section = _.get(props, 'section', null);
+    let currentLocale = useIntl().locale;
 
     return (
         <section className="section section--team">
@@ -50,7 +51,19 @@ export default function TeamSection(props) {
                     >
                       <Meta
                         title={person_data.first_name + " " + person_data.last_name}
-                        description={markdownify(person_data.bio)}
+                        description={
+                          <p>
+                            <span>
+                              {currentLocale === 'fr-Ca' ? person_data.position.fr : person_data.position.en}
+                            </span>
+                            <br/>
+                            <span>
+                              <a href={`mailto:${person_data.email}`} target="_blank" rel="noopener noreferrer">
+                                {person_data.email}
+                              </a>
+                            </span>
+                          </p>          
+                        }
                       />
                     </StyledCard>
                   </Col>

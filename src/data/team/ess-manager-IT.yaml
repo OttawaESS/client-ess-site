@@ -3,6 +3,7 @@ first_name: Justin
 last_name: Dudtschak
 photo: images/team/manager-IT.png
 photo_alt: Justin Dudtschak
-bio: >-
-  Manager of Information Technology <br>
-  [admin@uottawaess.ca](mailto:admin@uottawaess.ca)
+position:
+  en: Manager of Information Technology
+  fr: Directeur des technologies de l'information 
+email: admin@uottawaess.ca
