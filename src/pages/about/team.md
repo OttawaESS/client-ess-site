@@ -59,24 +59,24 @@ fr:
     - type: secondary_header
       baseUrl: /about
       nav_items:
-        - label: Who We Are
+        - label: Qui Nous-Sommes
           link: /who-are-we
-        - label: Our Team
+        - label: Notre Équipe
           link: /team
-        - label: Join Our Team
+        - label: Joignez-vous à notre équipe
           link: /join-our-team
-        - label: Affiliated Groups
+        - label: Groupes Affiliées
           link: /affiliated-groups
-        - label: Contact Us
+        - label: Contactez-Nous
           link: /contact-us
     - type: page_title
-      title: Our Team
+      title: Notre Équipe
     - type: content_section
       content: >-
-        **Executive members** of the ESS are elected each academic year in March. Their term begins on May 1st and ends on April 30th the subsequent year. 
+        Les **Membres Exécutifs** de l’AÉG sont élus chaque année en mars. Leur mandat commence le 1er mai et se termine le 30 avril de l'année suivante. 
   
-  
-        **Managers** are elected each academic year at the Annual General Meeting. Their term begins on May 1st and ends on April 30th the subsequent year.
+
+        Les **Directeurs** sont élus chaque année lors de l'Assemblée générale annuelle. Leur mandat commence le 1er mai et se termine le 30 avril de l'année suivante.
     # - type: positions_slider
     #   title: Available Positions
     #   positions:
@@ -90,7 +90,7 @@ fr:
     #     content: >-
     #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim integer augue justo morbi ut arcu, diam, luctus ante. Velit tristique risus sit dignissim nam lacus, id molestie velit.
     - type: team_section
-      title: Meet the Team
+      title: Rencontrez l’équipe
       team:
         - src/data/team/ess-president.yaml
         - src/data/team/ess-vp-external.yaml
