@@ -55,15 +55,15 @@ fr:
     - type: secondary_header
       baseUrl: /about
       nav_items:
-        - label: Qui Nous-Sommes
+        - label: Who We Are
           link: /who-are-we
-        - label: Notre Équipe
+        - label: Our Team
           link: /team
-        - label: Joignez-vous à notre équipe
+        - label: Join Our Team
           link: /join-our-team
-        - label: Groupes Affiliées
+        - label: Affiliated Groups
           link: /affiliated-groups
-        - label: Contactez-Nous
+        - label: Contact Us
           link: /contact-us
   
     - type: page_title
