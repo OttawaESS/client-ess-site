@@ -44,33 +44,33 @@ fr:
       title: Services
       image: images/services-hero-bg-pic.jpeg
     - type: flat_cards_section
-      title: Our Services
+      title: Nos Services
       cards:
-        - title: Printing (Free)
+        - title: Impression (Gratuite)
           image: images/services/printing.jpeg
           description: >-
-            Forgot to print your assignment? Need some class notes at the last minute? We’ve got you covered! Come on down to the ESS office and we’ll print up to 30 pages for you, in black and white or colour, absolutely free!
+            Avez-vous oublié d'imprimer votre devoir ? Vous avez besoin de notes de cours à la dernière minute ? Nous avons ce qu'il vous faut ! Passez au bureau de l'AÉG et nous imprimerons jusqu'à 30 pages pour vous, en noir et blanc ou en couleur, absolument gratuitement !
 
-        - title: Locker Rental (Free)
+        - title: Location de Casiers (Gratuit)
           image: images/services/locker.jpeg
           description: >-
-            Tired of carrying all those pesky textbooks back and forth with you to campus? We’ve got you covered! Locker rentals for the 2021/2022 academic year are free of charge so come on down to the office and reserve one Today!    
+            Vous en avez assez de transporter vos manuels scolaires sur le campus ? Nous avons ce qu'il vous faut ! La location de casiers pour l'année académique 2021/2022 est gratuite, alors venez au bureau et réservez-en un dès aujourd'hui !  
 
-        - title: Merchandise
+        - title: Marchandise
           image: images/services/merch.png
           description: >-
-            Ready to gear up like an engineer? Come to the ESS office to check out all our cool merch! From hoodies to hats and patches, we’ve got something for everyone! Merch can also be purchased through our online store.
+            Prêt à t'équiper comme un ingénieur ? Viens au bureau de l'AÉG pour voir tous nos produits dérivés ! Des sweats à capuche, des casquettes, des écussons, il y en a pour tous les goûts ! Les articles peuvent également être achetés dans notre boutique en ligne.
             
-        - title: Equipment Rentals ($50/Day)
+        - title: Location d'Équipement (50 $/Jour)
           image: images/services/equipments.png
           description: >-
-            Need some equipment? We might be able to help! ESS offers rentals for projectors, speakers, and tables for just $50 per day! Come on down to the office for more information.
+            Vous avez besoin d'un équipement ? Nous pouvons peut-être vous aider ! L’AÉG offre la possibilité de louer des projecteurs, des haut-parleurs et des tables pour seulement 50 $ par jour ! Passez au bureau pour plus d'informations.
     - type: cta_section
-      title: Shop Our Merch Online
+      title: Achetez nos produits en ligne
       subtitle: >-
-        Our online store is now open! Get ready to gear up like an engineer with our signature pretty patches, cool crewnecks, awesome accessories, and so much more!
+        Notre boutique en ligne est maintenant ouverte! Préparez-vous à vous équiper comme un ingénieur avec nos jolis écussons emblématiques, nos cols ras du cou cool, nos accessoires géniaux et bien plus encore !
       actions:
-        - label: Shop Now
+        - label: Achetez maintenant
           url: https://engineering-students-society.square.site/
           style: primary
       has_background: true
