@@ -44,13 +44,13 @@ fr:
       nav_items:
         - label: Important documents
           link: /important-documents
-        - label: Accessibility
+        - label: Accessibilité
           link: /accessibility
         - label: Rapport d'Incident
           link: /incident-reports
         - label: Initiatives and Support
           link: /initiatives-and-support
-        - label: Scholarships and careers
+        - label: Bourses et Carrières
           link: /scholarships-and-careers
     - type: page_title
       title: Rapport d'Incident

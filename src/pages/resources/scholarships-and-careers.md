@@ -67,9 +67,9 @@ fr:
       nav_items:
         - label: Important documents
           link: /important-documents
-        - label: Accessibility
+        - label: Accessibilité
           link: /accessibility
-        - label: Incident reports
+        - label: Rapport d'Incident
           link: /incident-reports
         - label: Initiatives and Support
           link: /initiatives-and-support
