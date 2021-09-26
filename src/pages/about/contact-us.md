@@ -23,7 +23,7 @@ en:
       content: >-
         #### Office Hours (Fall 2021)
   
-        Wnat to know more about ESS? Got a school question you need help with? Or just want to chat? Come see us during our office hours.
+        Want to know more about ESS? Got a school question you need help with? Or just want to chat? Come see us during our office hours.
   
     - type: image_section
       image: images/office-hours/2020-2021-W.jpeg
@@ -67,13 +67,13 @@ fr:
           link: /contact-us
   
     - type: page_title
-      title: Contact Us
+      title: Contactez-Nous
   
     - type: content_section
       content: >-
         #### Office Hours (Fall 2021)
   
-        Wnat to know more about ESS? Got a school question you need help with? Or just want to chat? Come see us during our office hours.
+        Vous voulez en savoir plus sur l'AÉG ? Vous avez besoin d'aide pour une question scolaire ? Tu veux simplement bavarder ? Viens voir nos exécutifs pendant leurs heures de bureau !
   
     - type: image_section
       image: images/office-hours/2020-2021-W.jpeg
@@ -91,8 +91,8 @@ fr:
         **Vendredi:** 10h – 13h, 16h – 17h30 <br>
 
     - type: contact_section
-      title: Send us a message
-      subtitle: Have a question? Have feedback? Just want to chat? Send us a message using the form below!
+      title: Envoie-nous un message
+      subtitle: Vous avez une question ? Un commentaire ? Vous voulez simplement discuter ? Envoyez-nous un message en utilisant le formulaire ci-dessous !
   
     - type: location_section
       location: 161 Louis-Pasteur Private A05, Ottawa, ON, K1N 6N5

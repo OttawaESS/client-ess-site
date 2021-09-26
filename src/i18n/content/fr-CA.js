@@ -24,6 +24,12 @@ export default {
         'Conferences': "Conférences",
         'Upcoming and Recurring Events' : "Événements prochains et récurrents",
         'Engineering Students Society' : "Association des étudiants en Génie",
-        'Find us on Social Media' : 'Nos réseaux sociaux'
+        'Find us on Social Media' : 'Nos réseaux sociaux',
+        'All fields marked with' : "Les champs marqués par",
+        'are required' : "sont requis",
+        'Name' : "Nom",
+        'Subject' : "Sujet",
+        'consent_message' : "Je comprends que ce formulaire stocke les informations que j'ai soumises afin que je puisse être contacté(e).",
+        'Submit' : "Soumettre"        
     }
 }

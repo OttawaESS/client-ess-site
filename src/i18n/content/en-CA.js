@@ -24,6 +24,12 @@ export default {
         'Conferences': "Conferences",
         'Upcoming and Recurring Events' : "Upcoming and Recurring Events",
         'Engineering Students Society' : "Engineering Students Society",
-        'Find us on Social Media' : 'Find us on Social Media'
+        'Find us on Social Media' : 'Find us on Social Media',
+        'All fields marked with' : "All fields marked with",
+        'are required' : "are required",
+        'Name' : "Name",
+        'Subject' : "Subject",
+        'consent_message' : "I understand that this form is storing my submitted information so I can be contacted.",
+        'Submit' : "Submit" 
     }
 }
