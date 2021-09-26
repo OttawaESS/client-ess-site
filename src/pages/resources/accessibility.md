@@ -18,10 +18,6 @@ en:
     - type: page_title
       title: Accessibility
 
-    - type: content_section
-      content: >-
-        The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
-
     - type: grid_section
       grid_items:
         - content: |-
@@ -59,31 +55,28 @@ fr:
         - label: Scholarships and careers
           link: /scholarships-and-careers
     - type: page_title
-      title: Accessibility
-
-    - type: content_section
-      content: >-
-        The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
-
+      title: Accessibilité
     - type: grid_section
       grid_items:
         - content: |-
-            #### Media Initiatives
+            #### Initiatives Médiatiques
 
-            At ESS, our goal is to make sure information is equally accessible to all students. With this goal in mind, we include an accessible description of graphics on all our social media posts and try to avoid posting images on our “stories” with no text. Think we can do better? Send us a message and let us know!
+            À l'AÉG, notre objectif est de faire en sorte que l'information soit également accessible à tous les étudiants. Dans cette optique, nous incluons une description accessible des graphiques dans tous nos messages sur les médias sociaux et nous essayons d'éviter d'afficher des images sur nos "histoires" sans texte. Vous pensez que nous pouvons faire mieux ? Envoyez-nous un message et faites-le nous savoir !
         - content: |-
-            #### Accommodation Form
+            #### Formulaire d'Hébergement
 
-            We want to ensure all students can attend and enjoy our events with ease. Need an accommodation? Fill out the form below to let us know, so we can make your experience as comfortable as possible!
+            Nous voulons nous assurer que tous les étudiants peuvent assister à nos événements et en profiter facilement. Vous avez besoin d'un aménagement ? Remplissez le formulaire ci-dessous pour nous le faire savoir, afin que nous puissions rendre votre expérience aussi confortable que possible !
         - content: |-
-            #### Bilingual Options
+            #### Options Bilingues
 
-            As a Registered Student Government (RSG) at a bilingual university, we strive to make sure you can access information in your preferred language. All social media posts and website content is available in both French and English, and many of our officers are bilingual and are happy to help during our office hours.
+            En tant que gouvernement étudiant enregistré (RSG) dans une université bilingue, nous nous efforçons de faire en sorte que vous puissiez accéder aux informations dans la langue de votre choix. Tous les messages sur les médias sociaux et le contenu du site Web sont disponibles en français et en anglais, et plusieurs de nos agents sont bilingues et sont heureux de vous aider pendant nos heures de bureau.
       grid_cols: two
       grid_gap_horiz: large
       grid_gap_vert: large
       enable_cards: false
       align: center
-      background_color: none      
+      background_color: none  
+
+
 template: advanced
 ---
