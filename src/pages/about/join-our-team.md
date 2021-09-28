@@ -70,15 +70,15 @@ fr:
     - type: secondary_header
       baseUrl: /about
       nav_items:
-        - label: Who We Are
+        - label: Qui sommes-nous
           link: /who-are-we
-        - label: Our Team
+        - label: Notre équipe
           link: /team
-        - label: Join Our Team
+        - label: Joignez notre équipe
           link: /join-our-team
-        - label: Affiliated Groups
+        - label: Groupes affiliés
           link: /affiliated-groups
-        - label: Contact Us
+        - label: Contactez-nous
           link: /contact-us
     - type: page_title
       title: Joignez-vous à notre équipe
