@@ -1,15 +1,15 @@
 id: slide-1
 en:
-  title: Disco Night
-  date: February 21, 2021 @ 8:00 pm
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet nam
+  title: ESS By-Elections
+  date: Nomination period ends October 2nd
+  description: ESS is hosting by-elections for the VP Equity and VP Academic positions. If you would like to run for any of these positions, please submit a nomination form to ekarp086@uottawa.ca by October 2nd, 2021. To learn more about the roles, click below to check out our constitution.
   image: images/site-drawing.svg
-  button_link: /who-we-are
+  button_link: /resources/important-documents
   button_label: Learn More
 fr:
-  title: Soirée Disco
-  date: 21 Février, 2021 @ 8:00 pm
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet nam
+  title: Élections Partielles AÉG
+  date: Période de Nomination est fini le 2 octobre
+  description: L’AÉG organise les élections partielles pour les rôles VP Équité et VP des affaires académiques. Si vous voulez être candidat(e) pour une de ces positions, veuillez soumettre s'il vous plaît un formulaire de candidature à ekarp086@uottawa.ca d'ici le 2 Octobre, 2021. Pour en apprendre plus au sujet de ces rôles, cliquez en bas pour jeter un coup d’œil à notre constitution.
   image: images/site-drawing.svg
-  button_link: /who-we-are
+  button_link: /resources/important-documents
   button_label: En apprendre plus

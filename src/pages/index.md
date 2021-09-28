@@ -25,8 +25,8 @@ en:
       slides:
         - src/data/banner-slides/slide-1.yaml
         - src/data/banner-slides/slide-2.yaml
-        - src/data/banner-slides/slide-1.yaml
-        - src/data/banner-slides/slide-2.yaml
+        - src/data/banner-slides/slide-3.yaml
+        - src/data/banner-slides/slide-4.yaml
 
     - type: page_map_section
       title: Quick Access
@@ -74,8 +74,8 @@ fr:
       slides:
         - src/data/banner-slides/slide-1.yaml
         - src/data/banner-slides/slide-2.yaml
-        - src/data/banner-slides/slide-1.yaml
-        - src/data/banner-slides/slide-2.yaml
+        - src/data/banner-slides/slide-3.yaml
+        - src/data/banner-slides/slide-4.yaml
 
     - type: page_map_section
       title: Accès rapide
