@@ -16,11 +16,11 @@ en:
         - content: |-
             ### [Conferences](/events/conferences)
 
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Conferences are a great way to meet students from other schools and learn about different issues in engineering. If you’re passionate about engineering and want to represent your school, click here to learn more about this year’s conferences!
         - content: |-
             ### [Competitions](/events/competitions)
 
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            The University of Ottawa Engineering Competition is an annual event where teams compete in a set of challenges for a chance to go to the Ontario Engineering Competition (OEC) and potentially the national level. Click here to learn more about how you can participate!
       grid_cols: two
       grid_gap_horiz: large
       grid_gap_vert: small
@@ -44,11 +44,11 @@ fr:
         - content: |-
             ### [Conférences](/events/conferences)
 
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Les Conférences sont une façon amusante de rencontrer les élèves en génie des autres écoles et d'apprendre des choses en génie. Si vous êtes passionné au sujet du génie et voulez représenter votre école, cliquez ici pour en apprendre plus au sujet des conférences de cette année !
         - content: |-
             ### [Compétitions](/events/competitions)
 
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            La Compétition d'Ingénierie de l’Université d’Ottawa est un événement annuel où les équipes compétitionnent dans une série de défis pour avoir la chance de participer à la Compétition d’ingénierie de l’Ontario (CIO) et potentiellement au niveau national. Cliquez ici pour apprendre comment vous pouvez participer !
       grid_cols: two
       grid_gap_horiz: large
       grid_gap_vert: small
