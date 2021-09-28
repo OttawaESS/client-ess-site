@@ -18,12 +18,11 @@ en:
     - type: page_title
       title: Important Documents
     - type: documents_section
-      # title: Important Documents
       actions:
         - label: General
           style: primary
-        # - label: 2021-2022
-        #   style: secondary
+        - label: 2021-2022
+          style: secondary
         - label: 2020-2021
           style: secondary
         - label: 2019-2020
@@ -37,7 +36,7 @@ en:
         - src/data/documents/2018-2019.yaml
         - src/data/documents/2019-2020.yaml
         - src/data/documents/2020-2021.yaml
-        # - src/data/documents/2021-2022.yaml
+        - src/data/documents/2021-2022.yaml
 
     - type: grid_section
       grid_items:
@@ -105,12 +104,11 @@ fr:
     - type: page_title
       title: Important Documents
     - type: documents_section
-      # title: Important Documents
       actions:
         - label: General
           style: primary
-        # - label: 2021-2022
-        #   style: secondary
+        - label: 2021-2022
+          style: secondary
         - label: 2020-2021
           style: secondary
         - label: 2019-2020
@@ -124,7 +122,7 @@ fr:
         - src/data/documents/2018-2019.yaml
         - src/data/documents/2019-2020.yaml
         - src/data/documents/2020-2021.yaml
-        # - src/data/documents/2021-2022.yaml
+        - src/data/documents/2021-2022.yaml
 
     - type: grid_section
       grid_items:
