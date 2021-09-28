@@ -3,16 +3,16 @@
 .bannerComponent {
     display: flex;
     flex-direction: row;
-    margin-bottom: 110px;
+    margin-top: 70px;
+    margin-bottom: 80px;
 }
 
 .componentInfo {
     display: flex;
     flex-direction: column;
-    width: 350px;
+    width: 400px;
     margin: auto;
-    margin-top: 100px;
-    margin-right: 0px;
+    margin-right: 32px;
 }
 
 .title {
@@ -36,8 +36,7 @@
 
 .componentImg {
     margin: auto;
-    margin-top: 100px;
-    margin-left: 0px;
+    margin-left: 32px;
 
     img {
         width: 322px;
@@ -45,15 +44,13 @@
     }
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 800px) {
     .bannerComponent {
         flex-direction: column;
-        margin-bottom: 80px;
     }
 
     .componentInfo {
         margin: auto;
-        margin-top: 30px;
         align-items: center;
         text-align: center;
     }
@@ -61,5 +58,9 @@
     .componentImg {
         margin: auto;
         margin-top: 40px;
+    }
+
+    .description {
+        text-align: left;
     }
 }
