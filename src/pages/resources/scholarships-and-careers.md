@@ -19,24 +19,13 @@ en:
       title: Scholarships and Careers
     - type: content_section
       content: >-
-        The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
+        Every year, ESS provides its volunteers with the opportunity to apply for scholarships as a thank you for all they do to help make our experiences as engineering students better. Scholarship categories will be announced at a later date when it comes time to apply, so keep an eye out to see what we have available for you.
     - type: features_section
       title: Scholarships
       features:
-        - title: ESS Hardship Fund Scholarship
-          content: >-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra faucibus aliquam ultrices ac in nunc, libero nibh non. Posuere arcu elementum in eu elementum nisi egestas. Amet, quis in eget sodales ipsum vitae convallis aliquet. Amet condimentum felis morbi proin varius eleifend nisl, dolor sagittis. <br><br>
-            Contact [finance@uottawaess.ca](mailto:finance@uottawaess.ca) for any questions.<br><br>
-            Apply now [here](https://essaeg.ca)!
-          align: left
-          image: images/ess-covid-scholarship.jpg
-          image_alt: ESS Scholarship Infographic
-          image_position: left
         - title: ESS Volunteer Appreciation Scholarships
           content: >-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra faucibus aliquam ultrices ac in nunc, libero nibh non. Posuere arcu elementum in eu elementum nisi egestas. Amet, quis in eget sodales ipsum vitae convallis aliquet. Amet condimentum felis morbi proin varius eleifend nisl, dolor sagittis. <br><br>
-            Contact [finance@uottawaess.ca](mailto:finance@uottawaess.ca) for any questions.<br><br>
-            View the list of scholarships [here](https://essaeg.ca)!
+            Every year, ESS provides its volunteers with the opportunity to apply for scholarships as a thank you for all they do to help make our experiences as engineering students better. Scholarship categories will be announced at a later date when it comes time to apply, so keep an eye out to see what we have available for you.
           align: left
           image: images/ess-vap.jpg
           image_alt: ESS Volunteer Appreciation Illustration
@@ -55,19 +44,17 @@ en:
       title: Careers
       features:
         - title: Gastops
-          content: >-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra faucibus aliquam ultrices ac in nunc, libero nibh non. Posuere arcu elementum in eu elementum nisi egestas. Amet, quis in eget sodales ipsum vitae convallis aliquet. Amet condimentum felis morbi proin varius eleifend nisl, dolor sagittis. <br><br>
-            Contact [finance@uottawaess.ca](mailto:finance@uottawaess.ca) for any questions.<br><br>
-            Apply now [here](https://essaeg.ca)!
+          content: >-      
+            Over the last 40 years, Gastops has built a robust business that is recognized worldwide for its innovative contributions to equipment health management in the aviation, energy, marine, industrial and transportation industries. Gastops’ products and services add value throughout the life cycle of complex critical equipment from the design stage through to in-service operations and support. We design, manufacture and support advanced equipment sensing and analysis products, including on-line oil debris sensors, torque measurement sensors, turbine blade health sensors, and at-line oil analysis systems. <br><br>
+            https://careers.pcl.com/ca/en
           align: left
           image: images/ess-gastops.jpeg
           image_alt: Gastops Logo
           image_position: left
         - title: PCL
           content: >-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra faucibus aliquam ultrices ac in nunc, libero nibh non. Posuere arcu elementum in eu elementum nisi egestas. Amet, quis in eget sodales ipsum vitae convallis aliquet. Amet condimentum felis morbi proin varius eleifend nisl, dolor sagittis. <br><br>
-            Contact [finance@uottawaess.ca](mailto:finance@uottawaess.ca) for any questions.<br><br>
-            View the list of scholarships [here](https://essaeg.ca)!
+            A student term at PCL is an opportunity to bring your knowledge to life. Here, we will help you build a strong foundation for future success and provide opportunities for career advancement. You will join an incredible team, gain meaningful experiences through real work challenges, make connections with like-minded professionals, and start a legacy that is second to none.<br><br>
+            https://www.gastops.com/
           align: left
           image: images/ess-pcl.png
           image_alt: PCL Logo
@@ -80,36 +67,25 @@ fr:
       nav_items:
         - label: Important documents
           link: /important-documents
-        - label: Accessibility
+        - label: Accessibilité
           link: /accessibility
-        - label: Incident reports
+        - label: Rapport d'incident
           link: /incident-reports
-        - label: Initiatives and Support
+        - label: Initiatives et soutien
           link: /initiatives-and-support
-        - label: Scholarships and careers
+        - label: Bourses et carrières
           link: /scholarships-and-careers
     - type: page_title
-      title: Scholarships and Careers
+      title: Bourses et Carrières
     - type: content_section
       content: >-
-        The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
+        À la recherche d'opportunités de carrière ? Vous souhaitez postuler pour une bourse AÉG ? Cliquez ici pour en savoir plus sur ce que nous avons à offrir pour vous aider à faire avancer votre carrière universitaire et professionnelle!
     - type: features_section
-      title: Scholarships
+      title: Bourses d'études
       features:
-        - title: ESS Hardship Fund Scholarship
+        - title: Les Bourses Bénévoles AÉG
           content: >-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra faucibus aliquam ultrices ac in nunc, libero nibh non. Posuere arcu elementum in eu elementum nisi egestas. Amet, quis in eget sodales ipsum vitae convallis aliquet. Amet condimentum felis morbi proin varius eleifend nisl, dolor sagittis. <br><br>
-            Contact [finance@uottawaess.ca](mailto:finance@uottawaess.ca) for any questions.<br><br>
-            Apply now [here](https://essaeg.ca)!
-          align: left
-          image: images/ess-covid-scholarship.jpg
-          image_alt: ESS Scholarship Infographic
-          image_position: left
-        - title: ESS Volunteer Appreciation Scholarships
-          content: >-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra faucibus aliquam ultrices ac in nunc, libero nibh non. Posuere arcu elementum in eu elementum nisi egestas. Amet, quis in eget sodales ipsum vitae convallis aliquet. Amet condimentum felis morbi proin varius eleifend nisl, dolor sagittis. <br><br>
-            Contact [finance@uottawaess.ca](mailto:finance@uottawaess.ca) for any questions.<br><br>
-            View the list of scholarships [here](https://essaeg.ca)!
+            Chaque année, l’AÉG fournit la chance à ses bénévoles de postuler pour les bourses comme un merci pour tout ce qu’ils font pour aider à améliorer notre expérience comme élèves ingénieurs. Les catégories des boursed seront annoncés plus tard quan c’est le temps d’y postuler, donc gardez un œil pour voir ce que nous avons disponible pour vous.
           align: left
           image: images/ess-vap.jpg
           image_alt: ESS Volunteer Appreciation Illustration
@@ -119,31 +95,28 @@ fr:
       subtitle: >-
         Si vous cherchez une bonne façon pour vous connecter avec les autres élèves en génie, parler aux autres gens dans vos classes, et rester au courant avec toutes choses AÉG rejoignez le serveur Discord “uOttawa SITE Community” !
       actions:
-        - label: Join Now
+        - label: Adhérer maintenant
           url: https://discord.gg/msWQKnN
           style: primary
       has_background: true
       background_color: gray
     - type: features_section
-      title: Careers
+      title: Carrières
       features:
         - title: Gastops
           content: >-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra faucibus aliquam ultrices ac in nunc, libero nibh non. Posuere arcu elementum in eu elementum nisi egestas. Amet, quis in eget sodales ipsum vitae convallis aliquet. Amet condimentum felis morbi proin varius eleifend nisl, dolor sagittis. <br><br>
-            Contact [finance@uottawaess.ca](mailto:finance@uottawaess.ca) for any questions.<br><br>
-            Apply now [here](https://essaeg.ca)!
+            Un semestre d'étudiant à PCL est une opportunité de donner vie à vos connaissances. Ici, nous vous aiderons à établir une base solide pour votre succès futur et à offrir des opportunités d'avancement professionnel. Vous rejoindrez une équipe incroyable, acquerrez des expériences significatives grâce à de vrais défis de travail, établirez des liens avec des professionnels partageant les mêmes idées et créerez un héritage sans pareil.
           align: left
           image: images/ess-gastops.jpeg
           image_alt: Gastops Logo
           image_position: left
         - title: PCL
           content: >-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra faucibus aliquam ultrices ac in nunc, libero nibh non. Posuere arcu elementum in eu elementum nisi egestas. Amet, quis in eget sodales ipsum vitae convallis aliquet. Amet condimentum felis morbi proin varius eleifend nisl, dolor sagittis. <br><br>
-            Contact [finance@uottawaess.ca](mailto:finance@uottawaess.ca) for any questions.<br><br>
-            View the list of scholarships [here](https://essaeg.ca)!
+            Au cours des 40 dernières années, Gastops a bâti une entreprise solide qui est reconnue dans le monde entier pour ses contributions innovantes à la gestion de la santé des équipements dans les secteurs de l'aviation, de l'énergie, de la marine, de l'industrie et des transports. Les produits et services de Gastops ajoutent de la valeur tout au long du cycle de vie des équipements critiques complexes, de la conception aux opérations et au support en service. Nous concevons, fabriquons et prenons en charge des produits de détection et d'analyse d'équipements avancés, notamment des capteurs de débris d'huile en ligne, des capteurs de mesure de couple, des capteurs de santé des aubes de turbine et des systèmes d'analyse d'huile en ligne.
           align: left
           image: images/ess-pcl.png
           image_alt: PCL Logo
-          image_position: left          
+          image_position: left
+          
 template: advanced
 ---

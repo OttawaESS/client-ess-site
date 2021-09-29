@@ -1,0 +1,15 @@
+id: slide-1
+en:
+  title: ESS is back in person!
+  date:
+  description: We are very excited to announce our return to on-campus office hours this fall! Have a question? Have feedback? Just want to chat? Stop by and say hi! We can’t wait to welcome you all back.
+  image: images/office-hours/office-hours-fall-2021.jpg
+  button_link: /about/contact-us
+  button_label: Learn More
+fr:
+  title: L’AÉG est de retour en personne !
+  date:
+  description: Nous sommes tellement excités d’annoncer notre retour aux heures de bureaux sur le campus cet automne ! Avez-vous une question ? Avez-vous de la rétroaction ? Voulez-vous simplement nous parler ? Venez et passez dire bonjour !
+  image: images/office-hours/office-hours-fall-2021.jpg
+  button_link: /about/contact-us
+  button_label: En apprendre plus
