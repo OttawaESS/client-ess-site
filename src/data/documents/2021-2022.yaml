@@ -1,13 +1,28 @@
 year: 2021-2022
-types:
-  - type: Meetings
-    files:
-      - label: ESS Officer Meeting Minutes
-        path: documents/2021-2022/Meeting-Minutes-2_6_2021.pdf
-        date: '2021-06-02'
-      - label: ESS Officer Meeting Minutes
-        path: documents/2021-2022/Meeting-Minutes-16_6_2021.pdf
-        date: '2021-06-16'
-      - label: ESS Officer Meeting Minutes
-        path: documents/2021-2022/Meeting-Minutes-17_5_2021.pdf
-        date: '2020-05-17'
+en:
+  types:
+    - type: Meetings
+      files:
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting-Minutes-2_6_2021.pdf
+          date: '2021-06-02'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting-Minutes-16_6_2021.pdf
+          date: '2021-06-16'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting-Minutes-17_5_2021.pdf
+          date: '2020-05-17'
+
+fr:
+  types:
+    - type: Réunions
+      files:
+        - label: Procès-verbaux des réunions des officiers
+          path: documents/2021-2022/Meeting-Minutes-2_6_2021.pdf
+          date: '2021-06-02'
+        - label: Procès-verbaux des réunions des officiers
+          path: documents/2021-2022/Meeting-Minutes-16_6_2021.pdf
+          date: '2021-06-16'
+        - label: Procès-verbaux des réunions des officiers
+          path: documents/2021-2022/Meeting-Minutes-17_5_2021.pdf
+          date: '2020-05-17'        
