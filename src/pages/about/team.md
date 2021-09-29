@@ -23,6 +23,8 @@ en:
   
   
         **Managers** are elected each academic year at the Annual General Meeting. Their term begins on May 1st and ends on April 30th the subsequent year.
+        
+    # commented out as there are no positions available at the moment
     # - type: positions_slider
     #   title: Available Positions
     #   positions:
@@ -35,6 +37,7 @@ en:
     #   - title: Ex CEO
     #     content: >-
     #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim integer augue justo morbi ut arcu, diam, luctus ante. Velit tristique risus sit dignissim nam lacus, id molestie velit.
+
     - type: team_section
       title: Meet the Team
       team:
@@ -59,15 +62,15 @@ fr:
     - type: secondary_header
       baseUrl: /about
       nav_items:
-        - label: Who We Are
+        - label: Qui sommes-nous
           link: /who-are-we
-        - label: Our Team
+        - label: Notre équipe
           link: /team
-        - label: Join Our Team
+        - label: Joignez notre équipe
           link: /join-our-team
-        - label: Affiliated Groups
+        - label: Groupes affiliés
           link: /affiliated-groups
-        - label: Contact Us
+        - label: Contactez-nous
           link: /contact-us
     - type: page_title
       title: Notre Équipe

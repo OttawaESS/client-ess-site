@@ -57,32 +57,21 @@ en:
           image: images/national-bank.png
           image_alt: Feature 1 placeholder image
           image_position: left
-    - type: cta_section
-      title: Find out what events are coming up!
-      subtitle: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-        quis lorem malesuada luctus.
-      actions:
-        - label: Events
-          url: /features
-          style: primary
-      has_background: true
-      background_color: gray
       
 fr:
   sections:
     - type: secondary_header
       baseUrl: /about
       nav_items:
-        - label: Who We Are
+        - label: Qui sommes-nous
           link: /who-are-we
-        - label: Our Team
+        - label: Notre équipe
           link: /team
-        - label: Join Our Team
+        - label: Joignez notre équipe
           link: /join-our-team
-        - label: Affiliated Groups
+        - label: Groupes affiliés
           link: /affiliated-groups
-        - label: Contact Us
+        - label: Contactez-nous
           link: /contact-us
     - type: page_title
       title: Qui est ESS?
@@ -125,17 +114,6 @@ fr:
           align: left
           image: images/national-bank.png
           image_alt: Feature 1 placeholder image
-          image_position: left
-    - type: cta_section
-      title: Find out what events are coming up!
-      subtitle: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-        quis lorem malesuada luctus.
-      actions:
-        - label: Events
-          url: /features
-          style: primary
-      has_background: true
-      background_color: gray      
+          image_position: left      
 template: advanced
 ---

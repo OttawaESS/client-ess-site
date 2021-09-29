@@ -19,7 +19,7 @@ export default function ConferencesSection(props) {
             {_.map(_.get(section, 'conferences', null), (conference, conference_idx) => {
                 return (
                   <div key={conference_idx} className="section">
-                    <div className="container container--md">
+                    <div className="container container--lg">
                     {_.get(conference, 'title', null) && (
                       <h3 className="section__title align-center">{_.get(conference, 'title', null)}</h3>
                     )}
@@ -30,7 +30,7 @@ export default function ConferencesSection(props) {
                     )}
                     </div>
 
-                    <div className="bg-gray x-sm-padding">
+                    {_.get(conference, 'testimonials', null) && <div className="bg-gray x-sm-padding">
                       {_.map(_.get(conference, 'testimonials', null), (testimonial, testimonial_idx) => {
                         return (
                           <div key={testimonial_idx}>
@@ -52,7 +52,7 @@ export default function ConferencesSection(props) {
                           </div>
                         )
                       })}
-                    </div>
+                    </div>}
                   </div>
                 )
             })}

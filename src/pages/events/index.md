@@ -6,7 +6,6 @@ en:
       title: Events
       image: images/events-hero-bg-pic.jpeg
     - type: grid_section
-      title: Lorem ipsum dolor sit amet
       grid_items:
         - content: |-
             ### [Upcoming and Recurring Events](/events/upcoming-and-recurring)

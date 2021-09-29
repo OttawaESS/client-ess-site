@@ -67,7 +67,7 @@ fr:
             À l'AÉG, notre objectif est de nous assurer que l'information est également accessible à tous les étudiants. Dans cette optique, nous incluons une description accessible des graphiques dans tous nos messages sur les médias sociaux et nous essayons d'éviter d'afficher des images sur nos "histoires" sans texte. Vous pensez que nous pouvons faire mieux ? Envoyez-nous un message et faites-le nous savoir !
 
         - content: |-
-            #### Formulaire d'Hébergement
+            #### Formulaire d'Accomodement
 
             Nous voulons nous assurer que tous les étudiants peuvent assister et profiter de nos événements sans difficulté. Vous avez besoin d'un accommodement ? Remplissez le formulaire ci-dessous pour nous le faire savoir, afin que nous puissions rendre votre expérience aussi confortable que possible !
 

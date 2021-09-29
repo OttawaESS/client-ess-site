@@ -26,16 +26,6 @@ en:
           description: Once your form is received, a meeting will be called with the incident response committee to review the report.
         - title: Step 3
           description: After review, ESS will take the appropriate steps as per the constitution to ensure the incident is handled responsibly.
-    - type: cta_section
-      title: Find out what events are coming up!
-      subtitle: >-
-        
-      actions:
-        - label: Events
-          url: /events
-          style: primary
-      has_background: true
-      background_color: gray
 
 fr:
   sections:
@@ -64,15 +54,6 @@ fr:
           description: Une fois que votre formulaire est reçu, une réunion de la comité de réponse d’incidents sera appelée pour revoir le rapport.
         - title: Étape 3
           description: Après la revue, l’AÉG va prendre les actions appropriées selon la constitution pour être certain que l’incident est géré de manière responsable.
-    - type: cta_section
-      title: Découvrez les événements à venir !
-      subtitle: >-
-
-      actions:
-        - label: Events
-          url: /events
-          style: primary
-      has_background: true
-      background_color: gray      
+          
 template: advanced
 ---
