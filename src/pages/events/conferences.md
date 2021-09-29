@@ -17,16 +17,28 @@ en:
 
     - type: conferences_section
       conferences:
-        - title: PEO-SC
-          description: The Professional Engineering Ontario Student Conference (PEO-SC) is a student conference hosted annually by ESSCO with support by Professional Engineers Ontario. The goal of the conference is to help upper year students in engineering with the process and opportunities that might arrive through the profession of engineering. Topics include ways to grow your network and opportunities, licensing requirements and non traditional aspects of engineering such as environmental impact and non traditional engineering jobs.
+        - title: ESSCO Presidents Meeting (ESSCO PM)
+          description: The Engineering Students Societies Council of Ontario Presidents’ Meeting is an opportunity for executive teams from the different schools across Ontario to come together, discuss relevant issues, and provide direction to the ESSCO council.  The SVP EX and President of ESS attend this annually.
+
+        - title: CFES Presidents Meeting (CFES PM)
+          description: The Canadian Federation of Engineering Students Presidents’ Meeting brings together representatives from engineering schools across the country to network and prepare for CFES Congress. The representatives provide the CFES Council with direction for the upcoming year. The SVP Ex is the only delegate to attend this conference.
+
+        - title: PEO Student Conference (PEO-SC)
+          description: The Professional Engineers of Ontario Student Conference is a professional development conference that introduces delegates to PEO and the benefits of obtaining a P.Eng license. The conference focuses on the licensing process and the PEO Student Membership Program. Anyone can apply to attend this conference.
           testimonials:
             - author: Robert Conrad, 5th year Computer Engineering
               author_picture: images/testimonials/Robert.jpeg
               message: >-
                 A common stream of the conference was none traditional usage of engineering principles. As a Computer Engineering Student who often hears of the struggles of pursuing engineering in technology, this conference showcased the values ​​of consulting, politics and business opportunities that engineering fundamentals can be applied to. Furthermore, a lot of topics had valuable lessons of the changing nature of a career and how a starting job can be pivoted to unique and different opportunities.            
 
-        - title: FYIC
-          description: The First Year Integration Conference (FYIC) is a conference focused on getting first year students involved in their member schools as the leaders of tomorrow, and also introduces them to the provincial community. The conference features many introductions including introductions to fellow first year students from across the province.
+        - title: Canadian Engineering Leadership Conference (CELC)
+          description: The Canadian Federation of Engineering Students Congress is a week-long conference that serves as the annual general meeting of the CFES as well as an opportunity for students to collaborate and learn from industry partners. Anyone can apply to attend this conference.
+          
+        - title: Conference on Advocacy and Leadership in Engineering (CALE)
+          description: The ESSCO Annual General Meeting introduces the new council of VP Externals to ESSCO, PEO, OSPE and the CFES, as well as their new role on council. Guest speakers and student-run sessions focus on leadership development and sharing of best practices. The ESSCO executives for the upcoming year are elected and the direction for the year is decided.
+
+        - title: ESSCO First Year Integration Conference (FYIC)
+          description: The First Year Integration Conference is a leadership development conference for first year students looking to get more involved in their engineering students societies. It is an opportunity to learn about CFES, PEO, OSPE and ESSCO, as well as develop leadership skills and meet new people. Any first year students may apply to attend this conference.
           testimonials:
             - author: Yasen Akir, 1st year Chemical Engineering
               author_picture: images/testimonials/Yasen.jpeg
@@ -34,7 +46,7 @@ en:
                 Attending FYIC and learning from industry professionals and other well established people sounded like a great idea to me as soon as i heard about it. I was not disappointed. In fact, FYIC Zoomed past my expectations and it was an experience full of ideas, connections, and lessons that I hope will help me throughout my university career and after. Learning about organizations such as OSPE and PEO is something I believe everyone should do! I enjoyed all of the other sessions but mostly the Project Management session, which inspired me to look into a different aspect of engineering as a possible career choice. All in all, the co-chairs and the volunteers at Ontario Tech University made Virtual FYIC an incredible experience and I am very grateful to have had the opportunity to attend! 🙂
 
         - title: CDE
-          description: Conference on Diversity in Engineering (CDE) is a national forum that focuses on diversity in the engineering industry and the role that students will play in creating a more inclusive industry.
+          description: The Conference on Diversity in Engineering is a national forum hosted by CFES centred on issues involved with diversity in engineering. The sessions and discussions focus on creating a more inclusive industry. Anyone can apply to attend this conference.
           testimonials:
             - author: Alae Boufarrachene, 1st year Computer Engineering
               author_picture: images/testimonials/Alae.jpg
@@ -63,11 +75,11 @@ fr:
     - type: secondary_header
       baseUrl: /events
       nav_items:
-        - label: Upcoming and Recurring
+        - label: Événements Récurrents
           link: /upcoming-and-recurring
-        - label: Conferences
+        - label: Conférences
           link: /conferences
-        - label: Competitions
+        - label: Compétitions
           link: /competitions
 
     - type: page_title
@@ -75,23 +87,35 @@ fr:
         
     - type: conferences_section
       conferences:
-        - title: PEO-SC
-          description: The Professional Engineering Ontario Student Conference (PEO-SC) is a student conference hosted annually by ESSCO with support by Professional Engineers Ontario. The goal of the conference is to help upper year students in engineering with the process and opportunities that might arrive through the profession of engineering. Topics include ways to grow your network and opportunities, licensing requirements and non traditional aspects of engineering such as environmental impact and non traditional engineering jobs.
+        - title: Réunion des Présidents de CAÉGO (RP de CAÉGO)
+          description: Engineering Students Societies Council of Ontario (Conseil des Associations des Étudiants de Génie d’Ontario) – Rencontre du Président est une opportunité pour les équipes exécutives des différentes écoles en Ontario de venir ensemble, discuter des problèmes pertinents, et fournir de la direction au conseil de ESSCO. Le SVP Ex et Président de l’AEG y vont chaque année.            
+
+        - title: Réunion des Présidents de FCEEG (RP de FCEEG)
+          description: La Fédération Canadienne des Étudiants et Étudiantes de Génie – Rencontre du Président rassemble des représentants des écoles d’ingénieurs à travers le pays pour se rencontrer et se préparer pour le Congrès de FCEG. Les représentants fournissent de la direction au conseil de FCEG pour l’année. Le VPS Ex est le seul délégué pour cette conférence.
+
+        - title: Conférence des Étudiants PEO (PEOSC)
+          description: Professional Engineers of Ontario Student Conference (Ingénieurs Professionnels d’Ontario Conférence des Étudiants) est une conférence de développement professionnel qui introduit les délégués au PEO et les avantages d’obtenir une licence d’ingénieur professionnel. La conférence se concentre sur le processus de licence et le programme de PEO de membres étudiants. N’importe qui peut faire une demande pour aller à cette conférence.
           testimonials:
             - author: Robert Conrad, Génie informatique, 5è année
               author_picture: images/testimonials/Robert.jpeg
               message: >-
-                A common stream of the conference was none traditional usage of engineering principles. As a Computer Engineering Student who often hears of the struggles of pursuing engineering in technology, this conference showcased the values ​​of consulting, politics and business opportunities that engineering fundamentals can be applied to. Furthermore, a lot of topics had valuable lessons of the changing nature of a career and how a starting job can be pivoted to unique and different opportunities.            
+                Un thème commun de la conférence était l'utilisation non traditionnelle des principes d'ingénierie. En tant qu'étudiant en génie informatique, qui entend souvent parler des difficultés liées à la poursuite d'une carrière d'ingénieur dans le domaine de la technologie, cette conférence a mis en évidence les valeurs du conseil, de la politique et des opportunités commerciales auxquelles les principes fondamentaux de l'ingénierie peuvent être appliqués. En outre, de nombreux sujets ont permis de tirer des enseignements précieux sur la nature changeante d'une carrière et sur la façon dont un emploi initial peut être transformé en opportunités uniques et différentes.            
 
-        - title: FYIC
-          description: The First Year Integration Conference (FYIC) is a conference focused on getting first year students involved in their member schools as the leaders of tomorrow, and also introduces them to the provincial community. The conference features many introductions including introductions to fellow first year students from across the province.
+        - title: Conférence de Direction en Génie Canadien (CELC)
+          description: Conférence de Direction en Génie Canadien (CELC) est une conférence qui dure une semaine et qui sert comme assemblée générale annuelle de la FCEG ainsi qu’en tant qu’occasion pour les étudiants de collaborer avec et d’apprendre des partenaires d’industrie. N’importe qui peut faire une demande pour aller à cette conférence.
+          
+        - title: Conférence de Plaidoyer et Direction en Génie (CALE)
+          description: Conférence de Plaidoyer et Direction en Génie (CALE) introduit le nouveau conseil de VP Externes au ESSCO, PEO, OSPE et la FCEG, ainsi qu’à leur nouveau rôle sur le conseil. Les conférenciers invités et les sessions dirigées par les étudiants se concentrent sur le développement de leadership et le partage des meilleures pratiques. Les exécutifs d’ESSCO pour l’année prochaine sont élus et la direction pour l’année est décidée.
+          
+        - title: Conférence d’Intégration des Élèves de Premier Cycle (FYIC)
+          description: La Conférence pour l’Intégration des Premières Années est une conférence de développement de leadership pour les étudiants de première année qui veulent être plus impliqués dans leur association étudiante en génie. C’est une occasion pour apprendre à propos d’ESSCO, FCEG, PEO et OSPE, ainsi que pour développer des compétences en leadership et de rencontrer des nouvelles personnes. N’importe quelle première année peut faire une demande pour aller à cette conférence.
           testimonials:
             - author: Yasen Akir, Génie chimique, 1ère année
               author_picture: images/testimonials/Yasen.jpeg
               message: >-
                 Assister à FYIC et apprendre des professionnels de l'industrie et d'autres personnes bien établies m'a semblé une excellente idée dès que j'en ai entendu parler. Je n'ai pas été déçu. En fait, FYIC a dépassé mes attentes et ce fut une expérience pleine d'idées, de connexions et de leçons qui, j'espère, m'aideront tout au long de ma carrière universitaire et après aussi. Je pense que tout le monde devrait faire des connaissances sur des organisations telles que OSPE et PEO! J'ai apprécié toutes les autres sessions, mais surtout la session de gestion de projet, qui m'a inspiré à examiner un aspect différent de l'ingénierie comme choix de carrière possible. Dans l'ensemble, les coprésidents et les bénévoles de l'Université Ontario Tech ont fait de FYIC En Ligne une expérience incroyable et je suis très reconnaissant d'avoir eu l'occasion d'y assister! 🙂
 
-        - title: CDE
+        - title: Conférence de Diversité en Génie (CDE)
           description: Conference on Diversity in Engineering (CDE) is a national forum that focuses on diversity in the engineering industry and the role that students will play in creating a more inclusive industry.
 
           testimonials:
