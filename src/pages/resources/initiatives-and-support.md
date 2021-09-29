@@ -85,11 +85,11 @@ fr:
           link: /important-documents
         - label: Accessibilité
           link: /accessibility
-        - label: Rapport d'Incident
+        - label: Rapport d'incident
           link: /incident-reports
-        - label: Initiatives and Support
+        - label: Initiatives et soutien
           link: /initiatives-and-support
-        - label: Bourses et Carrières
+        - label: Bourses et carrières
           link: /scholarships-and-careers
     - type: page_title
       title: Initiatives et Soutien
