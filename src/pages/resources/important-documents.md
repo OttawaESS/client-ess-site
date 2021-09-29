@@ -102,9 +102,6 @@ fr:
         - label: Bourses et carrières
           link: /scholarships-and-careers
     - type: page_title
-      title: Scholarships and Careers
-      title: Bourses et Carrières
-    - type: page_title
       title: Documents importants
     - type: documents_section
       actions:
