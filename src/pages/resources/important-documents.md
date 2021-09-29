@@ -93,14 +93,17 @@ fr:
       nav_items:
         - label: Important documents
           link: /important-documents
-        - label: Accessibility
+        - label: Accessibilité
           link: /accessibility
-        - label: Incident reports
+        - label: Rapport d'incident
           link: /incident-reports
-        - label: Initiatives and Support
+        - label: Initiatives et soutien
           link: /initiatives-and-support
-        - label: Scholarships and careers
+        - label: Bourses et carrières
           link: /scholarships-and-careers
+    - type: page_title
+      title: Scholarships and Careers
+      title: Bourses et Carrières
     - type: page_title
       title: Documents importants
     - type: documents_section
