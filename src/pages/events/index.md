@@ -33,7 +33,6 @@ fr:
       title: Événements
       image: images/events-hero-bg-pic.jpeg
     - type: grid_section
-      title: Lorem ipsum dolor sit amet
       grid_items:
         - content: |-
             ### [Événements Récurrents](/events/upcoming-and-recurring)
