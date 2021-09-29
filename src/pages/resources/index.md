@@ -6,7 +6,7 @@ en:
       title: Resources
       image: images/hero-background.png
     - type: grid_section
-      title: Lorem ipsum dolor sit amet
+      
       grid_items:
         - content: |-
             ### [Important Documents](/resources/important-documents)
@@ -41,7 +41,7 @@ fr:
       title: Resources
       image: images/hero-background.png
     - type: grid_section
-      title: Lorem ipsum dolor sit amet
+      
       grid_items:
         - content: |-
             ### [Important Documents](/resources/important-documents)
