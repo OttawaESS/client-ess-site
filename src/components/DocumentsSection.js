@@ -7,6 +7,7 @@ import { Collapse, Row, Col } from 'antd';
 import Document from './Document';
 import styles from '../sass/components/document.module.scss';
 import styled from 'styled-components'
+import { useIntl } from 'react-intl';
 
 const { Panel } = Collapse;
 
@@ -22,6 +23,8 @@ export default function DocumentsSection(props) {
     const handleOnChange = (e) => {
       setActiveMenu(e.target.value);
     }
+
+    const locale = useIntl().locale;
 
     let section = _.get(props, 'section', null);
 
@@ -52,9 +55,11 @@ export default function DocumentsSection(props) {
               <Col xs={24} md={24} lg={12} style={panelDiv}>
                 {_.map(_.get(section, 'documents', null), (doc_year, doc_year_idx) => {
                   let doc_year_data = getData(props.pageContext.site.data, doc_year);
+                  console.log(doc_year_data);
+                  let doc_year_data_current_locale = locale === 'fr-Ca' ? doc_year_data.fr : doc_year_data.en;
                   return (
                     doc_year_data.year === activeMenu && <Accordion key={doc_year_idx}>
-                     {doc_year_data.types.map((type, idx) => (
+                     {doc_year_data_current_locale.types.map((type, idx) => (
                        <Panel header={type.type} key={idx}>
                          {type.files.map((file, id) => (
                            <li key={id}>
