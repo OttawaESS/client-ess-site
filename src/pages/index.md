@@ -25,8 +25,8 @@ en:
       slides:
         - src/data/banner-slides/slide-1.yaml
         - src/data/banner-slides/slide-2.yaml
-        - src/data/banner-slides/slide-1.yaml
-        - src/data/banner-slides/slide-2.yaml
+        - src/data/banner-slides/slide-3.yaml
+        - src/data/banner-slides/slide-4.yaml
 
     - type: page_map_section
       title: Quick Access
@@ -54,7 +54,7 @@ fr:
     - type: hero_section
       title: Bienvenue à l'association des étudiants en génie
       subtitle: >-
-        L'association des étudiants en génie est une organisation dirigée par des étudiants, pour des étudiants. Notre objectif est de vous fournir, en tant qu'étudiant en génie de l'Université d'Ottawa, des services, des événements amusants, et bien plus encore ! Vous voulez en savoir plus ? Cliquez ci-dessous pour plus d'informations !
+        L’Association des étudiants en génie est une organisation dirigée par des étudiants, pour des étudiants. Notre objectif est de vous offrir, en tant qu'étudiant en génie de l'Université d'Ottawa, des services, des événements amusants et bien plus encore! Vous voulez en savoir plus? Cliquez ci-dessous pour plus d'informations!
       actions:
         - label: Apprendre plus
           url: /about/who-we-are
@@ -74,27 +74,27 @@ fr:
       slides:
         - src/data/banner-slides/slide-1.yaml
         - src/data/banner-slides/slide-2.yaml
-        - src/data/banner-slides/slide-1.yaml
-        - src/data/banner-slides/slide-2.yaml
+        - src/data/banner-slides/slide-3.yaml
+        - src/data/banner-slides/slide-4.yaml
 
     - type: page_map_section
       title: Accès rapide
       cards:
         - title: Document Importants
           description: >-
-            Vous voulez en savoir plus sur la constitution de l'AEG ? Vous êtes curieux de connaître notre fonctionnement interne ? Cliquez ici pour accéder à tous les documents les plus importants de l'AEG !
+            Voulez-vous en savoir plus sur la constitution de l’AÉG ? Êtes-vous curieux de connaître nos opérations internes ? Cliquez ici pour accèder toutes les documents importants de l’AÉG!
           icon: documents_icon
           link: /resources/important-documents
   
         - title: Ressources
           description: >-
-            En tant que membre, vous avez accès à toutes les ressources de l'AEG. De l'accessibilité aux bourses d'études, nous voulons faire tout ce qui est en notre pouvoir pour vous aider. Cliquez ici pour plus d'informations.
+            Comme membre, vous avez accès à toutes les ressources de l’AÉG. De l’accessibilité au bourses, nous voulons faire ce que nous pouvons pour vous aider. Cliquez ici pour plus d’information.
           icon: resources_icon
           link: /resources
           
         - title: Services
           description: >-
-            Vous avez besoin de louer un casier ? Vous voulez acheter des produits de l'AEG ? Cliquez ici pour en savoir plus sur les services qui vous sont offerts en tant que membre de l'AEG !
+            Vous avez besoin de louer un casier ? Voulez-vous acheter de la marchandise AÉG ? Cliquez ici pour en apprendre plus au sujet des services disponibles à vous comme membre de l’AÉG!
           icon: services_icon
           link: /services      
           
