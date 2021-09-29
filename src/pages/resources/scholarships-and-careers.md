@@ -44,7 +44,7 @@ en:
     - type: cta_section
       title: Join our new site Discord!
       subtitle: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        If you’re looking for a great way to connect with other engineering students, talk to people in your classes, and keep up to date with all things ESS join the uOttawa SITE Community Discord Server!
       actions:
         - label: Join Now
           url: https://discord.gg/msWQKnN
@@ -115,9 +115,9 @@ fr:
           image_alt: ESS Volunteer Appreciation Illustration
           image_position: left
     - type: cta_section
-      title: Join our new site Discord!
+      title: Rejoignez notre Discord!
       subtitle: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Si vous cherchez une bonne façon pour vous connecter avec les autres élèves en génie, parler aux autres gens dans vos classes, et rester au courant avec toutes choses AÉG rejoignez le serveur Discord “uOttawa SITE Community” !
       actions:
         - label: Join Now
           url: https://discord.gg/msWQKnN

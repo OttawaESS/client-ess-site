@@ -26,17 +26,6 @@ en:
           description: The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
         - title: Step 1 - Title
           description: The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
-    - type: cta_section
-      title: Find out what events are coming up!
-      subtitle: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-        quis lorem malesuada luctus.
-      actions:
-        - label: Events
-          url: /features
-          style: primary
-      has_background: true
-      background_color: gray
 
 fr:
   sections:
@@ -63,17 +52,6 @@ fr:
         - title: Step 1 - Title
           description: The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
         - title: Step 1 - Title
-          description: The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.
-    - type: cta_section
-      title: Find out what events are coming up!
-      subtitle: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-        quis lorem malesuada luctus.
-      actions:
-        - label: Events
-          url: /features
-          style: primary
-      has_background: true
-      background_color: gray      
+          description: The policy and procedure manual is the constitution by which all ESS operations are governed. Updated every other year, this document provides detailed mandates and eligibility for each officer of the society, election policies, committee roles, financial matters, ESS services, and accountability procedures.      
 template: advanced
 ---

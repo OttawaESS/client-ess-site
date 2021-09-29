@@ -57,17 +57,6 @@ en:
           image: images/national-bank.png
           image_alt: Feature 1 placeholder image
           image_position: left
-    - type: cta_section
-      title: Find out what events are coming up!
-      subtitle: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-        quis lorem malesuada luctus.
-      actions:
-        - label: Events
-          url: /features
-          style: primary
-      has_background: true
-      background_color: gray
       
 fr:
   sections:
@@ -125,17 +114,6 @@ fr:
           align: left
           image: images/national-bank.png
           image_alt: Feature 1 placeholder image
-          image_position: left
-    - type: cta_section
-      title: Find out what events are coming up!
-      subtitle: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-        quis lorem malesuada luctus.
-      actions:
-        - label: Events
-          url: /features
-          style: primary
-      has_background: true
-      background_color: gray      
+          image_position: left      
 template: advanced
 ---
