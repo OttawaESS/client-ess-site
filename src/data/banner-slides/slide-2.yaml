@@ -1,15 +1,15 @@
 id: slide-2
 en:
-  title: Disco Night
-  date: February 21, 2021 @ 8:00 pm
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet nam.
-  image: images/site-drawing.svg
-  button_link: /who-we-are
+  title: Leather Jackets!
+  date: Fittings - Wednesday, October 6, 2021 from 11am to 4pm (location TBA)
+  description: Save the date! Leather jacket fittings are back on campus this fall and you don’t want to miss it! Jackets are $450 including all cresting and taxes.
+  image: images/leather-jackets-en.jpg
+  button_link: https://www.instagram.com/p/CUP2RnqrbF_/?utm_source=ig_web_copy_link
   button_label: Learn More
 fr:
-  title: Soirée Disco
-  date: 21 Février, 2021 @ 8:00 pm
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet nam.
-  image: images/site-drawing.svg
-  button_link: /who-we-are
+  title: Vestes en Cuir !
+  date: Essayages - Le mercredi 6 octobre 2021 de 11h00 à 16h00 (location sera annoncée plus tard)
+  description: Réservez la date ! Les essayages de vestes en cuir sont de retour sur le campus cet automne et vous ne voulez pas manquer ça ! Le prix des vestes est de 450$, incluant les écussons et les taxes. 
+  image: images/leather-jackets-en.jpg
+  button_link: https://www.instagram.com/p/CUP2RnqrbF_/?utm_source=ig_web_copy_link
   button_label: En apprendre plus
