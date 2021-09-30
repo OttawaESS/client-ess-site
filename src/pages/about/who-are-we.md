@@ -79,7 +79,7 @@ fr:
       features:
         - title: Qui Sommes-Nous?
           content: >-
-            L'Association des Éleves en Génie est une organisation dirigée par des étudiants, pour des étudiants. Tout au long de l'année, l’AÉG cherche à améliorer votre expérience d'étudiant en organisant des événements, en fournissant des services, en vous mettant en contact avec d'autres écoles, et plus encore ! Chaque fois que vous payez vos frais de scolarité, une petite partie est versée à l’AÉG en échange de votre adhésion, ce qui vous donne un accès complet à l'organisation. Avez vous des questions ? N'hésitez pas à nous contacter sur les médias sociaux, à nous envoyer un e-mail ou à passer à nos heures de bureau pour discuter !
+            L'Association des étudiants en génie est une organisation dirigée par des étudiants, pour des étudiants. Tout au long de l'année, l’AÉG cherche à améliorer votre expérience d'étudiant en organisant des événements, en fournissant des services, en vous mettant en contact avec d'autres écoles, et plus encore ! Chaque fois que vous payez vos frais de scolarité, une petite partie est versée à l’AÉG en échange de votre adhésion, ce qui vous donne un accès complet à l'organisation. Avez vous des questions ? N'hésitez pas à nous contacter sur les médias sociaux, à nous envoyer un e-mail ou à passer à nos heures de bureau pour discuter !
           align: left
           image: images/ess-who-we-are.jpeg
           image_alt: Who We Are
