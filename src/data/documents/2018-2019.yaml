@@ -30,7 +30,7 @@ en:
           path: documents/2018-2019/budget/Budget-2018-2019-November-18th.pdf
           date: '2018-11-18'
         - label: 2018-2019 Fall Budget Report
-          path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
+          path: documents/2018-2019/budget/Fall-2018-VPX-Report-1.pdf
           date: '2019-01-01'
 
 fr:
@@ -64,5 +64,5 @@ fr:
           path: documents/2018-2019/budget/Budget-2018-2019-November-18th.pdf
           date: '2018-11-18'
         - label: 2018-2019 Rapport budgétaire d'automne
-          path: documents/Policy-and-Procedure-Manual-2021-Final.pdf
+          path: documents/2018-2019/budget/Fall-2018-VPX-Report-1.pdf
           date: '2019-01-01'        

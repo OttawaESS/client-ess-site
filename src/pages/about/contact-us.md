@@ -21,7 +21,7 @@ en:
   
     - type: content_section
       content: >-
-        #### Office Hours (Fall 2021)
+        #### Office Hours
   
         Want to know more about ESS? Got a school question you need help with? Or just want to chat? Come see us during our office hours.
   
@@ -71,7 +71,7 @@ fr:
   
     - type: content_section
       content: >-
-        #### Office Hours (Fall 2021)
+        #### Heures de bureau
   
         Vous voulez en savoir plus sur l'AÉG ? Vous avez besoin d'aide pour une question scolaire ? Tu veux simplement bavarder ? Viens voir nos exécutifs pendant leurs heures de bureau !
   
