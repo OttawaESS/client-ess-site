@@ -13,7 +13,7 @@ export default function Footer(props) {
             161 Louis-Pasteur Private A05<br></br>
             Ottawa, ON<br></br>
             K1N 6N5<br></br>
-            Email: contact@essuottawa.ca
+            Email: communications@uottawaess.ca
           </nav>
         </nav>
       </nav>

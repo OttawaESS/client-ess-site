@@ -30,6 +30,7 @@ export default {
         'Name' : "Name",
         'Subject' : "Subject",
         'consent_message' : "I understand that this form is storing my submitted information so I can be contacted.",
-        'Submit' : "Submit" 
+        'Submit' : "Submit",
+        'Location' : "Location" 
     }
 }

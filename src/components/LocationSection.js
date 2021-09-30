@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import styles from '../sass/components/locationSection.module.scss';
+import translate from '../i18n/translate';
 
 export default function LocationSection(props) {
     
@@ -10,10 +11,10 @@ export default function LocationSection(props) {
             <div className="container container--lg">
                 <div className="flex flex--col-2">
                     <div className={styles.info_section}>
-                        <h2 className="section--title">Location</h2>
+                        <h2 className="section--title">{translate("Location")}</h2>
                         {_.get(section, 'location', null) && (
                         <div className={styles.location}>
-                            <span className={styles.info_title}>Location: </span>
+                            <span className={styles.info_title}>{translate("Location")}: </span>
                             <span>{_.get(section, 'location', null)}</span>
                         </div>
                         )}

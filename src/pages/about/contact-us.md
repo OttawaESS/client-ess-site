@@ -48,7 +48,7 @@ en:
     - type: location_section
       location: 161 Louis-Pasteur Private A05, Ottawa, ON, K1N 6N5
       telephone: +1 (613) 123-4567
-      email: contact@essuottawa.ca
+      email: communications@uottawaess.ca
 
 fr:
   sections:
@@ -97,7 +97,7 @@ fr:
     - type: location_section
       location: 161 Louis-Pasteur Private A05, Ottawa, ON, K1N 6N5
       telephone: +1 (613) 123-4567
-      email: contact@essuottawa.ca      
+      email: communications@uottawaess.ca      
 seo:
   title: Contact
   description: This is the contact page
