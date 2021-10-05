@@ -25,7 +25,7 @@ en:
       events:
         - title: DUSTED
           description: DUSTED is every engineer’s favourite event of the year. Once per semester, engineering students are loaded onto a bus a taken to a mystery location for a fun night of drinks and dancing. Tickets sell out quickly, so make sure you keep an eye out for when they go on sale!
-          frequency: Semi-annual
+          frequency: Once per semester
 
         - title: Engineering Charity Ball
           description: This highly anticipated annual event is a great night for everyone. This is your chance to get dressed up and enjoy a fun night with friends, all while supporting a good cause! With food, drinks, dancing, raffles, and more, you don’t want to miss out on this great night!
@@ -33,7 +33,7 @@ en:
 
         - title: Industry Night
           description: Networking can be tough, but ESS tries to make it a little easier with our annual Industry Night! This night is your chance to connect with industry professionals and start thinking about your future career.
-          frequency: Semi-annual
+          frequency: Annual
 
     - type: content_section
       title: 101 Week

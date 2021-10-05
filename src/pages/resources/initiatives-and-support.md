@@ -36,13 +36,7 @@ en:
           image_alt: Movemeber Foundation
           image_position: left
 
-        - title: Relay For Life
-          content: >-
-            Relay for Life is a charitable event governed by the Canadian Cancer Society (CCS). Our organization supports Canadians living with cancer by: funding cancer research, providing support services to cancer patients and their loved ones, and educating people on cancer prevention.
-          align: left
-          image: images/relay-for-life.png
-          image_alt: Relay For Life Foundation
-          image_position: left
+
 
         - title: Eng Ball
           content: >-
