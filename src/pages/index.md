@@ -8,7 +8,7 @@ en:
         The Engineering Students' Society is an organization run by students, for students. Our aim is to provide you, a uOttawa engineering student, with services, fun events, and much more! Want to know more? Click below for more information!
       actions:
         - label: Learn More
-          url: /about/who-we-are
+          url: /about/who-are-we
           style: primary
         - label: Get Involved
           url: /about/join-our-team
@@ -57,7 +57,7 @@ fr:
         L’Association des étudiants en génie est une organisation dirigée par des étudiants, pour des étudiants. Notre objectif est de vous offrir, en tant qu'étudiant en génie de l'Université d'Ottawa, des services, des événements amusants et bien plus encore! Vous voulez en savoir plus? Cliquez ci-dessous pour plus d'informations!
       actions:
         - label: Apprendre plus
-          url: /about/who-we-are
+          url: /about/who-are-we
           style: primary
         - label: Impliquez-vous
           url: /about/join-our-team
