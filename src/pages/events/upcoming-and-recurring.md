@@ -17,8 +17,8 @@ en:
 
     - type: upcoming-events
       title: Click on an event to learn more and add it to your calendar.
-      calendar_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=Y2VtLmdAc29mdHdhcmVmb3Jsb3ZlLmNvbQ&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=dHIudHVya2lzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5&color=%2333B679&color=%230B8043&mode=MONTH
-      agenda_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=Y2VtLmdAc29mdHdhcmVmb3Jsb3ZlLmNvbQ&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=dHIudHVya2lzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5&color=%2333B679&color=%230B8043&mode=AGENDA
+      calendar_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=dW90dGF3YWVzcy5jYV80c2YycHVuNWJsdWZsZXJ1c25icGp1M2N2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cGhpbGFudGhyb3BpY0B1b3R0YXdhZXNzLmNh&color=%23B39DDB&color=%23795548&mode=MONTH 
+      agenda_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=dW90dGF3YWVzcy5jYV80c2YycHVuNWJsdWZsZXJ1c25icGp1M2N2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cGhpbGFudGhyb3BpY0B1b3R0YXdhZXNzLmNh&color=%23B39DDB&color=%23795548&mode=AGENDA
 
     - type: recurring_events_section
       title: Recurring Events
@@ -69,8 +69,8 @@ fr:
 
     - type: upcoming-events
       title: Cliquez sur un événement pour en savoir plus et l'ajouter à votre calendrier.
-      calendar_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=Y2VtLmdAc29mdHdhcmVmb3Jsb3ZlLmNvbQ&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=dHIudHVya2lzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5&color=%2333B679&color=%230B8043&mode=MONTH
-      agenda_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=Y2VtLmdAc29mdHdhcmVmb3Jsb3ZlLmNvbQ&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=dHIudHVya2lzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5&color=%2333B679&color=%230B8043&mode=AGENDA
+      calendar_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=dW90dGF3YWVzcy5jYV80c2YycHVuNWJsdWZsZXJ1c25icGp1M2N2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cGhpbGFudGhyb3BpY0B1b3R0YXdhZXNzLmNh&color=%23B39DDB&color=%23795548&mode=MONTH 
+      agenda_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=dW90dGF3YWVzcy5jYV80c2YycHVuNWJsdWZsZXJ1c25icGp1M2N2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cGhpbGFudGhyb3BpY0B1b3R0YXdhZXNzLmNh&color=%23B39DDB&color=%23795548&mode=AGENDA
 
     - type: recurring_events_section
       title: Recurring Events
