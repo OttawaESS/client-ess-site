@@ -9,6 +9,9 @@ en:
         - label: By-Laws
           path: documents/general/governing-documents/By-Laws-2021-Final.pdf
           date: '2021-04-30'
+        - label: EEF Constitution
+          path: documents/general/governing-documents/EEF-Constitution.pdf
+          date: '2019-03-03'
     - type: Forms
       files:
         - label: Execs Elections Nomination Form
@@ -28,6 +31,9 @@ fr:
         - label: Règlements
           path: documents/general/governing-documents/By-Laws-2021-Final.pdf
           date: '2021-04-30'
+        - label: EEF Constitution
+          path: documents/general/governing-documents/EEF-Constitution.pdf
+          date: '2019-03-03'
     - type: Formulaires
       files:
         - label: Formulaire de nomination des officiers
