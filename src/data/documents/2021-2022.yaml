@@ -17,7 +17,7 @@ en:
         - label: ESS Budget 
           path: documents/2021-2022/Budget(BoD 2021-09-26).pdf
           date: '2021-09-26'
-        - label: ESS Budget BoD 2021-11-07
+        - label: ESS Budget BoD Updates
           path: documents/2021-2022/ESS-Projected-Budget-BoD-2021-11-07.pdf
           date: '2021-11-07'
 
@@ -42,6 +42,6 @@ fr:
         - label: ESS Budget 
           path: documents/2021-2022/Budget(BoD 2021-09-26).pdf
           date: '2021-09-26'
-        - label: ESS Budget BoD 2021-11-07
+        - label: ESS Budget BoD Updates
           path: documents/2021-2022/ESS-Projected-Budget-BoD-2021-11-07.pdf
           date: '2021-11-07'
