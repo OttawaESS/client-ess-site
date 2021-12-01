@@ -46,7 +46,7 @@ en:
         - title: Gastops
           content: >-      
             Over the last 40 years, Gastops has built a robust business that is recognized worldwide for its innovative contributions to equipment health management in the aviation, energy, marine, industrial and transportation industries. Gastops’ products and services add value throughout the life cycle of complex critical equipment from the design stage through to in-service operations and support. We design, manufacture and support advanced equipment sensing and analysis products, including on-line oil debris sensors, torque measurement sensors, turbine blade health sensors, and at-line oil analysis systems. <br><br>
-            https://careers.pcl.com/ca/en
+            https://www.gastops.com/
           align: left
           image: images/ess-gastops.jpeg
           image_alt: Gastops Logo
@@ -54,7 +54,7 @@ en:
         - title: PCL
           content: >-
             A student term at PCL is an opportunity to bring your knowledge to life. Here, we will help you build a strong foundation for future success and provide opportunities for career advancement. You will join an incredible team, gain meaningful experiences through real work challenges, make connections with like-minded professionals, and start a legacy that is second to none.<br><br>
-            https://www.gastops.com/
+            https://careers.pcl.com/
           align: left
           image: images/ess-pcl.png
           image_alt: PCL Logo
