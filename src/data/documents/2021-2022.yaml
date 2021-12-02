@@ -4,14 +4,40 @@ en:
     - type: Meetings
       files:
         - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 5_10_2021.pdf
+          date: '2021-05-10'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting-Minutes-17_5_2021.pdf
+          date: '2021-05-17'
+        - label: ESS Officer Meeting Minutes
           path: documents/2021-2022/Meeting-Minutes-2_6_2021.pdf
           date: '2021-06-02'
         - label: ESS Officer Meeting Minutes
           path: documents/2021-2022/Meeting-Minutes-16_6_2021.pdf
           date: '2021-06-16'
         - label: ESS Officer Meeting Minutes
-          path: documents/2021-2022/Meeting-Minutes-17_5_2021.pdf
-          date: '2020-05-17'
+          path: documents/2021-2022/Meeting Minutes 12_7_2021.pdf
+          date: '2021-07-12'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/MMeeting Minutes 10_8_2021.pdf
+          date: '2021-08-10'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 21_09_2021.pdf
+          date: '2021-09-21'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 19_10_2021.pdf
+          date: '2021-10-19'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 16_11_2021.pdf
+          date: '2021-11-16'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 2_11_2021-converted.pdf
+          date: '2021-11-02'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 11_30_2021.pdf
+          date: '2021-11-30'
+        
+
     - type: Budget
       files:
         - label: ESS Budget 
@@ -25,18 +51,39 @@ fr:
   types:
     - type: Réunions
       files:
-        - label: Procès-verbaux des réunions des officiers
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 5_10_2021.pdf
+          date: '2021-05-10'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting-Minutes-17_5_2021.pdf
+          date: '2021-05-17'
+        - label: ESS Officer Meeting Minutes
           path: documents/2021-2022/Meeting-Minutes-2_6_2021.pdf
           date: '2021-06-02'
-        - label: Procès-verbaux des réunions des officiers
+        - label: ESS Officer Meeting Minutes
           path: documents/2021-2022/Meeting-Minutes-16_6_2021.pdf
           date: '2021-06-16'
-        - label: Procès-verbaux des réunions des officiers
-          path: documents/2021-2022/Meeting-Minutes-17_5_2021.pdf
-          date: '2020-05-17' 
-        - label: ESS Budget 
-          path: documents/2021-2022/Budget(BoD 2021-09-26).pdf
-          date: '2021-09-26'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 12_7_2021.pdf
+          date: '2021-07-12'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/MMeeting Minutes 10_8_2021.pdf
+          date: '2021-08-10'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 21_09_2021.pdf
+          date: '2021-09-21'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 19_10_2021.pdf
+          date: '2021-10-19'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 16_11_2021.pdf
+          date: '2021-11-16'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 2_11_2021-converted.pdf
+          date: '2021-11-02'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 11_30_2021.pdf
+          date: '2021-11-30'
     - type: Budget
       files:
         - label: ESS Budget 
