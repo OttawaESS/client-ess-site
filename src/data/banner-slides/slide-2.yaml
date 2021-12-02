@@ -1,15 +1,13 @@
 id: slide-2
 en:
-  title: FYIC Delegate Applications
-  date: Applications due October 17th at 11:59 pm
-  description: FYIC is a leadership development conference for first-year students looking to get more involved in their respective engineering societies. ESS is on the lookout for delegates who will have the chance to network with student leaders and other first year engineering delegates from other schools! This year, the conference will be hosted online by the University of Western Ontario, on the weekend of November 26th-28th! If you’re interested in representing our school at this conference, please apply by October 17th at 11:59 pm.
-  image: images/FYICenglish.png
-  button_link: https://docs.google.com/forms/d/e/1FAIpQLSeLJ8xHKlZsLkXF2ev8x9ym5MaXBwoQBXEZYi6vE9eJkFdfZw/viewform?fbclid=IwAR1IOpwJnNDeHRJUy5tj8g6fyALdT4sJUDfr9Qt3QF4PBwE1WrOmsuinPfg
-  button_label: Learn More
+  title: Accessibility Form
+  description: At ESS, we aim to be accessible to all of our students in all our operations. The purpose of this form is to let us know of any accessibility needs you may have during the school year, so that we don't miss anything
+  image: images/accessenglish.jpg
+  button_link: https://docs.google.com/forms/d/e/1FAIpQLScxlAIs__Fb4YU1vf8a5yZIt_SyPJmwipVrFqWqJyLzAzZTiQ/viewform
+  button_label: Access Form
 fr:
-  title: Candidatures des délégués FYIC
-  date: Candidatures dû le 17 octobre à 23h59
+  title: Formulaire d'accessibilité
   description: FYIC est une conférence de développement du leadership pour les étudiants de première année qui souhaitent s'impliquer davantage dans leurs sociétés d'ingénierie respectives. L’AÉG cherche des délégués qui auront la chance de réseauter avec des leaders étudiants et d'autres délégués de premier cycle d’autres écoles ! Cette année, la conférence se déroulera en ligne, organisée par le University of Western Ontario, la fin de semaine du 26 au 28 novembre! Si vous êtes intéressés de représenter notre école à cette conférence, postulez s’il vous plaît avant le 17 octobre à 23h59.
-  image: images/FYICfrench.png
-  button_link: https://docs.google.com/forms/d/e/1FAIpQLSeLJ8xHKlZsLkXF2ev8x9ym5MaXBwoQBXEZYi6vE9eJkFdfZw/viewform?fbclid=IwAR1IOpwJnNDeHRJUy5tj8g6fyALdT4sJUDfr9Qt3QF4PBwE1WrOmsuinPfg
+  image: images/accessfrench.jpg
+  button_link: https://docs.google.com/forms/d/e/1FAIpQLScxlAIs__Fb4YU1vf8a5yZIt_SyPJmwipVrFqWqJyLzAzZTiQ/viewform
   button_label: En apprendre plus

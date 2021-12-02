@@ -1,15 +1,10 @@
 id: slide-1
 en:
-  title: Charity Bottle Drive
-  date: October 16th & 17th
-  description: We're collecting glass bottles and aluminum cans on October 16 & 17 to support the Red Cross Red Crescent Movement’s humanitarian assistance in Palestine. Drop-off is available in the ESS office during regular office hours in October. Contactless front door pickup will be available near campus. Please click "learn more" to fill out the form if you would like us to pick up.
-  image: images/Bottle Drive.png
-  button_link:  https://docs.google.com/forms/d/e/1FAIpQLSdEqWbRAqj2qVeCpgP17rjL6sv2dZdzIIuN2bGBM36GTi8rkA/viewform 
-  button_label: Learn More
+  title: ESS Coffee
+  description: ESS Coffee Shop is now OPEN! Join us during our office hours, for a FREE* coffee. Have it black, or with sweetener, cream, milk or non-dairy alternatives (oat, macadamia, soy), all included. * Free coffee applicable to Bring-Your-Own-To-Go containers. A charge of $1 applicable to disposable cups, with sliding scale tip option, all donated to Makonsag.
+  image: images/esscoffeeenglish.jpg
+ 
 fr:
-  title: Collecte de bouteilles pour la charité
-  date: Le 16 et 17 octobre
-  description: Nous collectons les bouteilles en verre et les canettes en aluminium les 16 et 17 octobre pour soutenir l'aide humanitaire du Mouvement de la Croix-Rouge et du Croissant-Rouge en Palestine. Vous pouvez déposer vos bouteilles et canettes au bureau de l'AÉG pendant les heures normales de bureau en octobre. Un ramassage sans contact par la porte d'entrée sera disponible près du campus. Si vous voulez qu'on ramasse vos bouteilles, veuillez cliquer "En apprendre plus" pour remplir le formulaire.
-  image: images/Bottle drive french.png
-  button_link:  https://docs.google.com/forms/d/e/1FAIpQLSdEqWbRAqj2qVeCpgP17rjL6sv2dZdzIIuN2bGBM36GTi8rkA/viewform 
-  button_label: En apprendre plus
+  title: Café de l'AÉG
+  description: Café de l'AÉG désormais ouvert! Rejoignez-nous pendant nos heures de bureau, pour un café gratuit*. Vous pouvez prendre votre café noir, avec un édulcorant, de la crème, du lait ou avec des substituts non laitiers (lait d'avoine, lait de macadamia, lait de soja), ils sont tous inclus. * le café est gratuit si vous apportez un récipient réutilisable. Une charge de 1 $ applicable aux gobelets jetables, avec option de pourboire dégressif, tous les bénéfices seront reversés à Makonsag.
+  image: images/esscoffee.jpg
