@@ -31,6 +31,7 @@ export default {
         'Subject' : "Subject",
         'consent_message' : "I understand that this form is storing my submitted information so I can be contacted.",
         'Submit' : "Submit",
-        'Location' : "Location" 
+        'Location' : "Location",
+        'Online Store' : "Online Store" 
     }
 }

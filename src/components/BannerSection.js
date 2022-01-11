@@ -28,12 +28,12 @@ export default function BannerSection(props) {
                      {slide_data.title}
                    </span>
                    <span className={styles.date}>{slide_data.date}</span>
-                   <span className={styles.description}>{slide_data.description}</span>
-                   <Link to={slide_data.button_link}>
-                   <button className="btn--secondary">
-                       {slide_data.button_label}
-                   </button>
-                   </Link>
+                   <p className={styles.description}>{slide_data.description}</p>
+                   {slide_data.button_label && <Link to={slide_data.button_link} target="_blank" rel="noopener">
+                    <button className="btn--secondary">
+                        {slide_data.button_label}
+                    </button>
+                   </Link>}
                  </div>
                  <div className={styles.componentImg}>
                      <img alt="Event" src={slide_data.image} />

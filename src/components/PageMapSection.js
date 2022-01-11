@@ -4,7 +4,6 @@ import _ from 'lodash';
 import { Link } from 'gatsby'
 import { Row, Col, Card } from 'antd'
 import { PrinterOutlined, FileOutlined, BulbOutlined } from '@ant-design/icons'
-import Paragraph from 'antd/lib/typography/Paragraph';
 import 'antd/dist/antd.css';
 import styles from '../sass/components/map.module.scss'
 
@@ -40,7 +39,7 @@ export default function PageMapSection(props) {
                                 {icons[pageInfo.illustration]}
                                 <Meta
                                 title={pageInfo.title}
-                                description={<Paragraph className={styles.cardBody} type="secondary">{pageInfo.description}</Paragraph>}
+                                description={<p className={styles.cardBody} type="secondary">{pageInfo.description}</p>}
                                 />
                             </Card>
                         </Link>
