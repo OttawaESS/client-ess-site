@@ -108,7 +108,7 @@ export default function Header(props) {
                                   <Link
                                     className="dropdown__item"
                                     key={`menu-item-${url}`}
-                                    to={`${action.url}${url}`}
+                                    to={url.startsWith("/") ? `${action.url}${url}` : url}
                                   >
                                     <Menu.Item>{translate(label)}</Menu.Item>
                                   </Link>

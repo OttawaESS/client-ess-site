@@ -67,7 +67,13 @@
       {
         "label": "Services",
         "url": "/services",
-        "style": "link"
+        "style": "link",
+        "sub_links": [
+          {
+            "label": "Online Store",
+            "url": "https://engineering-students-society.square.site/"
+          }
+        ]
       },
       {
         "label": "Events",
