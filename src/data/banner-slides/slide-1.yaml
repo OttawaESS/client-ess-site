@@ -3,8 +3,12 @@ en:
   title: ESS Coffee
   description: ESS Coffee Shop is now OPEN! Join us during our office hours, for a FREE* coffee. Have it black, or with sweetener, cream, milk or non-dairy alternatives (oat, macadamia, soy), all included. * Free coffee applicable to Bring-Your-Own-To-Go containers. A charge of $1 applicable to disposable cups, with sliding scale tip option, all donated to Makonsag.
   image: images/esscoffeeenglish.jpg
+  button_label: Learn More
+  button_link: https://www.instagram.com/p/CWcISZND4uC/?utm_source=ig_web_copy_link 
  
 fr:
   title: Café de l'AÉG
   description: Café de l'AÉG désormais ouvert! Rejoignez-nous pendant nos heures de bureau, pour un café gratuit*. Vous pouvez prendre votre café noir, avec un édulcorant, de la crème, du lait ou avec des substituts non laitiers (lait d'avoine, lait de macadamia, lait de soja), ils sont tous inclus. * le café est gratuit si vous apportez un récipient réutilisable. Une charge de 1 $ applicable aux gobelets jetables, avec option de pourboire dégressif, tous les bénéfices seront reversés à Makonsag.
   image: images/esscoffee.jpg
+  button_label: En apprendre plus
+  button_link: https://www.instagram.com/p/CWcISZND4uC/?utm_source=ig_web_copy_link 
