@@ -76,7 +76,7 @@
   font-style: normal;
   line-height: 24px;
 
-  @media only screen and (max-width: 800px) {
+  @media only screen and (max-width: 1024px) {
     display: flex;
   }
 
@@ -85,7 +85,7 @@
   color: $primary-color;
 }
 
-@include media-breakpoint-up(md) {
+@include media-breakpoint-up(gd) {
   .js-nav-toggle {
     display: none;
   }
@@ -104,7 +104,7 @@
   }
 }
 
-@include media-breakpoint-down(md) {
+@include media-breakpoint-down(gd) {
   .navbar {
     &:after {
       background: $color-bg-overlay;
