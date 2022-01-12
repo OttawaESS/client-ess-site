@@ -69,4 +69,24 @@
     .description {
         text-align: left;
     }
+
+    .title {
+        font-size: 2.75em;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .componentInfo {
+        width: auto;
+        margin: 1rem;
+    }
+
+    .title {
+        font-size: 2.5em;
+    }
+
+    .componentImg {
+        margin: auto;
+        margin: 2rem 2rem 0.5rem 2rem;
+    }
 }
