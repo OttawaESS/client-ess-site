@@ -45,6 +45,16 @@ en:
         - label: ESS Budget BoD Updates
           path: documents/2021-2022/ESS-Projected-Budget-BoD-2021-11-07.pdf
           date: '2021-11-07'
+    - type: BOD Minutes
+      files:
+        - label: Sept 2021 Bod
+          path: documents/2021-2022/Sept 2021 Bod.pdf
+          date: '2021-09-26'
+        - label: Oct 2021 Bod
+          path: documents/2021-2022/Oct 2021 Bod.pdf
+          date: '2021-11-07'
+
+        
 fr:
   types:
     - type: Réunions
@@ -93,4 +103,13 @@ fr:
           date: '2021-11-07'
         - label: ESS Projected Budget BoD
           path: documents/2021-2022/ESS-Projected-Budget-BoD-2021-11-28.pdf
-          date: '2021-11-28'      
+          date: '2021-11-28' 
+    - type: BOD Minutes
+      files:
+        - label: Sept 2021 Bod
+          path: documents/2021-2022/sept 2021 BOD [FR].pdf
+          date: '2021-09-26'
+        - label: Oct 2021 Bod
+          path: documents/2021-2022/Oct 2021 BOD [FR].pdf
+          date: '2021-11-07'
+             
