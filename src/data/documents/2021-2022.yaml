@@ -48,7 +48,7 @@ en:
     - type: BOD Minutes
       files:
         - label: Sept 2021 Bod
-          path: documents/2021-2022/Sept 2021 Bod.pdf
+          path: documents/2021-2022/sept 2021 Bod.pdf
           date: '2021-09-26'
         - label: Oct 2021 Bod
           path: documents/2021-2022/Oct 2021 Bod.pdf
