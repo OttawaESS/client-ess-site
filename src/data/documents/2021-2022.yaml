@@ -36,7 +36,7 @@ en:
         - label: ESS Officer Meeting Minutes
           path: documents/2021-2022/Meeting Minutes 11_30_2021.pdf
           date: '2021-11-30'
-        
+  
     - type: Budget
       files:
         - label: ESS Budget 
@@ -53,6 +53,12 @@ en:
         - label: Oct 2021 Bod
           path: documents/2021-2022/Oct 2021 Bod.pdf
           date: '2021-11-07'
+     - type: Equity
+      files:
+        - label: Fall Equity Report
+          path: documents/2021-2022/Equity Report.pdf
+          date: '2022-01-30'
+       
 
         
 fr:
