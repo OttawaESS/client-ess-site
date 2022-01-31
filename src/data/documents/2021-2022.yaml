@@ -53,7 +53,7 @@ en:
         - label: Oct 2021 Bod
           path: documents/2021-2022/Oct 2021 Bod.pdf
           date: '2021-11-07'
-     - type: Equity
+    - type: Equity
       files:
         - label: Fall Equity Report
           path: documents/2021-2022/Equity Report.pdf
