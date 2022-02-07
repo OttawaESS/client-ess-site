@@ -1,15 +1,15 @@
 id: slide-1
 en:
-  title:  See You Soon!
+  title:  Welcome Back!
   date:
-  description: As of Tuesday, November 7th, ESS will be closing our office for exams and the winter holiday. We are looking forward to welcoming you back in 2022!
-  image: images/office-hours/office-hours-fall-2021.jpg
+  description: Come visit us during our winter office hours
+  image: images/office-hours/officehourEN.png
   button_link: /about/contact-us
   button_label: Learn More
 fr:
-  title: À bientôt!
+  title: Bienvenue !
   date:
-  description: À partir du mardi 7 novembre, l’AÉG fermera son bureau pour les examens et les vacances d'hiver. Nous sommes impatients de vous accueillir à nouveau en 2022 !
-  image: images/office-hours/office-hours-fall-2021.jpg
+  description: Venez nous rendre visite pendant nos heures de bureau cet hiver !
+  image: images/office-hours/officehoursFR.png
   button_link: /about/contact-us
   button_label: En apprendre plus
