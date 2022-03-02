@@ -21,7 +21,8 @@ en:
       important_note: The ESS will promote a safe and inclusive environment for all Members of the Society. Thus, words or actions that are sexist, racist, homophobic, or otherwise discriminatory will not be tolerated. In line with this sentiment word or actions that are violent, threatening or promote rape culture will also not be tolerated.
       instructions:
         - title: Step 1
-          description: Fill out the incident report form here. You may choose whether you would like to remain anonymous throughout this process. Link here https://docs.google.com/forms/d/e/1FAIpQLSfqUVXNbT3AIp6-tcvdFg3ZZs-1JnZ39Q7XEqiRgqPTJLas5A/viewform
+          description: Fill out the incident report form here. You may choose whether you would like to remain anonymous throughout this process. 
+        button_link: https://docs.google.com/forms/d/e/1FAIpQLSfqUVXNbT3AIp6-tcvdFg3ZZs-1JnZ39Q7XEqiRgqPTJLas5A/viewform
         - title: Step 2
           description: Once your form is received, a meeting will be called with the incident response committee to review the report.
         - title: Step 3
