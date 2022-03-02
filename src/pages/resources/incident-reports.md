@@ -22,6 +22,7 @@ en:
       instructions:
         - title: Step 1
           description: Fill out the incident report form here. You may choose whether you would like to remain anonymous throughout this process. 
+          
         button_link: https://docs.google.com/forms/d/e/1FAIpQLSfqUVXNbT3AIp6-tcvdFg3ZZs-1JnZ39Q7XEqiRgqPTJLas5A/viewform
         - title: Step 2
           description: Once your form is received, a meeting will be called with the incident response committee to review the report.
@@ -50,7 +51,9 @@ fr:
       important_note: L’AÉG va promouvoir un environnement sûr et inclusif pour tous les membres de la société. Donc, les mots ou actions qui sont sexiste, raciste, homophobe, ou autrement discriminatoire ne seront pas tolérés. Conformant à ce sentiment, les mots ou les actions qui sont violent, menaçant, ou qui encouragent le viol ne seront pas tolérés.
       instructions:
         - title: Étape 1
-          description: Remplir le formulaire de rapport d’incidents ici. Vous pouvez choisir si vous voulez être anonyme pour cette procédure. https://docs.google.com/forms/d/e/1FAIpQLSfqUVXNbT3AIp6-tcvdFg3ZZs-1JnZ39Q7XEqiRgqPTJLas5A/viewform
+          description: Remplir le formulaire de rapport d’incidents ici. Vous pouvez choisir si vous voulez être anonyme pour cette procédure.
+          
+           https://docs.google.com/forms/d/e/1FAIpQLSfqUVXNbT3AIp6-tcvdFg3ZZs-1JnZ39Q7XEqiRgqPTJLas5A/viewform
         - title: Étape 2
           description: Une fois que votre formulaire est reçu, une réunion de la comité de réponse d’incidents sera appelée pour revoir le rapport.
         - title: Étape 3
