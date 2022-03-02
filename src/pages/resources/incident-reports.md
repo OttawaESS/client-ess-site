@@ -22,7 +22,6 @@ en:
       instructions:
         - title: Step 1
           description: Fill out the incident report form here. You may choose whether you would like to remain anonymous throughout this process. https://docs.google.com/forms/d/e/1FAIpQLSfqUVXNbT3AIp6-tcvdFg3ZZs-1JnZ39Q7XEqiRgqPTJLas5A/viewform
-
         - title: Step 2
           description: Once your form is received, a meeting will be called with the incident response committee to review the report.
         - title: Step 3
