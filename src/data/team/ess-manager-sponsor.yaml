@@ -1,8 +1,9 @@
 id: manager-sponsor
-first_name: Maya
-last_name: Benhamou
-photo: images/team/manager-sponsorships.png
-photo_alt: Maya Benhamou
+first_name: Abbey
+last_name: Jayne
+#photo: images/team/manager-sponsorships.png
+photo: images/team/ESS-logo-placeholder.jpg
+photo_alt: Abbey Jayne
 position: 
   en: Manager of Sponsorships
   fr: Directrice des parrainages

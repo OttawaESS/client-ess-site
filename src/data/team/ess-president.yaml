@@ -1,8 +1,9 @@
 id: president
-first_name: Chloe
-last_name: Bergeron
-photo: images/team/president.jpeg
-photo_alt: Chloe Bergeron
+first_name: Julian
+last_name: Ward
+#photo: images/team/president.jpeg
+photo: images/team/ESS-logo-placeholder.jpg
+photo_alt: Julian Ward
 position:
   en: President
   fr: Présidente

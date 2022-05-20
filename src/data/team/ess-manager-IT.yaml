@@ -1,8 +1,9 @@
 id: manager-it
-first_name: Justin
-last_name: Dudtschak
-photo: images/team/manager-IT.png
-photo_alt: Justin Dudtschak
+first_name: Emma
+last_name: Tang
+#photo: images/team/manager-IT.png
+photo: images/team/ESS-logo-placeholder.jpg
+photo_alt: Emma Tang
 position:
   en: Manager of Information Technology
   fr: Directeur des technologies de l'information 

@@ -1,8 +1,9 @@
 id: vp-internal
-first_name: Sally
-last_name: Raad
-photo: images/team/vp-internal.png
-photo_alt: Sally Raad
+first_name: AJ
+last_name: Ekwueme
+#photo: images/team/vp-internal.png
+photo: images/team/ESS-logo-placeholder.jpg
+photo_alt: AJ Ekwueme
 position:
   en: Vice President of Internal Affairs
   fr: Vice-présidente des affaires internes

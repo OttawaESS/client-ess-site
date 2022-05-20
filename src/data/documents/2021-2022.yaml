@@ -58,6 +58,9 @@ en:
         - label: Fall Equity Report
           path: documents/2021-2022/Equity Report.pdf
           date: '2022-01-30'
+        - label: Winter Equity Report
+          path: documents/2021-2022/Equity Report (Winter).pdf
+          date: '2022-05-10'
        
 
         
@@ -123,4 +126,7 @@ fr:
         - label: Fall Report
           path: documents/2021-2022/Equity Report.pdf
           date: '2022-01-30'
+        - label: Winter Report
+          path: documents/2021-2022/Equity Report (Winter).pdf
+          date: '2022-05-10'
              

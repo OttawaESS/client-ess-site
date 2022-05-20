@@ -1,8 +1,9 @@
 id: vp-services
-first_name: Yzabelle
-last_name: Bisa
-photo: images/team/vp-services.jpg
-photo_alt: Yzabelle Bisa
+first_name: Ben
+last_name: Leeder
+#photo: images/team/vp-services.jpg
+photo: images/team/ESS-logo-placeholder.jpg
+photo_alt: Ben Leeder
 position: 
   en: Vice President of Services
   fr: Vice-présidente des services

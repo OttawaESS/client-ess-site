@@ -1,8 +1,9 @@
 id: manager-translations
-first_name: Ayan
-last_name: Aden
-photo: images/team/manager-translations.png
-photo_alt: Ayan Aden
+first_name:  
+last_name:  
+#photo: images/team/manager-translations.png
+photo: images/team/ESS-logo-placeholder.jpg
+photo_alt: 
 position:
   en: Manager of Translations
   fr: Directrice des traductions

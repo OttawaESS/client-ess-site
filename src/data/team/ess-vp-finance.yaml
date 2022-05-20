@@ -1,8 +1,9 @@
 id: vp-finance
-first_name: Nicholas
-last_name: Morin
-photo: images/team/vp-finance.jpeg
-photo_alt: Nicholas Morin
+first_name: Zahra
+last_name: Alavi
+#photo: images/team/vp-finance.jpeg
+photo: images/team/ESS-logo-placeholder.jpg
+photo_alt: Zahra Alavi
 position:
   en: Vice President of Financial Affairs
   fr: Vice-président des affaires financières

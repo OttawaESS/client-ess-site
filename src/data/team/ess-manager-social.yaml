@@ -1,8 +1,9 @@
 id: manager-social
-first_name: Lilly
-last_name: Ferrier
-photo: images/team/manager-socials.jpg
-photo_alt: Lilly Ferrier
+first_name: Alannah
+last_name: Gowling
+#photo: images/team/manager-socials.jpg
+photo: images/team/ESS-logo-placeholder.jpg
+photo_alt: Alannah Gowling
 position:
   en: Manager of Social Media
   fr: Directrice des médias sociaux

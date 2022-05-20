@@ -1,8 +1,9 @@
 id: manager-sports
-first_name: Adam
-last_name: Walters
-photo: images/team/manager-sports.jpeg
-photo_alt: Adam Walters
+first_name: Yasen
+last_name: Akir
+#photo: images/team/manager-sports.jpeg
+photo: images/team/ESS-logo-placeholder.jpg
+photo_alt: Yasen Akir
 position:
   en: Manager of Sports
   fr: Directeur des sports
