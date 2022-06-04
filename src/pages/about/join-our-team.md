@@ -40,11 +40,16 @@ en:
       title: Committees
       committees:
         - title: Charity Committee
+          link: https://docs.google.com/forms/d/e/1FAIpQLSfJy0gS-n56LVV8fqmKgpcVeseMvHnyAKhuXnkihPF8DM9RBg/viewform?usp=sf_link
           description: >-
             The Charity Committee is formed to assist our VP of Philanthropic Affairs with all things charity! Its members are responsible for suggesting charities to support, helping with events and best of all, helping plan the annual engineering charity ball!
+
+
+
+            Apply here until June 24, 2022: https://docs.google.com/forms/d/e/1FAIpQLSfJy0gS-n56LVV8fqmKgpcVeseMvHnyAKhuXnkihPF8DM9RBg/viewform?usp=sf_link
   
   
-            Applications for this committee are currently closed.
+          #Applications for this committee are currently closed.
   
         - title: Selection Committee
           description: >-
@@ -108,9 +113,12 @@ fr:
         - title: Comité de Bienfaisance
           description: >-
             Le comité de bienfaisance est formé pour aider notre vice-président des affaires philanthropiques pour tout ce qui concerne la bienfaisance ! Ses membres sont chargés de suggérer des organismes de bienfaisance à soutenir, d'aider à l'organisation d'événements et, surtout, d'aider à planifier le bal annuel de charité des ingénieurs !
+
+
+            Mise en candidatures du le 24 Juin, 2022: https://docs.google.com/forms/d/e/1FAIpQLSfJy0gS-n56LVV8fqmKgpcVeseMvHnyAKhuXnkihPF8DM9RBg/viewform?usp=sf_link
   
   
-            Les candidatures pour ce comité sont actuellement closes.
+          #Les candidatures pour ce comité sont actuellement closes.
   
         - title: Comité de sélection
           description: >-
