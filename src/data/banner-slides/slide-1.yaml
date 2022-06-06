@@ -1,14 +1,14 @@
 id: slide-1
 en:
-  title: ESS Coffee
-  description: ESS Coffee Shop is now OPEN! Join us during our office hours, for a FREE* coffee. Have it black, or with sweetener, cream, milk or non-dairy alternatives (oat, macadamia, soy), all included. * Free coffee applicable to Bring-Your-Own-To-Go containers. A charge of $1 applicable to disposable cups, with sliding scale tip option, all donated to Makonsag.
-  image: images/esscoffeeenglish.jpg
-  button_label: Learn More
-  button_link: https://www.instagram.com/p/CWcISZND4uC/?utm_source=ig_web_copy_link 
+  title: 101 Week Guide Applications
+  description: Dust off those covies, shine your hardhat, and start practicing your Godiva’s Hymn because 101Week guide applications are open from May 30 until June 12 at 11:59 pm. Put your leadership skills to the test and join the incredible team that welcomes first year engineering students to University of Ottawa.
+  image: images/Frosh-EN-2022.jpg
+  button_label: Apply
+  button_link: https://docs.google.com/forms/d/e/1FAIpQLSewrVhvco_RQwgBPV3LuqdRVt7ZFE3OTu8fStrXcUSbLbSB-g/viewform
  
 fr:
-  title: Café de l'AÉG
-  description: Café de l'AÉG désormais ouvert! Rejoignez-nous pendant nos heures de bureau, pour un café gratuit*. Vous pouvez prendre votre café noir, avec un édulcorant, de la crème, du lait ou avec des substituts non laitiers (lait d'avoine, lait de macadamia, lait de soja), ils sont tous inclus. * le café est gratuit si vous apportez un récipient réutilisable. Une charge de 1 $ applicable aux gobelets jetables, avec option de pourboire dégressif, tous les bénéfices seront reversés à Makonsag.
-  image: images/esscoffee.jpg
+  title: Guides pour la Semaine 101
+  description: Attention, étudiants en génie! Sortez vos covies, préparez vos casques et pratiquer votre Godiva's Hymn, car la mise en candidature pour être guide pendant la Semaine 101 ouvre du 30 mai jusqu’au 12 juin à 23 h 59. Parlez de vos compétences en leadership et joignez-vous à l'incroyable équipe qui accueille les étudiants de première année en génie à l'Université d'Ottawa.
+  image: images/Frosh-FR-2022.jpg
   button_label: En apprendre plus
-  button_link: https://www.instagram.com/p/CWcISZND4uC/?utm_source=ig_web_copy_link 
+  button_link: https://docs.google.com/forms/d/e/1FAIpQLSewrVhvco_RQwgBPV3LuqdRVt7ZFE3OTu8fStrXcUSbLbSB-g/viewform
