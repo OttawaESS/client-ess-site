@@ -43,10 +43,7 @@ en:
 
         #### Guides
 
-        If you want to put your leadership skills to the test and help us welcome in our new students, keep an eye on our social media and website throughout the summer to see when applications are released. 
-
-        
-        Apply here until June 12, 2022: https://docs.google.com/forms/d/e/1FAIpQLSewrVhvco_RQwgBPV3LuqdRVt7ZFE3OTu8fStrXcUSbLbSB-g/viewform
+        If you want to put your leadership skills to the test and help us welcome in our new students, keep an eye on our social media and website throughout the summer to see when applications are released. (Applications for 2022 are closed)
 
 
         #### 101ers
@@ -55,8 +52,6 @@ en:
     - type: image_section
       image: images/Frosh-Schedule.jpg
 
-#(Applications for 2022 are closed)
-#(Les candidatures pour 2022 sont closes)
 
 fr:
   sections:
@@ -101,11 +96,8 @@ fr:
 
         #### Guides
 
-        Si vous souhaitez mettre vos compétences en matière de leadership à l'épreuve et nous aider à accueillir nos nouveaux étudiants, gardez un œil sur nos médias sociaux et notre site Web tout au long de l'été pour savoir quand les candidatures seront publiées. 
-
-
-        Mise en candidature du le 12 Juin, 2022: https://docs.google.com/forms/d/e/1FAIpQLSewrVhvco_RQwgBPV3LuqdRVt7ZFE3OTu8fStrXcUSbLbSB-g/viewform
-
+        Si vous souhaitez mettre vos compétences en matière de leadership à l'épreuve et nous aider à accueillir nos nouveaux étudiants, gardez un œil sur nos médias sociaux et notre site Web tout au long de l'été pour savoir quand les candidatures seront publiées. (Les candidatures pour 2022 sont closes).
+        
 
         #### 101ers
 

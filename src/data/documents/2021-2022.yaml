@@ -36,6 +36,15 @@ en:
         - label: ESS Officer Meeting Minutes
           path: documents/2021-2022/Meeting Minutes 11_30_2021.pdf
           date: '2021-11-30'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 7_2_2022.pdf
+          date: '2022-02-07'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 28_3_2022.pdf
+          date: '2022-03-28'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 28_03_2022.pdf
+          date: '2022-03-28'
   
     - type: Budget
       files:
@@ -101,6 +110,15 @@ fr:
         - label: ESS Officer Meeting Minutes
           path: documents/2021-2022/Meeting Minutes 11_30_2021.pdf
           date: '2021-11-30'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 7_2_2022.pdf
+          date: '2022-02-07'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 28_3_2022.pdf
+          date: '2022-03-28'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2021-2022/Meeting Minutes 28_03_2022.pdf
+          date: '2022-03-28'
 
     - type: Budget
       files:
