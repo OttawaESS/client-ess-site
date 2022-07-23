@@ -126,6 +126,7 @@ fr:
         - src/data/documents/2019-2020.yaml
         - src/data/documents/2020-2021.yaml
         - src/data/documents/2021-2022.yaml
+        - src/data/documents/2022-2023.yaml
 
     - type: grid_section
       grid_items:
