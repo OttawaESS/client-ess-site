@@ -29,9 +29,6 @@ en:
         - label: 2018-2019 Budget Overview
           path: documents/2018-2019/budget/Budget-2018-2019-November-18th.pdf
           date: '2018-11-18'
-        - label: 2018-2019 Fall Budget Report
-          path: documents/2018-2019/budget/Fall-2018-VPX-Report-1.pdf
-          date: '2019-01-01'
 
 fr:
   types:
@@ -62,7 +59,4 @@ fr:
       files:
         - label: 2018-2019 Aperçu du budget
           path: documents/2018-2019/budget/Budget-2018-2019-November-18th.pdf
-          date: '2018-11-18'
-        - label: 2018-2019 Rapport budgétaire d'automne
-          path: documents/2018-2019/budget/Fall-2018-VPX-Report-1.pdf
-          date: '2019-01-01'        
+          date: '2018-11-18'     
