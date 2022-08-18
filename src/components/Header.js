@@ -104,14 +104,12 @@ export default function Header(props) {
                           if (action.sub_links) {
                             const menu = (
                               <Menu>
-                                {action.sub_links.map(({ label, url }) => (
-                                  <Link
-                                    className="dropdown__item"
-                                    key={`menu-item-${url}`}
-                                    to={url.startsWith("/") ? `${action.url}${url}` : url}
-                                  >
-                                    <Menu.Item>{translate(label)}</Menu.Item>
-                                  </Link>
+                                {action.sub_links.map(({ label, url }, index) => (
+                                  <Menu.Item className="dropdown__item" key={`menu-item-${url}-${index}`}>
+                                    <Link to={url.startsWith("/") ? `${action.url}${url}` : url}>
+                                      {translate(label)}
+                                    </Link>
+                                  </Menu.Item>
                                 ))}
                               </Menu>
                             );

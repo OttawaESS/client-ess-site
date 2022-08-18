@@ -20,8 +20,8 @@ export default function FlatCardsSection(props) {
           <div className="container container--lg">
             {_.map(_.get(section, 'cards', null), (card, card_idx) => {
                 return (
-                  <StyledDiv>
-                    <Row key={card_idx} gutter={[40, 40]}>
+                  <StyledDiv key={card_idx}>
+                    <Row gutter={[40, 40]}>
                       <StyledCol sm={24} md={24} lg={4}>
                         <img src={withPrefix(card.image)} alt={card.title} width={186} height={166} />
                       </StyledCol>
