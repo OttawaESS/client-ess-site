@@ -35,11 +35,7 @@ export default function FaqSection(props) {
                     header={_.get(panel, "header", null)}
                     key={panel_idx}
                   >
-                    <p>
-                      {markdownify(
-                        _.get(panel, "content", null)
-                      )}
-                    </p>
+                    {markdownify(_.get(panel, "content", null))}
                   </Panel>
                 ))}
               </Accordion>

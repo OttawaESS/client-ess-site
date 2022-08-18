@@ -24,7 +24,7 @@ export default function CommitteeSection(props) {
                     <StyledCol sm={24} md={24} lg={4}><Title>{committee.title}</Title></StyledCol>
                     <Col sm={24} md={24} lg={20}>
                       <StyledH4>{committee.title}</StyledH4>
-                      <p>{markdownify(committee.description)}</p>
+                      {markdownify(committee.description)}
                     </Col>
                   </StyledRow>
                 )

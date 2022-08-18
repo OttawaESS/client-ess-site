@@ -30,7 +30,7 @@ export default function FlatCardsSection(props) {
                           <a href={card.link} target="_blank" rel="noopener noreferrer"><StyledH4>{card.title}</StyledH4></a> :
                           <h4>{card.title}</h4>
                         }
-                        <p>{markdownify(card.description)}</p>
+                        {markdownify(card.description)}
                       </Col>
                     </Row>
                     {card_idx < _.get(section, 'cards', null).length - 1 && <Separator/>}
