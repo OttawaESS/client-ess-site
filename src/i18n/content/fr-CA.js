@@ -32,6 +32,7 @@ export default {
         'consent_message' : "Je comprends que ce formulaire stocke les informations que j'ai soumises afin que je puisse être contacté(e).",
         'Submit' : "Soumettre",
         'Location' : "Emplacement",
-        'Online Store' : "Magasin en ligne"        
+        'Online Store': "Magasin en ligne",
+        'Learn More': "En savoir plus",
     }
 }

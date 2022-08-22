@@ -41,8 +41,8 @@ export default function DocumentsSection(props) {
                 <div className="section__actions">
                   <div>
                     {_.get(section, 'actions', null).map((action, idx) => (
-                      <div className={styles.navButton}>
-                        <button key={idx} value={action.label} className={activeMenu === action.label ? styles.activeMenu : styles.nonActiveMenu} onClick={handleOnChange}>
+                      <div className={styles.navButton} key={idx}>
+                        <button value={action.label} className={activeMenu === action.label ? styles.activeMenu : styles.nonActiveMenu} onClick={handleOnChange}>
                           {action.label}
                         </button>
                       </div>
@@ -55,7 +55,6 @@ export default function DocumentsSection(props) {
               <Col xs={24} md={24} lg={12} style={panelDiv}>
                 {_.map(_.get(section, 'documents', null), (doc_year, doc_year_idx) => {
                   let doc_year_data = getData(props.pageContext.site.data, doc_year);
-                  console.log(doc_year_data);
                   let doc_year_data_current_locale = locale === 'fr-Ca' ? doc_year_data.fr : doc_year_data.en;
                   return (
                     doc_year_data.year === activeMenu && <Accordion key={doc_year_idx}>
