@@ -20,7 +20,7 @@ en:
 
             We hope all your experiences with ESS are positive, but if there is ever a problem at one of our events, we want to ensure you have a safe space to let us know so we can help come to a resolution. Click here to learn more about our incident reporting process and/or to fill out a form.
         - content: |-
-            ### [Initiatives and Support](/resources/initiatives-and-support)
+            ### [Initiatives and School Support](/resources/initiatives-and-school-support)
 
             The ESS believes in taking action on issues that we feel are important. Click here to learn more about the charities we support, and how you can help us do so in a fun and involved way!
         - content: |-
@@ -57,7 +57,7 @@ fr:
 
             Nous espérons que toutes vos expériences avec l’AÉG sont positives, mais si jamais il y a un problème lors de l'un de nos événements, nous voulons nous assurer que vous disposez d'un espace sécuritaire pour nous le faire savoir afin que nous puissions trouver une solution. Cliquez ici pour en savoir plus sur notre processus de rapport d'incident et pour remplir un formulaire.
         - content: |-
-            ### [Initiatives et Soutien](/resources/initiatives-and-support)
+            ### [Initiatives et Soutien Scholaire](/resources/initiatives-and-school-support)
 
             L’AÉG croit en l'importance d'agir sur des questions qui nous tiennent à cœur. Cliquez ici pour en savoir plus sur les organismes de bienfaisance que nous soutenons et sur la façon dont vous pouvez nous aider à le faire d'une manière amusante et engagée !
         - content: |-

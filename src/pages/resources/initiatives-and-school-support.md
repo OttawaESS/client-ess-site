@@ -1,5 +1,5 @@
 ---
-title: Initiatives And Support
+title: Initiatives And School Support
 en:
   sections:
     - type: secondary_header
@@ -11,12 +11,13 @@ en:
           link: /accessibility
         - label: Incident reports
           link: /incident-reports
-        - label: Initiatives and Support
-          link: /initiatives-and-support
+        - label: Initiatives and School Support
+          link: /initiatives-and-school-support
         - label: Scholarships and careers
           link: /scholarships-and-careers
+
     - type: page_title
-      title: Initiatives And Support
+      title: Initiatives And School Support
 
     - type: features_section
       features:
@@ -36,8 +37,6 @@ en:
           image_alt: Movemeber Foundation
           image_position: left
 
-
-
         - title: Eng Ball
           content: >-
             One of our biggest events of the year, Eng Ball gives students a chance to dress up for a night while raising money for a local charity.
@@ -45,6 +44,15 @@ en:
           image: images/eng-ball.jpeg
           image_alt: Eng Ball
           image_position: left
+
+        - title: Math Problems
+          content: >-
+            If you need help with calculus 1 (MAT 1320), the Engineering Student Society has got your back. with the help of the Math Whisperer, we have compiled some example problems and solutions to help you better understand what the heck is happening in that class.
+
+
+            [Questions](https://www.essaeg.ca/documents/school-support/Example-Problems.pdf)
+            [Solutions](https://www.essaeg.ca/documents/school-support/Example-Problems-SOLUTIONS.pdf)
+
 
 fr:
   sections:
@@ -57,12 +65,12 @@ fr:
           link: /accessibility
         - label: Rapport d'incident
           link: /incident-reports
-        - label: Initiatives et soutien
-          link: /initiatives-and-support
+        - label: Initiatives et soutien scholaire
+          link: /initiatives-and-school-support
         - label: Bourses et carrières
           link: /scholarships-and-careers
     - type: page_title
-      title: Initiatives et Soutien
+      title: Initiatives et Soutien Scholaire
 
     - type: content_section
       content: >-
@@ -100,7 +108,15 @@ fr:
           align: left
           image: images/eng-ball.jpeg
           image_alt: Eng Ball
-          image_position: left            
+          image_position: left
+
+        - title: Problèmes Mathématiques 
+          content: >-
+            Si vous avez besoin de l’aide dans le cours de calculus 1 (MAT1720), la société d’étudiant de génie est la pour vous aidez. On a créer des examples de problème et solution, avec l’aide des experts en math. Ceci vous aidera à améliorer votre compréhension en ce qui est appris en classe.
+
+            
+            [Questions](https://www.essaeg.ca/documents/school-support/Example-Problems.pdf)
+            [Solutions](https://www.essaeg.ca/documents/school-support/Example-Problems-SOLUTIONS.pdf)          
 
 template: advanced
 ---

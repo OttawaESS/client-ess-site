@@ -11,8 +11,8 @@ en:
           link: /accessibility
         - label: Incident reports
           link: /incident-reports
-        - label: Initiatives and Support
-          link: /initiatives-and-support
+        - label: Initiatives and School Support
+          link: /initiatives-and-school-support
         - label: Scholarships and careers
           link: /scholarships-and-careers
     - type: page_title

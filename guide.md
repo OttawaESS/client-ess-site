@@ -23,7 +23,7 @@ $primary-color-dark-variant:   #270059 !default;
   - **Important Documents:** `src/pages/resources/important-documents.md`
   - **Scholarships and Careers:** `src/pages/resources/scholarships-and-careers.md`
   - **Accessibility:** `src/pages/resources/accessibility.md`
-  - **Initiatives and Support:** `src/pages/resources/initiatives-and-support.md`
+  - **Initiatives and Support:** `src/pages/resources/initiatives-and-school-support.md`
   - **Incident Reports:** `src/pages/resources/incident-reports.md`
 - **Services:** `src/pages/services.md`
 - **Events:** `src/pages/events.md`

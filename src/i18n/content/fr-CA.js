@@ -15,7 +15,7 @@ export default {
         'Resources': "Ressources",
         'Scholarships and Careers' : "Bourses et carrières",
         'Important Documents' : "Documents Importants",
-        'Initiatives and Support' : "Initiatives et soutien",
+        'Initiatives and School Support' : "Initiatives et soutien scholaire",
         'Incident Reports' : "Reporter un incident",
         'Accessibility' : "Accessibilité",
         'Services': "Services",
