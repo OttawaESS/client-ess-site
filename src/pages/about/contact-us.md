@@ -26,7 +26,7 @@ en:
         Want to know more about ESS? Got a school question you need help with? Or just want to chat? Come see us during our office hours.
   
     - type: image_section
-      image: images/office-hours/officehoursEN.png
+      image: images/office-hours/officehourEN.png
       alt_image: Office Hours Fall 2022
 
     - type: content_section
