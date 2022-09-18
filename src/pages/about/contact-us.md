@@ -77,7 +77,7 @@ fr:
   
     - type: image_section
       image: images/office-hours/officehoursFR.png
-      alt_image: Office Hours Autumn 2022
+      alt_image: Office Hours Automne 2022
   
     - type: content_section
       align: center
