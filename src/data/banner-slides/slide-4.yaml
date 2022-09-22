@@ -2,14 +2,14 @@ id: slide-1
 en:
   title:  Welcome Back!
   date:
-  description: Come visit us during our winter office hours
+  description: Come visit us during our fall office hours
   image: images/office-hours/officehourEN.png
   button_link: /about/contact-us
   button_label: Learn More
 fr:
   title: Bienvenue !
   date:
-  description: Venez nous rendre visite pendant nos heures de bureau cet hiver !
+  description: Venez nous rendre visite pendant nos heures de bureau cet automne !
   image: images/office-hours/officehoursFR.png
   button_link: /about/contact-us
   button_label: En savoir plus
