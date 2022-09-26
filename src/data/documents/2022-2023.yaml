@@ -9,7 +9,11 @@ en:
         - label: ESS Officer Meeting Minutes
           path: documents/2022-2023/Meeting Minutes 21_06_2022.pdf
           date: '2022-06-21'
-  
+    - type: Budget
+        files:
+          - label: ESS Budget 
+            path: documents/2022-2023/Budget(BoD 2022-09-25).pdf
+            date: '2022-09-25'
 
        
 
@@ -24,5 +28,12 @@ fr:
         - label: ESS Officer Meeting Minutes
           path: documents/2022-2023/Meeting Minutes 21_06_2022.pdf
           date: '2022-06-21'
+
+    - type: Budget
+      files:
+        - label: ESS Budget 
+          path: documents/2022-2023/Budget(BoD 2022-09-25).pdf
+            date: '2022-09-25'
+
 
 
