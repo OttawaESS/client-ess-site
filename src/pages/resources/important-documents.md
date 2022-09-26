@@ -110,6 +110,8 @@ fr:
       actions:
         - label: General
           style: primary
+        - label: 2022-2023
+          style: secondary
         - label: 2021-2022
           style: secondary
         - label: 2020-2021
