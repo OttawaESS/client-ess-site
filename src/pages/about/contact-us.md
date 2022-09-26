@@ -34,11 +34,11 @@ en:
       content: >-
         #### We're open on:
 
-        **Monday:** 11:30am – 3:00pm, 5:30pm – 6:30pm<br>
-        **Tuesday:** 10:00am – 3:00pm, 5:00pm – 6:00pm<br>
-        **Wednesday:** 11:30am – 12:30pm<br>
-        **Thursday:** 12:00pm – 3:30pm, 5:00pm – 6:00pm<br>
-        **Friday:** 8:30am – 2:00pm, 5:30pm – 6:30pm<br>
+        **Monday:** 11:30am – 4:00pm, 5:30pm – 7:00pm<br>
+        **Tuesday:** 10:00am – 4:00pm, 5:00pm – 6:30pm<br>
+        **Wednesday:** 11:00am – 12:30pm<br>
+        **Thursday:** 12:30pm – 3:30pm, 5:00pm – 6:30pm<br>
+        **Friday:** 8:30am – 2:30pm, 5:30pm – 7:00pm<br>
 
   
     - type: contact_section
@@ -84,11 +84,11 @@ fr:
       content: >-
         #### Nous sommes ouverts:
 
-        **Lundi:** 11h30 – 15h, 17h30 – 18h30 <br>
-        **Mardi:** 10h – 15h, 17h - 18h <br>
-        **Mercredi:** 11h30 - 12h30 <br>
-        **Jeudi:** 12h - 15h30, 17h - 18h <br>
-        **Vendredi:** 8h30 - 14h, 17h30 - 18h30 <br>
+        **Lundi:** 11h30 – 16h, 17h30 – 19h <br>
+        **Mardi:** 10h – 16h, 17h - 18h30 <br>
+        **Mercredi:** 11h - 12h30 <br>
+        **Jeudi:** 12h30 - 15h30, 17h - 18h30 <br>
+        **Vendredi:** 8h30 - 14h30, 17h30 - 19h <br>
 
     - type: contact_section
       title: Envoie-nous un message
