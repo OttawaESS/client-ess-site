@@ -48,6 +48,9 @@ en:
   
     - type: Budget
       files:
+        - label: Actual ESS Budget 
+          path: documents/2021-2022/Live ESS Budget 2021-2022.pdf
+          date: '2022-03-06'
         - label: ESS Budget 
           path: documents/2021-2022/Budget(BoD 2021-09-26).pdf
           date: '2021-09-26'
@@ -122,6 +125,9 @@ fr:
 
     - type: Budget
       files:
+        - label: ESS Budget Actuel 
+          path: documents/2021-2022/Live ESS Budget 2021-2022.pdf
+          date: '2022-03-06'
         - label: ESS Budget 
           path: documents/2021-2022/Budget(BoD 2021-09-26).pdf
           date: '2021-09-26'
