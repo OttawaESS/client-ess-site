@@ -11,15 +11,15 @@ en:
           date: '2021-04-30'
         - label: EEF Constitution
           path: documents/general/governing-documents/EEF-Constitution.pdf
-          date: '2019-03-03'
+          date: '2022-10-21'
     - type: Forms
       files:
         - label: Execs Elections Nomination Form
           path: documents/general/forms/Nomination-Form-.pdf
-          date: '2018-30-04'
+          date: '2018-04-30'
         - label: Expense Report Form
           path: documents/general/forms/Form-F1-Expense-Report-.pdf
-          date: '2018-30-04'
+          date: '2018-04-30'
        
 
 fr:
@@ -34,12 +34,12 @@ fr:
           date: '2021-04-30'
         - label: EEF Constitution
           path: documents/general/governing-documents/EEF-Constitution.pdf
-          date: '2019-03-03'
+          date: '2022-10-21'
     - type: Formulaires
       files:
         - label: Formulaire de nomination des officiers
           path: documents/general/forms/Nomination-Form-.pdf
-          date: '2018-30-04'
+          date: '2018-04-30'
         - label: Formulaire de note de frais
           path: documents/general/forms/Form-F1-Expense-Report-.pdf
-          date: '2018-30-04'        
+          date: '2018-04-30'        
