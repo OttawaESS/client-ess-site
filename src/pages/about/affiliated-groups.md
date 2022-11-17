@@ -71,7 +71,7 @@ en:
           link: https://uorocketry.ca
           image: images/clubs-and-teams/uorocketry.png
           description: >-
-            The uORocketry team’s goal is to design an experimental sounding rocket up to 10,000ft. For more information click here https://uorocketry.ca
+            The uORocketry team’s goal is to design an experimental sounding rocket up to 30,000ft. For more information click here https://uorocketry.ca
             
         - title: Baja SAE
           link: https://bajauottawa.com
@@ -162,7 +162,7 @@ fr:
           link: https://uorocketry.ca
           image: images/clubs-and-teams/uorocketry.png
           description: >-
-            L'objectif de l'équipe de fuséologie de l'Université de l'Ontario est de concevoir une fusée-sonde expérimentale pouvant atteindre 10 000 pieds. Pour plus d'informations, cliquez ici https://uorocketry.ca
+            L'objectif de l'équipe de fuséologie de l'Université de l'Ontario est de concevoir une fusée-sonde expérimentale pouvant atteindre 30 000 pieds. Pour plus d'informations, cliquez ici https://uorocketry.ca
             
         - title: Baja SAE
           link: https://bajauottawa.com
