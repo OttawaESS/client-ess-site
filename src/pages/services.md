@@ -13,10 +13,10 @@ en:
           description: >-
             Forgot to print your assignment? Need some class notes at the last minute? We’ve got you covered! Come on down to the ESS office and we’ll print up to 30 pages for you, in black and white or colour, absolutely free!
 
-        - title: Locker Rental (Free)
+        - title: Locker Rental
           image: images/services/locker.jpeg
           description: >-
-            Tired of carrying all those pesky textbooks back and forth with you to campus? We’ve got you covered! Locker rentals for the 2021/2022 academic year are free of charge so come on down to the office and reserve one Today!    
+            Tired of carrying all those pesky textbooks back and forth with you to campus? We’ve got you covered! Come on down to the office and reserve a locker Today!    
 
         - title: Merchandise
           image: images/services/merch.png
@@ -51,10 +51,10 @@ fr:
           description: >-
             Avez-vous oublié d'imprimer votre devoir ? Vous avez besoin de notes de cours à la dernière minute ? Nous avons ce qu'il vous faut ! Passez au bureau de l'AÉG et nous imprimerons jusqu'à 30 pages pour vous, en noir et blanc ou en couleur, absolument gratuitement !
 
-        - title: Location de Casiers (Gratuit)
+        - title: Location de Casiers
           image: images/services/locker.jpeg
           description: >-
-            Vous en avez assez de transporter vos manuels scolaires sur le campus ? Nous avons ce qu'il vous faut ! La location de casiers pour l'année académique 2021/2022 est gratuite, alors venez au bureau et réservez-en un dès aujourd'hui !  
+            Vous en avez assez de transporter vos manuels scolaires sur le campus ? Nous avons ce qu'il vous faut ! Venez au bureau et réservez un casier dès aujourd'hui !  
 
         - title: Marchandise
           image: images/services/merch.png
