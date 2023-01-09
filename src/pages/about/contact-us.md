@@ -27,18 +27,18 @@ en:
   
     - type: image_section
       image: images/office-hours/officehourEN.png
-      alt_image: Office Hours Fall 2022
+      alt_image: Office Hours Winter 2023
 
     - type: content_section
       align: center
       content: >-
         #### We're open on:
 
-        **Monday:** 11:30am – 4:00pm, 5:30pm – 7:00pm<br>
-        **Tuesday:** 10:00am – 4:00pm, 5:00pm – 6:30pm<br>
-        **Wednesday:** 11:00am – 12:30pm<br>
-        **Thursday:** 12:30pm – 3:30pm, 5:00pm – 6:30pm<br>
-        **Friday:** 8:30am – 2:30pm, 5:30pm – 7:00pm<br>
+        **Monday:** 10:00am - 11:30am, 1:00pm – 7:00pm<br>
+        **Tuesday:** 11:30am – 4:00pm, 5:30pm – 7:00pm<br>
+        **Wednesday:** 11:30am – 7:00pm<br>
+        **Thursday:** 11:30pm – 1:00pm, 2:30pm – 7:00pm<br>
+        **Friday:** 10:00am – 1:00pm<br>
 
   
     - type: contact_section
@@ -77,18 +77,18 @@ fr:
   
     - type: image_section
       image: images/office-hours/officehoursFR.png
-      alt_image: Office Hours Automne 2022
+      alt_image: Office Hours Hiver 2023
   
     - type: content_section
       align: center
       content: >-
         #### Nous sommes ouverts:
 
-        **Lundi:** 11h30 – 16h, 17h30 – 19h <br>
-        **Mardi:** 10h – 16h, 17h - 18h30 <br>
-        **Mercredi:** 11h - 12h30 <br>
-        **Jeudi:** 12h30 - 15h30, 17h - 18h30 <br>
-        **Vendredi:** 8h30 - 14h30, 17h30 - 19h <br>
+        **Lundi:** 10h – 11h30, 13h – 19h <br>
+        **Mardi:** 11h30 – 16h, 17h30 - 19h <br>
+        **Mercredi:** 11h30 - 19h <br>
+        **Jeudi:** 11h30 - 13h, 14h30 - 19h <br>
+        **Vendredi:** 10h - 13h <br>
 
     - type: contact_section
       title: Envoie-nous un message
