@@ -35,8 +35,8 @@ en:
         #### We're open on:
 
         **Monday:** 10:00am - 11:30am, 1:00pm – 7:00pm<br>
-        **Tuesday:** 11:30am – 4:00pm, 5:30pm – 7:00pm<br>
-        **Wednesday:** 11:30am – 7:00pm<br>
+        **Tuesday:** 10:00am – 7:00pm<br>
+        **Wednesday:** 11:30am – 1:00pm, 4:00pm - 7:00pm<br>
         **Thursday:** 11:30pm – 1:00pm, 2:30pm – 7:00pm<br>
         **Friday:** 10:00am – 1:00pm<br>
 
@@ -85,8 +85,8 @@ fr:
         #### Nous sommes ouverts:
 
         **Lundi:** 10h – 11h30, 13h – 19h <br>
-        **Mardi:** 11h30 – 16h, 17h30 - 19h <br>
-        **Mercredi:** 11h30 - 19h <br>
+        **Mardi:** 11h30 - 19h <br>
+        **Mercredi:** 11h30 - 13h, 18h - 19h <br>
         **Jeudi:** 11h30 - 13h, 14h30 - 19h <br>
         **Vendredi:** 10h - 13h <br>
 
