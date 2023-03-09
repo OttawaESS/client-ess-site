@@ -21,6 +21,9 @@ en:
         - label: ESS Officer Meeting Minutes
           path: documents/2022-2023/Meeting Minutes 17_11_2022.pdf
           date: '2022-11-17'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2022-2023/Meeting Minutes 08_02_2023.pdf
+          date: '2023-02-08'
     - type: Budget
       files:
         - label: ESS Budget
@@ -55,6 +58,9 @@ fr:
         - label: ESS Officer Meeting Minutes
           path: documents/2022-2023/Meeting Minutes 17_11_2022.pdf
           date: '2022-11-17'
+        - label: ESS Officer Meeting Minutes
+          path: documents/2022-2023/Meeting Minutes 08_02_2023.pdf
+          date: '2023-02-08'
     - type: Budget
       files:
         - label: ESS Budget 

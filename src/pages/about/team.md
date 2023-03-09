@@ -56,7 +56,7 @@ en:
         - src/data/team/ess-manager-sponsor.yaml
         - src/data/team/ess-manager-sports.yaml
         - src/data/team/ess-manager-101.yaml
-        #- src/data/team/ess-manager-translations.yaml
+        - src/data/team/ess-manager-translations.yaml
 
 fr:
   sections:
