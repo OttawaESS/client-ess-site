@@ -34,6 +34,11 @@ en:
         - label: Sept 2022 Bod
           path: documents/2022-2023/2022-09-25 Meeting Minutes.pdf
           date: '2022-09-25'
+    - type: Equity
+      files:
+        - label: Fall Equity Report
+          path: documents/2022-2023/Fall Equity Report.pdf
+          date: '2023-01-30'
 
         
 fr:
@@ -71,5 +76,10 @@ fr:
         - label: Sept 2022 Bod
           path: documents/2022-2023/2022-09-25 Meeting Minutes.pdf
           date: '2022-09-25'
+    - type: Equity
+      files:
+        - label: Fall Equity Report
+          path: documents/2022-2023/Fall Equity Report.pdf
+          date: '2023-01-30'
 
 
