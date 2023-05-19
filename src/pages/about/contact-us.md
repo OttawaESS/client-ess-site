@@ -32,14 +32,14 @@ en:
     - type: content_section
       align: center
       content: >-
-        #### We're open on:
-
+        #### We're closed for the summer. See you in September ! 
+ ///
         **Monday:** 10:00am - 11:30am, 1:00pm – 7:00pm<br>
         **Tuesday:** 10:00am – 7:00pm<br>
         **Wednesday:** 11:30am – 1:00pm, 4:00pm - 7:00pm<br>
         **Thursday:** 11:30pm – 1:00pm, 2:30pm – 7:00pm<br>
         **Friday:** 10:00am – 1:00pm<br>
-
+///
   
     - type: contact_section
       title: Send us a message
