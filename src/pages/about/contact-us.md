@@ -23,10 +23,10 @@ en:
       content: >-
         #### Office Hours
   
-        Want to know more about ESS? Got a school question you need help with? Or just want to chat? Come see us during our office hours.
+        Want to know more about ESS? Got a school question you need help with? Or just want to chat? Come see us in September during our office hours.
   
     - type: image_section
-      image: images/office-hours/officehourEN.png
+      image: 
       alt_image: Office Hours Winter 2023
 
     - type: content_section
