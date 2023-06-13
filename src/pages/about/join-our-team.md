@@ -50,6 +50,7 @@ en:
             For each conference, delegates to represent uOttawa are selected by the selection committee. Members of this committee are tasked with reviewing applications anonymously and helping our VP external select delegates for several conferences throughout the academic year.
              Applications for this committee are currently closed.
              
+             
         - title: UOEC Committee
           description: >-
             The University of Ottawa Engineering Competition happens every year in the fall semester. Each year, a committee of students is pulled together to assist our VP of Internal Affairs in the organization and execution of the event. 
