@@ -75,13 +75,7 @@ fr:
     - type: content_section
       align: center
       content: >-
-        #### Nous sommes ouverts:
-
-        **Lundi:** 10h – 11h30, 13h – 19h <br>
-        **Mardi:** 11h30 - 19h <br>
-        **Mercredi:** 11h30 - 13h, 18h - 19h <br>
-        **Jeudi:** 11h30 - 13h, 14h30 - 19h <br>
-        **Vendredi:** 10h - 13h <br>
+        #### Nous sommes fermés pour l'été. On se voit en septembre!
 
     - type: contact_section
       title: Envoie-nous un message
