@@ -81,7 +81,13 @@ fr:
     - type: content_section
       align: center
       content: >-
-        #### Nous sommes fermés pour l'été. On se voit en septembre!
+        #### Nous sommes ouverts:
+        
+        **Lundi:** 13:00h- 16:00h, 18:00h- 19:30h<br>
+        **Mardi:** 10:00h - 13:00h, 15:30h - 19:00h<br>
+        **Mercredi:** 10:00h - 21:00h<br>
+        **Jeudi:** 11:30h - 16:00h, 17:30h - 19:00h<br>
+        **Vendredi:** 14:30h - 17:30 pm<br>
 
     - type: contact_section
       title: Envoie-nous un message
