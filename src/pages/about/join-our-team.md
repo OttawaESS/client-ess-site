@@ -41,7 +41,7 @@ en:
       committees:
         - title: Charity Committee
           description: >-
-          The Charity Committee is formed to assist our VP of Philanthropic Affairs with all things charity! Its members are responsible for suggesting charities to support, helping with events and best of all, helping plan the annual engineering charity ball! 
+            The Charity Committee is formed to assist our VP of Philanthropic Affairs with all things charity! Its members are responsible for suggesting charities to support, helping with events and best of all, helping plan the annual engineering charity ball! 
            Applications for this committee are currently closed.
   
         - title: Selection Committee
