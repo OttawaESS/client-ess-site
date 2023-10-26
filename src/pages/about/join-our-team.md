@@ -1,3 +1,4 @@
+---
 title: Join Our Team
 en:
   sections:
@@ -106,4 +107,4 @@ fr:
             Pour chaque conférence, les délégués qui représenteront l'Université d'Ottawa sont choisis par le comité de sélection. Les membres de ce comité ont pour tâche d'examiner les demandes de façon anonyme et d'aider notre VP externe à sélectionner les délégués pour plusieurs conférences au cours de l'année universitaire.
             Les candidatures pour ce comité sont actuellement fermées.
 template: advanced
-
+---
