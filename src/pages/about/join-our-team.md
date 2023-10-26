@@ -40,10 +40,8 @@ en:
       title: Committees
       committees:
         - title: Charity Committee
-          link: https://docs.google.com/forms/d/e/1FAIpQLSfJy0gS-n56LVV8fqmKgpcVeseMvHnyAKhuXnkihPF8DM9RBg/viewform
           description: >-
           The Charity Committee is formed to assist our VP of Philanthropic Affairs with all things charity! Its members are responsible for suggesting charities to support, helping with events and best of all, helping plan the annual engineering charity ball! 
-            2022-23 Charity Committee Application
            Applications for this committee are currently closed.
   
         - title: Selection Committee
