@@ -26,7 +26,7 @@ en:
         Want to know more about ESS? Got a school question you need help with? Or just want to chat? Come see us in September during our office hours.
   
     - type: image_section
-      image: 
+      image: https://www.instagram.com/p/CxTNEsORJCA/?img_index=3
       alt_image: Office Hours Fall 2023
 
     - type: content_section
@@ -75,8 +75,8 @@ fr:
         Vous voulez en savoir plus sur l'AÉG ? Vous avez besoin d'aide pour une question scolaire ? Tu veux simplement bavarder ? Viens voir nos exécutifs pendant leurs heures de bureau !
   
     - type: image_section
-      image: 
-      alt_image: Office Hours Hiver 2023
+      image: https://www.instagram.com/p/CxTNEsORJCA/?img_index=2
+      alt_image: Office Hours Automne 2023
   
     - type: content_section
       align: center
