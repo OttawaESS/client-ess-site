@@ -27,7 +27,7 @@ en:
   
     - type: image_section
       image: 
-      alt_image: Office Hours Winter 2023
+      alt_image: Office Hours Fall 2023
 
     - type: content_section
       align: center
