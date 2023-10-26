@@ -26,7 +26,7 @@ en:
         Want to know more about ESS? Got a school question you need help with? Or just want to chat? Come see us in September during our office hours.
   
     - type: image_section
-      image: https://www.instagram.com/p/CxTNEsORJCA/?img_index=3
+      image: fall2023-10-26 172613.jpg
       alt_image: Office Hours Fall 2023
 
     - type: content_section
