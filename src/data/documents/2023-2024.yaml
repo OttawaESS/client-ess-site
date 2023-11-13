@@ -1,1 +1,28 @@
+year: 2023-2024
+en:
+  types:
+    - type: Budget
+      files:
+        - label: ESS Budget
+          path: documents/2023-2024/ESS Budget 2023_24 - Budget.pdf
+          date: '2023-11-13'
+    - type: BOD Minutes
+      files:
+        - label: October 2023 Bod
+          path: documents/2023-2024/September 2023 Meeting Minutes.pdf
+          date: '2023-10-15'
+        
+fr:
+  types:
+    - type: Budget
+      files:
+        - label: ESS Budget 
+          path: documents/2023-2024/ESS Budget 2023_24 - Budget.pdf
+          date: '2023-11-13'
+    - type: BOD Minutes
+      files:
+        - label: October 2023 Bod
+          path: documents/2023-2024/September 2023 Meeting Minutes.pdf
+          date: '2023-10-15'
+
 
