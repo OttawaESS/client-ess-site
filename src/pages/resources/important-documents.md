@@ -110,7 +110,7 @@ fr:
       title: Documents importants
     - type: documents_section
       actions:
-        - label: General
+        - label: Géneral
           style: primary
         - label: 2023-2024
           style: secondary    
