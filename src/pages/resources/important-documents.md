@@ -21,6 +21,8 @@ en:
       actions:
         - label: General
           style: primary
+        - label: 2023-2024
+          style: secondary
         - label: 2022-2023
           style: secondary
         - label: 2021-2022
@@ -40,7 +42,7 @@ en:
         - src/data/documents/2020-2021.yaml
         - src/data/documents/2021-2022.yaml
         - src/data/documents/2022-2023.yaml
-
+        - src/data/documents/2023-2024.yaml
     - type: grid_section
       grid_items:
         - content: |-
