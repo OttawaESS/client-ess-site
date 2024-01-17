@@ -24,5 +24,13 @@ fr:
         - label: October 2023 Bod
           path: documents/2023-2024/September 2023 Meeting Minutes.pdf
           date: '2023-10-15'
+    - type: Réunions
+      files:
+        - label: ESS Officer Meeting Minutes -Octobre
+          path: static/documents/2023-2024/FR - 6. 19 octobre 2023 - Google Docs.pdf
+          date: '2023-10-19'
+        - label: ESS Officer Meeting Minutes - Novembre
+          path: 
+          date: '2022-06-21'
 
 
