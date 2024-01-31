@@ -75,8 +75,8 @@ fr:
         Vous voulez en savoir plus sur l'AÉG ? Vous avez besoin d'aide pour une question scolaire ? Tu veux simplement bavarder ? Viens voir nos exécutifs pendant leurs heures de bureau !
   
     - type: image_section
-      image: fall(french) 2023-10-26 172656.jpg
-      alt_image: Office Hours Automne 2023
+      image: images/office-hours/HiverWinter 2024.jpg
+      alt_image: Office Hours Hiver 2024
   
     - type: content_section
       align: center
