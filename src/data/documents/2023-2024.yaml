@@ -6,7 +6,7 @@ en:
         - label: ESS Budget
           path: documents/2023-2024/ESS Budget 2023_24 - Budget.pdf
           date: '2023-11-13'
-    - type: BOD Minutes
+    - type: Meetings
       files:
         - label: October 2023 Bod
           path: documents/2023-2024/September 2023 Meeting Minutes.pdf
@@ -34,7 +34,19 @@ en:
           date: '2023-11-02'
         - label: ESS Officer Meeting Minutes - November
           path: documents/2023-2024/9. November 30, 2023 - Google Docs.pdf
-          date: '2022-11-30'
+          date: '2023-11-30'
+        - label: ESS Officer Meeting Minutes - January
+          path: documents/2023-2024/EN - 10. January 17, 2024 - Google Docs.pdf
+          date: '2024-01-17'
+        - label: ESS Officer Meeting Minutes - February
+          path: documents/2023-2024/12. February 21, 2024 - Google Docs.pdf
+          date: '2024-02-21'
+        - label: ESS Officer Meeting Minutes - March
+          path: documents/2023-2024/13. March 6, 2024 - Google Docs.pdf
+          date: '2024-03-06'
+        - label: ESS Officer Meeting Minutes - March
+          path: documents/2023-2024/14. March 20, 2024 - Google Docs.pdf
+          date: '2024-03-20'
         
 fr:
   types:
