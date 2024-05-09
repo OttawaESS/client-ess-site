@@ -50,6 +50,12 @@ en:
         - label: ESS Officer Meeting Minutes - April
           path: documents/2023-2024/15. April 3, 2024 - Google Docs.pdf
           date: '2024-04-03'
+    
+    # - type: Equity
+    #   files:
+    #     - label: Winter Equity Report
+    #       path: documents/2023-2024/September 2023 Meeting Minutes.pdf
+    #       date: '2023-10-15'
         
 fr:
   types:
