@@ -53,10 +53,11 @@ en:
         - src/data/team/ess-vp-equity.yaml
         - src/data/team/ess-manager-social.yaml
         - src/data/team/ess-manager-IT.yaml
-        - src/data/team/ess-manager-sponsor.yaml
+        # - src/data/team/ess-manager-sponsor.yaml
         - src/data/team/ess-manager-sports.yaml
         - src/data/team/ess-manager-101.yaml
         - src/data/team/ess-manager-translations.yaml
+        - src/data/team/ess-manager-marketing.yaml
 
 fr:
   sections:
@@ -108,9 +109,11 @@ fr:
         - src/data/team/ess-vp-equity.yaml
         - src/data/team/ess-manager-social.yaml
         - src/data/team/ess-manager-IT.yaml
-        - src/data/team/ess-manager-sponsor.yaml
+        # - src/data/team/ess-manager-sponsor.yaml
         - src/data/team/ess-manager-sports.yaml
         - src/data/team/ess-manager-101.yaml
         - src/data/team/ess-manager-translations.yaml
+        - src/data/team/ess-manager-marketing.yaml
+        
 template: advanced
 ---
