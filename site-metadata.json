@@ -30,10 +30,6 @@
           {
             "label": "Join Our Team",
             "url": "/join-our-team"
-          },
-          {
-            "label": "Contact Us",
-            "url": "/contact-us"
           }
         ]
       },
@@ -93,6 +89,10 @@
             "url": "/upcoming-and-recurring"
           }
         ]
+      },
+      {
+        "label": "Contact Us",
+        "url": "/contact-us"
       }
     ]
   },
