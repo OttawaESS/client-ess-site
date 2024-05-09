@@ -92,7 +92,8 @@
       },
       {
         "label": "Contact Us",
-        "url": "/contact-us"
+        "url": "/contact-us",
+        "style": "link"
       }
     ]
   },
