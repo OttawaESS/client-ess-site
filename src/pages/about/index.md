@@ -24,10 +24,6 @@ en:
              ### [Affiliated Groups](/about/affiliated-groups)
    
              Want to get involved with other clubs? Want to join a team? Click here to learn more about other clubs and teams affiliated with the ESS!
-         - content: |-
-             ### [Contact Us](/about/contact-us)
-   
-             Have a question? Have feedback? Just want to chat? Send us a message using the form below!
        grid_cols: two
        grid_gap_horiz: large
        grid_gap_vert: small
@@ -59,10 +55,6 @@ fr:
              ### [Groupes Affiliées](/about/affiliated-groups)
    
              Vous voulez vous impliquer dans d'autres clubs ? Vous voulez rejoindre une équipe ? Cliquez ici pour en savoir plus sur les autres clubs et équipes affiliés à l'AÉG !
-         - content: |-
-             ### [Contactez-Nous](/about/contact-us)
-   
-             Vous avez une question ? Un commentaire ? Vous voulez simplement discuter ? Envoyez-nous un message en utilisant le formulaire ci-dessous !
        grid_cols: two
        grid_gap_horiz: large
        grid_gap_vert: small

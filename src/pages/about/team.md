@@ -13,8 +13,6 @@ en:
           link: /join-our-team
         - label: Affiliated Groups
           link: /affiliated-groups
-        - label: Contact Us
-          link: /contact-us
     - type: page_title
       title: Our Team
     - type: content_section
@@ -72,8 +70,6 @@ fr:
           link: /join-our-team
         - label: Groupes affiliés
           link: /affiliated-groups
-        - label: Contactez-nous
-          link: /contact-us
     - type: page_title
       title: Notre Équipe
     - type: content_section
