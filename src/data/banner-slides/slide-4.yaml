@@ -4,12 +4,12 @@ en:
   date:
   description: Come visit us during our winter office hours
   image: images/office-hours/officehourEN.png
-  button_link: /about/contact-us
+  button_link: /contact-us
   button_label: Learn More
 fr:
   title: Bienvenue !
   date:
   description: Venez nous rendre visite pendant nos heures de bureau cet hiver !
   image: images/office-hours/officehoursFR.png
-  button_link: /about/contact-us
+  button_link: /contact-us
   button_label: En savoir plus
