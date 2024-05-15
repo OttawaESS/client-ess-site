@@ -49,6 +49,8 @@ en:
         - src/data/team/ess-vp-social.yaml
         - src/data/team/ess-vp-phil.yaml
         - src/data/team/ess-vp-equity.yaml
+        - src/data/team/ess-vp-sustainability.yaml
+        - src/data/team/ess-vp-francophone.yaml
         - src/data/team/ess-manager-social.yaml
         - src/data/team/ess-manager-IT.yaml
         # - src/data/team/ess-manager-sponsor.yaml
