@@ -51,11 +51,11 @@ en:
           path: documents/2023-2024/15. April 3, 2024 - Google Docs.pdf
           date: '2024-04-03'
     
-    # - type: Equity
-    #   files:
-    #     - label: Winter Equity Report
-    #       path: documents/2023-2024/September 2023 Meeting Minutes.pdf
-    #       date: '2023-10-15'
+    - type: Equity
+      files:
+        - label: Winter Equity Report
+          path: documents\2023-2024\equity\Equity Report, Winter 2024 - EN.pdf
+          date: '2024-01-01'
         
 fr:
   types:
@@ -64,11 +64,13 @@ fr:
         - label: ESS Budget 
           path: documents/2023-2024/ESS Budget 2023_24 - Budget.pdf
           date: '2023-11-13'
+
     - type: BOD Minutes
       files:
         - label: October 2023 Bod
           path: documents/2023-2024/September 2023 Meeting Minutes.pdf
           date: '2023-10-15'
+
     - type: Réunions
       files:
         - label: ESS Officer Meeting Minutes - Octobre
@@ -77,5 +79,11 @@ fr:
         - label: ESS Officer Meeting Minutes - Novembre
           path: documents/2023-2024/FR - 7. 2 novembre 2023 - Google Docs.pdf
           date: '2023-11-2'
+
+    - type: Equity
+      files:
+        - label: Winter Equity Report
+          path: documents\2023-2024\equity\Equity Report, Hiver 2024 - FR.pdf
+          date: '2024-01-01'
 
 
