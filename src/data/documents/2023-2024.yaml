@@ -80,9 +80,9 @@ fr:
           path: documents/2023-2024/FR - 7. 2 novembre 2023 - Google Docs.pdf
           date: '2023-11-2'
 
-    - type: Equity
+    - type: Équité
       files:
-        - label: Winter Equity Report
+        - label: Rapport Équité, Hiver 2024
           path: documents\2023-2024\equity\Equity Report, Hiver 2024 - FR.pdf
           date: '2024-01-01'
 
