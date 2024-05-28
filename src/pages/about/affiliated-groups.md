@@ -21,16 +21,16 @@ en:
       title: Sub Associations
       cards:
         - title: Canadian Society for Civil Engineers (CSCE)
-          link: https://csce.essaeg.ca
+          link: https://csce-uottawa.pages.dev/
           image: images/clubs-and-teams/csce-uo.png
           description: >-
-            CSCE uOttawa Student Chapter provides Civil Engineering Students with a link to the main chapter. For more information visit https://csce.essaeg.ca
+            CSCE uOttawa Student Chapter provides Civil Engineering Students with a link to the main chapter. For more information visit https://csce-uottawa.pages.dev/
   
         - title: Chemical Engineering Students’ Society (ChESS)
-          link: https://chessuo.weebly.com
+          link: https://www.chessuo.com/
           image: images/clubs-and-teams/ChESS-uo.jpeg
           description: >-
-            uOttawa ChESS ensures that Chemical Engineering and Biotechnology Students are represented within the ESS and the Faculty. For more information visit https://chessuo.weebly.com
+            uOttawa ChESS ensures that Chemical Engineering and Biotechnology Students are represented within the ESS and the Faculty. For more information visit https://www.chessuo.com/
   
         - title: Mechanical Engineering Students’ Society (MESS)
           link: https://www.mess-segm.ca/home
