@@ -12,6 +12,22 @@ en:
         - label: October 2023 Bod
           path: documents/2023-2024/September 2023 Meeting Minutes.pdf
           date: '2023-10-15'
+        - label: November 2023 Bod
+          path: documents/2023-2024/bod/Nov2023-1 Meeting Minutes - EN.pdf
+          date: '2023-11-05'
+          
+        - label: December 2023 Bod
+          path: documents/2023-2024/Nov2023-2 Meeting Minutes - EN.pdf
+          date: '2023-11-26'
+
+        - label: January 2024 Bod
+          path: documents/2023-2024/bod/Jan2024 Meeting Minutes - EN.pdf
+          date: '2023-11-26'
+
+        - label: February 2024 Bod
+          path: documents/2023-2024/bod/Feb2024 Meeting Minutes - EN.pdf
+          date: '2023-11-26'
+
         - label: AGM 2024
           path: documents\2023-2024\bod\AGM 2024 Meeting Minutes - EN.pdf
           date: '2024-04-07'
