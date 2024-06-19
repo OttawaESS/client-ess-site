@@ -21,6 +21,8 @@ en:
       actions:
         - label: General
           style: primary
+        - label: 2024-2025
+          style: secondary
         - label: 2023-2024
           style: secondary
         - label: 2022-2023
@@ -43,6 +45,7 @@ en:
         - src/data/documents/2021-2022.yaml
         - src/data/documents/2022-2023.yaml
         - src/data/documents/2023-2024.yaml
+        - src/data/documents/2024-2025.yaml
     - type: grid_section
       grid_items:
         - content: |-
@@ -112,6 +115,8 @@ fr:
       actions:
         - label: Général
           style: primary
+        - label: 2024-2025
+          style: secondary 
         - label: 2023-2024
           style: secondary    
         - label: 2022-2023
@@ -134,6 +139,7 @@ fr:
         - src/data/documents/2021-2022.yaml
         - src/data/documents/2022-2023.yaml
         - src/data/documents/2023-2024.yaml
+        - src/data/documents/2024-2025.yaml
     - type: grid_section
       grid_items:
         - content: |-

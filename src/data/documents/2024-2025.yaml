@@ -1,0 +1,17 @@
+year: 2023-2024
+en:
+  types:    
+    - type: Meetings
+      files:
+        - label: May Officer Meeting Minutes
+          path: documents/2024-2025/1. May2024 Meeting Minutes - EN.pdf
+          date: '2024-05-15'
+        
+fr:
+  types:
+    - type: Réunions
+      files:
+        - label: May Officer Meeting Minutes
+          path: documents/2024-2025/1. May2024 Meeting Minutes - EN.pdf
+          date: '2024-05-15'
+
