@@ -4,7 +4,7 @@ en:
     - type: Meetings
       files:
         - label: May Officer Meeting Minutes
-          path: documents/2024-2025/1. May2024 Meeting Minutes - EN.pdf
+          path: documents/2024-2025/officer/1.May2024-Meeting-EN.pdf
           date: '2024-05-15'
         
 fr:
@@ -12,6 +12,6 @@ fr:
     - type: Réunions
       files:
         - label: May Officer Meeting Minutes
-          path: documents/2024-2025/1. May2024 Meeting Minutes - EN.pdf
+          path: documents/2024-2025/officer/1.May2024-Meeting-EN.pdf
           date: '2024-05-15'
 
