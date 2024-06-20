@@ -23,10 +23,11 @@ en:
           description: >-
             Ready to gear up like an engineer? Come to the ESS office to check out all our cool merch! From hoodies to hats and patches, we’ve got something for everyone! Merch can also be purchased through our online store.
             
-        - title: Equipment Rentals ($50/Item/Day)
+        - title: Equipment Rentals
           image: images/services/equipments.png
           description: >-
-            Need some equipment? We might be able to help! ESS offers rentals for projectors, speakers, and tables for just $50 per day! Come on down to the office for more information.
+            Need some equipment? We might be able to help! ESS offers rentals for projectors, speakers, and tables! Come on down to the office for more information.
+
     - type: cta_section
       title: Shop Our Merch Online
       subtitle: >-
@@ -61,10 +62,10 @@ fr:
           description: >-
             Prêt à t'équiper comme un ingénieur ? Viens au bureau de l'AÉG pour voir tous nos produits dérivés ! Des sweats à capuche, des casquettes, des écussons, il y en a pour tous les goûts ! Les articles peuvent également être achetés dans notre boutique en ligne.
             
-        - title: Location d'Équipement (50 $/Article/Jour)
+        - title: Location d'Équipement
           image: images/services/equipments.png
           description: >-
-            Vous avez besoin d'un équipement ? Nous pouvons peut-être vous aider ! L’AÉG offre la possibilité de louer des projecteurs, des haut-parleurs et des tables pour seulement 50 $ par jour ! Passez au bureau pour plus d'informations.
+            Vous avez besoin d'un équipement ? Nous pouvons peut-être vous aider ! L’AÉG offre la possibilité de louer des projecteurs, des haut-parleurs et des tables! Passez au bureau pour plus d'informations.
     - type: cta_section
       title: Achetez nos produits en ligne
       subtitle: >-
