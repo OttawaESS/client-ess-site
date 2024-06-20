@@ -15,10 +15,10 @@ en:
     - type: page_title
       title: Events
 
-    - type: upcoming-events
-      title: Click on an event to learn more and add it to your calendar.
-      calendar_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=dW90dGF3YWVzcy5jYV80c2YycHVuNWJsdWZsZXJ1c25icGp1M2N2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cGhpbGFudGhyb3BpY0B1b3R0YXdhZXNzLmNh&color=%23B39DDB&color=%23795548&mode=MONTH 
-      agenda_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=dW90dGF3YWVzcy5jYV80c2YycHVuNWJsdWZsZXJ1c25icGp1M2N2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cGhpbGFudGhyb3BpY0B1b3R0YXdhZXNzLmNh&color=%23B39DDB&color=%23795548&mode=AGENDA
+    # - type: upcoming-events
+    #   title: Click on an event to learn more and add it to your calendar.
+    #   calendar_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=dW90dGF3YWVzcy5jYV80c2YycHVuNWJsdWZsZXJ1c25icGp1M2N2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cGhpbGFudGhyb3BpY0B1b3R0YXdhZXNzLmNh&color=%23B39DDB&color=%23795548&mode=MONTH 
+    #   agenda_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=dW90dGF3YWVzcy5jYV80c2YycHVuNWJsdWZsZXJ1c25icGp1M2N2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cGhpbGFudGhyb3BpY0B1b3R0YXdhZXNzLmNh&color=%23B39DDB&color=%23795548&mode=AGENDA
 
     - type: recurring_events_section
       title: Recurring Events
@@ -43,14 +43,19 @@ en:
 
         #### Guides
 
-        If you want to put your leadership skills to the test and help us welcome in our new students, keep an eye on our social media and website throughout the summer to see when applications are released. (Applications for 2022 are closed)
+        If you want to put your leadership skills to the test and help us welcome in our new students, keep an eye on our social media and website throughout the summer to see when applications are released. (Applications for 2024 are closed)
 
 
         #### 101ers
 
         We are so excited you will be joining us on-campus and/or virtually this fall! Keep an eye on our social media and website to see when kits go on sale so you can take part in 101 Week!
-    - type: image_section
-      image: images/Frosh-Schedule.PNG
+
+        #### Schedule
+
+        Stay tuned for the 101 Week 2024 schedule!
+
+    # - type: image_section
+    #   image: images/Frosh-Schedule.PNG
 
 
 fr:
@@ -68,10 +73,10 @@ fr:
     - type: page_title
       title: Événements
 
-    - type: upcoming-events
-      title: Cliquez sur un événement pour en savoir plus et l'ajouter à votre calendrier.
-      calendar_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=dW90dGF3YWVzcy5jYV80c2YycHVuNWJsdWZsZXJ1c25icGp1M2N2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cGhpbGFudGhyb3BpY0B1b3R0YXdhZXNzLmNh&color=%23B39DDB&color=%23795548&mode=MONTH 
-      agenda_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=dW90dGF3YWVzcy5jYV80c2YycHVuNWJsdWZsZXJ1c25icGp1M2N2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cGhpbGFudGhyb3BpY0B1b3R0YXdhZXNzLmNh&color=%23B39DDB&color=%23795548&mode=AGENDA
+    # - type: upcoming-events
+    #   title: Cliquez sur un événement pour en savoir plus et l'ajouter à votre calendrier.
+    #   calendar_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=dW90dGF3YWVzcy5jYV80c2YycHVuNWJsdWZsZXJ1c25icGp1M2N2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cGhpbGFudGhyb3BpY0B1b3R0YXdhZXNzLmNh&color=%23B39DDB&color=%23795548&mode=MONTH 
+    #   agenda_link: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FToronto&src=dW90dGF3YWVzcy5jYV80c2YycHVuNWJsdWZsZXJ1c25icGp1M2N2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=cGhpbGFudGhyb3BpY0B1b3R0YXdhZXNzLmNh&color=%23B39DDB&color=%23795548&mode=AGENDA
 
     - type: recurring_events_section
       title: Recurring Events
@@ -96,13 +101,15 @@ fr:
 
         #### Guides
 
-        Si vous souhaitez mettre vos compétences en matière de leadership à l'épreuve et nous aider à accueillir nos nouveaux étudiants, gardez un œil sur nos médias sociaux et notre site Web tout au long de l'été pour savoir quand les candidatures seront publiées. (Les candidatures pour 2022 sont closes).
+        Si vous souhaitez mettre vos compétences en matière de leadership à l'épreuve et nous aider à accueillir nos nouveaux étudiants, gardez un œil sur nos médias sociaux et notre site Web tout au long de l'été pour savoir quand les candidatures seront publiées. (Les candidatures pour 2024 sont closes).
         
 
         #### 101ers
 
         Nous sommes ravis que vous nous rejoigniez sur le campus et/ou virtuellement cet automne ! Surveillez nos médias sociaux et notre site Web pour savoir quand les kits seront mis en vente afin que vous puissiez participer à la Semaine 101 !
-    - type: image_section
-      image: images/Frosh-Schedule-FR.PNG
+
+  
+    # - type: image_section
+    #   image: images/Frosh-Schedule-FR.PNG
 template: advanced
 ---
