@@ -18,7 +18,6 @@ en:
         ## University of Ottawa Engineering Competition (uOEC)
 
         The University of Ottawa Engineering Competition is a competition designed to challenge engineering students in the fields of innovation, design and communication while solving real-world problems. Students have a choice to compete in a variety of 8 exciting challenges. Afterwards, the winners will move on to represent Ottawa at the Ontario Engineering Competition and compete against schools from across the province. <br><br>
-        Apply through the google form: https://forms.gle/6ET1xcLQCDaMGZWJ7 <br>
         Contact our [VP Internal](mailto:internal@uottawaess.ca) for more info
       container: medium
 
@@ -211,7 +210,6 @@ fr:
         ## Concours d’Ingénierie Université d’Ottawa (CIuO) 
 
         Le Concours d'ingénierie de l'Université d'Ottawa est un concours conçu pour mettre au défi les étudiants en génie dans les domaines de l'innovation, du design et de la communication tout en résolvant des problèmes du monde réel. Les étudiants ont le choix de participer à une variété de 8 défis excitants, après quoi les gagnants représenteront l'Université d'Ottawa au Concours ontarien d'ingénierie et affronteront des écoles de toute la province. <br><br>
-        Postuler via le formulaire Google: https://forms.gle/6ET1xcLQCDaMGZWJ7 <br>
         Contactez notre [VP Interne](mailto:internal@uottawaess.ca) pour plus d'information
       container: medium
 
