@@ -21,8 +21,8 @@ en:
       actions:
         - label: General
           style: primary
-        - label: 2024-2025
-          style: secondary
+        # - label: 2024-2025
+        #   style: secondary
         - label: 2023-2024
           style: secondary
         - label: 2022-2023
@@ -115,8 +115,8 @@ fr:
       actions:
         - label: Général
           style: primary
-        - label: 2024-2025
-          style: secondary 
+        # - label: 2024-2025
+        #   style: secondary 
         - label: 2023-2024
           style: secondary    
         - label: 2022-2023
