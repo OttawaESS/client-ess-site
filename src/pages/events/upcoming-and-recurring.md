@@ -108,6 +108,10 @@ fr:
 
         Nous sommes ravis que vous nous rejoigniez sur le campus et/ou virtuellement cet automne ! Surveillez nos médias sociaux et notre site Web pour savoir quand les kits seront mis en vente afin que vous puissiez participer à la Semaine 101 !
 
+        #### Programme
+
+        Restez à l’écoute pour l’horaire hebdomadaire pour la semaine 101 2024!
+
   
     # - type: image_section
     #   image: images/Frosh-Schedule-FR.PNG
