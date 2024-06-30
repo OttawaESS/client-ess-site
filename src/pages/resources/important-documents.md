@@ -17,12 +17,17 @@ en:
           link: /scholarships-and-careers
     - type: page_title
       title: Important Documents
+
+    - type: content_section
+      content: >-
+        #### Please note that the May Special General Meeting Minutes are not effective until September 2024.
+
     - type: documents_section
       actions:
         - label: General
           style: primary
-        # - label: 2024-2025
-        #   style: secondary
+        - label: 2024-2025
+          style: secondary
         - label: 2023-2024
           style: secondary
         - label: 2022-2023
@@ -111,12 +116,17 @@ fr:
           link: /scholarships-and-careers
     - type: page_title
       title: Documents importants
+
+    - type: content_section
+      content: >-
+        #### Veuillez noter que le procès-verbaux de l’assemblée générale extraordinaire de mai n’entre en vigueur qu’en septembre 2024.
+
     - type: documents_section
       actions:
         - label: Général
           style: primary
-        # - label: 2024-2025
-        #   style: secondary 
+        - label: 2024-2025
+          style: secondary 
         - label: 2023-2024
           style: secondary    
         - label: 2022-2023
