@@ -80,7 +80,7 @@ fr:
       features:
         - title: Shinerama
           content: >-
-            Shinerama est la plus grande collecte de fonds postsecondaire au Canada pour soutenir la fibrose kystique au Canada. Chaque année, le MARDI de la Semaine 101, les 101ers, les Guides et les membres de l’AÉG participent à des événements de collecte de fonds pour soutenir la cause. Pour plus d'informations sur l'organisme de bienfaisance, cliquez [ici](https://www.shinerama.ca){:target="_blank"}.
+            Shinerama est la plus grande collecte de fonds postsecondaire au Canada pour soutenir la fibrose kystique au Canada. Chaque année, le MARDI de la Semaine 101, les 101ers, les Guides et les membres de l’AÉG participent à des événements de collecte de fonds pour soutenir la cause. Pour plus d'informations sur l'organisme de bienfaisance, cliquez <a href="https://www.shinerama.ca" target="_blank">ici</a>.
           align: left
           image: images/shinerama.jpeg
           image_alt: Shinerama Foundation
