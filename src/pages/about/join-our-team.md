@@ -25,10 +25,12 @@ en:
           image: images/ess-elections.jpg
           image_alt: ESS Elections Poster
           image_position: left
-        - title: Managers (Positions Filled)
+        - title: Managers
           content: >-
             Managers are elected each academic year at the Annual General Meeting. Their term begins on May 1st and ends on April 30th the subsequent year.<br><br>
-            To apply, come to the Annual General Meeting on the announced date to run for your desired position.
+            To apply: [https://forms.gle/yE7dUa2EXjukMMQK7](https://forms.gle/yE7dUa2EXjukMMQK7){:target="_blank"}
+
+
           align: left
           image: images/ess-agm.jpg
           image_alt: ESS AGM Poster
@@ -82,10 +84,10 @@ fr:
           image: images/ess-elections.jpg
           image_alt: ESS Elections Poster
           image_position: left
-        - title: Directeurs (Postes pourvus)
+        - title: Directeurs
           content: >-
             Les directeurs sont élus chaque année lors de l'Assemblée générale annuelle. Leur mandat commence le 1er mai et se termine le 30 avril de l'année suivante.<br><br>
-            Pour postuler : Présentez-vous à l'assemblée générale annuelle à la date annoncée pour vous présenter au poste que vous désirez.
+            Pour postuler : [https://forms.gle/yE7dUa2EXjukMMQK7](https://forms.gle/yE7dUa2EXjukMMQK7){:target="_blank"}
           align: left
           image: images/ess-agm.jpg
           image_alt: ESS AGM Poster
