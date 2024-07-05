@@ -28,7 +28,7 @@ en:
         - title: Managers
           content: >-
             Managers are elected each academic year at the Annual General Meeting. Their term begins on May 1st and ends on April 30th the subsequent year.<br><br>
-            To apply: [https://forms.gle/yE7dUa2EXjukMMQK7](https://forms.gle/yE7dUa2EXjukMMQK7){:target="_blank"}
+            To apply: <a href="https://forms.gle/yE7dUa2EXjukMMQK7" target="_blank">https://forms.gle/yE7dUa2EXjukMMQK7</a>
 
 
           align: left
@@ -87,7 +87,7 @@ fr:
         - title: Directeurs
           content: >-
             Les directeurs sont élus chaque année lors de l'Assemblée générale annuelle. Leur mandat commence le 1er mai et se termine le 30 avril de l'année suivante.<br><br>
-            Pour postuler : [https://forms.gle/yE7dUa2EXjukMMQK7](https://forms.gle/yE7dUa2EXjukMMQK7){:target="_blank"}
+            Pour postuler : <a href="https://forms.gle/yE7dUa2EXjukMMQK7" target="_blank">https://forms.gle/yE7dUa2EXjukMMQK7</a>
           align: left
           image: images/ess-agm.jpg
           image_alt: ESS AGM Poster
