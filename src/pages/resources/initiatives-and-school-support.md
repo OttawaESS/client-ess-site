@@ -23,7 +23,7 @@ en:
       features:
         - title: Shinerama
           content: >-
-            Shinerama is Canada’s largest post-secondary fundraiser in support of Cystic Fibrosis Canada. Each year in the TUESDAY of 101 Week, 101ers, Guides, and Execs take part in fundraising events to support the cause. For more information about the charity, click [here](https://www.shinerama.ca){:target="_blank"}.
+            Shinerama is Canada’s largest post-secondary fundraiser in support of Cystic Fibrosis Canada. Each year in the TUESDAY of 101 Week, 101ers, Guides, and Execs take part in fundraising events to support the cause. For more information about the charity, click <a href="https://www.shinerama.ca" target="_blank">here</a>.
           align: left
           image: images/shinerama.jpeg
           image_alt: Shinerama Foundation
