@@ -1,10 +1,10 @@
 id: manager-sports
 first_name: vacant
-last_name: 
+last_name: vacant
 # photo: images/20245-team/mackenzieg.png
 photo: images/team/ESS-logo-placeholder.jpg
 photo_alt: vacant
 position:
   en: Manager of Sports
-  fr: Directrice des sports
+  fr: Responsable des sports
 email: sports@uottawaess.ca
