@@ -6,11 +6,11 @@ en:
     - type: page_title
       title: Contact Us
   
-    - type: content_section
-      content: >-
-        #### Office Hours
+    # - type: content_section
+    #   content: >-
+    #     #### Office Hours
   
-        Want to know more about ESS? Got a school question you need help with? Or just want to chat? Come see us during our office hours.
+    #     Want to know more about ESS? Got a school question you need help with? Or just want to chat? Come see us during our office hours.
   
     # - type: image_section
     #   image: images/office-hours/HiverWinter 2024 (2).png
@@ -42,11 +42,11 @@ fr:
     - type: page_title
       title: Contactez-Nous
   
-    - type: content_section
-      content: >-
-        #### Heures de bureau
+    # - type: content_section
+    #   content: >-
+    #     #### Heures de bureau
   
-        Vous voulez en savoir plus sur l'AÉG ? Vous avez besoin d'aide pour une question scolaire ? Tu veux simplement bavarder ? Viens voir nos exécutifs pendant leurs heures de bureau !
+    #     Vous voulez en savoir plus sur l'AÉG ? Vous avez besoin d'aide pour une question scolaire ? Tu veux simplement bavarder ? Viens voir nos exécutifs pendant leurs heures de bureau !
   
     # - type: image_section
     #   image: images/office-hours/HiverWinter 2024.jpg
