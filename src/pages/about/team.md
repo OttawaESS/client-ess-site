@@ -53,11 +53,12 @@ en:
         - src/data/team/ess-vp-francophone.yaml
         - src/data/team/ess-manager-social.yaml
         - src/data/team/ess-manager-IT.yaml
-        # - src/data/team/ess-manager-sponsor.yaml
-        - src/data/team/ess-manager-sports.yaml
         - src/data/team/ess-manager-101.yaml
         - src/data/team/ess-manager-translations.yaml
         - src/data/team/ess-manager-marketing.yaml
+        - src/data/team/ess-manager-sponsor.yaml
+        - src/data/team/ess-manager-winecheese.yaml
+        - src/data/team/ess-manager-sports.yaml
 
 fr:
   sections:
@@ -109,11 +110,12 @@ fr:
         - src/data/team/ess-vp-francophone.yaml
         - src/data/team/ess-manager-social.yaml
         - src/data/team/ess-manager-IT.yaml
-        # - src/data/team/ess-manager-sponsor.yaml
-        - src/data/team/ess-manager-sports.yaml
         - src/data/team/ess-manager-101.yaml
         - src/data/team/ess-manager-translations.yaml
         - src/data/team/ess-manager-marketing.yaml
+        - src/data/team/ess-manager-sponsor.yaml
+        - src/data/team/ess-manager-winecheese.yaml
+        - src/data/team/ess-manager-sports.yaml
         
 template: advanced
 ---

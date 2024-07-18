@@ -6,6 +6,9 @@ en:
         - label: May Special General Meeting
           path: documents/2024-2025/bod/1.May2024-bod-EN.pdf
           date: '2024-05-26'
+        - label: June Meeting
+          path: documents/2024-2025/bod/2.June2024-bod-EN.pdf
+          date: '2024-06-23'
 
     # - type: Officer Meetings
     #   files:
@@ -20,6 +23,9 @@ fr:
         - label: Procès-verbaux de l'Assemblée générale spéciale de mai de l'AÉG
           path: documents/2024-2025/bod/1.May2024-bod-FR.pdf
           date: '2024-05-26'
+        - label: Réunion de juin
+          path: documents/2024-2025/bod/2.June2024-bod-FR.pdf
+          date: '2024-06-23'
     
     # - type: Réunions
     #   files:
