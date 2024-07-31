@@ -8,7 +8,7 @@ export default function PageTitle(props) {
     
     let section = _.get(props, 'section', null);
     return (
-        <div style={{ marginTop: '2rem', marginBottom: '2rem' }} className={classNames("container", {'container--md': _.get(section, 'container', null) === 'medium'}, {'container--lg': _.get(section, 'container', null) !== 'medium'})}>
+        <div style={{ marginTop: '2rem', marginBottom: '2rem', textAlign: 'center' }} className={classNames("container", {'container--md': _.get(section, 'container', null) === 'medium'}, {'container--lg': _.get(section, 'container', null) !== 'medium'})}>
             {_.get(section, 'title', null) && (
             <Title className="section__title">{_.get(section, 'title', null)}</Title>
             )}
