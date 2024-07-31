@@ -25,6 +25,26 @@ en:
             image: images/101sponsors/peo.jpg
             image_alt: Feature 1 placeholder image
             image_position: left
+          
+          - title: Convertus
+            content: >-
+               Convertus is a full-service provider for the treatment and recycling of organic waste. Our waste treatment facilities convert municipal and commercial organic waste into valuable commercial and community resources, including biogas and high-grade compost.
+
+               Learn more at <a href="https://convertusgroup.com/" target="_blank">https://convertusgroup.com/</a>
+            align: left
+            image: images/101sponsors/convertus.png
+            image_alt: Feature 1 placeholder image
+            image_position: left
+
+          - title: BPA Engineering Services
+            content: >-
+               Mission: Building a sustainable future through four main values: Accomplishment, Excellence, Integrity, Passion. 
+
+               Learn more at <a href="https://bpa.ca/en/" target="_blank">https://bpa.ca/en/</a>
+            align: left
+            image: images/101sponsors/bpa-engineering.png
+            image_alt: Feature 1 placeholder image
+            image_position: left
 
 fr: 
    sections: 
@@ -48,6 +68,26 @@ fr:
                Learn more at <a href="https://www.peo.on.ca/" target="_blank">https://www.peo.on.ca/</a>
             align: left
             image: images/101sponsors/peo.jpg
+            image_alt: Feature 1 placeholder image
+            image_position: left
+
+          - title: Convertus
+            content: >-
+               Convertus is a full-service provider for the treatment and recycling of organic waste. Our waste treatment facilities convert municipal and commercial organic waste into valuable commercial and community resources, including biogas and high-grade compost.
+
+               Learn more at <a href="https://convertusgroup.com/" target="_blank">https://convertusgroup.com/</a>
+            align: left
+            image: images/101sponsors/convertus.png
+            image_alt: Feature 1 placeholder image
+            image_position: left
+
+          - title: BPA Engineering Services
+            content: >-
+               Mission: Building a sustainable future through four main values: Accomplishment, Excellence, Integrity, Passion. 
+
+               Learn more at <a href="https://bpa.ca/en/" target="_blank">https://bpa.ca/en/</a>
+            align: left
+            image: images/101sponsors/bpa-engineering.png
             image_alt: Feature 1 placeholder image
             image_position: left
 
