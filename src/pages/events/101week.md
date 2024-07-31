@@ -3,8 +3,8 @@ title: 101 Week
 
 en: 
    sections: 
-      - type: features_section
-         title: Sponsors
+      type: features_section
+      title: Sponsors
          features:
          - title: National Bank of Canada
             content: >-
@@ -19,8 +19,8 @@ en:
 
 fr: 
    sections: 
-      - type: features_section
-         title: Commanditaires
+      type: features_section
+      title: Commanditaires
          features:
          - title: Banque Nationale du Canada
             content: >-
