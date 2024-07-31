@@ -3,8 +3,10 @@ title: 101 Week
 
 en: 
    sections: 
-      - type: content_section
+      - type: page_title
         title: 101 Week
+
+      - type: content_section
         content: >-
          There’s no better way to welcome our new engineers than a week-long party with the best faculty on campus! This is a great week to get to know your peers, connect with the faculty, and learn more about what we do here at ESS. 
 
@@ -66,9 +68,11 @@ en:
             image_position: left
 
 fr: 
-   sections: 
-      - type: content_section
+   sections:
+      - type: page_title
         title: Semaine 101
+
+      - type: content_section
         content: >-
          Il n'y a pas de meilleure façon d'accueillir nos nouveaux ingénieurs qu'une semaine de fête avec les meilleurs professeurs du campus ! Il s'agit d'une semaine idéale pour faire connaissance avec vos pairs, établir des liens avec le corps professoral et en apprendre davantage sur ce que nous faisons ici à l'AÉG. 
 
