@@ -29,11 +29,12 @@ en:
       #   image: images/Frosh-Schedule.PNG
 
       - type: recurring_events_section
-        title: Recurring Events
+        title: Events Descriptions
         events:
         - title: Messy Day
           description: Tradition! 
-          
+          image: images/101week/MessyDay_5826.png
+
 
 
       - type: features_section
