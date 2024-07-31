@@ -3,6 +3,25 @@ title: 101 Week
 
 en: 
    sections: 
+      - type: content_section
+        title: 101 Week
+        content: >-
+         There’s no better way to welcome our new engineers than a week-long party with the best faculty on campus! This is a great week to get to know your peers, connect with the faculty, and learn more about what we do here at ESS. 
+
+
+         #### Guides
+
+         If you want to put your leadership skills to the test and help us welcome in our new students, keep an eye on our social media and website throughout the summer to see when applications are released. (Applications for 2024 are closed)
+
+
+         #### 101ers
+
+         We are so excited you will be joining us on-campus and/or virtually this fall! Keep an eye on our social media and website to see when kits go on sale so you can take part in 101 Week!
+
+         #### Schedule
+
+         Stay tuned for the 101 Week 2024 schedule!
+
       - type: features_section
         title: Sponsors
         features:
@@ -48,6 +67,25 @@ en:
 
 fr: 
    sections: 
+      - type: content_section
+        title: Semaine 101
+        content: >-
+         Il n'y a pas de meilleure façon d'accueillir nos nouveaux ingénieurs qu'une semaine de fête avec les meilleurs professeurs du campus ! Il s'agit d'une semaine idéale pour faire connaissance avec vos pairs, établir des liens avec le corps professoral et en apprendre davantage sur ce que nous faisons ici à l'AÉG. 
+
+
+         #### Guides
+
+         Si vous souhaitez mettre vos compétences en matière de leadership à l'épreuve et nous aider à accueillir nos nouveaux étudiants, gardez un œil sur nos médias sociaux et notre site Web tout au long de l'été pour savoir quand les candidatures seront publiées. (Les candidatures pour 2024 sont closes).
+         
+
+         #### 101ers
+
+         Nous sommes ravis que vous nous rejoigniez sur le campus et/ou virtuellement cet automne ! Surveillez nos médias sociaux et notre site Web pour savoir quand les kits seront mis en vente afin que vous puissiez participer à la Semaine 101 !
+
+         #### Programme
+
+         Restez à l’écoute pour l’horaire hebdomadaire pour la semaine 101 2024!
+
       - type: features_section
         title: Commanditaires
         features:
