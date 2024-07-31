@@ -18,7 +18,6 @@ $primary-color-dark-variant:   #270059 !default;
   - **Our Team:** `src/pages/about/team.md`
   - **Join Our Team:** `src/pages/about/join-our-team.md`
   - **Affiliated Groups:** `src/pages/about/affiliated-groups.md`
-  <!-- - **Contact Us:** `src/pages/about/contact.md` -->
 - **Resources**: `src/pages/resources/index.md`
   - **Important Documents:** `src/pages/resources/important-documents.md`
   - **Scholarships and Careers:** `src/pages/resources/scholarships-and-careers.md`
@@ -30,4 +29,5 @@ $primary-color-dark-variant:   #270059 !default;
   - **Upcoming and Recurring**: `src/pages/events/upcoming-and-recurring`
   - **Conferences**: `src/pages/events/conferences`
   - **Competitions**: `src/pages/events/competitions`
+  - **101 Week 2024**: `src/pages/events/101week`
 - **Contact Us:** `src/pages/contact.md`
