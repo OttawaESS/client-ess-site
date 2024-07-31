@@ -18,7 +18,7 @@ en:
 
          #### 101ers
 
-         We are so excited you will be joining us on-campus and/or virtually this fall! Keep an eye on our social media and website to see when kits go on sale so you can take part in 101 Week!
+         We are so excited you will be joining us on-campus and this fall! Keep an eye on our social media and website to see when kits go on sale so you can take part in 101 Week!
 
          #### Schedule
 
@@ -88,7 +88,7 @@ fr:
 
          #### 101ers
 
-         Nous sommes ravis que vous nous rejoigniez sur le campus et/ou virtuellement cet automne ! Surveillez nos médias sociaux et notre site Web pour savoir quand les kits seront mis en vente afin que vous puissiez participer à la Semaine 101 !
+         Nous sommes ravis que vous nous rejoigniez sur le campus et cet automne ! Surveillez nos médias sociaux et notre site Web pour savoir quand les kits seront mis en vente afin que vous puissiez participer à la Semaine 101 !
 
          #### Programme
 

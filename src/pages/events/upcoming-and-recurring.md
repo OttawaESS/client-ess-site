@@ -24,7 +24,7 @@ en:
       title: Recurring Events
       events:
         - title: DUSTED
-          description: DUSTED is every engineer’s favourite event of the year. Once per semester, engineering students are loaded onto a bus a taken to a mystery location for a fun night of drinks and dancing. Tickets sell out quickly, so make sure you keep an eye out for when they go on sale!
+          description: DUSTED is every engineer’s favourite event of the year. Once per semester, engineering students are loaded onto a bus and taken to a mystery location for a fun night of drinks and dancing. Tickets sell out quickly, so make sure you keep an eye out for when they go on sale!
           frequency: Once per semester
 
         - title: Engineering Charity Ball
