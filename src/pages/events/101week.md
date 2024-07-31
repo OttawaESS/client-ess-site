@@ -23,6 +23,10 @@ en:
          #### Schedule
 
          Stay tuned for the 101 Week 2024 schedule!
+      
+      - type: image_section
+        title: Schedule
+        image: images/Frosh-Schedule.PNG
 
       - type: features_section
         title: Sponsors
@@ -89,6 +93,10 @@ fr:
          #### Programme
 
          Restez à l’écoute pour l’horaire hebdomadaire pour la semaine 101 2024!
+
+      - type: image_section
+        title: Programme
+        image: images/Frosh-Schedule.PNG
 
       - type: features_section
         title: Commanditaires
