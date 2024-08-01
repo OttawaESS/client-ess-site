@@ -1,3 +1,4 @@
+import EventsSection101 from './101events';
 import Action from './Action';
 import BannerSection from './BannerSection';
 import ConferencesSection from './ConferencesSection';
@@ -31,6 +32,7 @@ import TeamSection from './TeamSection';
 import Layout from './Layout';
 
 export {
+    EventsSection101,
     Action,
     BannerSection,
     ConferencesSection,
@@ -65,6 +67,7 @@ export {
 };
 
 export default {
+    EventsSection101,
     Action,
     BannerSection,
     ConferencesSection,

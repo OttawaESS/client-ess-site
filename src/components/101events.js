@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 import { Badge, Card } from 'antd';
 
-export default function RecurringEventsSection(props) {
+export default function EventsSection101(props) {
     
     let section = _.get(props, 'section', null);
 
@@ -19,11 +19,13 @@ export default function RecurringEventsSection(props) {
                 return (
                   <div key={event_idx} className="cell small">
                     <div style={{ margin: '0.875rem' }}>
-                      <Badge.Ribbon text={event.frequency} color="purple">
-                        <Card title={event.title} size="small">
-                          {event.description}
-                        </Card>
-                      </Badge.Ribbon>
+                      <Card title={event.title} size="small">
+                        <div style={{ textAlign: 'center' }}>
+                          <img src={event.image} width="50%"></img>
+                        </div>
+                        <br></br>
+                        {event.description}
+                      </Card>
                     </div>
                   </div>
                 )

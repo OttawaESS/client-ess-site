@@ -28,8 +28,8 @@ en:
       #   title: Schedule
       #   image: images/Frosh-Schedule.PNG
 
-      - type: recurring_events_section
-        title: Events Descriptions
+      - type: EventsSection101
+        title: Event Descriptions
         events:
         - title: Messy Day
           description: Tradition! 
