@@ -21,7 +21,7 @@ export default function EventsSection101(props) {
                     <div style={{ margin: '0.875rem' }}>
                       <Card title={event.title} size="small">
                         <div style={{ textAlign: 'center' }}>
-                          <img src={event.image} width="50%"></img>
+                          <img src={event.image} width="100%"></img>
                         </div>
                         <br></br>
                         {event.description}
