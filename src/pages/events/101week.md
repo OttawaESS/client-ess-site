@@ -32,14 +32,28 @@ en:
         title: Event Descriptions
         events:
         - title: Messy Day
-          description: Tradition! 
+          description: Gear up in your hard hats and coveralls because it's time to take on the ultimate obstacle course! After embracing the mess, we’ll take a scenic walk along the canal to the Rideau Locks to get cleaned up, then to Parliament Hill for our epic photo. It's a day of fun, chaos, and memories you won't forget!
           image: ../../images/101week/MessyDay-crop.png
 
         - title: Couch Carry
           description: Tradition! 
           image: ../../images/101week/couchcarry-crop.jpg
 
+        - title: SHINE Day
+          description: Rise and shine to raise money for Shinerama, supporting Cystic Fibrosis research. Bring your talents, energy, and enthusiasm and march around Ottawa to help us make a difference.
+          image: ../../images/101week/shineday-crop.jpg
 
+        - title: Couch Carry
+          description: Tradition! 
+          image: ../../images/101week/couchcarry-crop.jpg
+
+        - title: Couch Carry
+          description: Tradition! 
+          image: ../../images/101week/couchcarry-crop.jpg
+
+        - title: SHINE Day
+          description: Tradition!
+          image: ../../images/101week/shineday-crop.jpg
 
       - type: features_section
         title: Sponsors
