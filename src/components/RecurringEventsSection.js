@@ -21,7 +21,10 @@ export default function RecurringEventsSection(props) {
                     <div style={{ margin: '0.875rem' }}>
                       <Badge.Ribbon text={event.frequency} color="purple">
                         <Card title={event.title} size="small">
-                          <img src={event.image} width="50%"></img>
+                          <div style={{ textAlign: 'center' }}>
+                            <img src={event.image} width="50%"></img>
+                          </div>
+                          <br></br>
                           {event.description}
                         </Card>
                       </Badge.Ribbon>
