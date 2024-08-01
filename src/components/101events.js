@@ -18,7 +18,7 @@ export default function EventsSection101(props) {
             {_.map(_.get(section, 'events', null), (event, event_idx) => {
                 return (
                   <div key={event_idx} className="cell small">
-                    <div style={{ margin: '0.875rem' }}>
+                    <div style={{ margin: '0.5rem' }}>
                       <Card title={event.title} size="small">
                         <div style={{ textAlign: 'center' }}>
                           <img src={event.image} width="100%"></img>
