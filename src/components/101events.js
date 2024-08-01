@@ -10,7 +10,7 @@ export default function EventsSection101(props) {
       <section className="section">
         {_.get(section, 'title', null) && (
         <div className="container container--md align-center">
-          <h1 className="section__title">{_.get(section, 'title', null)}</h1>
+          <h2 className="section__title" style={{ fontweight:'bold' }}>{_.get(section, 'title', null)}</h2>
         </div>
         )}
         <div className="container container--lg">
