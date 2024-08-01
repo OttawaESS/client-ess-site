@@ -33,7 +33,11 @@ en:
         events:
         - title: Messy Day
           description: Tradition! 
-          image: ../../images/101week/MessyDay_5906.png
+          image: ../../images/101week/MessyDay-crop.png
+
+        - title: Couch Carry
+          description: Tradition! 
+          image: ../../images/101week/couchcarry-crop.jpg
 
 
 
