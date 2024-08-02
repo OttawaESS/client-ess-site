@@ -39,7 +39,7 @@ en:
           description: Tradition! 
           image: ../../images/101week/couchcarry-crop.jpg
 
-        - title: SHINE Day
+        - title: Shine Day
           description: Rise and shine to raise money for Shinerama, supporting Cystic Fibrosis research. Bring your talents, energy, and enthusiasm and march around Ottawa to help us make a difference.
           image: ../../images/101week/shineday-crop.jpg
 
