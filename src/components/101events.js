@@ -16,12 +16,6 @@ export default function EventsSection101(props) {
         flex: '0 0 30%',  // 30% width for three cards in a row with some space between
         marginBottom: '20px'  // Adjust spacing between rows
       },
-      cardWrapperMedium: {
-        flex: '0 0 45%'  // Adjust for smaller screens, two cards in a row
-      },
-      cardWrapperSmall: {
-        flex: '0 0 100%'  // Adjust for mobile screens, one card in a row
-      },
       container: {
         textAlign: 'center'
       }
