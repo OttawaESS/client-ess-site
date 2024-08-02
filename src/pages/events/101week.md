@@ -51,7 +51,7 @@ en:
           description: Tradition! 
           image: ../../images/101week/couchcarry-crop.jpg
 
-        - title: SHINE Day
+        - title: Shine Day
           description: Tradition!
           image: ../../images/101week/shineday-crop.jpg
 
