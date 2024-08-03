@@ -17,18 +17,17 @@ en:
       title: Join Our Team
     - type: features_section
       features:
-        - title: Execs (Elections Closed)
+        - title: Execs (Applications are closed)
           content: >-
             Executive members of the ESS are elected each academic year in March. Their term begins on May 1st and ends on April 30th the subsequent year. Any vacant positions will be filled through a by-election at the beginning of the fall term. <br><br>
-            To apply, fill out a nomination form during the announced nomination period by getting signatures from any 15 engineering students and send it to [elections-ceo@uottawaess.ca](mailto:elections-ceo@uottawaess.ca)
+            To apply, fill out a nomination form during the announced nomination period by getting signatures from any 15 engineering students.
           align: left
           image: images/ess-elections.jpg
           image_alt: ESS Elections Poster
           image_position: left
-        - title: Managers
+        - title: Managers (Applications are closed)
           content: >-
             Managers are elected each academic year at the Annual General Meeting. Their term begins on May 1st and ends on April 30th the subsequent year.<br><br>
-            To apply: <a href="https://forms.gle/yE7dUa2EXjukMMQK7" target="_blank">https://forms.gle/yE7dUa2EXjukMMQK7</a>
           align: left
           image: images/hiring/manager.png
           image_alt: ESS AGM Poster
@@ -77,15 +76,14 @@ fr:
           content: >-
             Les membres exécutifs de l’AÉG sont élus chaque année en mars. Leur mandat commence le 1er mai et se termine le 30 avril de l'année suivante. Tout poste vacant sera comblé par une élection partielle au début de la session d'automne.
             <br><br>
-            Pour postuler : Remplissez un formulaire de mise en candidature pendant la période de mise en candidature annoncée en obtenant les signatures de 15 étudiants en génie et envoyez-le au DGÉ [elections-ceo@uottawaess.ca](mailto:elections-ceo@uottawaess.ca)
+            Pour postuler : Remplissez un formulaire de mise en candidature pendant la période de mise en candidature annoncée en obtenant les signatures de 15 étudiants en génie.
           align: left
           image: images/ess-elections.jpg
           image_alt: ESS Elections Poster
           image_position: left
-        - title: Directeurs
+        - title: Directeurs (Les candidatures sont closes)
           content: >-
             Les directeurs sont élus chaque année lors de l'Assemblée générale annuelle. Leur mandat commence le 1er mai et se termine le 30 avril de l'année suivante.<br><br>
-            Pour postuler : <a href="https://forms.gle/yE7dUa2EXjukMMQK7" target="_blank">https://forms.gle/yE7dUa2EXjukMMQK7</a>
           align: left
           image: images/hiring/manager.png
           image_alt: ESS AGM Poster

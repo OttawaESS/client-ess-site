@@ -14,6 +14,10 @@ en:
 
     - type: page_title
       title: Conferences
+    
+    - type: content_section
+      content: >-
+        Contact our [VP External](mailto:external@uottawaess.ca) for more info
 
     - type: conferences_section
       conferences:
@@ -84,6 +88,10 @@ fr:
 
     - type: page_title
       title: Conférences
+
+    - type: content_section
+      content: >-
+        Contactez notre [VP Externe](mailto:external@uottawaess.ca) pour plus d'information
 
     - type: conferences_section
       conferences:
