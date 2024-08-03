@@ -3,8 +3,9 @@ title: 101 Week
 
 en: 
    sections: 
-      - type: page_title
-        title: 101 Week
+      - type: secondary_hero_section
+      title: 101 Week 2024
+      image: images/101week/hero.jpg
 
       - type: content_section
         content: >-
