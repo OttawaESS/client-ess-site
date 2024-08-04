@@ -28,7 +28,8 @@ en:
         - content: |-
             #### Accommodation Form
 
-            We want to ensure all students can attend and enjoy our events with ease. Need an accommodation? Fill out the form below to let us know, so we can make your experience as comfortable as possible! <a width="100%" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScxlAIs__Fb4YU1vf8a5yZIt_SyPJmwipVrFqWqJyLzAzZTiQ/viewform">https://docs.google.com/forms/d/e/1FAIpQLScxlAIs__Fb4YU1vf8a5yZIt_SyPJmwipVrFqWqJyLzAzZTiQ/viewform</a>
+            We want to ensure all students can attend and enjoy our events with ease. Need an accommodation? Fill out the form below to let us know, so we can make your experience as comfortable as possible! 
+            https://docs.google.com/forms/d/e/1FAIpQLScxlAIs__Fb4YU1vf8a5yZIt_SyPJmwipVrFqWqJyLzAzZTiQ/viewform 
             
         - content: |-
             #### Bilingual Options
@@ -69,7 +70,8 @@ fr:
         - content: |-
             #### Formulaire d'Accomodement
 
-            Nous voulons nous assurer que tous les étudiants peuvent assister et profiter de nos événements sans difficulté. Vous avez besoin d'un accommodement ? Remplissez le formulaire ci-dessous pour nous le faire savoir, afin que nous puissions rendre votre expérience aussi confortable que possible ! <a width="100%" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScxlAIs__Fb4YU1vf8a5yZIt_SyPJmwipVrFqWqJyLzAzZTiQ/viewform">https://docs.google.com/forms/d/e/1FAIpQLScxlAIs__Fb4YU1vf8a5yZIt_SyPJmwipVrFqWqJyLzAzZTiQ/viewform</a>
+            Nous voulons nous assurer que tous les étudiants peuvent assister et profiter de nos événements sans difficulté. Vous avez besoin d'un accommodement ? Remplissez le formulaire ci-dessous pour nous le faire savoir, afin que nous puissions rendre votre expérience aussi confortable que possible ! 
+            https://docs.google.com/forms/d/e/1FAIpQLScxlAIs__Fb4YU1vf8a5yZIt_SyPJmwipVrFqWqJyLzAzZTiQ/viewform
 
         - content: |-
             #### Options Bilingues
