@@ -9,7 +9,8 @@ import CtaSection from './CtaSection';
 import Document from './Document';
 import DocumentsSection from './DocumentsSection';
 import FaqSection from './FaqSection';
-import FeaturesSection from './FeaturesSection';
+import FeaturesSection from './TraditionSection';
+import TraditionSection from './FeaturesSection';
 import FlatCardsSection from './FlatCardsSection';
 import FeedbackSection from './FeedbackSection';
 import Footer from './Footer';
@@ -44,6 +45,7 @@ export {
     DocumentsSection,
     FaqSection,
     FeaturesSection,
+    TraditionSection,
     FeedbackSection,
     FlatCardsSection,
     Footer,
@@ -79,6 +81,7 @@ export default {
     DocumentsSection,
     FaqSection,
     FeaturesSection,
+    TraditionSection,
     FeedbackSection,
     FlatCardsSection,
     Footer,

@@ -602,6 +602,7 @@ models:
             - documents_section
             - faq_section
             - features_section
+            - traditions_section
             - hero_section
             - team_section
             - banner_section
