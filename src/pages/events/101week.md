@@ -24,7 +24,7 @@ en:
         events:
         - title: Ice Breakers
           description: Welcome to the 101er’s bonding event! Meet your fellow 101ers and guides in a fun and lively atmosphere with games and challenges to boost the school spirit, starting with an epic ice breaker on the CBY lawn with some cheers, chants and name games and then teaming up and showing of your engineering skills, get ready for laughter, new friendships and tons of school spirit. 
-          image: ../../images/101week/couchcarry-crop.jpg
+          image: ../../images/101week/icebreaker-crop.png
 
         - title: Couch Carry
           description: Get ready for the ultimate couch challenge in downtown Ottawa, each team will carry their couch to iconic landmarks in Byward and downtown, racking up points along the way. Lets see which group has the most muscle and team spirit to conquer the city! 
@@ -40,11 +40,11 @@ en:
 
         - title: Wet Events
           description: One of Ottawa's perks is being just a bridge away from Quebec. Join us for an unforgettable party in Hull. Get ready to dance, mingle, and pull out your moves. Sip on your favourite drinks, hit the dance floor, and keep the party going all night. These nights are all about fun, friends, and good vibes!
-          image: ../../images/101week/couchcarry-crop.jpg
+          image: ../../images/101week/wet-crop.JPG
 
         - title: Dry Events
           description: We don’t need booze to party! Join in on the fun and  make memories that you WILL remember!
-          image: ../../images/101week/shineday-crop.jpg
+          image: ../../images/101week/dry-crop.JPG
 
       - type: cta_section
         title: Traditions
