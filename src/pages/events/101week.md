@@ -56,6 +56,15 @@ en:
           description: We don’t need booze to party! Join in on the fun and  make memories that you WILL remember!
           image: ../../images/101week/shineday-crop.jpg
 
+      - type: cta_section
+        title: Traditions
+        actions:
+          - label: See more
+            url: /about/traditions
+            style: primary
+        has_background: true
+        background_color: gray  
+
       - type: features_section
         title: Sponsors
         features:
@@ -125,6 +134,15 @@ fr:
       # - type: image_section
       #   title: Programme
       #   image: images/Frosh-Schedule.PNG
+
+      - type: cta_section
+        title: Traditions de Genie
+        actions:
+          - label: See more
+            url: /about/traditions
+            style: primary
+        has_background: true
+        background_color: gray  
 
       - type: features_section
         title: Commanditaires
