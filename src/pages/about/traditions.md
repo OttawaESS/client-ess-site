@@ -7,7 +7,7 @@ en:
         title: Engineering Traditions
         image: images/101week/hero.jpg
 
-      - type: tradition_section
+      - type: TraditionSection
         title: Hardhats
         features:
           - title: White
@@ -64,7 +64,7 @@ fr:
         title: Traditions de Génie
         image: images/101week/hero.jpg
 
-      - type: tradition_section
+      - type: TraditionSection
         title: Hardhats
         features:
           - title: Blanc
