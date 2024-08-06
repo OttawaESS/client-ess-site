@@ -5,7 +5,7 @@ import styled from 'styled-components';
 import {classNames, withPrefix, markdownify} from '../utils';
 import SectionActions from './SectionActions';
 
-export default function FeaturesSection(props) {
+export default function TraditionSection(props) {
     
   let section = _.get(props, 'section', null);
 
