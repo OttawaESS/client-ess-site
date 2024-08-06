@@ -9,7 +9,7 @@ en:
 
       - type: TraditionSection
         title: Hardhats
-        tradition:
+        traditions:
           - title: White
             content: >-
                These are the Executives of the Engineering Students' Society. These elite individuals are responsible for making your year the best it can be by organizing events throughout the year and providing you with connections to other organizations on and off Campus. This is no easy feat, especially given that they do it while maintaining good grades and a constant state of drunkenness.
@@ -66,7 +66,7 @@ fr:
 
       - type: TraditionSection
         title: Hardhats
-        tradition:
+        traditions:
           - title: Blanc
             content: >-
                Ils sont les exécutifs de l'AEG. Ces hommes et femmes sont responsables d'assurer que votre année est fantastique en organisant des événements pendant l'année et vous fournir un réseau social hors campus et sur campus. Ce n'est pas facile, car is le font pendant qu'ils réussissent dans leurs cours en maintenant un air d'ivresse. Ils méritent du respect et de la gratitude à un niveau maximal. 
