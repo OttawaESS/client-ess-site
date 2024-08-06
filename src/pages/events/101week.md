@@ -32,28 +32,28 @@ en:
       - type: EventsSection101
         title: Event Descriptions
         events:
-        - title: Messy Day
-          description: Gear up in your hard hats and coveralls because it's time to take on the ultimate obstacle course! After embracing the mess, we’ll take a scenic walk along the canal to the Rideau Locks to get cleaned up, then to Parliament Hill for our epic photo. It's a day of fun, chaos, and memories you won't forget!
-          image: ../../images/101week/MessyDay-crop.png
-
-        - title: Couch Carry
-          description: Tradition! 
+        - title: Ice Breakers
+          description: Welcome to the 101er’s bonding event! Meet your fellow 101ers and guides in a fun and lively atmosphere with games and challenges to boost the school spirit, starting with an epic ice breaker on the CBY lawn with some cheers, chants and name games and then teaming up and showing of your engineering skills, get ready for laughter, new friendships and tons of school spirit. 
           image: ../../images/101week/couchcarry-crop.jpg
 
+        - title: Couch Carry
+          description: Get ready for the ultimate couch challenge in downtown Ottawa, each team will carry their couch to iconic landmarks in Byward and downtown, racking up points along the way. Lets see which group has the most muscle and team spirit to conquer the city! 
+          image: ../../images/101week/couchcarry-crop.jpg
+        
         - title: Shine Day
           description: Rise and shine to raise money for Shinerama, supporting Cystic Fibrosis research. Bring your talents, energy, and enthusiasm and march around Ottawa to help us make a difference.
           image: ../../images/101week/shineday-crop.jpg
 
-        - title: Couch Carry
-          description: Tradition! 
+        - title: Messy Day
+          description: Gear up in your hard hats and coveralls because it's time to take on the ultimate obstacle course! After embracing the mess, we’ll take a scenic walk along the canal to the Rideau Locks to get cleaned up, then to Parliament Hill for our epic photo. It's a day of fun, chaos, and memories you won't forget!
+          image: ../../images/101week/MessyDay-crop.png
+
+        - title: Wet Events
+          description: One of Ottawa's perks is being just a bridge away from Quebec. Join us for an unforgettable party in Hull. Get ready to dance, mingle, and pull out your moves. Sip on your favourite drinks, hit the dance floor, and keep the party going all night. These nights are all about fun, friends, and good vibes!
           image: ../../images/101week/couchcarry-crop.jpg
 
-        - title: Couch Carry
-          description: Tradition! 
-          image: ../../images/101week/couchcarry-crop.jpg
-
-        - title: Shine Day
-          description: Tradition!
+        - title: Dry Events
+          description: We don’t need booze to party! Join in on the fun and  make memories that you WILL remember!
           image: ../../images/101week/shineday-crop.jpg
 
       - type: features_section

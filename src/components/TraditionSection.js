@@ -17,35 +17,34 @@ export default function TraditionSection(props) {
         </div>
         )}
         <div className="container container--lg">
-          {_.map(_.get(section, 'features', null), (feature, feature_idx) => (        
-          <div key={feature_idx}>
-            <div className={classNames('flex', 'flex--middle', 'flex--center', 'flex--col-2', {'align-center': _.get(feature, 'align', null) === 'center', 'align-right': _.get(feature, 'align', null) === 'right'})}>
-              {_.get(feature, 'image', null) && (
-              <div className={classNames('cell', 'section__media', {'section__media--right': _.get(feature, 'image_position', null) === 'right'})}>
-                <img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} width={175}/>
+          {_.map(_.get(section, 'traditions', null), (tradition, tradition_idx) => (        
+          <TraditionWrapper key={tradition_idx}>
+            <div className={classNames('flex', 'flex--middle', 'flex--center', 'flex--col-2', {'align-center': _.get(tradition, 'align', null) === 'center', 'align-right': _.get(tradition, 'align', null) === 'right'})}>
+              {_.get(tradition, 'image', null) && (
+              <div className={classNames('cell', 'section__media', {'section__media--right': _.get(tradition, 'image_position', null) === 'right'})}>
+                <img src={withPrefix(_.get(tradition, 'image', null))} alt={_.get(tradition, 'image_alt', null)} width={175}/>
               </div>
               )}
               <div className="section__body cell">
-                {_.get(feature, 'title', null) && (
+                {_.get(tradition, 'title', null) && (
                   _.get(section, 'title', null) ? (
-                  <h4 className="section__title">{_.get(feature, 'title', null)}</h4>
+                  <h4 className="section__title">{_.get(tradition, 'title', null)}</h4>
                   ) : 
-                  <h2 className="section__title">{_.get(feature, 'title', null)}</h2>
+                  <h2 className="section__title">{_.get(tradition, 'title', null)}</h2>
                 )}
-                {_.get(feature, 'content', null) && (
+                {_.get(tradition, 'content', null) && (
                 <div className="section__copy">
-                  {markdownify(_.get(feature, 'content', null))}
+                  {markdownify(_.get(tradition, 'content', null))}
                 </div>
                 )}
-                {_.get(feature, 'actions', null) && (
+                {_.get(tradition, 'actions', null) && (
                 <div className="section__actions btn-group">
-                  <SectionActions {...props} actions={_.get(feature, 'actions', null)} />
+                  <SectionActions {...props} actions={_.get(tradition, 'actions', null)} />
                 </div>
                 )}
               </div>                  
             </div>
-            {feature_idx < _.get(section, 'features', null).length - 1 && <Separator/>}
-          </div>
+          </TraditionWrapper>
           ))}
         </div>
       </section>
