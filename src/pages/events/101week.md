@@ -49,7 +49,7 @@ en:
       - type: cta_section
         title: Traditions
         actions:
-          - label: See more
+          - label: Learn more
             url: /about/traditions
             style: primary
         has_background: true
