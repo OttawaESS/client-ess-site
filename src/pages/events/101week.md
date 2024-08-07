@@ -20,7 +20,7 @@ en:
       #   image: images/Frosh-Schedule.PNG
 
       - type: EventsSection101
-        title: Event Descriptions
+        title: Events
         events:
         - title: Ice Breakers
           description: Welcome to the 101er’s bonding event! Meet your fellow 101ers and guides in a fun and lively atmosphere with games and challenges to boost the school spirit, starting with an epic ice breaker on the CBY lawn with some cheers, chants and name games and then teaming up and showing of your engineering skills, get ready for laughter, new friendships and tons of school spirit. 
@@ -101,7 +101,7 @@ en:
 fr: 
    sections:
       - type: page_title
-        title: Semaine 101
+        title: Semaine 101 2024
 
       - type: content_section
         content: >-
@@ -109,16 +109,43 @@ fr:
 
          #### Programme
 
-         Restez à l’écoute pour l’horaire hebdomadaire pour la semaine 101 2024!
+         Restez à l’écoute pour le calendrier de la semaine 101 2024! 
 
       # - type: image_section
       #   title: Programme
       #   image: images/Frosh-Schedule.PNG
 
+      - type: EventsSection101
+        title: Evénements
+        events:
+        - title: Brise-glace
+          description: Bienvenue à l’événement de renforcement des relations des « 101ers ». Rencontrez vos coéquipiers « 101ers » et vos guides dans une atmosphère amusante et énergétique avec des jeux et défis pour stimuler l’esprit d’école, en commençant avec un brise-glace épique sur la pelouse CBY avec des acclamations, des chants et des jeux de noms et de là former des équipes et utilisez vos compétences de génie, préparez-vous à rires, faire des amis, à vous imprégner de l'esprit d'école. 
+          image: ../../images/101week/icebreaker-crop.png
+
+        - title: Transport d’un canapé
+          description: Préparez-vous pour le défi ultime de canapés au centre-ville d’Ottawa, chaque équipe va transporter leur canapé à des lieux emblématiques du marché By et du centre-ville, en accumulant des points au long de l’événement. Voyons On quel groupe a le plus de muscles et d’esprit d’équipe pour conquérir la ville!
+          image: ../../images/101week/couchcarry-crop.jpg
+        
+        - title: Journée de Shinerama
+          description: Levez-vous pour levée des fonds pour Shinerama, qui appuie la recherche sur la fibrose kystique. Amenez vos talents, votre énergie et votre enthousiasme et marchez autour d’Ottawa pour nous aider à faire une différence. 
+          image: ../../images/101week/shineday-crop.jpg
+
+        - title: Journée de Désordre
+          description: Enfilez vos casques de sécurité et vos combis, car il est temps d'entreprendre l'ultime course à obstacles! Après avoir accepté le désordre, nous ferons une excursion pittoresque le long du canal jusqu'aux écluses Rideau pour nous nettoyer, puis jusqu'à la colline du Parlement pour notre photo épique. C'est une journée de plaisir, de chaos et de souvenirs inoubliables.
+          image: ../../images/101week/MessyDay-crop.png
+
+        - title: Événements avec l'alcool
+          description: Un des avantages d'Ottawa est que nous sommes un pont du Quebec. Rejoignez-nous pour une fête inoubliable en Hull. Préparez-vous à danser, à rencontrer les autres et montrez-nous ce que vous savez faire. Sirotez vos boissons préférées, lancez-vous sur la piste de danse et faites durer la fête jusqu'au bout de la nuit. Ces soirées sont placées sous le signe du plaisir, des amis et de bonnes vibrations!
+          image: ../../images/101week/wet-crop.JPG
+
+        - title: Événements sans alcool
+          description: Nous n’avons pas besoin d'alcool pour fêter! Rejoignez-nous à la fête et créez des souvenirs dont vous souviendrez.
+          image: ../../images/101week/dry-crop.JPG
+
       - type: cta_section
-        title: Traditions de Genie
+        title: Traditions des Ingénieur.s.es
         actions:
-          - label: See more
+          - label: En savoir plus
             url: /about/traditions
             style: primary
         has_background: true
@@ -137,11 +164,11 @@ fr:
             image_alt: Feature 1 placeholder image
             image_position: left
           
-          - title: Professional Engineers Ontario
+          - title: Ordre des ingénieurs de l’Ontario
             content: >-
-               Established on June 14, 1922, Professional Engineers Ontario (PEO) is the licensing and regulating body for professional engineering in the province. 
+               Fondé le 14 juin 1922, l’ordre des ingénieurs de l'Ontario est l'organisme d'attribution des permis et de réglementation de la profession d'ingénieur dans la province.
 
-               Learn more at <a href="https://www.peo.on.ca/" target="_blank">https://www.peo.on.ca/</a>
+               Pour en savoir plus, consultez le site <a href="https://www.peo.on.ca/" target="_blank">https://www.peo.on.ca/</a> (le site est seulement disponible en anglais). 
             align: left
             image: images/101sponsors/peo.jpg
             image_alt: Feature 1 placeholder image
@@ -149,9 +176,9 @@ fr:
 
           - title: Convertus
             content: >-
-               Convertus is a full-service provider for the treatment and recycling of organic waste. Our waste treatment facilities convert municipal and commercial organic waste into valuable commercial and community resources, including biogas and high-grade compost.
-
-               Learn more at <a href="https://convertusgroup.com/" target="_blank">https://convertusgroup.com/</a>
+               Convertus est un fournisseur de services complets pour le traitement et le recyclage des déchets organiques. Nos installations de traitement des déchets convertissent les déchets organiques municipaux et commerciaux en ressources commerciales et communautaires précieuses, notamment en biogaz et en compost de haute qualité. 
+               
+               Pour en savoir plus, consultez le site <a href="https://convertusgroup.com/" target="_blank">https://convertusgroup.com/</a>
             align: left
             image: images/101sponsors/convertus.png
             image_alt: Feature 1 placeholder image
@@ -159,9 +186,9 @@ fr:
 
           - title: BPA Engineering Services
             content: >-
-               Mission: Building a sustainable future through four main values: Accomplishment, Excellence, Integrity, Passion. 
+               Mission: Bâtir un avenir durable avec nos quatres valeurs fondamentales: accomplissement, excellence, intégrité, passion.
 
-               Learn more at <a href="https://bpa.ca/en/" target="_blank">https://bpa.ca/en/</a>
+               En savoir plus à <a href="https://bpa.ca/en/" target="_blank">https://bpa.ca/en/</a>
             align: left
             image: images/101sponsors/bpa-engineering.png
             image_alt: Feature 1 placeholder image

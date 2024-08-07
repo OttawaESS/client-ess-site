@@ -30,6 +30,10 @@
           {
             "label": "Join Our Team",
             "url": "/join-our-team"
+          },
+          {
+            "label": "Traditions",
+            "url": "/traditions"
           }
         ]
       },

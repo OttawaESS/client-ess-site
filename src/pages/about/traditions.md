@@ -61,7 +61,7 @@ en:
 fr: 
    sections:
       - type: secondary_hero_section
-        title: Traditions de Génie
+        title: Traditions des Ingénieur.s.es
         image: images/101week/hero.jpg
 
       - type: TraditionSection
