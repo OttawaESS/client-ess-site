@@ -100,8 +100,9 @@ en:
 
 fr: 
    sections:
-      - type: page_title
+      - type: secondary_hero_section
         title: Semaine 101 2024
+        image: images/101week/hero.jpg
 
       - type: content_section
         content: >-
@@ -184,7 +185,7 @@ fr:
             image_alt: Feature 1 placeholder image
             image_position: left
 
-          - title: BPA Engineering Services
+          - title: BPA firme d’ingénierie
             content: >-
                Mission: Bâtir un avenir durable avec nos quatres valeurs fondamentales: accomplissement, excellence, intégrité, passion.
 
