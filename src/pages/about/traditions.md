@@ -3,9 +3,8 @@ title: Traditions
 
 en: 
    sections: 
-      - type: secondary_hero_section
+      - type: page_title
         title: Engineering Traditions
-        image: images/101week/hero.jpg
 
       - type: TraditionSection
         title: Hardhats
@@ -60,10 +59,9 @@ en:
 
 fr: 
    sections:
-      - type: secondary_hero_section
+      - type: page_title
         title: Traditions des Ingénieur.s.es
-        image: images/101week/hero.jpg
-
+        
       - type: TraditionSection
         title: Hardhats
         traditions:
