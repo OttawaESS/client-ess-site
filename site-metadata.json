@@ -91,6 +91,10 @@
           {
             "label": "Upcoming and Recurring Events",
             "url": "/upcoming-and-recurring"
+          },
+          {
+            "label": "101 Week 2024",
+            "url": "/101week"
           }
         ]
       },
