@@ -47,13 +47,13 @@ en:
           image: ../../images/101week/dry-crop.JPG
 
       - type: cta_section
-        title: Learn more
+        title: Ready to join?
         actions:
           - label: Buy your kit!
             url: https://checkout.square.site/buy/7B6IEMW4NE5NB7ZNL3WHMZWQ
             style: primary
             new_window: true
-          - label: Traditions
+          - label: See our traditions!
             url: /about/traditions
             style: secondary
         has_background: true
@@ -149,13 +149,13 @@ fr:
 
 
       - type: cta_section
-        title: En savoir plus
+        title: Prêt à nous rejoindre ?
         actions:
-          - label: Achetez votre kit !
+          - label: Achetez vos kits !
             url: https://checkout.square.site/buy/7B6IEMW4NE5NB7ZNL3WHMZWQ
             style: primary
             new_window: true
-          - label: Traditions des Ingénieur.s.es
+          - label: Découvrez nos traditions !
             url: /about/traditions
             style: secondary
         has_background: true
