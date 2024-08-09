@@ -57,6 +57,21 @@ en:
             image_alt: Feature 1 placeholder image
             image_position: left
 
+      - type: TraditionSection
+        title: Otis the Bunny
+        traditions:
+          - content: >-
+              Many years ago, the Keepers were assigned a great task: To find a mascot that would represent the uOttawa engineering students for years to come. After countless debates, they finally agreed on the bunny. Bunnies are a symbol of success, sustainability and survival, purely through their mass need/ability to procreate. To the Keepers’ surprise, after capturing their new mascot they realized that he was no ordinary bunny. He would soon manage to obtain all four of the engineering degrees at the same time, while partying harder than any other uOttawa student. He was named Otis.
+
+              Things to know about Otis:
+              Otis’ namesake is the company that engineered the elevators for CBY and most other campus buildings.
+              He lives in CBY… (The Bunny Cave…shhh)
+              Otis tends to be drunk whenever he’s not working, thus earning him the nickname, “The Drunken Bunny.”
+            align: left
+            image: images/traditions/otis.png
+            image_alt: Feature 1 placeholder image
+            image_position: left
+
 fr: 
    sections:
       - type: page_title
@@ -110,6 +125,22 @@ fr:
                Les innocents sont faciles à voir en jaune. Mais soyez fiers de vos casques... Le jaune veut dire que vous n'êtes pas encore un étudiant expérimenté en génie! Étudiez fort et allez à beaucoup d'évènements et vous avancerez bientôt!
             align: left
             image: images/hardhat/yellow.png
+            image_alt: Feature 1 placeholder image
+            image_position: left
+
+      - type: TraditionSection
+        title: Otis le lapin
+        traditions:
+          - content: >-
+              Il y a longtemps, les Gardiens ont été assignés la tâche de trouver une mascotte qui représentera les étudiants de génie de l’université d’Ottawa de chaque génération. Après des disputes innombrables, ils se-sont finalement mis d'accord sur le lapin. Les lapins sont des symboles du succès, de la durabilité et de la survie uniquement grâce à leur masse besoin / capacité de procréer (en d’autres mots: ils ont beaucoup de sexe). À la surprise des Gardiens, après la capture de leur nouvelle mascotte ils ont réalisé qu'il n'était pas un lapin ordinaire. Il allait bientôt arriver à obtenir tous les quatre diplômes de génie en même temps, en fêtant plus fort que n'importe quel autre étudiant de l'université d'Ottawa. Son nom est Otis.
+
+              Qu’est-ce qu’il faut se souvenir d’Otis : 
+              Ils lui ont donné le nom de l’entreprise qui a construit les ascenseurs de CBY et la majorité des autres bâtiments à l’université.  
+              Il demeure dans CBY (c’est le Bunny Cave … shh) 
+              Habituellement, il est ivre quand il ne travaille pas; résultant dans son sobriquet le lapin intoxiqué. 
+
+            align: left
+            image: images/traditions/otis.png
             image_alt: Feature 1 placeholder image
             image_position: left
 
