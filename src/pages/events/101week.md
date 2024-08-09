@@ -28,7 +28,7 @@ en:
 
         - title: Couch Carry
           description: Get ready for the ultimate couch challenge in downtown Ottawa, each team will carry their couch to iconic landmarks in Byward and downtown, racking up points along the way. Lets see which group has the most muscle and team spirit to conquer the city! 
-          image: ../../images/101week/couchcarry-crop.jpg
+          image: ../../images/101week/couchcarry-new.png
         
         - title: Shine Day
           description: Rise and shine to raise money for Shinerama, supporting Cystic Fibrosis research. Bring your talents, energy, and enthusiasm and march around Ottawa to help us make a difference.
@@ -129,7 +129,7 @@ fr:
 
         - title: Transport d’un canapé
           description: Préparez-vous pour le défi ultime de canapés au centre-ville d’Ottawa, chaque équipe va transporter leur canapé à des lieux emblématiques du marché By et du centre-ville, en accumulant des points au long de l’événement. Voyons quel groupe a le plus de muscles et d’esprit d’équipe pour conquérir la ville!
-          image: ../../images/101week/couchcarry-crop.jpg
+          image: ../../images/101week/couchcarry-new.png
         
         - title: Journée de Shinerama
           description: Levez-vous pour levée des fonds pour Shinerama, qui appuie la recherche sur la fibrose kystique. Amenez vos talents, votre énergie et votre enthousiasme et marchez autour d’Ottawa pour nous aider à faire une différence. 

@@ -22,7 +22,7 @@ export default function TraditionSection(props) {
             <div className={classNames('flex', 'flex--middle', 'flex--center', 'flex--col-2', {'align-center': _.get(tradition, 'align', null) === 'center', 'align-right': _.get(tradition, 'align', null) === 'right'})}>
               {_.get(tradition, 'image', null) && (
               <div className={classNames('cell', 'section__media', {'section__media--right': _.get(tradition, 'image_position', null) === 'right'})}>
-                <img src={withPrefix(_.get(tradition, 'image', null))} alt={_.get(tradition, 'image_alt', null)} width={175}/>
+                <img src={withPrefix(_.get(tradition, 'image', null))} alt={_.get(tradition, 'image_alt', null)} width={215}/>
               </div>
               )}
               <div className="section__body cell">
