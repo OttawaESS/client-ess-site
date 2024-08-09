@@ -47,11 +47,15 @@ en:
           image: ../../images/101week/dry-crop.JPG
 
       - type: cta_section
-        title: Traditions
+        title: Learn more
         actions:
-          - label: Learn more
-            url: /about/traditions
+          - label: Buy your kit!
+            url: https://checkout.square.site/buy/7B6IEMW4NE5NB7ZNL3WHMZWQ
             style: primary
+            new_window: true
+          - label: Traditions
+            url: /about/traditions
+            style: secondary
         has_background: true
         background_color: gray  
 
@@ -124,7 +128,7 @@ fr:
           image: ../../images/101week/icebreaker-crop.png
 
         - title: Transport d’un canapé
-          description: Préparez-vous pour le défi ultime de canapés au centre-ville d’Ottawa, chaque équipe va transporter leur canapé à des lieux emblématiques du marché By et du centre-ville, en accumulant des points au long de l’événement. Voyons On quel groupe a le plus de muscles et d’esprit d’équipe pour conquérir la ville!
+          description: Préparez-vous pour le défi ultime de canapés au centre-ville d’Ottawa, chaque équipe va transporter leur canapé à des lieux emblématiques du marché By et du centre-ville, en accumulant des points au long de l’événement. Voyons quel groupe a le plus de muscles et d’esprit d’équipe pour conquérir la ville!
           image: ../../images/101week/couchcarry-crop.jpg
         
         - title: Journée de Shinerama
@@ -143,12 +147,17 @@ fr:
           description: Nous n’avons pas besoin d'alcool pour fêter! Rejoignez-nous à la fête et créez des souvenirs dont vous souviendrez.
           image: ../../images/101week/dry-crop.JPG
 
+
       - type: cta_section
-        title: Traditions des Ingénieur.s.es
+        title: En savoir plus
         actions:
-          - label: En savoir plus
-            url: /about/traditions
+          - label: Achetez votre kit !
+            url: https://checkout.square.site/buy/7B6IEMW4NE5NB7ZNL3WHMZWQ
             style: primary
+            new_window: true
+          - label: Traditions des Ingénieur.s.es
+            url: /about/traditions
+            style: secondary
         has_background: true
         background_color: gray  
 
