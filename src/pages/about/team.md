@@ -56,6 +56,7 @@ en:
         - src/data/team/ess-manager-101.yaml
         - src/data/team/ess-manager-translations.yaml
         - src/data/team/ess-manager-marketing.yaml
+        - src/data/team/ess-manager-student-success.yaml
         - src/data/team/ess-manager-sponsor.yaml
         - src/data/team/ess-manager-winecheese.yaml
         - src/data/team/ess-manager-sports.yaml
@@ -113,6 +114,7 @@ fr:
         - src/data/team/ess-manager-101.yaml
         - src/data/team/ess-manager-translations.yaml
         - src/data/team/ess-manager-marketing.yaml
+        - src/data/team/ess-manager-student-success.yaml
         - src/data/team/ess-manager-sponsor.yaml
         - src/data/team/ess-manager-winecheese.yaml
         - src/data/team/ess-manager-sports.yaml
