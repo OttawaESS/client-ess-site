@@ -46,7 +46,6 @@ en:
           description: We don’t need booze to party! Join in on the fun and  make memories that you WILL remember!
           image: ../../images/101week/dry-crop.JPG
 
-
       - type: content_section
         content: |- 
           <h1 style="text-align:center;">Ready to join?</h1>
@@ -55,7 +54,7 @@ en:
         title: 
         grid_items:
           - content: |-
-              <div style="text-align: center; overflow: auto; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%; background: #FFFFFF; border: 1px solid rgba(0, 0, 0, 0.1); box-shadow: -2px 10px 5px rgba(0, 0, 0, 0); border-radius: 10px; font-family: Karla, SQ Market, Helvetica, Arial, sans-serif; ">
+              <div style="text-align: center; overflow: auto; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%; height: 500px; background: #FFFFFF; border: 1px solid rgba(0, 0, 0, 0.1); box-shadow: -2px 10px 5px rgba(0, 0, 0, 0); border-radius: 10px; font-family: Karla, SQ Market, Helvetica, Arial, sans-serif; ">
                   <img src="https://items-images-production.s3.us-west-2.amazonaws.com/files/efdd0333fd548fbb11777ba6cff388ac94405287/original.jpeg" alt="101 Week Kit | kit pour la semaine 101" onerror="this.style.display='none'" style="width: 100%;">
                 <div style="padding: 20px;">
                     <p style="font-size: 18px;ine-height: 20px;">101 Week Kit | kit pour la semaine 101</p>
@@ -188,62 +187,58 @@ fr:
           description: Nous n’avons pas besoin d'alcool pour fêter! Rejoignez-nous à la fête et créez des souvenirs dont vous souviendrez.
           image: ../../images/101week/dry-crop.JPG
 
+      - type: content_section
+        content: |- 
+          <h1 style="text-align:center;">Prêt à nous rejoindre ?</h1>
 
-      - type: cta_section
-        title: Prêt à nous rejoindre ?
-        actions:
-          - label: Achetez vos kits !
-            url: https://checkout.square.site/buy/7B6IEMW4NE5NB7ZNL3WHMZWQ
-            style: primary
-            new_window: true
-          - label: Découvrez nos traditions !
-            url: /about/traditions
-            style: secondary
-        has_background: true
-        background_color: gray 
-        
-      - type: TraditionSection
-        title: Prêt à nous rejoindre ?
-        traditions:
-          - title: Étape 1
-            content: >-
-              Achetez votre kit! <br><br>
-              https://checkout.square.site/buy/7B6IEMW4NE5NB7ZNL3WHMZWQ
-            align: left
-            image: images/101week/numbers/1.png
-            image_alt: Feature 1 placeholder image
-            image_position: left
-          
-          - title: Étape 2
-            content: >-
-              Remplissez la dérogation <br><br>
-
-              Pour la sécurité de tous les étudiant.s.es et puisque le gros plaisir accompagne la grande responsabilité, nous vous demandons de remplir quelques documents. <br><br>
-
-              Veuillez remplir le contrat*, la dérogation*, et le formulaire de paiement ci-dessous et nous vous verrons durant le ramassage de kits** le 31 août et le 1 septembre. <br><br>
-
-              *Pour ceux et celles qui ont moins de 18 ans (à partir du 1 septembre 2024), un parent/responsable légal doit aussi signer la dérogation et le contrat avec l’étudiant participant pour des raisons de responsabilité. 
-
-              **Une pièce d’identité valide du gouvernement doit être présentée lors de l’enregistrement pour recevoir un bracelet pour participer à des événements de 18+ et à des lieux où de l’alcool peut être présent
-
+      - type: grid_section
+        title: 
+        grid_items:
+          - content: |-
+              <div style="text-align: center; overflow: auto; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%; height: 500px; background: #FFFFFF; border: 1px solid rgba(0, 0, 0, 0.1); box-shadow: -2px 10px 5px rgba(0, 0, 0, 0); border-radius: 10px; font-family: Karla, SQ Market, Helvetica, Arial, sans-serif; ">
+                  <img src="https://items-images-production.s3.us-west-2.amazonaws.com/files/efdd0333fd548fbb11777ba6cff388ac94405287/original.jpeg" alt="101 Week Kit | kit pour la semaine 101" onerror="this.style.display='none'" style="width: 100%;">
+                <div style="padding: 20px;">
+                    <p style="font-size: 18px;ine-height: 20px;">101 Week Kit | kit pour la semaine 101</p>
+                    <p style="font-size: 18px;line-height: 20px;font-weight: 600;">$120.00 – $140.00</p>
+                  <a target="_blank" href="https://checkout.square.site/merchant/CQMDWR0JB9K0F/checkout/5X6CHAUS32N3RAZNR25U5F3H?src=embed" style="display: inline-block; font-size: 18px; line-height: 48px; height: 48px; color: #ffffff; min-width: 212px; background-color: #5D0096; text-align: center; box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset; border-radius: 6px;">Buy now</a>
+                </div>
+                  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karla">
+              </div>
+          - content: |-
+              ### Étape 1
+              Achetez votre kit!
+              
+          - content: |-
               <div id="wf-embed-waiver-target" style="width:100%;height:500px;"></div>
-              <script>
-                  /* Embed Mode - WaiverForever Waiver Widget */
-                  (function(w, f, id, src, tid, sdk, embed){
-                      if (w.getElementById(id)){ return; }
-                      var s, s0 = w.getElementsByTagName(f)[0], l = src + '?templateId=' + tid;
-                      if (embed) l += '&embed=yes';
-                      if (sdk) l += '&sdkMode=yes';
-                      s = w.createElement(f); s.id = id; s.defer = 1; s.src = l;
-                      s0.parentNode.insertBefore(s, s0);
-                  }(document, 'script', 'wf-embed-waiver-script', 'https://cdn.waiverforever.com/qs3/ew.js?templateId=nbpJ1C4BLp1723042682', 'nbpJ1C4BLp1723042682', 0, 1));
-              </script>
+                <script>
+                    /* Embed Mode - WaiverForever Waiver Widget */
+                    (function(w, f, id, src, tid, sdk, embed){
+                        if (w.getElementById(id)){ return; }
+                        var s, s0 = w.getElementsByTagName(f)[0], l = src + '?templateId=' + tid;
+                        if (embed) l += '&embed=yes';
+                        if (sdk) l += '&sdkMode=yes';
+                        s = w.createElement(f); s.id = id; s.defer = 1; s.src = l;
+                        s0.parentNode.insertBefore(s, s0);
+                    }(document, 'script', 'wf-embed-waiver-script', 'https://cdn.waiverforever.com/qs3/ew.js?templateId=nbpJ1C4BLp1723042682', 'nbpJ1C4BLp1723042682', 0, 1));
+                </script>
+          - content: |-
+              ### Étape 2
+    
+              Remplissez la dérogation!<br>
 
-            align: left
-            image: images/101week/numbers/2.png
-            image_alt: Feature 1 placeholder image
-            image_position: left
+              Pour la sécurité de tous les étudiant.s.es et puisque le gros plaisir accompagne la grande responsabilité, nous vous demandons de remplir quelques documents. <br>
+              Veuillez remplir le contrat∗, la dérogation∗, et le formulaire de paiement ci-dessous et nous vous verrons durant le ramassage de kits∗∗ le 31 août et le 1 septembre. <br>
 
+              ∗Pour ceux et celles qui ont moins de 18 ans (à partir du 1 septembre 2024), un parent/responsable légal doit aussi signer la dérogation et le contrat avec l’étudiant participant pour des raisons de responsabilité. 
+              ∗∗Une pièce d’identité valide du gouvernement doit être présentée lors de l’enregistrement pour recevoir un bracelet pour participer à des événements de 18+ et à des lieux où de l’alcool peut être présent
+        grid_cols: two
+        grid_gap_horiz: large
+        grid_gap_vert: small
+        enable_cards: false
+        align: center
+        has_background: true
+        background_color: gray
+        
       - type: features_section
         title: Commanditaires
         features:
