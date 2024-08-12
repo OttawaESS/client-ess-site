@@ -46,15 +46,11 @@ en:
           description: We don’t need booze to party! Join in on the fun and  make memories that you WILL remember!
           image: ../../images/101week/dry-crop.JPG
 
-      - type: content_section
-        content: >- 
-          ## Ready to join?
-
       - type: grid_section
-        title: 
+        title: Ready to join?
         grid_items:
           - content: |-
-              <div style="text-align: center; overflow: auto; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 259px; background: #FFFFFF; border: 1px solid rgba(0, 0, 0, 0.1); box-shadow: -2px 10px 5px rgba(0, 0, 0, 0); border-radius: 10px; font-family: Karla, SQ Market, Helvetica, Arial, sans-serif; ">
+              <div style="text-align: center; overflow: auto; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%; background: #FFFFFF; border: 1px solid rgba(0, 0, 0, 0.1); box-shadow: -2px 10px 5px rgba(0, 0, 0, 0); border-radius: 10px; font-family: Karla, SQ Market, Helvetica, Arial, sans-serif; ">
                   <img src="https://items-images-production.s3.us-west-2.amazonaws.com/files/efdd0333fd548fbb11777ba6cff388ac94405287/original.jpeg" alt="101 Week Kit | kit pour la semaine 101" onerror="this.style.display='none'" style="width: 100%;">
                 <div style="padding: 20px;">
                     <p style="font-size: 18px;ine-height: 20px;">101 Week Kit | kit pour la semaine 101</p>

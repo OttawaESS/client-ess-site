@@ -41,7 +41,7 @@ export default function GridSection(props) {
                 'pb-md-7': paddingBottom === 'large'
             })}
         >
-            <div className="container container--lg">
+            <div className="container container--lg" style={styles.container}>
             {backgroundImage && <SectionBackground section={section} />}
             {(title || subtitle) && (
                 <div
@@ -53,7 +53,7 @@ export default function GridSection(props) {
                     })}
                 >
                     {subtitle && <div className="section__subtitle">{subtitle}</div>}
-                    {title && <h2 className={styles.meta}>{title}</h2>}
+                    {title && <h2 className={section__title}>{title}</h2>}
                 </div>
             )}
             {!_.isEmpty(gridItems) && (
