@@ -53,7 +53,7 @@ export default function GridSection(props) {
                     })}
                 >
                     {subtitle && <div className="section__subtitle">{subtitle}</div>}
-                    {title && <p className={styles.meta}>{title}</p>}
+                    {title && <h2 className={styles.meta}>{title}</h2>}
                 </div>
             )}
             {!_.isEmpty(gridItems) && (

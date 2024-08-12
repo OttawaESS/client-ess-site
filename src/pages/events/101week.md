@@ -46,24 +46,11 @@ en:
           description: We don’t need booze to party! Join in on the fun and  make memories that you WILL remember!
           image: ../../images/101week/dry-crop.JPG
 
-      # - type: cta_section
-      #   title: Ready to join?
-      #   actions:
-      #     - label: Buy your kit!
-      #       url: https://checkout.square.site/buy/7B6IEMW4NE5NB7ZNL3WHMZWQ
-      #       style: primary
-      #       new_window: true
-      #     - label: See our traditions!
-      #       url: /about/traditions
-      #       style: secondary
-      #   has_background: true
-      #   background_color: gray  
-
       - type: grid_section
         title: Ready to join?
         grid_items:
           - content: |-
-              <div style="overflow: auto; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; width: 259px; background: #FFFFFF; border: 1px solid rgba(0, 0, 0, 0.1); box-shadow: -2px 10px 5px rgba(0, 0, 0, 0); border-radius: 10px; font-family: Karla, SQ Market, Helvetica, Arial, sans-serif; ">
+              <div style="overflow: auto; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 259px; background: #FFFFFF; border: 1px solid rgba(0, 0, 0, 0.1); box-shadow: -2px 10px 5px rgba(0, 0, 0, 0); border-radius: 10px; font-family: Karla, SQ Market, Helvetica, Arial, sans-serif; ">
                   <img src="https://items-images-production.s3.us-west-2.amazonaws.com/files/efdd0333fd548fbb11777ba6cff388ac94405287/original.jpeg" alt="101 Week Kit | kit pour la semaine 101" onerror="this.style.display='none'" style="width: 100%;">
                 <div style="padding: 20px;">
                     <p style="font-size: 18px;ine-height: 20px;">101 Week Kit | kit pour la semaine 101</p>
@@ -92,19 +79,20 @@ en:
           - content: |-
               ### Step 2
     
-              Fill out the waiver!<br><br>
+              Fill out the waiver!<br>
 
-              For the safety of all students, and since great fun comes with great responsibility, we will have some paperwork for you to fill out.<br><br>
+              For the safety of all students, and since great fun comes with great responsibility, we will have some paperwork for you to fill out.<br>
 
-              Please fill out the contract*, waiver*, and payment form below, and we will see you during your kit pick up** on 31 August and 1 September.<br><br>
+              Please fill out the contract∗, waiver∗, and payment form below, and we will see you during your kit pick up∗∗ on 31 August and 1 September.<br>
 
-              * For those under the age of 18 (As of 1 September 2024), a legal parent/Guardian must also sign the waiver and contract alongside the participating student for reasons of liability.
-              **A valid government-issued ID is required to be presented at check-in to receive a bracelet to participate in 18+ events and venues where alcohol may be present.
+              ∗∗For those under the age of 18 (As of 1 September 2024), a legal parent/Guardian must also sign the waiver and contract alongside the participating student for reasons of liability.
+              ∗∗A valid government-issued ID is required to be presented at check-in to receive a bracelet to participate in 18+ events and venues where alcohol may be present.
         grid_cols: two
         grid_gap_horiz: large
         grid_gap_vert: small
         enable_cards: false
         align: center
+        has_background: true
         background_color: gray
 
       - type: features_section
