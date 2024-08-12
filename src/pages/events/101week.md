@@ -58,31 +58,26 @@ en:
       #       style: secondary
       #   has_background: true
       #   background_color: gray  
-      
-      - type: TraditionSection
-        title: Ready to join?
-        traditions:
-          - title: Step 1
-            content: >-
-              Buy your kit! <br><br>
-              https://checkout.square.site/buy/7B6IEMW4NE5NB7ZNL3WHMZWQ
-            align: left
-            image: images/101week/numbers/1.png
-            image_alt: Feature 1 placeholder image
-            image_position: left
-          
-          - title: Step 2
-            content: >-
-              Fill out the waiver!<br><br>
 
-              For the safety of all students, and since great fun comes with great responsibility, we will have some paperwork for you to fill out.<br><br>
-
-              Please fill out the contract*, waiver*, and payment form below, and we will see you during your kit pick up** on 31 August and 1 September.<br><br>
-
-              * For those under the age of 18 (As of 1 September 2024), a legal parent/Guardian must also sign the waiver and contract alongside the participating student for reasons of liability.
-              **A valid government-issued ID is required to be presented at check-in to receive a bracelet to participate in 18+ events and venues where alcohol may be present.
-
-              <div id="wf-embed-waiver-target" style="width:100%;height:500px;"></div>
+      - type: grid_section
+       title: Ready to join?
+       grid_items:
+         - content: |-
+             <div style="overflow: auto; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; width: 259px; background: #FFFFFF; border: 1px solid rgba(0, 0, 0, 0.1); box-shadow: -2px 10px 5px rgba(0, 0, 0, 0); border-radius: 10px; font-family: Karla, SQ Market, Helvetica, Arial, sans-serif; ">
+                <img src="https://items-images-production.s3.us-west-2.amazonaws.com/files/efdd0333fd548fbb11777ba6cff388ac94405287/original.jpeg" alt="101 Week Kit | kit pour la semaine 101" onerror="this.style.display='none'" style="width: 100%;">
+              <div style="padding: 20px;">
+                  <p style="font-size: 18px;ine-height: 20px;">101 Week Kit | kit pour la semaine 101</p>
+                  <p style="font-size: 18px;line-height: 20px;font-weight: 600;">$120.00 – $140.00</p>
+                <a target="_blank" href="https://checkout.square.site/merchant/CQMDWR0JB9K0F/checkout/5X6CHAUS32N3RAZNR25U5F3H?src=embed" style="display: inline-block; font-size: 18px; line-height: 48px; height: 48px; color: #ffffff; min-width: 212px; background-color: #5D0096; text-align: center; box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset; border-radius: 6px;">Buy now</a>
+              </div>
+                <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karla">
+            </div>
+         - content: |-
+            ### Step 1
+            Buy your kit!
+             
+         - content: |-
+             <div id="wf-embed-waiver-target" style="width:100%;height:500px;"></div>
               <script>
                   /* Embed Mode - WaiverForever Waiver Widget */
                   (function(w, f, id, src, tid, sdk, embed){
@@ -94,11 +89,23 @@ en:
                       s0.parentNode.insertBefore(s, s0);
                   }(document, 'script', 'wf-embed-waiver-script', 'https://cdn.waiverforever.com/qs3/ew.js?templateId=nbpJ1C4BLp1723042682', 'nbpJ1C4BLp1723042682', 0, 1));
               </script>
+         - content: |-
+            ### Step 2
+   
+            Fill out the waiver!<br><br>
 
-            align: left
-            image: images/101week/numbers/2.png
-            image_alt: Feature 1 placeholder image
-            image_position: left
+            For the safety of all students, and since great fun comes with great responsibility, we will have some paperwork for you to fill out.<br><br>
+
+            Please fill out the contract*, waiver*, and payment form below, and we will see you during your kit pick up** on 31 August and 1 September.<br><br>
+
+            * For those under the age of 18 (As of 1 September 2024), a legal parent/Guardian must also sign the waiver and contract alongside the participating student for reasons of liability.
+            **A valid government-issued ID is required to be presented at check-in to receive a bracelet to participate in 18+ events and venues where alcohol may be present.
+       grid_cols: two
+       grid_gap_horiz: large
+       grid_gap_vert: small
+       enable_cards: false
+       align: center
+       background_color: gray
 
       - type: features_section
         title: Sponsors
