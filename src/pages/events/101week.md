@@ -54,8 +54,7 @@ en:
         title: 
         grid_items:
           - content: |-
-            <div style="text-align: center;">
-              <div style="overflow: auto; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 259px; background: #FFFFFF; border: 1px solid rgba(0, 0, 0, 0.1); box-shadow: -2px 10px 5px rgba(0, 0, 0, 0); border-radius: 10px; font-family: Karla, SQ Market, Helvetica, Arial, sans-serif; ">
+              <div style="text-align: center; overflow: auto; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 259px; background: #FFFFFF; border: 1px solid rgba(0, 0, 0, 0.1); box-shadow: -2px 10px 5px rgba(0, 0, 0, 0); border-radius: 10px; font-family: Karla, SQ Market, Helvetica, Arial, sans-serif; ">
                   <img src="https://items-images-production.s3.us-west-2.amazonaws.com/files/efdd0333fd548fbb11777ba6cff388ac94405287/original.jpeg" alt="101 Week Kit | kit pour la semaine 101" onerror="this.style.display='none'" style="width: 100%;">
                 <div style="padding: 20px;">
                     <p style="font-size: 18px;ine-height: 20px;">101 Week Kit | kit pour la semaine 101</p>
@@ -64,7 +63,6 @@ en:
                 </div>
                   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karla">
               </div>
-            </div>
           - content: |-
               ### Step 1
               Buy your kit!
@@ -91,7 +89,7 @@ en:
 
               Please fill out the contract∗, waiver∗, and payment form below, and we will see you during your kit pick up∗∗ on 31 August and 1 September.<br>
 
-              ∗∗For those under the age of 18 (As of 1 September 2024), a legal parent/Guardian must also sign the waiver and contract alongside the participating student for reasons of liability.
+              ∗For those under the age of 18 (As of 1 September 2024), a legal parent/Guardian must also sign the waiver and contract alongside the participating student for reasons of liability.
               ∗∗A valid government-issued ID is required to be presented at check-in to receive a bracelet to participate in 18+ events and venues where alcohol may be present.
         grid_cols: two
         grid_gap_horiz: large
