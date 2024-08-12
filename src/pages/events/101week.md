@@ -46,18 +46,59 @@ en:
           description: We don’t need booze to party! Join in on the fun and  make memories that you WILL remember!
           image: ../../images/101week/dry-crop.JPG
 
-      - type: cta_section
+      # - type: cta_section
+      #   title: Ready to join?
+      #   actions:
+      #     - label: Buy your kit!
+      #       url: https://checkout.square.site/buy/7B6IEMW4NE5NB7ZNL3WHMZWQ
+      #       style: primary
+      #       new_window: true
+      #     - label: See our traditions!
+      #       url: /about/traditions
+      #       style: secondary
+      #   has_background: true
+      #   background_color: gray  
+      
+      - type: TraditionSection
         title: Ready to join?
-        actions:
-          - label: Buy your kit!
-            url: https://checkout.square.site/buy/7B6IEMW4NE5NB7ZNL3WHMZWQ
-            style: primary
-            new_window: true
-          - label: See our traditions!
-            url: /about/traditions
-            style: secondary
-        has_background: true
-        background_color: gray  
+        traditions:
+          - title: Step 1
+            content: >-
+              Buy your kit! <br><br>
+              https://checkout.square.site/buy/7B6IEMW4NE5NB7ZNL3WHMZWQ
+            align: left
+            image: images/101week/numbers/1.png
+            image_alt: Feature 1 placeholder image
+            image_position: left
+          
+          - title: Step 2
+            content: >-
+              Fill out the waiver!<br><br>
+
+              For the safety of all students, and since great fun comes with great responsibility, we will have some paperwork for you to fill out.<br><br>
+
+              Please fill out the contract*, waiver*, and payment form below, and we will see you during your kit pick up** on 31 August and 1 September.<br><br>
+
+              * For those under the age of 18 (As of 1 September 2024), a legal parent/Guardian must also sign the waiver and contract alongside the participating student for reasons of liability.
+              **A valid government-issued ID is required to be presented at check-in to receive a bracelet to participate in 18+ events and venues where alcohol may be present.
+
+              <div id="wf-embed-waiver-target" style="width:100%;height:500px;"></div>
+              <script>
+                  /* Embed Mode - WaiverForever Waiver Widget */
+                  (function(w, f, id, src, tid, sdk, embed){
+                      if (w.getElementById(id)){ return; }
+                      var s, s0 = w.getElementsByTagName(f)[0], l = src + '?templateId=' + tid;
+                      if (embed) l += '&embed=yes';
+                      if (sdk) l += '&sdkMode=yes';
+                      s = w.createElement(f); s.id = id; s.defer = 1; s.src = l;
+                      s0.parentNode.insertBefore(s, s0);
+                  }(document, 'script', 'wf-embed-waiver-script', 'https://cdn.waiverforever.com/qs3/ew.js?templateId=nbpJ1C4BLp1723042682', 'nbpJ1C4BLp1723042682', 0, 1));
+              </script>
+
+            align: left
+            image: images/101week/numbers/2.png
+            image_alt: Feature 1 placeholder image
+            image_position: left
 
       - type: features_section
         title: Sponsors
@@ -159,7 +200,49 @@ fr:
             url: /about/traditions
             style: secondary
         has_background: true
-        background_color: gray  
+        background_color: gray 
+        
+      - type: TraditionSection
+        title: Prêt à nous rejoindre ?
+        traditions:
+          - title: Étape 1
+            content: >-
+              Achetez votre kit! <br><br>
+              https://checkout.square.site/buy/7B6IEMW4NE5NB7ZNL3WHMZWQ
+            align: left
+            image: images/101week/numbers/1.png
+            image_alt: Feature 1 placeholder image
+            image_position: left
+          
+          - title: Étape 2
+            content: >-
+              Remplissez la dérogation <br><br>
+
+              Pour la sécurité de tous les étudiant.s.es et puisque le gros plaisir accompagne la grande responsabilité, nous vous demandons de remplir quelques documents. <br><br>
+
+              Veuillez remplir le contrat*, la dérogation*, et le formulaire de paiement ci-dessous et nous vous verrons durant le ramassage de kits** le 31 août et le 1 septembre. <br><br>
+
+              *Pour ceux et celles qui ont moins de 18 ans (à partir du 1 septembre 2024), un parent/responsable légal doit aussi signer la dérogation et le contrat avec l’étudiant participant pour des raisons de responsabilité. 
+
+              **Une pièce d’identité valide du gouvernement doit être présentée lors de l’enregistrement pour recevoir un bracelet pour participer à des événements de 18+ et à des lieux où de l’alcool peut être présent
+
+              <div id="wf-embed-waiver-target" style="width:100%;height:500px;"></div>
+              <script>
+                  /* Embed Mode - WaiverForever Waiver Widget */
+                  (function(w, f, id, src, tid, sdk, embed){
+                      if (w.getElementById(id)){ return; }
+                      var s, s0 = w.getElementsByTagName(f)[0], l = src + '?templateId=' + tid;
+                      if (embed) l += '&embed=yes';
+                      if (sdk) l += '&sdkMode=yes';
+                      s = w.createElement(f); s.id = id; s.defer = 1; s.src = l;
+                      s0.parentNode.insertBefore(s, s0);
+                  }(document, 'script', 'wf-embed-waiver-script', 'https://cdn.waiverforever.com/qs3/ew.js?templateId=nbpJ1C4BLp1723042682', 'nbpJ1C4BLp1723042682', 0, 1));
+              </script>
+
+            align: left
+            image: images/101week/numbers/2.png
+            image_alt: Feature 1 placeholder image
+            image_position: left
 
       - type: features_section
         title: Commanditaires
