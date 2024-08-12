@@ -46,8 +46,10 @@ en:
           description: We don’t need booze to party! Join in on the fun and  make memories that you WILL remember!
           image: ../../images/101week/dry-crop.JPG
 
+      <h1 style="text-align:center;">Ready to join?</h1>
+
       - type: grid_section
-        title: Ready to join?
+        title: 
         grid_items:
           - content: |-
               <div style="text-align: center; overflow: auto; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%; background: #FFFFFF; border: 1px solid rgba(0, 0, 0, 0.1); box-shadow: -2px 10px 5px rgba(0, 0, 0, 0); border-radius: 10px; font-family: Karla, SQ Market, Helvetica, Arial, sans-serif; ">
