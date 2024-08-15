@@ -29,7 +29,15 @@ en:
             content: >-
                There is only one blue hat. This person is the 101 Week Coordinator and has been given special distinction for their service to the most fun event of the year. Deserves the same level of reverence to the White-Hats during 101 Week.
             align: left
-            image: images/hardhat/blue.png
+            image: images/hardhat/lightblue.png
+            image_alt: Feature 1 placeholder image
+            image_position: left
+
+          - title: Dark Blue
+            content: >-
+               These are the members of the 101 week committee. They are the masterminds behind all the events/activities during the week. These dark blue hats are crucial in ensuring everything runs smoothly. They are just like your regular guides, except they have specialized knowledge in all things 101 week and report to the 101 week coordinator.
+            align: left
+            image: images/hardhat/darkblue.png
             image_alt: Feature 1 placeholder image
             image_position: left
 
@@ -100,7 +108,15 @@ fr:
             content: >-
                Il n'y a qu'un seul casque bleu. Cette personne est le coordonnateur de la semaine 101 et a reçu une distinction spéciale pour ses services rendus à l'évènement le plus amusant 'année. Il mérite le même niveau de révérence que les casques blancs.
             align: left
-            image: images/hardhat/blue.png
+            image: images/hardhat/lightblue.png
+            image_alt: Feature 1 placeholder image
+            image_position: left
+
+          - title: Dark Blue
+            content: >-
+               Il s'agit des membres du comité de la semaine 101. Ils sont les maîtres d'œuvre de tous les événements et activités de la semaine. Ces chapeaux bleu foncé sont essentiels pour assurer le bon déroulement des activités. Ils sont comme vos guides habituels, sauf qu'ils ont des connaissances spécialisées dans tout ce qui concerne la Semaine 101 et qu'ils relèvent du coordonnateur de la Semaine 101.
+            align: left
+            image: images/hardhat/darkblue.png
             image_alt: Feature 1 placeholder image
             image_position: left
 
