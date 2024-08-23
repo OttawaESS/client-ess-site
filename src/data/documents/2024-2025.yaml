@@ -9,6 +9,9 @@ en:
         - label: June Meeting
           path: documents/2024-2025/bod/2.June2024-bod-EN.pdf
           date: '2024-06-23'
+        - label: July Meeting
+          path: documents/2024-2025/bod/3.July2024-bod-EN.pdf
+          date: '2024-07-14'
 
     # - type: Officer Meetings
     #   files:
@@ -26,6 +29,9 @@ fr:
         - label: Réunion de juin
           path: documents/2024-2025/bod/2.June2024-bod-FR.pdf
           date: '2024-06-23'
+        - label: Réunion de juillet
+          path: documents/2024-2025/bod/3.July2024-bod-FR.pdf
+          date: '2024-07-14'
     
     # - type: Réunions
     #   files:
