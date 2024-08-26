@@ -13,6 +13,7 @@
       {
         "label": "About",
         "url": "/about",
+        "style": "disabled",
         "sub_links": [
           {
             "label": "Who We Are",
@@ -39,6 +40,7 @@
       {
         "label": "Resources",
         "url": "/resources",
+        "style": "disabled",
         "sub_links": [
           {
             "label": "Scholarships and Careers",
@@ -76,6 +78,7 @@
       {
         "label": "Events",
         "url": "/events",
+        "style": "disabled",
         "sub_links": [
           {
             "label": "Competitions",
