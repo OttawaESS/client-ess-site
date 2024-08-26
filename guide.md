@@ -13,20 +13,20 @@ $primary-color-dark-variant:   #270059 !default;
 ## 2. Page Map
 
 - **Homepage:** `src/pages/index.md`
-- **About:** `src/pages/about/index.md`
+- **About:** 
   - **Who Are We:** `src/pages/about/who-are-we.md`
   - **Our Team:** `src/pages/about/team.md`
   - **Join Our Team:** `src/pages/about/join-our-team.md`
   - **Affiliated Groups:** `src/pages/about/affiliated-groups.md`
   - **Traditions:** `src/pages/about/traditions.md`
-- **Resources**: `src/pages/resources/index.md`
+- **Resources**
   - **Important Documents:** `src/pages/resources/important-documents.md`
   - **Scholarships and Careers:** `src/pages/resources/scholarships-and-careers.md`
   - **Accessibility:** `src/pages/resources/accessibility.md`
   - **Initiatives and Support:** `src/pages/resources/initiatives-and-school-support.md`
   - **Incident Reports:** `src/pages/resources/incident-reports.md`
 - **Services:** `src/pages/services.md`
-- **Events:** `src/pages/events.md`
+- **Events:** 
   - **Upcoming and Recurring**: `src/pages/events/upcoming-and-recurring`
   - **Conferences**: `src/pages/events/conferences`
   - **Competitions**: `src/pages/events/competitions`
