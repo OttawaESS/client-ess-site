@@ -13,11 +13,11 @@ en:
 
          #### Schedule
 
-         Stay tuned for the 101 Week 2024 schedule!
+      #   Stay tuned for the 101 Week 2024 schedule!
       
-      # - type: image_section
-      #   title: Schedule
-      #   image: images/Frosh-Schedule.PNG
+      - type: image_section
+        title: Schedule
+        image: images/101week/schedule/101english.png
 
       - type: EventsSection101
         title: Events
@@ -154,11 +154,11 @@ fr:
 
          #### Programme
 
-         Restez à l’écoute pour le calendrier de la semaine 101 2024! 
+      # Restez à l’écoute pour le calendrier de la semaine 101 2024! 
 
-      # - type: image_section
-      #   title: Programme
-      #   image: images/Frosh-Schedule.PNG
+      - type: image_section
+        title: Programme
+        image: images/101week/schedule/101french.png
 
       - type: EventsSection101
         title: Evénements
