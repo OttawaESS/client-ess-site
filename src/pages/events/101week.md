@@ -240,7 +240,7 @@ fr:
               ∗∗Une pièce d’identité valide du gouvernement doit être présentée lors de l’enregistrement pour recevoir un bracelet pour participer à des événements de 18+ et à des lieux où de l’alcool peut être présent
 
           - content: |-
-              <embed src="/images/101week/contracts/contractenglish.pdf" style="width:100%;height:500px;" type="application/pdf">
+              <embed src="/images/101week/contracts/contractfrench.pdf" style="width:100%;height:500px;" type="application/pdf">
           - content: |-
               ### Étape 3
     
