@@ -91,6 +91,13 @@ en:
 
               ∗For those under the age of 18 (As of 1 September 2024), a legal parent/Guardian must also sign the waiver and contract alongside the participating student for reasons of liability.
               ∗∗A valid government-issued ID is required to be presented at check-in to receive a bracelet to participate in 18+ events and venues where alcohol may be present.
+
+          - content: |-
+              <embed src="images/101week/contracts/contractenglish.pdf" style="width:100%;height:500px;" type="application/pdf">
+          - content: |-
+              ### Step 3
+    
+              Read the UOSU 101er contract prior to picking up your kit.
         grid_cols: two
         grid_gap_horiz: large
         grid_gap_vert: small
@@ -231,6 +238,13 @@ fr:
 
               ∗Pour ceux et celles qui ont moins de 18 ans (à partir du 1 septembre 2024), un parent/responsable légal doit aussi signer la dérogation et le contrat avec l’étudiant participant pour des raisons de responsabilité. 
               ∗∗Une pièce d’identité valide du gouvernement doit être présentée lors de l’enregistrement pour recevoir un bracelet pour participer à des événements de 18+ et à des lieux où de l’alcool peut être présent
+
+          - content: |-
+              <embed src="images/101week/contracts/contractenglish.pdf" style="width:100%;height:500px;" type="application/pdf">
+          - content: |-
+              ### Étape 3
+    
+              Veuillez lire le contrat des étudiants 101 du SÉUO avant aller prendre vos kits.
         grid_cols: two
         grid_gap_horiz: large
         grid_gap_vert: small
