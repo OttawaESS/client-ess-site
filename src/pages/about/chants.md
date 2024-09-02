@@ -2,7 +2,7 @@
 title: Chants
 
 en: 
-   sections: 
+  sections: 
       - type: page_title
         title: Chants
 
@@ -496,206 +496,179 @@ en:
         background_color: gray
 
 fr: 
-   sections:
+  sections:
+      - type: content_section
+          content: >-
+            ### Comment on fait/How we get down
+
+            Guide: “Hey Franco engineers” <br>
+            101er: “Hé quoi” <br>
+            Guide: “Hey Franco engineers” <br>
+            101er: “Hé quoi” <br>
+            Guide: “Montrez-nous comme vous faites” <br>
+            101er:  “Chais pas”<br>
+            Guide: “Montrez-nous comme vous faites” <br>
+            101er: “Okay”
+
+      - type: content_section
+          content: >-
+            ### Réponse des ingénieurs francophones
+
+            On sait que "poisson" c'est pas le même que "poison"<br>
+            On parle français avec beaucoup’ fierté<br>
+            Et c’est comme ça qu’on fait!
+
+      - type: content_section
+          content: >-
+            ### Godiva’s Hymn
+
+            Nous sommes, nous sommes, nous sommes, nous sommes les ingénieurs français <br>
+            Quand on a fini de boire la bière, on sort le Beaujolais <br>
+            On boit sans fin, on fait la fête et tout le monde nous adore <br>
+            Rien de mieux que la langue française pour stimuler un corps. <br>
+
+
+      - type: content_section
+          content: >-
+            ### uOttawa
+
+            Si j'avais les ailes d'un moineau<br>
+            Et le gros cul gras d'un corbeau<br>
+            Je survolerais Carleton demain<br>
+            Et chierais sur ces bâtards en bas, en bas<br>
+            Merde, merde,<br>
+            Je chierais’ ces bâtards en bas, en bas<br>
+            Merde, merde, <br>
+            Merde à ces bâtards en bas
+
+
+      - type: content_section
+          content: >-
+            ### Carleton, où t'es? (Papaoutai)
+
+            Dites-moi d'où il vient<br>
+            Enfin je saurai où je vais<br>
+            Prof dit que lorsqu'on cherche bien<br>
+            On finit toujours par trouver<br>
+            Il dit qu'ils ne sont jamais très loin<br>
+            Qu'ils partent très souvent travailler<br>
+            Prof dit "Travailler c'est bien"<br>
+            Bien mieux qu'être mal accompagné<br>
+            Pas vrai?<br>
+            Où est ton diplôme?<br>
+            Dis-moi, où est ton diplôme?<br>
+            Sans même devoir lui parler<br>
+            Il sait ce que’ va pas<br>
+            Ah sacré Carleton<br>
+            Dis-moi où es-tu caché?<br>
+            Ça doit faire au moins mille fois<br>
+            Que t’as perdu ton bague<br><br>
+
+            Hé<br>
+            Où t'es? Carleton, où t'es?<br>
+            Où t'es? Carleton, où t'es?<br>
+            Où t'es? Carleton, où t'es?<br>
+            Où t'es? Où t'es? Où Carleton, où t'es?<br>
+            Où t'es? Carleton, où t'es?<br>
+            Où t'es? Carleton, où t'es?<br>
+            Où t'es? Carleton, où t'es?<br>
+            Où t'es? Où t'es? Où Carleton, où t'es?<br><br>
+
+            Dites-moi d'où il vient<br>
+            Enfin je saurai où je vais<br>
+            Mes amis disent que lorsqu'on cherche bien<br>
+            On finit toujours par trouver<br>
+            Ils disent qu'ils ne parlent pas français<br>
+            Qu'ils sont très souvent dépassés<br>
+            Amis disent "Étudier c'est bien"<br>
+            Bien mieux qu'être mal programmé<br>
+            Pas vrai?<br>
+            Où est ton français?<br>
+            Dis-moi, où est ton français?<br>
+            Sans même devoir leur parler<br>
+            Ils savent qu'ils ne l'ont pas<br>
+            Ah sacré Carleton<br>
+            Dis-moi où es-tu caché?<br>
+            on chante déjà des mille fois<br>
+            Et vous ne comprenez pas <br><br>
+
+            Hé<br>
+            Où t'es? Carleton, où t'es?<br>
+            Où t'es? Carleton, où t'es?<br>
+            Où t'es? Carleton, où t'es?<br>
+            Où t'es? Où t'es? Où Carleton, où t'es?<br>
+            Où t'es? Carleton, où t'es?<br>
+            Où t'es? Carleton, où t'es?<br>
+            Où t'es? Carleton, où t'es?<br>
+            Où t'es? Où t'es? Où Carleton, où t'es?<br><br>
+
+            #### Short Version
+
+            Où est ton diplôme?<br>
+            Dis-moi, où est ton diplôme?<br>
+            Sans même devoir lui parler<br>
+            Il sait ce que’ va pas<br>
+            Ah sacré Carleton<br>
+            Dis-moi où es-tu caché?<br>
+            Ça doit faire au moins mille fois<br>
+            Que t’as perdu ton bague<br><br>
+
+            Où est ton français?<br>
+            Dis-moi, où est ton français?<br>
+            Sans même devoir leur parler<br>
+            Ils savent qu'ils ne l'ont pas<br>
+            Ah sacré Carleton<br>
+            Dis-moi où es-tu caché?<br>
+            on chante déjà des mille fois<br>
+            Et vous ne comprenez pas
+
         - type: content_section
-            content: >-
-              ### Comment on fait/How we get down
+          content: >-
+            ### C’est nous les ingénieurs (Caillou)
 
-              Guide: “Hey Franco engineers” <br>
-              101er: “Hé quoi” <br>
-              Guide: “Hey Franco engineers” <br>
-              101er: “Hé quoi” <br>
-              Guide: “Montrez-nous comme vous faites” <br>
-              101er:  “Chais pas”<br>
-              Guide: “Montrez-nous comme vous faites” <br>
-              101er: “Okay”
+            C’est nous les ingénieurs,<br>
+            Pas des sacrés peintres,<br>
+            Nous travaillons pour vrai,<br>
+            Pas comme Telfer.<br><br>
 
-        - type: content_section
-            content: >-
-              ### Réponse des ingénieurs francophones
+            Les gens veulent être comme nous,<br>
+            Mais ce n’est pas pour n’importe quel fou,<br>
+            La vague est très exclusive,<br>
+            Notre savoir est massif.<br><br>
 
-              On sait que "poisson" c'est pas le même que "poison"<br>
-              On parle français avec beaucoup’ fierté<br>
-              Et c’est comme ça qu’on fait!
+            On maîtrise les chiffres et les schémas,<br>
+            Avec précision et sang-froid,<br><br>
 
-        - type: content_section
-            content: >-
-              ### Godiva’s Hymn
+            Les gens veulent être comme nous,<br>
+            Mais ce n’est pas pour n’importe quel fou,<br>
+            La vague est très exclusive,<br>
+            Notre savoir est massif.<br><br>
 
-              Nous sommes, nous sommes, nous sommes, nous sommes les ingénieurs français <br>
-              Quand on a fini de boire la bière, on sort le Beaujolais <br>
-              On boit sans fin, on fait la fête et tout le monde nous adore <br>
-              Rien de mieux que la langue française pour stimuler un corps. <br>
-
+            Génie,<br>
+            Génie,<br>
+            Génie,<br>
+            Génie, <br>
+            C’est nous! <br><br>
 
         - type: content_section
-            content: >-
-              ### uOttawa
+          content: >-
 
-              Si j'avais les ailes d'un moineau<br>
-              Et le gros cul gras d'un corbeau<br>
-              Je survolerais Carleton demain<br>
-              Et chierais sur ces bâtards en bas, en bas<br>
-              Merde, merde,<br>
-              Je chierais’ ces bâtards en bas, en bas<br>
-              Merde, merde, <br>
-              Merde à ces bâtards en bas
+          (In french)<br>
+          O-T-T-A-W-A c’est où ça, c’est nous ça <br>
+          O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
 
+          Guide: Double time <br>
+          O-T-T-A-W-A c’est où ça, c’est nous ça <br>
+          O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
 
-        - type: content_section
-            content: >-
-              ### Carleton, où t'es? (Papaoutai)
+          Guide: Sexy time<br>
+          O-T-T-A-W-A c’est où ça, c’est nous ça <br>
+          O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
 
-              Dites-moi d'où il vient<br>
-              Enfin je saurai où je vais<br>
-              Prof dit que lorsqu'on cherche bien<br>
-              On finit toujours par trouver<br>
-              Il dit qu'ils ne sont jamais très loin<br>
-              Qu'ils partent très souvent travailler<br>
-              Prof dit "Travailler c'est bien"<br>
-              Bien mieux qu'être mal accompagné<br>
-              Pas vrai?<br>
-              Où est ton diplôme?<br>
-              Dis-moi, où est ton diplôme?<br>
-              Sans même devoir lui parler<br>
-              Il sait ce que’ va pas<br>
-              Ah sacré Carleton<br>
-              Dis-moi où es-tu caché?<br>
-              Ça doit faire au moins mille fois<br>
-              Que t’as perdu ton bague<br><br>
+          Guide: Anglophone time<br>
+          (In English)<br>
+          O-T-T-A-W-A where is that, we are that<br>
+          O-T-T-A-W-A where is that, we are that<br><br>
 
-              Hé<br>
-              Où t'es? Carleton, où t'es?<br>
-              Où t'es? Carleton, où t'es?<br>
-              Où t'es? Carleton, où t'es?<br>
-              Où t'es? Où t'es? Où Carleton, où t'es?<br>
-              Où t'es? Carleton, où t'es?<br>
-              Où t'es? Carleton, où t'es?<br>
-              Où t'es? Carleton, où t'es?<br>
-              Où t'es? Où t'es? Où Carleton, où t'es?<br><br>
-
-              Dites-moi d'où il vient<br>
-              Enfin je saurai où je vais<br>
-              Mes amis disent que lorsqu'on cherche bien<br>
-              On finit toujours par trouver<br>
-              Ils disent qu'ils ne parlent pas français<br>
-              Qu'ils sont très souvent dépassés<br>
-              Amis disent "Étudier c'est bien"<br>
-              Bien mieux qu'être mal programmé<br>
-              Pas vrai?<br>
-              Où est ton français?<br>
-              Dis-moi, où est ton français?<br>
-              Sans même devoir leur parler<br>
-              Ils savent qu'ils ne l'ont pas<br>
-              Ah sacré Carleton<br>
-              Dis-moi où es-tu caché?<br>
-              on chante déjà des mille fois<br>
-              Et vous ne comprenez pas <br><br>
-
-              Hé<br>
-              Où t'es? Carleton, où t'es?<br>
-              Où t'es? Carleton, où t'es?<br>
-              Où t'es? Carleton, où t'es?<br>
-              Où t'es? Où t'es? Où Carleton, où t'es?<br>
-              Où t'es? Carleton, où t'es?<br>
-              Où t'es? Carleton, où t'es?<br>
-              Où t'es? Carleton, où t'es?<br>
-              Où t'es? Où t'es? Où Carleton, où t'es?<br><br>
-
-              #### Short Version
-
-              Où est ton diplôme?<br>
-              Dis-moi, où est ton diplôme?<br>
-              Sans même devoir lui parler<br>
-              Il sait ce que’ va pas<br>
-              Ah sacré Carleton<br>
-              Dis-moi où es-tu caché?<br>
-              Ça doit faire au moins mille fois<br>
-              Que t’as perdu ton bague<br><br>
-
-              Où est ton français?<br>
-              Dis-moi, où est ton français?<br>
-              Sans même devoir leur parler<br>
-              Ils savent qu'ils ne l'ont pas<br>
-              Ah sacré Carleton<br>
-              Dis-moi où es-tu caché?<br>
-              on chante déjà des mille fois<br>
-              Et vous ne comprenez pas
-
-          - type: content_section
-            content: >-
-              ### C’est nous les ingénieurs (Caillou)
-
-              C’est nous les ingénieurs,<br>
-              Pas des sacrés peintres,<br>
-              Nous travaillons pour vrai,<br>
-              Pas comme Telfer.<br><br>
-
-              Les gens veulent être comme nous,<br>
-              Mais ce n’est pas pour n’importe quel fou,<br>
-              La vague est très exclusive,<br>
-              Notre savoir est massif.<br><br>
-
-              On maîtrise les chiffres et les schémas,<br>
-              Avec précision et sang-froid,<br><br>
-
-              Les gens veulent être comme nous,<br>
-              Mais ce n’est pas pour n’importe quel fou,<br>
-              La vague est très exclusive,<br>
-              Notre savoir est massif.<br><br>
-
-              Génie,<br>
-              Génie,<br>
-              Génie,<br>
-              Génie, <br>
-              C’est nous! <br><br>
-
-          - type: content_section
-            content: >-
-
-            (In french)<br>
-            O-T-T-A-W-A c’est où ça, c’est nous ça <br>
-            O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
-
-            Guide: Double time <br>
-            O-T-T-A-W-A c’est où ça, c’est nous ça <br>
-            O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
-
-            Guide: Sexy time<br>
-            O-T-T-A-W-A c’est où ça, c’est nous ça <br>
-            O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
-
-            Guide: Anglophone time<br>
-            (In English)<br>
-            O-T-T-A-W-A where is that, we are that<br>
-            O-T-T-A-W-A where is that, we are that<br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
 
 template: advanced
