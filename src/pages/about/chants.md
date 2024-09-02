@@ -622,8 +622,8 @@ fr:
             on chante déjà des mille fois<br>
             Et vous ne comprenez pas
 
-        - type: content_section
-          content: >-
+      - type: content_section
+        content: >-
             ### C’est nous les ingénieurs (Caillou)
 
             C’est nous les ingénieurs,<br>
@@ -650,8 +650,8 @@ fr:
             Génie, <br>
             C’est nous! <br><br>
 
-        - type: content_section
-          content: >-
+      - type: content_section
+        content: >-
             (In french)<br>
             O-T-T-A-W-A c’est où ça, c’est nous ça <br>
             O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
