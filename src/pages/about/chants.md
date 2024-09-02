@@ -42,7 +42,7 @@ en:
             Godiva was a lady well-endowed, there was no doubt.<br>
             She never wore a stitch of clothes, just wound her hair about.<br>
             The first man who ever made her was an Engineer of course,<br>
-            But on just one drink, an Artsie fink once made Godiva's horse.<br><br>
+            But on just one drink, an Artsie fink once made Godiva's horse.<br>
 
             ### Godiva’s Hymn Substitutes
 
@@ -264,60 +264,68 @@ en:
 
       - type: content_section
         content: >-
-          ### General Eng 101 Week
+          ### General Eng 101 Week<br>
 
-          Guide: “Couldn’t get an 80?”
-          101er: “69 is better”
+          Guide: “Couldn’t get an 80?”<br>
+          101er: “69 is better”<br>
           (Repeats)
 
+      - type: content_section
+        content: >-
           Chem Eng, Best Eng
 
-          Others: Hey Civil, your hardhats are ugly
+      - type: content_section
+        content: >-
+          Others: Hey Civil, your hardhats are ugly<br>
           Civil: Fuck you
 
-          My computer’s not working
+      - type: content_section
+        content: >-
+          My computer’s not working<br>
           EECS: Plug it in, plug it in (Thrusts)
 
-          Guide: Shine Day
-          101ers: Tuesday
-          Guide: Tuesday
+      - type: content_section
+        content: >-
+          Guide: Shine Day<br>
+          101ers: Tuesday<br>
+          Guide: Tuesday<br>
           101ers: Shine Day
 
       - type: content_section
         content: >-
           ### Nurses
-          Engineers: 
-          1. We love our nurses. 
-          2. We think they’re sexy. 
-          3. We want their loving. 
-          4. More more more more
+          Engineers:<br>
+          1. We love our nurses. <br>
+          2. We think they’re sexy. <br>
+          3. We want their loving. <br>
+          4. More more more more<br><br>
           
-          Nurses:      
-          1. We love their hard hats. 
-          2. We think they’re sexy. 
-          3. We wanna tap them. 
-          4. More more more more
-          (Repeats)
+          Nurses:<br>
+          1. We love their hard hats. <br>
+          2. We think they’re sexy. <br>
+          3. We wanna tap them. <br>
+          4. More more more more<br>
+          (Repeats)<br><br>
 
-          Hey Nurses?
-          Hey What!
-          Hey Nurses!
-          Hey What?
-          Do you know how? *clap clap*
-          To rock and roll? *clap clap*
-          With your hands up high and your feet down low
-          That’s the way we rock and roll
-          Rock and roll, rock rock and roll
-          Rock and roll, rock rock and roll
+          Hey Nurses?<br>
+          Hey What!<br>
+          Hey Nurses!<br>
+          Hey What?<br>
+          Do you know how? *clap clap*<br>
+          To rock and roll? *clap clap*<br>
+          With your hands up high and your feet down low<br>
+          That’s the way we rock and roll<br>
+          Rock and roll, rock rock and roll<br>
+          Rock and roll, rock rock and roll<br><br>
 
-          Hey Nurses?
-          Hey What!
-          Show me how you get down!
-          No Way!
-          Show me how you get down!
-          OK!
-          D-O-W-N that’s the way we get down
-          D-O-W-N that’s the way we get down
+          Hey Nurses?<br>
+          Hey What!<br>
+          Show me how you get down!<br>
+          No Way!<br>
+          Show me how you get down!<br>
+          OK!<br>
+          D-O-W-N that’s the way we get down<br>
+          D-O-W-N that’s the way we get down<br>
 
       - type: grid_section
         title: 
@@ -325,38 +333,38 @@ en:
           - content: |-
               ### Buffalo
 
-              Guide: “How do you spell Buffalo?”
+              Guide: “How do you spell Buffalo?”<br>
               101er: “B-U-F-F-A-L-O, that’s how you spell buffalo”
 
           - content: |-
               ### Pole Splitters
 
-              Pole splitters, no quitters
+              Pole splitters, no quitters<br>
 
-              Show me your poles 
+              Show me your poles<br>
               Now split em
 
 
           - content: |-
               ### Love Pump
 
+              Love pump, pump love<br>
+
+              Pump pump pump it up, pump that love, love that pump<br>
+
+              OR<br>
+
+              Love pump is our team, we are your day-dream, we’ll fuck you in between, so let me hear you scream<br>
+
               Love pump, pump love
-
-                Pump pump pump it up, pump that love, love that pump
-
-                OR
-
-                Love pump is our team, we are your day-dream, we’ll fuck you in between, so let me hear you scream
-
-                Love pump, pump love
 
 
           - content: |-
               ### Otis Outlaws
 
-              Let me see your O face. O.. O..O
-              Sexy Time
-              Triple Time.
+              Let me see your O face. O.. O..O<br>
+              Sexy Time<br>
+              Triple Time.<br>
 
               Otits Otits Otits Otits… (Olay tune)
 
@@ -364,27 +372,27 @@ en:
           - content: |-
               ### Pound Force (Lbf)
 
-              Guide: “What the fuck is pound-force?”
-              101er: “L is love, B is beer, F is fuck shit up,
-              L is love, B is beer, F is fuck shit up,
-              Love, Beer, Fuck shit up,
-              Love, Beer, Fuck shit up,
-              Love, Beer, Fuck shit up,
-              Wooooooooo!”
+              Guide: “What the fuck is pound-force?”<br>
+              101er: “L is love, B is beer, F is fuck shit up,<br>
+              L is love, B is beer, F is fuck shit up,<br>
+              Love, Beer, Fuck shit up,<br>
+              Love, Beer, Fuck shit up,<br>
+              Love, Beer, Fuck shit up,<br>
+              Wooooooooo!”<br><br>
 
-              Pound force, pound force we don't play. All we do is pound all day!
+              Pound force, pound force we don't play. All we do is pound all day!<br><br>
 
-              1 Person: Work
-              Everyone: Hard
-              1 Person:Pound
-              EveryoneHarder
+              1 Person: Work<br>
+              Everyone: Hard<br>
+              1 Person:Pound<br>
+              EveryoneHarder<br>
 
           - content: |-
               ### Two Stroke
 
-              Suck, squeeze, bang, blow, 2Stroke, 2Stroke
+              Suck, squeeze, bang, blow, 2Stroke, 2Stroke<br>
 
-              2 Strokes is all that we can do but we’ll always have it up for you. 2 Stroke, 2 Stroke
+              2 Strokes is all that we can do but we’ll always have it up for you. 2 Stroke, 2 Stroke<br>
         
         grid_cols: three
         grid_gap_horiz: large
