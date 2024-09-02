@@ -217,7 +217,7 @@ en:
             Now you've heard our story and you know we're Engineers,<br>
             We love to hate our problem sets, we love to drink our beers.<br>
             We drink to every person who comes here from far and near,<br>
-            'Cause we're a HELL-OF-A, HELL-OF-A, HELL-OF-A, HELL-OF-A, HELL-OF-AN-ENGINEER!!!<br>
+            'Cause we're a HELL-OF-A, HELL-OF-A, HELL-OF-A, HELL-OF-A, HELL-OF-AN-ENGINEER!!!
 
       - type: content_section
         content: >-
@@ -268,21 +268,15 @@ en:
 
           Guide: “Couldn’t get an 80?”<br>
           101er: “69 is better”<br>
-          (Repeats)
+          (Repeats)<br><br>
 
-      - type: content_section
-        content: >-
-          Chem Eng, Best Eng
+          Chem Eng, Best Eng<br><br>
 
-      - type: content_section
-        content: >-
           Others: Hey Civil, your hardhats are ugly<br>
-          Civil: Fuck you
+          Civil: Fuck you<br><br>
 
-      - type: content_section
-        content: >-
           My computer’s not working<br>
-          EECS: Plug it in, plug it in (Thrusts)
+          EECS: Plug it in, plug it in (Thrusts)<br><br>
 
       - type: content_section
         content: >-
@@ -294,6 +288,7 @@ en:
       - type: content_section
         content: >-
           ### Nurses
+
           Engineers:<br>
           1. We love our nurses. <br>
           2. We think they’re sexy. <br>
@@ -344,6 +339,14 @@ en:
               Show me your poles<br>
               Now split em
 
+          - content: |-
+              ### Otis Outlaws
+
+              Let me see your O face. O.. O..O<br>
+              Sexy Time<br>
+              Triple Time.<br>
+
+              Otits Otits Otits Otits… (Olay tune)
 
           - content: |-
               ### Love Pump
@@ -357,17 +360,6 @@ en:
               Love pump is our team, we are your day-dream, we’ll fuck you in between, so let me hear you scream<br>
 
               Love pump, pump love
-
-
-          - content: |-
-              ### Otis Outlaws
-
-              Let me see your O face. O.. O..O<br>
-              Sexy Time<br>
-              Triple Time.<br>
-
-              Otits Otits Otits Otits… (Olay tune)
-
 
           - content: |-
               ### Pound Force (Lbf)
