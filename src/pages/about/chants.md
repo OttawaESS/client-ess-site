@@ -497,6 +497,9 @@ en:
 
 fr: 
   sections:
+      - type: page_title
+        title: Chants
+
       - type: content_section
         content: >-
             ### Comment on fait/How we get down
@@ -648,7 +651,7 @@ fr:
             Génie,<br>
             Génie,<br>
             Génie, <br>
-            C’est nous! <br><br>
+            C’est nous!
 
       - type: content_section
         content: >-
