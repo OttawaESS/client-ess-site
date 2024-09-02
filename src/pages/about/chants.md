@@ -498,7 +498,7 @@ en:
 fr: 
   sections:
       - type: content_section
-          content: >-
+        content: >-
             ### Comment on fait/How we get down
 
             Guide: “Hey Franco engineers” <br>
@@ -511,7 +511,7 @@ fr:
             101er: “Okay”
 
       - type: content_section
-          content: >-
+        content: >-
             ### Réponse des ingénieurs francophones
 
             On sait que "poisson" c'est pas le même que "poison"<br>
@@ -519,7 +519,7 @@ fr:
             Et c’est comme ça qu’on fait!
 
       - type: content_section
-          content: >-
+        content: >-
             ### Godiva’s Hymn
 
             Nous sommes, nous sommes, nous sommes, nous sommes les ingénieurs français <br>
@@ -529,7 +529,7 @@ fr:
 
 
       - type: content_section
-          content: >-
+        content: >-
             ### uOttawa
 
             Si j'avais les ailes d'un moineau<br>
@@ -543,7 +543,7 @@ fr:
 
 
       - type: content_section
-          content: >-
+        content: >-
             ### Carleton, où t'es? (Papaoutai)
 
             Dites-moi d'où il vient<br>
@@ -652,23 +652,22 @@ fr:
 
         - type: content_section
           content: >-
+            (In french)<br>
+            O-T-T-A-W-A c’est où ça, c’est nous ça <br>
+            O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
 
-          (In french)<br>
-          O-T-T-A-W-A c’est où ça, c’est nous ça <br>
-          O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
+            Guide: Double time <br>
+            O-T-T-A-W-A c’est où ça, c’est nous ça <br>
+            O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
 
-          Guide: Double time <br>
-          O-T-T-A-W-A c’est où ça, c’est nous ça <br>
-          O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
+            Guide: Sexy time<br>
+            O-T-T-A-W-A c’est où ça, c’est nous ça <br>
+            O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
 
-          Guide: Sexy time<br>
-          O-T-T-A-W-A c’est où ça, c’est nous ça <br>
-          O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
-
-          Guide: Anglophone time<br>
-          (In English)<br>
-          O-T-T-A-W-A where is that, we are that<br>
-          O-T-T-A-W-A where is that, we are that<br><br>
+            Guide: Anglophone time<br>
+            (In English)<br>
+            O-T-T-A-W-A where is that, we are that<br>
+            O-T-T-A-W-A where is that, we are that<br><br>
 
 
 template: advanced
