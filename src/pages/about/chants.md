@@ -278,12 +278,113 @@ en:
           My computer’s not working<br>
           EECS: Plug it in, plug it in (Thrusts)<br><br>
 
+          Ottawa U is Hot to Go<br>
+          H-O-T T-O G-O<br>
+          A-woo Hot to go<br>
+          A-woo Hot to go<br><br>
+
+          Guide: “What the fucks a Gee Gee?”<br>
+          101er: “A horse with a cock this big”<br>
+          Guide: “what the fucks a raven”<br>
+          101er: “A bird with an asshole this big”<br>
+          Guide: “How’d it get like that”<br>
+          101er: “ What do you think”<br><br>
+
+          I’m an asshole,<br>
+          I’m an asshole,<br>
+          I’m an asshole through and through,<br>
+          But I’d rather be an asshole than to go to Carleton U<br><br>
+
+          You’re in science,<br>
+          You’re in science,<br>
+          You’re in science, who knows why,<br>
+          Cause the science knows the theory while the engineers apply (Thrust)<br><br>
+
+          You’re an artsie,<br>
+          You’re an artsie,<br>
+          You’re an artsie overjoy,<br>
+          But you’ll always be an artsie cause you’ll never be employed<br>
+          Art Art Art Art<br><br>
+
+          Fuck you, Carleton U<br><br>
+
+          If I had the wings of a sparrow<br>
+          And the budgey fat ass of a crow<br>
+          I’d fly over Carleton tomorrow<br>
+          And shit on those bastards below, below<br>
+          Shit on, shit on,<br>
+          Shit on those bastards below, below<br>
+          Shit on, shit on,<br>
+          Shit on those bastards below<br><br>
+
       - type: content_section
         content: >-
           Guide: Shine Day<br>
           101ers: Tuesday<br>
           Guide: Tuesday<br>
           101ers: Shine Day
+
+      - type: content_section
+        content: >-
+          ### Drill Sergeant
+
+          Call and Repeat<br><br>
+
+          I don't know what I've been told,<br>
+          Give me something nice and cold,<br>
+          How 'bout 40 cold free beers,<br>
+          Because we are the engineers!<br><br>
+
+          I don't know what I've been told,<br>
+          Half my prof's are way too old,<br>
+          So I've been drinking beer all day,<br>
+          Say goodbye to my GPA!<br><br>
+
+          I don't know what I've been told,<br>
+          This much knowledge I can't hold,<br>
+          My GPA was killing me,<br>
+          C's and D's got my degree!<br><br>
+
+          I don't know what I've been told,<br>
+          Colonel By is full of mold,<br>
+          I may be a Gee-Gee,<br>
+          But SITE's the only place for me!<br><br>
+
+          I met an artsie weeks ago,<br>
+          He asked if my food was to go,<br>
+          His four years went down the drain,<br>
+          The engineers will make it rain!<br><br>
+
+          I don't know what I've been told,<br>
+          Engineers rule the world,<br>
+          Demolishing 40 beers,<br>
+          No fucking problem for engineers!<br><br>
+
+          We've been traveling oh so far,<br>
+          Still haven't found a single bar,<br>
+          We are lost but that's okay,<br>
+          The bus driver knows we're here to stay!<br><br>
+
+          Late at night I'm still not done,<br>
+          I'm thinking I'm starting to see the Sun,<br>
+          The last all-nighter of the year,<br>
+          But that's ok cause we're engineers!<br><br>
+
+          I don't know what I've been told,<br>
+          Scientists are way too bold,<br>
+          They say they're rich, they're hypocrites,<br>
+          Cause their degrees aren't worth 2 shits!
+
+      - type: content_section
+        content: >-
+          ### SPONGEBOB
+
+          OOOOOOOOOHHHHHHHHHHHHHHHHHHHHH<br>
+          Who lives with a GPA under a C... ENGINEERING<br>
+          Who skips all their classes and gets a degree... ENGINEERING<br>
+          If getting a ring is something you dream... ENGINEERING<br>
+          So put on your covies and let out a scream<br>
+          ENGINEERING, ENGINEERING, ENGINEERING, ENGINEERS RULE THE WORLD
 
       - type: content_section
         content: >-
@@ -394,96 +495,207 @@ en:
         has_background: true
         background_color: gray
 
-
-
-
-
-
-
-
-
-
-
-
-
 fr: 
    sections:
-      - type: page_title
-        title: Traditions des Ingénieur.s.es
-        
-      - type: TraditionSection
-        title: Hardhats
-        traditions:
-          - title: Blanc
+        - type: content_section
             content: >-
-               Ils sont les exécutifs de l'AEG. Ces hommes et femmes sont responsables d'assurer que votre année est fantastique en organisant des événements pendant l'année et vous fournir un réseau social hors campus et sur campus. Ce n'est pas facile, car is le font pendant qu'ils réussissent dans leurs cours en maintenant un air d'ivresse. Ils méritent du respect et de la gratitude à un niveau maximal. 
-            align: left
-            image: images/hardhat/white.png
-            image_alt: Feature 1 placeholder image
-            image_position: left
+              ### Comment on fait/How we get down
 
-          - title: Rouge
+              Guide: “Hey Franco engineers” <br>
+              101er: “Hé quoi” <br>
+              Guide: “Hey Franco engineers” <br>
+              101er: “Hé quoi” <br>
+              Guide: “Montrez-nous comme vous faites” <br>
+              101er:  “Chais pas”<br>
+              Guide: “Montrez-nous comme vous faites” <br>
+              101er: “Okay”
+
+        - type: content_section
             content: >-
-               Ceux-ci sont les Directeurs de la Société des Étudiants en ingénierie. Ils sont des individus spécialisés dans une zone qui soutient et aide les membres exécutifs dans l'achèvement de leurs rôles. Ils travaillent fort pour assurer chaque détail, peu importe son importance. Les Directeurs obtiennent le fantassin du travail, mais sont excellents à ce qu'ils font et ne devraient pas être négligés.
-            align: left
-            image: images/hardhat/red.png
-            image_alt: Feature 1 placeholder image
-            image_position: left
-          
-          - title: Bleu
+              ### Réponse des ingénieurs francophones
+
+              On sait que "poisson" c'est pas le même que "poison"<br>
+              On parle français avec beaucoup’ fierté<br>
+              Et c’est comme ça qu’on fait!
+
+        - type: content_section
             content: >-
-               Il n'y a qu'un seul casque bleu. Cette personne est le coordonnateur de la semaine 101 et a reçu une distinction spéciale pour ses services rendus à l'évènement le plus amusant 'année. Il mérite le même niveau de révérence que les casques blancs.
-            align: left
-            image: images/hardhat/lightblue.png
-            image_alt: Feature 1 placeholder image
-            image_position: left
+              ### Godiva’s Hymn
 
-          - title: Dark Blue
+              Nous sommes, nous sommes, nous sommes, nous sommes les ingénieurs français <br>
+              Quand on a fini de boire la bière, on sort le Beaujolais <br>
+              On boit sans fin, on fait la fête et tout le monde nous adore <br>
+              Rien de mieux que la langue française pour stimuler un corps. <br>
+
+
+        - type: content_section
             content: >-
-               Il s'agit des membres du comité de la semaine 101. Ils sont les maîtres d'œuvre de tous les événements et activités de la semaine. Ces chapeaux bleu foncé sont essentiels pour assurer le bon déroulement des activités. Ils sont comme vos guides habituels, sauf qu'ils ont des connaissances spécialisées dans tout ce qui concerne la Semaine 101 et qu'ils relèvent du coordonnateur de la Semaine 101.
-            align: left
-            image: images/hardhat/darkblue.png
-            image_alt: Feature 1 placeholder image
-            image_position: left
+              ### uOttawa
 
-          - title: Vert
+              Si j'avais les ailes d'un moineau<br>
+              Et le gros cul gras d'un corbeau<br>
+              Je survolerais Carleton demain<br>
+              Et chierais sur ces bâtards en bas, en bas<br>
+              Merde, merde,<br>
+              Je chierais’ ces bâtards en bas, en bas<br>
+              Merde, merde, <br>
+              Merde à ces bâtards en bas
+
+
+        - type: content_section
             content: >-
-               Pendant la semaine 101, ils sont vos guides-chefs. Après les exécutifs, ils sont responsables d'assurer que votre semaine est saine et sauve autant que super amusante. Demandez-leurs n'importe quoi et ils seront contents de vous aider. Tout ce qu'ils disent est la loi pour toute la semaine.
-            align: left
-            image: images/hardhat/green.png
-            image_alt: Feature 1 placeholder image
-            image_position: left
+              ### Carleton, où t'es? (Papaoutai)
 
-          - title: Violet
+              Dites-moi d'où il vient<br>
+              Enfin je saurai où je vais<br>
+              Prof dit que lorsqu'on cherche bien<br>
+              On finit toujours par trouver<br>
+              Il dit qu'ils ne sont jamais très loin<br>
+              Qu'ils partent très souvent travailler<br>
+              Prof dit "Travailler c'est bien"<br>
+              Bien mieux qu'être mal accompagné<br>
+              Pas vrai?<br>
+              Où est ton diplôme?<br>
+              Dis-moi, où est ton diplôme?<br>
+              Sans même devoir lui parler<br>
+              Il sait ce que’ va pas<br>
+              Ah sacré Carleton<br>
+              Dis-moi où es-tu caché?<br>
+              Ça doit faire au moins mille fois<br>
+              Que t’as perdu ton bague<br><br>
+
+              Hé<br>
+              Où t'es? Carleton, où t'es?<br>
+              Où t'es? Carleton, où t'es?<br>
+              Où t'es? Carleton, où t'es?<br>
+              Où t'es? Où t'es? Où Carleton, où t'es?<br>
+              Où t'es? Carleton, où t'es?<br>
+              Où t'es? Carleton, où t'es?<br>
+              Où t'es? Carleton, où t'es?<br>
+              Où t'es? Où t'es? Où Carleton, où t'es?<br><br>
+
+              Dites-moi d'où il vient<br>
+              Enfin je saurai où je vais<br>
+              Mes amis disent que lorsqu'on cherche bien<br>
+              On finit toujours par trouver<br>
+              Ils disent qu'ils ne parlent pas français<br>
+              Qu'ils sont très souvent dépassés<br>
+              Amis disent "Étudier c'est bien"<br>
+              Bien mieux qu'être mal programmé<br>
+              Pas vrai?<br>
+              Où est ton français?<br>
+              Dis-moi, où est ton français?<br>
+              Sans même devoir leur parler<br>
+              Ils savent qu'ils ne l'ont pas<br>
+              Ah sacré Carleton<br>
+              Dis-moi où es-tu caché?<br>
+              on chante déjà des mille fois<br>
+              Et vous ne comprenez pas <br><br>
+
+              Hé<br>
+              Où t'es? Carleton, où t'es?<br>
+              Où t'es? Carleton, où t'es?<br>
+              Où t'es? Carleton, où t'es?<br>
+              Où t'es? Où t'es? Où Carleton, où t'es?<br>
+              Où t'es? Carleton, où t'es?<br>
+              Où t'es? Carleton, où t'es?<br>
+              Où t'es? Carleton, où t'es?<br>
+              Où t'es? Où t'es? Où Carleton, où t'es?<br><br>
+
+              #### Short Version
+
+              Où est ton diplôme?<br>
+              Dis-moi, où est ton diplôme?<br>
+              Sans même devoir lui parler<br>
+              Il sait ce que’ va pas<br>
+              Ah sacré Carleton<br>
+              Dis-moi où es-tu caché?<br>
+              Ça doit faire au moins mille fois<br>
+              Que t’as perdu ton bague<br><br>
+
+              Où est ton français?<br>
+              Dis-moi, où est ton français?<br>
+              Sans même devoir leur parler<br>
+              Ils savent qu'ils ne l'ont pas<br>
+              Ah sacré Carleton<br>
+              Dis-moi où es-tu caché?<br>
+              on chante déjà des mille fois<br>
+              Et vous ne comprenez pas
+
+          - type: content_section
             content: >-
-               Ils sont vos guides. Ces pauvres esprits, ainsi que vos exécutifs et vos guides-chefs, s'abstiennent de l'alcool pour la semaine pour que vous ayez une semaine fantastique. Respectez ceux en violet; quand ils parlent, vous écoutez.
-            align: left
-            image: images/hardhat/purple.png
-            image_alt: Feature 1 placeholder image
-            image_position: left
+              ### C’est nous les ingénieurs (Caillou)
 
-          - title: Jaune
+              C’est nous les ingénieurs,<br>
+              Pas des sacrés peintres,<br>
+              Nous travaillons pour vrai,<br>
+              Pas comme Telfer.<br><br>
+
+              Les gens veulent être comme nous,<br>
+              Mais ce n’est pas pour n’importe quel fou,<br>
+              La vague est très exclusive,<br>
+              Notre savoir est massif.<br><br>
+
+              On maîtrise les chiffres et les schémas,<br>
+              Avec précision et sang-froid,<br><br>
+
+              Les gens veulent être comme nous,<br>
+              Mais ce n’est pas pour n’importe quel fou,<br>
+              La vague est très exclusive,<br>
+              Notre savoir est massif.<br><br>
+
+              Génie,<br>
+              Génie,<br>
+              Génie,<br>
+              Génie, <br>
+              C’est nous! <br><br>
+
+          - type: content_section
             content: >-
-               Les innocents sont faciles à voir en jaune. Mais soyez fiers de vos casques... Le jaune veut dire que vous n'êtes pas encore un étudiant expérimenté en génie! Étudiez fort et allez à beaucoup d'évènements et vous avancerez bientôt!
-            align: left
-            image: images/hardhat/yellow.png
-            image_alt: Feature 1 placeholder image
-            image_position: left
 
-      - type: TraditionSection
-        title: Otis le lapin
-        traditions:
-          - content: >-
-              Il y a longtemps, les Gardiens ont été assignés la tâche de trouver une mascotte qui représentera les étudiants de génie de l’université d’Ottawa de chaque génération. Après des disputes innombrables, ils se-sont finalement mis d'accord sur le lapin. Les lapins sont des symboles du succès, de la durabilité et de la survie uniquement grâce à leur masse besoin / capacité de procréer (en d’autres mots: ils ont beaucoup de sexe). À la surprise des Gardiens, après la capture de leur nouvelle mascotte ils ont réalisé qu'il n'était pas un lapin ordinaire. Il allait bientôt arriver à obtenir tous les quatre diplômes de génie en même temps, en fêtant plus fort que n'importe quel autre étudiant de l'université d'Ottawa. Son nom est Otis.
-              <br><br>
-              Qu’est-ce qu’il faut se souvenir d’Otis : <br>
-              Ils lui ont donné le nom de l’entreprise qui a construit les ascenseurs de CBY et la majorité des autres bâtiments à l’université. <br>
-              Il demeure dans CBY (c’est le Bunny Cave … shh) <br>
-              Habituellement, il est ivre quand il ne travaille pas; résultant dans son sobriquet le lapin intoxiqué. 
+            (In french)<br>
+            O-T-T-A-W-A c’est où ça, c’est nous ça <br>
+            O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
 
-            align: left
-            image: images/traditions/otis.png
-            image_alt: Feature 1 placeholder image
-            image_position: left
+            Guide: Double time <br>
+            O-T-T-A-W-A c’est où ça, c’est nous ça <br>
+            O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
+
+            Guide: Sexy time<br>
+            O-T-T-A-W-A c’est où ça, c’est nous ça <br>
+            O-T-T-A-W-A c’est où ça, c’est nous ça <br><br>
+
+            Guide: Anglophone time<br>
+            (In English)<br>
+            O-T-T-A-W-A where is that, we are that<br>
+            O-T-T-A-W-A where is that, we are that<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
 
 template: advanced
