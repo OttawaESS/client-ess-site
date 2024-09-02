@@ -19,6 +19,7 @@ $primary-color-dark-variant:   #270059 !default;
   - **Join Our Team:** `src/pages/about/join-our-team.md`
   - **Affiliated Groups:** `src/pages/about/affiliated-groups.md`
   - **Traditions:** `src/pages/about/traditions.md`
+  - **Chants:** `src/pages/about/chants.md`
 - **Resources**
   - **Important Documents:** `src/pages/resources/important-documents.md`
   - **Scholarships and Careers:** `src/pages/resources/scholarships-and-careers.md`
