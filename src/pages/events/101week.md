@@ -106,6 +106,12 @@ en:
         has_background: true
         background_color: gray
 
+      - type: content_section
+        content: |- 
+          <h1 style="text-align:center;">Handbook</h1>
+
+          <embed src="/images/101week/handbook2024.pdf" style="width:100%;height:500px;" type="application/pdf">
+
       - type: features_section
         title: Sponsors
         features:
@@ -252,6 +258,12 @@ fr:
         align: center
         has_background: true
         background_color: gray
+
+      - type: content_section
+        content: |- 
+          <h1 style="text-align:center;">Manuel</h1>
+
+          <embed src="/images/101week/handbook2024.pdf" style="width:100%;height:500px;" type="application/pdf">
         
       - type: features_section
         title: Commanditaires
