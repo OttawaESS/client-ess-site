@@ -7,37 +7,37 @@ en:
 
     - type: content_section
       content: >-
-        <ol>RENT AND REGISTRATION. The rent for the Locker will be $0.00 for one, or both semester(s) of the 2022-2023 Academic Year and must be registered with the Engineering Students’ Society (the “Society”).</ol>
+        <ol>
+          <li>RENT AND REGISTRATION. The rent for the Locker will be $0.00 for one, or both semester(s) of the 2022-2023 Academic Year and must be registered with the Engineering Students’ Society (the “Society”).</li>
 
-        <ol>TERM. The Agreement commences immediately on the day that the Locker is registered with the Owner and will continue until the end of the semester chosen. (the "Term").
-        </ol>
+          <li>TERM. The Agreement commences immediately on the day that the Locker is registered with the Owner and will continue until the end of the semester chosen. (the "Term").
+          </li>
 
-        <ol>REPAIR AND MAINTENANCE. The Renter will agree to use the Locker in a good and careful manner and will comply with all of the manufacturer's requirements and recommendations respecting the Locker and with any applicable law, whether local, provincial or federal, respecting the use of the Locker, including, but not limited to, environmental and copyright law. The Renter will use the Locker for the purpose for which it was designed and not for any other purpose. Failure to do so can result in a loss of access to rental privileges for the remainder of the Agreement.
-        </ol>
+          <li>REPAIR AND MAINTENANCE. The Renter will agree to use the Locker in a good and careful manner and will comply with all of the manufacturer's requirements and recommendations respecting the Locker and with any applicable law, whether local, provincial or federal, respecting the use of the Locker, including, but not limited to, environmental and copyright law. The Renter will use the Locker for the purpose for which it was designed and not for any other purpose. Failure to do so can result in a loss of access to rental privileges for the remainder of the Agreement.
+          </li>
 
-        <ol>WARRANTIES. The Locker will remain in good working order and be returned to the Society in a clean and acceptable condition at the end of the Rental Period. 
-        </ol>
+          <li>WARRANTIES. The Locker will remain in good working order and be returned to the Society in a clean and acceptable condition at the end of the Rental Period. 
+          </li>
 
-        <ol>LOSS AND DAMAGE. The Society will not provide a security lock. It is the sole responsibility of the Renter to provide a security lock for the duration of the Agreement. The Society will not be responsible for the loss or damage of the Renter’s goods under any condition.
-        </ol>
+          <li>LOSS AND DAMAGE. The Society will not provide a security lock. It is the sole responsibility of the Renter to provide a security lock for the duration of the Agreement. The Society will not be responsible for the loss or damage of the Renter’s goods under any condition.
+          </li>
 
-        <ol>SURRENDER. The renewal period is within the first month of the new semester. The Society will post an official deadline at a minimum of two (2) weeks in advance. Failure to renew and register the locker for the subsequent rental period will result in the loss of the Renter’s personal lock and Locker. Lockers not renewed must be vacated by the last day of the renewal period’s notice. Items left in the locker will be recoverable for a fee of $5 for a period of one (1) month after the last day of the renewal period. Claims for Items must be made in person at the Society’s office. Items left for longer than a month will be donated and/or disposed of.
-        </ol>
+          <li>SURRENDER. The renewal period is within the first month of the new semester. The Society will post an official deadline at a minimum of two (2) weeks in advance. Failure to renew and register the locker for the subsequent rental period will result in the loss of the Renter’s personal lock and Locker. Lockers not renewed must be vacated by the last day of the renewal period’s notice. Items left in the locker will be recoverable for a fee of $5 for a period of one (1) month after the last day of the renewal period. Claims for Items must be made in person at the Society’s office. Items left for longer than a month will be donated and/or disposed of.
+          </li>
 
-        <ol>COVID-19 COMPLIANCE. The Renter agrees to abide by the University of Ottawa’s COVID-19 Health and Safety Protocols and Policies as outlined on www.uottawa.ca/coronavirus/en. The Renter understands that it is their responsibility to maintain a six (6) foot distance from other Locker users while accessing their Locker. The Renter agrees to regularly disinfect their Locker for the duration of the Agreement. By signing this Agreement, the Renter accepts the risks of COVID-19 exposure while on campus grounds and understands their compliance to the ever-changing guidelines provided by the University of Ottawa and Ottawa Public Health. 
-        </ol>
+          <li>COVID-19 COMPLIANCE. The Renter agrees to abide by the University of Ottawa’s COVID-19 Health and Safety Protocols and Policies as outlined on www.uottawa.ca/coronavirus/en. The Renter understands that it is their responsibility to maintain a six (6) foot distance from other Locker users while accessing their Locker. The Renter agrees to regularly disinfect their Locker for the duration of the Agreement. By signing this Agreement, the Renter accepts the risks of COVID-19 exposure while on campus grounds and understands their compliance to the ever-changing guidelines provided by the University of Ottawa and Ottawa Public Health. 
+          </li>
 
-        <ol>NOTICE TO RENTER. This is a lease. You are not purchasing the Locker outlined in this Agreement. Do not sign this Agreement until you have read it in full. You are entitled to a copy of this Agreement upon completion. 
-        </ol>
+          NOTICE TO RENTER. This is a lease. You are not purchasing the Locker outlined in this Agreement. Do not sign this Agreement until you have read it in full. You are entitled to a copy of this Agreement upon completion. 
 
-        <ol>CONTACT INFORMATION. The Owner will contact the Renter using the following information provided. Should there be a lack of communication and accessibility, the Renter will no longer be eligible to rent from the Owner. 
+          <li>CONTACT INFORMATION. The Owner will contact the Renter using the following information provided. Should there be a lack of communication and accessibility, the Renter will no longer be eligible to rent from the Owner. 
+          </li>
         </ol>
 
     - type: content_section
       content: >-
 
         <div style="overflow: auto; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; background:#FFFFFF; border: 1px solid rgba(0, 0, 0, 0.1); box-shadow: -2px 10px 5px rgba(0, 0, 0, 0); border-radius: 10px">
-            <img src="https://items-images-production.s3.us-west-2.amazonaws.com/files/be31e9b6d2641161f2e9735bb8220dfefec0b45b/original.jpeg" alt="Location de casiers | Locker Rental (2024-2025)" onerror="this.style.display='none'" style="width: 100%;">
           <div style="padding: 20px;">
               <p style="
             font-size: 18px;
