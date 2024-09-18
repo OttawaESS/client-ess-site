@@ -17,38 +17,38 @@
         "sub_links": [
           {
             "label": "Who We Are",
-            "url": "/who-are-we"
+            "url": "about/who-are-we"
           },
           {
             "label": "Affiliated Groups",
-            "url": "../about/affiliated-groups"
+            "url": "about/affiliated-groups"
           },
           {
             "label": "Our Team",
-            "url": "../about/team"
+            "url": "about/team"
           },
           {
             "label": "Join Our Team",
-            "url": "../about/join-our-team"
+            "url": "about/join-our-team"
           },
           {
             "label": "Traditions",
-            "url": "../about/traditions"
+            "url": "about/traditions"
           },
           {
             "label": "Chants",
-            "url": "../about/chants"
+            "url": "about/chants"
           }
         ]
       },
       {
         "label": "Resources",
-        "url": "/resources",
+        "url": "",
         "style": "link",
         "sub_links": [
           {
             "label": "Scholarships and Careers",
-            "url": "/scholarships-and-careers"
+            "url": "resources/scholarships-and-careers"
           },
           {
             "label": "Initiatives and School Support",
@@ -56,19 +56,19 @@
           },
           {
             "label": "Important Documents",
-            "url": "/important-documents"
+            "url": "resources/important-documents"
           },
           {
             "label": "Incident Reports",
-            "url": "/incident-reports"
+            "url": "resources/incident-reports"
           },
           {
             "label": "Accessibility",
-            "url": "/accessibility"
+            "url": "resources/accessibility"
           },
           {
             "label": "Lockers",
-            "url": "/lockers"
+            "url": "resources/lockers"
           }
         ]
       },
@@ -85,24 +85,24 @@
       },
       {
         "label": "Events",
-        "url": "/",
+        "url": "",
         "style": "link",
         "sub_links": [
           {
             "label": "Competitions",
-            "url": "../events/competitions"
+            "url": "events/competitions"
           },
           {
             "label": "Conferences",
-            "url": "../events/conferences"
+            "url": "events/conferences"
           },
           {
             "label": "Upcoming and Recurring Events",
-            "url": "../events/upcoming-and-recurring"
+            "url": "events/upcoming-and-recurring"
           },
           {
             "label": "101 Week 2024",
-            "url": "../events/101week"
+            "url": "events/101week"
           }
         ]
       },
