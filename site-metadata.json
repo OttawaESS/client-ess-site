@@ -17,7 +17,7 @@
         "sub_links": [
           {
             "label": "Who We Are",
-            "url": "../about/who-are-we"
+            "url": "/who-are-we"
           },
           {
             "label": "Affiliated Groups",
