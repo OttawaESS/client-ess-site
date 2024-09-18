@@ -12,12 +12,12 @@
       },
       {
         "label": "About",
-        "url": "/about",
+        "url": "/",
         "style": "link",
         "sub_links": [
           {
             "label": "Who We Are",
-            "url": "/who-are-we"
+            "url": "/about/who-are-we"
           },
           {
             "label": "Affiliated Groups",
