@@ -65,6 +65,10 @@
           {
             "label": "Accessibility",
             "url": "/accessibility"
+          },
+          {
+            "label": "Lockers",
+            "url": "/lockers"
           }
         ]
       },

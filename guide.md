@@ -26,6 +26,7 @@ $primary-color-dark-variant:   #270059 !default;
   - **Accessibility:** `src/pages/resources/accessibility.md`
   - **Initiatives and Support:** `src/pages/resources/initiatives-and-school-support.md`
   - **Incident Reports:** `src/pages/resources/incident-reports.md`
+  - **Lockers:** `src/pages/resources/lockers.md`
 - **Services:** `src/pages/services.md`
 - **Events:** 
   - **Upcoming and Recurring**: `src/pages/events/upcoming-and-recurring`
