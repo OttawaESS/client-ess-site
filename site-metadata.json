@@ -17,27 +17,27 @@
         "sub_links": [
           {
             "label": "Who We Are",
-            "url": "/about/who-are-we"
+            "url": "about/who-are-we"
           },
           {
             "label": "Affiliated Groups",
-            "url": "/affiliated-groups"
+            "url": "about/affiliated-groups"
           },
           {
             "label": "Our Team",
-            "url": "/team"
+            "url": "about/team"
           },
           {
             "label": "Join Our Team",
-            "url": "/join-our-team"
+            "url": "about/join-our-team"
           },
           {
             "label": "Traditions",
-            "url": "/traditions"
+            "url": "about/traditions"
           },
           {
             "label": "Chants",
-            "url": "/chants"
+            "url": "about/chants"
           }
         ]
       },
