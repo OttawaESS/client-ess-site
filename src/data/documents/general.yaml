@@ -3,7 +3,7 @@ en:
   types:
     - type: Governing Documents
       files:
-        - label: Policy and Procedure Manual
+        - label: ESS Constitution
           path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
           date: '2021-04-30'
         - label: By-Laws
@@ -26,7 +26,7 @@ fr:
   types:
     - type: Documents Constitutifs
       files:
-        - label: Manuel des politiques et procédures
+        - label: ESS Constitution
           path: documents/general/governing-documents/Policy-and-Procedure-Manual-2021-Final.pdf
           date: '2021-04-30'
         - label: Règlements
