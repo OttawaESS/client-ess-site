@@ -12,7 +12,7 @@
       },
       {
         "label": "About",
-        "url": "/",
+        "url": "",
         "style": "link",
         "sub_links": [
           {
@@ -43,32 +43,32 @@
       },
       {
         "label": "Resources",
-        "url": "/",
+        "url": "/resources",
         "style": "link",
         "sub_links": [
           {
             "label": "Scholarships and Careers",
-            "url": "../resources/scholarships-and-careers"
+            "url": "/scholarships-and-careers"
           },
           {
             "label": "Initiatives and School Support",
-            "url": "../resources/initiatives-and-school-support"
+            "url": "/initiatives-and-school-support"
           },
           {
             "label": "Important Documents",
-            "url": "../resources/important-documents"
+            "url": "/important-documents"
           },
           {
             "label": "Incident Reports",
-            "url": "../resources/incident-reports"
+            "url": "/incident-reports"
           },
           {
             "label": "Accessibility",
-            "url": "../resources/accessibility"
+            "url": "/accessibility"
           },
           {
             "label": "Lockers",
-            "url": "../resources/lockers"
+            "url": "/lockers"
           }
         ]
       },
