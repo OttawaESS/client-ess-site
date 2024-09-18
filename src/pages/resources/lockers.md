@@ -35,7 +35,10 @@ en:
           </li>
         </ol>
 
-        #### By purchasing, you agree to our terms and conditions stated above.
+    - type: content_section
+      content: >-
+        <h3 style="text-align:center;">By purchasing, you agree to our terms and conditions stated above.</h3>
+        
 
     - type: content_section
       content: >-
@@ -99,7 +102,9 @@ fr:
           </li> 
         </ol>
 
-        #### En achetant, vous acceptez les termes et conditions énoncés ci-dessus.
+    - type: content_section
+      content: >-
+        <h3 style="text-align:center;">En achetant, vous acceptez les termes et conditions énoncés ci-dessus.</h3>
 
     - type: content_section
       content: >-
