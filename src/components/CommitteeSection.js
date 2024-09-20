@@ -36,7 +36,7 @@ export default function CommitteeSection(props) {
 
 
 const Title = styled.h3`
-  font-family: 'Playfair Display';
+  font-family: 'Tinos';
   font-weight: normal;
 `
 

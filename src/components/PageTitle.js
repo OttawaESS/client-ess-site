@@ -18,7 +18,7 @@ export default function PageTitle(props) {
 
 const Title = styled.h1`
     display: inline-block;
-    font-family: 'Playfair Display';
+    font-family: 'Tinos';
     padding: 0.75rem 2rem;
     border: 1px solid black;
     border-radius: 6px;
