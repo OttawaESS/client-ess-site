@@ -35,19 +35,6 @@ module.exports = {
                 langKeyDefault: 'en',
                 useLangKeyLayout: false,
             }
-        },
-        {
-            resolve: `gatsby-omni-font-loader`,
-            options: {
-              enableListener: true,
-              preconnect: [`https://fonts.googleapis.com`, `https://fonts.gstatic.com`],
-              web: [
-                {
-                  name: `Tinos`,
-                  file: `https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap`,
-                },
-              ],
-            },
-          },
+        }
     ]
 };
