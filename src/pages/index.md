@@ -37,11 +37,11 @@ en:
           icon: documents_icon
           link: /resources/important-documents
   
-        - title: Resources
+        - title: Office Hours
           description: >-
-            As a member, you have access to all of ESS’ resources. From accessibility to scholarships, we want to do what we can to help you out. Click here for more information.
-          icon: resources_icon
-          link: /resources
+            Want to know when you can purchase some patches or print your documents? Click here to access ESS office hours!
+          icon: office-hours_icon
+          link: /resources/office-hours
           
         - title: Services
           description: >-
@@ -88,9 +88,9 @@ fr:
   
         - title: Ressources
           description: >-
-            Comme membre, vous avez accès à toutes les ressources de l’AÉG. De l’accessibilité au bourses, nous voulons faire ce que nous pouvons pour vous aider. Cliquez ici pour plus d’information.
-          icon: resources_icon
-          link: /resources
+            Vous voulez savoir quand vous pouvez acheter des patchs ou imprimer vos documents ? Cliquez ici pour accéder aux heures de bureau de l'ESS !
+          icon: office-hours_icon
+          link: /resources/office-hours
           
         - title: Services
           description: >-
