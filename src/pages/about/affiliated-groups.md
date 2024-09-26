@@ -2,17 +2,6 @@
 title: Affiliated Groups
 en:
   sections:
-    - type: secondary_header
-      baseUrl: /about
-      nav_items:
-        - label: Who We Are
-          link: /who-are-we
-        - label: Our Team
-          link: /team
-        - label: Join Our Team
-          link: /join-our-team
-        - label: Affiliated Groups
-          link: /affiliated-groups
     - type: page_title
       title: Affiliated Groups
     - type: content_section
@@ -91,17 +80,6 @@ en:
 
 fr:
   sections:
-    - type: secondary_header
-      baseUrl: /about
-      nav_items:
-        - label: Qui sommes-nous
-          link: /who-are-we
-        - label: Notre équipe
-          link: /team
-        - label: Joignez notre équipe
-          link: /join-our-team
-        - label: Groupes affiliés
-          link: /affiliated-groups
     - type: page_title
       title: Groupes Affiliées
     - type: content_section

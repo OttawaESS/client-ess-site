@@ -2,16 +2,6 @@
 title: Upcoming and Recurring Events
 en:
   sections:
-    - type: secondary_header
-      baseUrl: /events
-      nav_items:
-        - label: Upcoming and Recurring
-          link: /upcoming-and-recurring
-        - label: Conferences
-          link: /conferences
-        - label: Competitions
-          link: /competitions
-
     - type: page_title
       title: Events
 
@@ -41,16 +31,6 @@ en:
 
 fr:
   sections:
-    - type: secondary_header
-      baseUrl: /events
-      nav_items:
-        - label: Événements Récurrents
-          link: /upcoming-and-recurring
-        - label: Conférences
-          link: /conferences
-        - label: Compétitions
-          link: /competitions
-
     - type: page_title
       title: Événements
 

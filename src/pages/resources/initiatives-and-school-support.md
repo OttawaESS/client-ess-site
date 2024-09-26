@@ -2,20 +2,6 @@
 title: Initiatives And School Support
 en:
   sections:
-    - type: secondary_header
-      baseUrl: /resources
-      nav_items:
-        - label: Important documents
-          link: /important-documents
-        - label: Accessibility
-          link: /accessibility
-        - label: Incident reports
-          link: /incident-reports
-        - label: Initiatives and School Support
-          link: /initiatives-and-school-support
-        - label: Scholarships and careers
-          link: /scholarships-and-careers
-
     - type: page_title
       title: Initiatives And School Support
 
@@ -56,19 +42,6 @@ en:
 
 fr:
   sections:
-    - type: secondary_header
-      baseUrl: /resources
-      nav_items:
-        - label: Important documents
-          link: /important-documents
-        - label: Accessibilité
-          link: /accessibility
-        - label: Rapport d'incident
-          link: /incident-reports
-        - label: Initiatives et soutien scholaire
-          link: /initiatives-and-school-support
-        - label: Bourses et carrières
-          link: /scholarships-and-careers
     - type: page_title
       title: Initiatives et Soutien Scholaire
 

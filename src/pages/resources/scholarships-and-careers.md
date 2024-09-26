@@ -2,19 +2,6 @@
 title: Scholarships and Careers
 en:
   sections:
-    - type: secondary_header
-      baseUrl: /resources
-      nav_items:
-        - label: Important documents
-          link: /important-documents
-        - label: Accessibility
-          link: /accessibility
-        - label: Incident reports
-          link: /incident-reports
-        - label: Initiatives and School Support
-          link: /initiatives-and-school-support
-        - label: Scholarships and careers
-          link: /scholarships-and-careers
     - type: page_title
       title: Scholarships and Careers
     - type: content_section
@@ -79,19 +66,6 @@ en:
 
 fr:
   sections:
-    - type: secondary_header
-      baseUrl: /resources
-      nav_items:
-        - label: Important documents
-          link: /important-documents
-        - label: Accessibilité
-          link: /accessibility
-        - label: Rapport d'incident
-          link: /incident-reports
-        - label: Initiatives et soutien
-          link: /initiatives-and-support
-        - label: Bourses et carrières
-          link: /scholarships-and-careers
     - type: page_title
       title: Bourses et Carrières
     - type: content_section
