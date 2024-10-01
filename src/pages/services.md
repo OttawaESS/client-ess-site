@@ -11,7 +11,7 @@ en:
         - title: Printing (Free)
           image: images/services/printing.jpeg
           description: >-
-            Forgot to print your assignment? Need some class notes at the last minute? We’ve got you covered! Come on down to the ESS office and we’ll print up to 30 pages for you, in black and white or colour, absolutely free!
+            Forgot to print your assignment? Need some class notes at the last minute? We’ve got you covered! Come on down to the ESS office and we’ll print up to 20 pages for you, in black and white or colour, absolutely free!
 
         - title: Locker Rental
           image: images/services/locker.jpeg
@@ -50,7 +50,7 @@ fr:
         - title: Impression (Gratuite)
           image: images/services/printing.jpeg
           description: >-
-            Avez-vous oublié d'imprimer votre devoir ? Vous avez besoin de notes de cours à la dernière minute ? Nous avons ce qu'il vous faut ! Passez au bureau de l'AÉG et nous imprimerons jusqu'à 30 pages pour vous, en noir et blanc ou en couleur, absolument gratuitement !
+            Avez-vous oublié d'imprimer votre devoir ? Vous avez besoin de notes de cours à la dernière minute ? Nous avons ce qu'il vous faut ! Passez au bureau de l'AÉG et nous imprimerons jusqu'à 20 pages pour vous, en noir et blanc ou en couleur, absolument gratuitement !
 
         - title: Location de Casiers
           image: images/services/locker.jpeg
