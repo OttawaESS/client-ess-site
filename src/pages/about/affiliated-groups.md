@@ -43,40 +43,64 @@ en:
       title: Clubs and Teams
       cards:
         - title: SAE Aerospace
-          link: http://www.aerouottawa.com
+          link: https://www.instagram.com/aerouottawa_/
           image: images/clubs-and-teams/aero-uottawa.jpeg
           description: >-
-            The SAE Aerospace team works to build a 10-ft RC aircraft with the goal of developing a fundamental understanding of flight. For more information click here http://www.aerouottawa.com
+            The SAE Aerospace team works to build a 10-ft RC aircraft with the goal of developing a fundamental understanding of flight. For more information click here https://www.instagram.com/aerouottawa_/
   
         - title: Great Northern Concrete Toboggan Race (GNCTR)
-          link: https://facebook.com/uottawatbogg/
+          link: https://www.instagram.com/uottawagnctr/
           image: images/clubs-and-teams/gnctr.jpeg
           description: >-
-            GNCTR is the largest and oldest engineering competition in Canada. The goal is to build and race a toboggan with a running surface made entirely of concrete. For more information click here https://facebook.com/uottawatbogg/
+            GNCTR is the largest and oldest engineering competition in Canada. The goal is to build and race a toboggan with a running surface made entirely of concrete. For more information click here https://www.instagram.com/uottawagnctr/
   
         - title: uO Rocketry
           link: https://uorocketry.ca
           image: images/clubs-and-teams/uorocketry.png
           description: >-
-            The uORocketry team’s goal is to design an experimental sounding rocket up to 30,000ft. For more information click here https://uorocketry.ca
+            Design, build and launch an experimental sounding rocket to 10,000 ft! Experiment with rocket engines, parachute concepts, avionic systems, ignition mechanisms, control schemas for both engine thrust throttling and air-braking. For more information click here https://uorocketry.ca
             
         - title: Baja SAE
           link: https://bajauottawa.com
           image: images/clubs-and-teams/baja-sae.jpeg
           description: >-
-            The Baja SAE team must design and construct an off-road vehicle that can operate and maneuver efficiently and reliably through any terrain. For more information click here https://bajauottawa.com
+            Design and build a vehicle that is able to manoeuvre through any terrain in a fast, controlled and reliable manner. For more information click here https://bajauottawa.com
   
         - title: Engineers Without Borders (EWB)
-          link: https://ottawau.ewb.ca/en/
+          link: https://www.instagram.com/uottawaewb/
           image: images/clubs-and-teams/ewb-uottawa.png
           description: >-
-            Engineers Without Borders (EWB) Canada works to support developing communities around the world. For more information click here https://ottawau.ewb.ca/en/
+            Engineers Without Borders (EWB) Canada works to support developing communities around the world. For more information click here https://www.instagram.com/uottawaewb/
   
         - title: The Canadian National Concrete Canoe Competition (CNCCC)
-          link: https://www.facebook.com/uoconcretecanoe
+          link: https://www.instagram.com/uottawa_concrete_canoe
           image: images/clubs-and-teams/canoe-team.png
           description: >-
-            The Canadian National Concrete Canoe Competition (CNCCC) is a 25-year-old civil engineering competition that challenges universities across the nation in an endeavour to build the best canoe out of concrete. For more information click here https://www.facebook.com/uoconcretecanoe
+            The Canadian National Concrete Canoe Competition (CNCCC) is a 25-year-old civil engineering competition that challenges universities across the nation in an endeavour to build the best canoe out of concrete. For more information click here https://www.instagram.com/uottawa_concrete_canoe
+
+        - title: Kelpie Robotics (MATE ROV)
+          link: https://kelpierobotics.com/
+          image: images/clubs-and-teams/kelpie.png
+          description: >-
+            Design and develop an underwater remotely operated vehicle (ROV) to complete tasks involving object manipulation, autonomous movement, and image recognition. For more information click here https://kelpierobotics.com/
+
+        - title: Formula SAE
+          link: https://www.formulauottawa.ca/
+          image: images/clubs-and-teams/formula.png
+          description: >-
+            Design, develop and construct a single-seat race car for the non-professional weekend autocross racer. Formula SAE strives to achieve the best overall design, construction, performance and cost. For more information click here https://www.formulauottawa.ca/
+
+        - title: Supermileage
+          link: https://www.facebook.com/uosupermileage/
+          image: images/clubs-and-teams/supermileage.png
+          description: >-
+            Develop and construct a single-person, fuel-efficient vehicle and compete in the urban concept category. For more information click here https://www.facebook.com/uosupermileage/
+
+        - title: uORover
+          link: https://uorover.org/
+          image: images/clubs-and-teams/uorover.png
+          description: >-
+            Be a part of this new team as they design and build a Mars Rover prototype to compete at a NASA test facility. For more information click here https://uorover.org/
 
 fr:
   sections:
@@ -121,16 +145,16 @@ fr:
       title: Clubs et Équipes
       cards:
         - title: SAE Aerospace
-          link: http://www.aerouottawa.com
+          link: https://www.instagram.com/aerouottawa_/
           image: images/clubs-and-teams/aero-uottawa.jpeg
           description: >-
-            L'équipe SAE Aerospace travaille à la construction d'un avion RC de 10 pieds dans le but de développer une compréhension fondamentale du vol. Pour plus d'informations, cliquez ici http://www.aerouottawa.com
+            L'équipe SAE Aerospace travaille à la construction d'un avion RC de 10 pieds dans le but de développer une compréhension fondamentale du vol. Pour plus d'informations, cliquez ici https://www.instagram.com/aerouottawa_/
   
         - title: Grande course de toboggan en béton du Nord (GNCTR)
-          link: https://facebook.com/uottawatbogg/
+          link: https://www.instagram.com/uottawagnctr/
           image: images/clubs-and-teams/gnctr.jpeg
           description: >-
-            La GNCTR est la plus grande et la plus ancienne compétition d'ingénierie au Canada. L'objectif est de construire et de faire courir un toboggan dont la surface de roulement est entièrement en béton. Pour plus d'informations, cliquez ici https://facebook.com/uottawatbogg/
+            La GNCTR est la plus grande et la plus ancienne compétition d'ingénierie au Canada. L'objectif est de construire et de faire courir un toboggan dont la surface de roulement est entièrement en béton. Pour plus d'informations, cliquez ici https://www.instagram.com/uottawagnctr/
   
         - title: uO Rocketry
           link: https://uorocketry.ca
@@ -145,15 +169,40 @@ fr:
             L'équipe Baja SAE doit concevoir et construire un véhicule tout-terrain capable de fonctionner et de manœuvrer de manière efficace et fiable sur n'importe quel terrain. Pour plus d'informations, cliquez ici https://bajauottawa.com
   
         - title: Ingénieurs sans frontiers (ISF)
-          link: https://ottawau.ewb.ca/en/
+          link: https://www.instagram.com/uottawaewb/
           image: images/clubs-and-teams/ewb-uottawa.png
           description: >-
-            Ingénieurs sans frontières (ISF) Canada travaille à soutenir les communautés en développement dans le monde entier. Pour plus d'informations, cliquez ici https://ottawau.ewb.ca/en/
+            Ingénieurs sans frontières (ISF) Canada travaille à soutenir les communautés en développement dans le monde entier. Pour plus d'informations, cliquez ici https://www.instagram.com/uottawaewb/
   
         - title: La compétition nationale canadienne de canoë en béton (CNCCB)
-          link: https://www.facebook.com/uoconcretecanoe
+          link: https://www.instagram.com/uottawa_concrete_canoe
           image: images/clubs-and-teams/canoe-team.png
           description: >-
-            La compétition nationale canadienne de canoë en béton (CNCCB) est une compétition de génie civil qui a lieu depuis 25 ans et qui met au défi les universités du pays dans le but de construire le meilleur canoë en béton. Pour plus d'informations, cliquez ici https://www.facebook.com/uoconcretecanoe
+            La compétition nationale canadienne de canoë en béton (CNCCB) est une compétition de génie civil qui a lieu depuis 25 ans et qui met au défi les universités du pays dans le but de construire le meilleur canoë en béton. Pour plus d'informations, cliquez ici https://www.instagram.com/uottawa_concrete_canoe
+
+        - title: Kelpie Robotics (MATE ROV)
+          link: https://kelpierobotics.com/
+          image: images/clubs-and-teams/kelpie.png
+          description: >-
+            Concevoir et développer un véhicule sous-marin télécommandé pour accomplir des tâches comme la manipulation d'objets, le mouvement autonome et la reconnaissance d'images. Pour plus d'informations, cliquez ici https://kelpierobotics.com/
+
+        - title: Formula SAE
+          link: https://www.formulauottawa.ca/
+          image: images/clubs-and-teams/formula.png
+          description: >-
+            Concevoir, développer et construire une voiture de course monoplace pour le week-end non professionnel «autocross racer» avec le meilleur ensemble global de conception, de construction, de performance et de coût. Pour plus d'informations, cliquez ici https://www.formulauottawa.ca/
+
+        - title: Supermileage
+          link: https://www.facebook.com/uosupermileage/
+          image: images/clubs-and-teams/supermileage.png
+          description: >-
+            Développer et construire une voiture monoplace économique en essence afin de faire compétition dans la catégorie urbaine. Pour plus d'informations, cliquez ici https://www.facebook.com/uosupermileage/
+
+        - title: uORover
+          link: https://uorover.org/
+          image: images/clubs-and-teams/uorover.png
+          description: >-
+            Faites partie de cette nouvelle équipe qui vise à concevoir et construire un prototype d'un rover martien pour une compétition située à un site NASA. Pour plus d'informations, cliquez ici https://uorover.org/
+
 template: advanced
 ---
