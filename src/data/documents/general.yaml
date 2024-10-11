@@ -10,7 +10,7 @@ en:
           path: documents/general/governing-documents/By-Laws2024-EN.pdf
           date: '2024-09-15'
         - label: EEF Constitution
-          path: documents/general/governing-documents/EEF-Constitution.pdf
+          path: documents/general/governing-documents/EEF-10-2024.pdf
           date: '2022-10-21'
     - type: Forms
       files:
@@ -33,7 +33,7 @@ fr:
           path: documents/general/governing-documents/By-Laws2024-EN.pdf
           date: '2024-09-15'
         - label: EEF Constitution
-          path: documents/general/governing-documents/EEF-Constitution.pdf
+          path: documents/general/governing-documents/EEF-10-2024.pdf
           date: '2022-10-21'
     - type: Formulaires
       files:

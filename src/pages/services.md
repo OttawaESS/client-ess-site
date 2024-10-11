@@ -16,7 +16,7 @@ en:
         - title: Locker Rental
           image: images/services/locker.jpeg
           description: >-
-            Tired of carrying all those pesky textbooks back and forth with you to campus? We’ve got you covered! Come on down to the office and reserve a locker Today!    
+            Tired of carrying all those pesky textbooks back and forth with you to campus? We’ve got you covered! Come on down to the office and reserve a locker today!
 
         - title: Merchandise
           image: images/services/merch.png
@@ -55,7 +55,7 @@ fr:
         - title: Location de Casiers
           image: images/services/locker.jpeg
           description: >-
-            Vous en avez assez de transporter vos manuels scolaires sur le campus ? Nous avons ce qu'il vous faut ! Venez au bureau et réservez un casier dès aujourd'hui !  
+            Vous en avez assez de transporter vos manuels scolaires sur le campus ? Nous avons ce qu'il vous faut ! Venez au bureau et réservez un casier dès aujourd'hui !
 
         - title: Marchandise
           image: images/services/merch.png
