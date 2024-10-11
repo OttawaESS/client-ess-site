@@ -11,7 +11,7 @@ en:
           date: '2024-09-15'
         - label: EEF Constitution
           path: documents/general/governing-documents/EEF-10-2024.pdf
-          date: '2022-10-21'
+          date: '2024-09-22'
     - type: Forms
       files:
         - label: Execs Elections Nomination Form
@@ -34,7 +34,7 @@ fr:
           date: '2024-09-15'
         - label: EEF Constitution
           path: documents/general/governing-documents/EEF-10-2024.pdf
-          date: '2022-10-21'
+          date: '2024-09-22'
     - type: Formulaires
       files:
         - label: Formulaire de nomination des officiers
