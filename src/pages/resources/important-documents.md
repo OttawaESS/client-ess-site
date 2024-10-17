@@ -5,10 +5,6 @@ en:
     - type: page_title
       title: Important Documents
 
-    - type: content_section
-      content: >-
-        #### Please note that the May Special General Meeting Minutes are not effective until September 2024.
-
     - type: documents_section
       actions:
         - label: General
@@ -90,10 +86,6 @@ fr:
   sections:
     - type: page_title
       title: Documents importants
-
-    - type: content_section
-      content: >-
-        #### Veuillez noter que le procès-verbaux de l’assemblée générale extraordinaire de mai n’entre en vigueur qu’en septembre 2024.
 
     - type: documents_section
       actions:
