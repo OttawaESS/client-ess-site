@@ -1,6 +1,12 @@
 year: 2024-2025
 en:
   types:
+    - type: Budget
+      files:
+        - label: ESS Budget (September General Meeting)
+          path: documents/2024-2025/budget/budget-septGM-en.pdf
+          date: '2024-10-01'
+
     - type: BOD Minutes
       files:
         - label: May Special General Meeting
@@ -24,6 +30,12 @@ en:
         
 fr:
   types:
+    - type: Budget
+      files:
+        - label: Budget ESS (Assemblée générale de septembre)
+          path: documents/2024-2025/budget/budget-septGM-en.pdf
+          date: '2024-10-01'
+
     - type: BOD Minutes
       files:
         - label: Procès-verbaux de l'Assemblée générale spéciale de mai de l'AÉG
