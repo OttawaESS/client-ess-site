@@ -21,11 +21,11 @@ en:
 
         - header: When is uOEC?
           content: >-
-            The Competition will take place on Sunday, November 10th, 10am to 6pm. Sign-in, competition briefing, and build/ design phases will occur in the morning and afternoon, while presentations and the closing award ceremony will happen in the evening. Food will be provided throughout the day. A detailed schedule will be released to registrants.
+            The Competition will take place on November 16-17. Sign-in, competition briefing, and build/ design phases will occur in the morning and afternoon, while presentations and the closing award ceremony will happen in the evening. Food will be provided throughout the day. A detailed schedule will be released to registrants.
 
         - header: Where will uOEC be held?
           content: >-
-            The competition will be held on the beautiful campus of the University of Ottawa, specific rooms will be released with the schedule.
+            The competition will be held on the beautiful campus of the University of Ottawa, specific rooms will be released with the schedule. The Ontario Engineering Competition (OEC) will be at McMaster University and the Canadian Engineering Competition (CEC) will be held at Dalhousie University. 
 
         - header: How do I register?
           content: >-
@@ -204,11 +204,11 @@ fr:
 
         - header: Que sont les dates du CIuO?
           content: >-
-            Le concours aura lieu le dimanche 10  à novembre, 10h à 18h. Les phases de connexion, d'information sur la compétition et de construction / conception se tiennent en matinée et en après-midi et les présentations et la cérémonie de remise des prix se tiennent en soirée. Un calendrier détaillé sera envoyé aux personnes inscrites.
+            Le concours aura lieu les 16 et 17 novembre. Les phases de connexion, d'information sur la compétition et de construction / conception se tiennent en matinée et en après-midi et les présentations et la cérémonie de remise des prix se tiennent en soirée. Un calendrier détaillé sera envoyé aux personnes inscrites.
 
         - header: Où se tiendra le CIuO?
           content: >-
-            La compétition aura lieu sur le magnifique campus de l'Université d'Ottawa.
+            La compétition aura lieu sur le magnifique campus de l'Université d'Ottawa. La compétition d'ingénierie de l'Ontario (OEC) se déroulera à l'université McMaster et la compétition d'ingénierie du Canada (CEC) se tiendra à l'université Dalhousie. 
 
         - header: Comment s'inscrire?
           content: >-
