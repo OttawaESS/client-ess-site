@@ -21,12 +21,15 @@ en:
         - label: August Meeting
           path: documents/2024-2025/bod/4.August2024-bod-EN.pdf
           date: '2024-08-18'
+        - label: September Emergency Meeting
+          path: documents/2024-2025/bod/6.Sept2024-bod-emergency-EN.pdf
+          date: '2024-09-29'
 
-    # - type: Officer Meetings
-    #   files:
-    #     - label: May Officer
-    #       path: documents/2024-2025/officer/1.May2024-Meeting-EN.pdf
-    #       date: '2024-05-15'
+    - type: Officer Meetings
+      files:
+        - label: November Meeting
+          path: documents/2024-2025/officer/9.Nov2024-officer1-EN.pdf
+          date: '2024-11-11'
         
 fr:
   types:
@@ -50,10 +53,13 @@ fr:
         - label: Réunion de août
           path: documents/2024-2025/bod/4.August2024-bod-FR.pdf
           date: '2024-08-18'
+        - label: Réunion d'urgence de septembre
+          path: documents/2024-2025/bod/6.Sept2024-bod-emergency-FR.pdf
+          date: '2024-09-29'
     
-    # - type: Réunions
-    #   files:
-    #     - label: May Officer
-    #       path: documents/2024-2025/officer/1.May2024-Meeting-EN.pdf
-    #       date: '2024-05-15'
+    - type: Réunions des Fonctionnaires
+      files:
+        - label: Réunion de novembre
+          path: documents/2024-2025/officer/9.Nov2024-officer1-FR.pdf
+          date: '2024-11-11'
 
