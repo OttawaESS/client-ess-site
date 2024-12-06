@@ -1,5 +1,5 @@
 ---
-title: Upcoming and Recurring Events
+title: Recurring Events
 en:
   sections:
     - type: page_title
@@ -23,7 +23,15 @@ en:
 
         - title: Industry Night
           description: Networking can be tough, but ESS tries to make it a little easier with our annual Industry Night! This night is your chance to connect with industry professionals and start thinking about your future career.
+          frequency: Once per semester
+
+        - title: STAGED
+          description: We all have hidden talents and can do more than basic calculus. STAGED is a chance for engineers to showcase these talents.
           frequency: Annual
+
+        - title: GOAT
+          description: Networking can be tough, but ESS tries to make it a little easier with our annual Industry Night! This night is your chance to connect with industry professionals and start thinking about your future career.
+          frequency: Once per semester
 
     # - type: image_section
     #   image: images/Frosh-Schedule.PNG
@@ -52,6 +60,14 @@ fr:
 
         - title: Soirée de l'Industrie
           description: Le réseautage peut être difficile, mais l’AÉG essaie de le rendre un peu plus facile avec sa soirée annuelle de l'industrie ! Cette soirée est l'occasion de rencontrer des professionnels du secteur et de commencer à réfléchir à votre future carrière.
+          frequency: Semi-annual
+
+        - title: STAGED
+          description: Nous avons tous des talents cachés et pouvons faire plus que du calcul élémentaire. STAGED est l'occasion pour les ingénieurs de montrer ces talents. 
+          frequency: Semi-annual
+
+        - title: GOAT
+          description: 
           frequency: Semi-annual
 
   
