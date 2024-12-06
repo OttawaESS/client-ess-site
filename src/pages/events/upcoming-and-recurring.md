@@ -30,7 +30,7 @@ en:
           frequency: Annual
 
         - title: GOAT
-          description: Networking can be tough, but ESS tries to make it a little easier with our annual Industry Night! This night is your chance to connect with industry professionals and start thinking about your future career.
+          description: Go Out Apres (after) T’exams
           frequency: Once per semester
 
     # - type: image_section
@@ -67,7 +67,7 @@ fr:
           frequency: Semi-annual
 
         - title: GOAT
-          description: 
+          description: Go Out Apres T’exams
           frequency: Semi-annual
 
   
