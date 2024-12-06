@@ -27,7 +27,7 @@ en:
   
             **Accountability:** We aim to continuously clearly identify any difficulties within the organization, remedy them, and grow from our experiences.
           align: left
-          image: images/ess-our-values.jpeg
+          image: images/20245-team/team.jpg
           image_alt: Our Values
           image_position: left
       
@@ -58,7 +58,7 @@ fr:
   
             **Responsabilité:** Nous visons à identifier clairement et en permanence toutes les difficultés au sein de l'organisation, à y remédier et à grandir à partir de nos expériences.
           align: left
-          image: images/ess-our-values.jpeg
+          image: images/20245-team/team.jpg
           image_alt: Our Values
           image_position: left    
 template: advanced
