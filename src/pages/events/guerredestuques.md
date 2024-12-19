@@ -13,7 +13,7 @@ en:
 
          #### Schedule
 
-         Stay tuned for the Guerre des Tuques schedule!
+         Stay tuned for the Guerre des Tuques run down!
       
       # - type: image_section
       #   title: Schedule
