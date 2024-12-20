@@ -50,7 +50,7 @@ en:
         content: |- 
           <h1 style="text-align:center;">Ready to join?</h1>
 
-          <iframe src="https://form.jotform.com/243519556906062" style="width:100%; height:500px;"></iframe> 
+          <iframe src="https://form.jotform.com/243519556906062" style="width:100%; height:650px;"></iframe> 
 
       # - type: features_section
       #   title: Sponsors
@@ -144,7 +144,7 @@ fr:
         content: |- 
           <h1 style="text-align:center;">Prêt à nous rejoindre ?</h1>
 
-          <iframe src="https://form.jotform.com/243519556906062" style="width:100%; height:500px;"></iframe> 
+          <iframe src="https://form.jotform.com/243519556906062" style="width:100%; height:650px;"></iframe> 
         
       # - type: features_section
       #   title: Commanditaires
