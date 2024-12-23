@@ -5,7 +5,7 @@ en:
    sections: 
       - type: secondary_hero_section
         title: La Guerre des Tuques
-        image: images/101week/hero.jpg
+        image: images/guerredestuques/hero.png
 
       - type: content_section
         content: >-
@@ -99,7 +99,7 @@ fr:
    sections:
       - type: secondary_hero_section
         title: La Guerre des Tuques
-        image: images/101week/hero.jpg
+        image: images/guerredestuques/hero.png
 
       - type: content_section
         content: >-
