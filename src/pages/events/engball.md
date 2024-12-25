@@ -11,46 +11,11 @@ en:
         content: >-
          There’s no better way to welcome our new engineers than a week-long party with the best faculty on campus! This is a great week to get to know your peers, connect with the faculty, and learn more about what we do here at ESS. 
 
-         #### Schedule
-
-         Stay tuned for the Guerre des Tuques run down!
-      
-      # - type: image_section
-      #   title: Schedule
-      #   image: images/101week/schedule/101english.png
-
-      - type: EventsSection101
-        title: Events
-        events:
-        - title: Ice Breakers
-          description: Welcome to the 101er’s bonding event! Meet your fellow 101ers and guides in a fun and lively atmosphere with games and challenges to boost the school spirit, starting with an epic ice breaker on the CBY lawn with some cheers, chants and name games and then teaming up and showing of your engineering skills, get ready for laughter, new friendships and tons of school spirit. 
-          image: ../../images/101week/icebreaker-crop.png
-
-        - title: Couch Carry
-          description: Get ready for the ultimate couch challenge in downtown Ottawa, each team will carry their couch to iconic landmarks in Byward and downtown, racking up points along the way. Lets see which group has the most muscle and team spirit to conquer the city! 
-          image: ../../images/101week/couchcarry-new.png
-        
-        - title: Shine Day
-          description: Rise and shine to raise money for Shinerama, supporting Cystic Fibrosis research. Bring your talents, energy, and enthusiasm and march around Ottawa to help us make a difference.
-          image: ../../images/101week/shineday-crop.jpg
-
-        - title: Messy Day
-          description: Gear up in your hard hats and coveralls because it's time to take on the ultimate obstacle course! After embracing the mess, we’ll take a scenic walk along the canal to the Rideau Locks to get cleaned up, then to Parliament Hill for our epic photo. It's a day of fun, chaos, and memories you won't forget!
-          image: ../../images/101week/MessyDay-crop.png
-
-        - title: Wet Events
-          description: One of Ottawa's perks is being just a bridge away from Quebec. Join us for an unforgettable party in Hull. Get ready to dance, mingle, and pull out your moves. Sip on your favourite drinks, hit the dance floor, and keep the party going all night. These nights are all about fun, friends, and good vibes!
-          image: ../../images/101week/wet-crop.JPG
-
-        - title: Dry Events
-          description: We don’t need booze to party! Join in on the fun and  make memories that you WILL remember!
-          image: ../../images/101week/dry-crop.JPG
-
       - type: content_section
         content: |- 
           <h1 style="text-align:center;">Ready to join?</h1>
 
-          <iframe src="https://form.jotform.com/243519556906062" style="width:100%; height:700px;"></iframe> 
+          Stay tuned for more information.
 
       # - type: features_section
       #   title: Sponsors
@@ -95,6 +60,16 @@ en:
       #       image_alt: Feature 1 placeholder image
       #       image_position: left
 
+      - type: cta_section
+        title: Looking to sponsor?
+        subtitle: 
+        actions:
+          - label: View here
+            url: images/engball/sponsorpackage.pdf
+            style: primary
+        has_background: true
+        background_color: gray 
+
 fr: 
    sections:
       - type: secondary_hero_section
@@ -105,46 +80,15 @@ fr:
         content: >-
          Il n'y a pas de meilleure façon d'accueillir nos nouveaux ingénieurs qu'une semaine de fête avec les meilleurs professeurs du campus ! Il s'agit d'une semaine idéale pour faire connaissance avec vos pairs, établir des liens avec le corps professoral et en apprendre davantage sur ce que nous faisons ici à l'AÉG. 
 
-         #### Programme
-
-         Restez à l’écoute pour le calendrier de La Guerre des Tuques 2024! 
-
       # - type: image_section
       #   title: Programme
       #   image: images/101week/schedule/101french.png
-
-      - type: EventsSection101
-        title: Evénements
-        events:
-        - title: Brise-glace
-          description: Bienvenue à l’événement de renforcement des relations des « 101ers ». Rencontrez vos coéquipiers « 101ers » et vos guides dans une atmosphère amusante et énergétique avec des jeux et défis pour stimuler l’esprit d’école, en commençant avec un brise-glace épique sur la pelouse CBY avec des acclamations, des chants et des jeux de noms et de là former des équipes et utilisez vos compétences de génie, préparez-vous à rires, faire des amis, à vous imprégner de l'esprit d'école. 
-          image: ../../images/101week/icebreaker-crop.png
-
-        - title: Transport d’un canapé
-          description: Préparez-vous pour le défi ultime de canapés au centre-ville d’Ottawa, chaque équipe va transporter leur canapé à des lieux emblématiques du marché By et du centre-ville, en accumulant des points au long de l’événement. Voyons quel groupe a le plus de muscles et d’esprit d’équipe pour conquérir la ville!
-          image: ../../images/101week/couchcarry-new.png
-        
-        - title: Journée de Shinerama
-          description: Levez-vous pour levée des fonds pour Shinerama, qui appuie la recherche sur la fibrose kystique. Amenez vos talents, votre énergie et votre enthousiasme et marchez autour d’Ottawa pour nous aider à faire une différence. 
-          image: ../../images/101week/shineday-crop.jpg
-
-        - title: Journée de Désordre
-          description: Enfilez vos casques de sécurité et vos combis, car il est temps d'entreprendre l'ultime course à obstacles! Après avoir accepté le désordre, nous ferons une excursion pittoresque le long du canal jusqu'aux écluses Rideau pour nous nettoyer, puis jusqu'à la colline du Parlement pour notre photo épique. C'est une journée de plaisir, de chaos et de souvenirs inoubliables.
-          image: ../../images/101week/MessyDay-crop.png
-
-        - title: Événements avec l'alcool
-          description: Un des avantages d'Ottawa est que nous sommes un pont du Quebec. Rejoignez-nous pour une fête inoubliable en Hull. Préparez-vous à danser, à rencontrer les autres et montrez-nous ce que vous savez faire. Sirotez vos boissons préférées, lancez-vous sur la piste de danse et faites durer la fête jusqu'au bout de la nuit. Ces soirées sont placées sous le signe du plaisir, des amis et de bonnes vibrations!
-          image: ../../images/101week/wet-crop.JPG
-
-        - title: Événements sans alcool
-          description: Nous n’avons pas besoin d'alcool pour fêter! Rejoignez-nous à la fête et créez des souvenirs dont vous souviendrez.
-          image: ../../images/101week/dry-crop.JPG
 
       - type: content_section
         content: |- 
           <h1 style="text-align:center;">Prêt à nous rejoindre ?</h1>
 
-          <iframe src="https://form.jotform.com/243519556906062" style="width:100%; height:700px;"></iframe> 
+          Restez à l'écoute pour plus d'informations.
         
       # - type: features_section
       #   title: Commanditaires
@@ -188,5 +132,15 @@ fr:
       #       image: images/101sponsors/bpa-engineering.png
       #       image_alt: Feature 1 placeholder image
       #       image_position: left
+    
+      - type: cta_section
+        title: Vous cherchez à parrainer?
+        subtitle: 
+        actions:
+          - label: Voir ici
+            url: images/engball/sponsorpackage.pdf
+            style: primary
+        has_background: true
+        background_color: gray      
 
 template: advanced
