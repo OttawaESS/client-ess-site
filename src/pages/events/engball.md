@@ -5,7 +5,7 @@ en:
    sections: 
       - type: secondary_hero_section
         title: Engineering Charity Ball 2024 
-        image: images/guerredestuques/hero.png
+        image: images/
 
       - type: content_section
         content: >-
@@ -75,7 +75,7 @@ fr:
    sections:
       - type: secondary_hero_section
         title: Bal de Charité des Ingénieurs 2024
-        image: images/guerredestuques/hero.png
+        image: images/
 
       - type: content_section
         content: >-
