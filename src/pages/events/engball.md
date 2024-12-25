@@ -9,7 +9,7 @@ en:
 
       - type: content_section
         content: >-
-         There’s no better way to welcome our new engineers than a week-long party with the best faculty on campus! This is a great week to get to know your peers, connect with the faculty, and learn more about what we do here at ESS. 
+         This highly anticipated annual event is a great night for everyone. This is your chance to get dressed up and enjoy a fun night with friends, all while supporting a good cause! With food, drinks, dancing, raffles, and more, you don’t want to miss out on this great night!
 
       - type: content_section
         content: |- 
@@ -67,18 +67,19 @@ en:
           - label: View here
             url: images/engball/sponsorpackage.pdf
             style: primary
+            new_window: true
         has_background: true
         background_color: gray 
 
 fr: 
    sections:
       - type: secondary_hero_section
-        title: Le bal du génie
+        title: Bal de Charité des Ingénieurs
         image: images/guerredestuques/hero.png
 
       - type: content_section
         content: >-
-         Il n'y a pas de meilleure façon d'accueillir nos nouveaux ingénieurs qu'une semaine de fête avec les meilleurs professeurs du campus ! Il s'agit d'une semaine idéale pour faire connaissance avec vos pairs, établir des liens avec le corps professoral et en apprendre davantage sur ce que nous faisons ici à l'AÉG. 
+         Cet événement annuel très attendu est une grande soirée pour tous. C'est l'occasion de se mettre dans notre meilleure état et de passer une bonne soirée entre amis, tout en soutenant une bonne cause ! Avec de la nourriture, des boissons, de la danse, des tirages au sort et bien plus encore, vous ne voulez pas manquer cette grande soirée !
 
       # - type: image_section
       #   title: Programme
@@ -140,6 +141,7 @@ fr:
           - label: Voir ici
             url: images/engball/sponsorpackage.pdf
             style: primary
+            new_window: true
         has_background: true
         background_color: gray      
 
