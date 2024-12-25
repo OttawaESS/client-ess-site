@@ -26,7 +26,7 @@ export default {
         'Competitions': "Competitions",
         'Conferences': "Conférences",
         'Upcoming and Recurring Events' : "Événements prochains et récurrents",
-        'Engineering Charity Ball"' : "Bal de Charité des Ingénieurs",
+        'Engineering Charity Ball 2024' : "Bal de Charité des Ingénieurs 2024",
         'Engineering Students Society' : "Association des étudiants en Génie",
         'Find us on Social Media' : 'Nos réseaux sociaux',
         'All fields marked with' : "Les champs marqués par",
