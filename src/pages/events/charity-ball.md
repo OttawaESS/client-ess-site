@@ -1,10 +1,10 @@
 ---
-title: La Guerre des Tuques
+title: Eng Ball 2024
 
 en: 
    sections: 
       - type: secondary_hero_section
-        title: La Guerre des Tuques
+        title: Eng Ball 2024
         image: images/guerredestuques/hero.png
 
       - type: content_section
@@ -98,7 +98,7 @@ en:
 fr: 
    sections:
       - type: secondary_hero_section
-        title: La Guerre des Tuques
+        title: Le bal du génie
         image: images/guerredestuques/hero.png
 
       - type: content_section
