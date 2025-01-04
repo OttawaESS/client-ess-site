@@ -27,9 +27,15 @@ en:
 
     - type: Officer Meetings
       files:
-        - label: November Meeting
+        - label: October Meeting
+          path: documents/2024-2025/officer/8.Oct2024-officer-EN.pdf
+          date: '2024-10-28'
+        - label: November Meeting 1
           path: documents/2024-2025/officer/9.Nov2024-officer1-EN.pdf
           date: '2024-11-11'
+        - label: November Meeting 2
+          path: documents/2024-2025/officer/10.Nov2024-officer2-EN.pdf
+          date: '2024-11-25'
         
 fr:
   types:
@@ -59,7 +65,13 @@ fr:
     
     - type: Réunions des Fonctionnaires
       files:
-        - label: Réunion de novembre
+        - label: Réunion de octobre
+          path: documents/2024-2025/officer/8.Oct2024-officer-FR.pdf
+          date: '2024-10-28'
+        - label: Réunion de novembre 1
           path: documents/2024-2025/officer/9.Nov2024-officer1-FR.pdf
           date: '2024-11-11'
+        - label: Réunion de novembre 2
+          path: documents/2024-2025/officer/10.Nov2024-officer2-FR.pdf
+          date: '2024-11-25'
 
