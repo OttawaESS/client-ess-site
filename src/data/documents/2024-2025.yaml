@@ -7,6 +7,12 @@ en:
           path: documents/2024-2025/budget/budget-septGM-en.pdf
           date: '2024-10-01'
 
+    - type: President
+      files:
+        - label: Summer + Fall Updates
+          path: documents/2024-2025/president/fall2024updates.pdf
+          date: '2024-12-31'
+
     - type: BOD Minutes
       files:
         - label: May Special General Meeting
@@ -44,6 +50,12 @@ fr:
         - label: Budget ESS (Assemblée générale de septembre)
           path: documents/2024-2025/budget/budget-septGM-en.pdf
           date: '2024-10-01'
+
+    - type: Président.e
+      files:
+        - label: Mises à jour de l'été et de l'automne
+          path: documents/2024-2025/president/fall2024updates.pdf
+          date: '2024-12-31'
 
     - type: BOD Minutes
       files:
