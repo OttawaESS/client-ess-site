@@ -1,9 +1,9 @@
 id: president
-first_name: Sofia
-last_name: Ershova | she/her/elle
-photo: images/20245-team/sofia.png
-# photo: images/team/ESS-logo-placeholder.jpg
-photo_alt: Sofia Ershova
+first_name: vacant
+last_name: vacant | 
+# photo: images/20245-team/sofia.png
+photo: images/team/ESS-logo-placeholder.jpg
+photo_alt: vacant
 position:
   en: President
   fr: Président.e
