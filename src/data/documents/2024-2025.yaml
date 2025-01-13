@@ -30,6 +30,9 @@ en:
         - label: September Emergency Meeting
           path: documents/2024-2025/bod/6.Sept2024-bod-emergency-EN.pdf
           date: '2024-09-29'
+        - label: October Meeting
+          path: documents/2024-2025/bod/7.Oct2024-bod-EN.pdf
+          date: '2024-10-27'
 
     - type: Officer Meetings
       files:
@@ -92,6 +95,9 @@ fr:
         - label: Réunion d'urgence de septembre
           path: documents/2024-2025/bod/6.Sept2024-bod-emergency-FR.pdf
           date: '2024-09-29'
+        - label: Réunion d'octobre
+          path: documents/2024-2025/bod/7.Oct2024-bod-FR.pdf
+          date: '2024-10-27'
     
     - type: Réunions des Fonctionnaires
       files:
