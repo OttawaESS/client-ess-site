@@ -33,6 +33,24 @@ en:
 
     - type: Officer Meetings
       files:
+        - label: May Meeting
+          path: documents/2024-2025/officer/1.May2024-Meeting-EN.pdf
+          date: '2024-05-15'
+        - label: June Meeting
+          path: documents/2024-2025/officer/2.June2024-Meeting-EN.pdf
+          date: '2024-06-19'
+        - label: July Meeting
+          path: documents/2024-2025/officer/3.Jul2024-Meeting-EN.pdf
+          date: '2024-07-10'
+        - label: August Meeting
+          path: documents/2024-2025/officer/4.Aug2024-Meeting-EN.pdf
+          date: '2024-08-14'
+        - label: September Meeting 1
+          path: documents/2024-2025/officer/5.Sep2024-officer1-EN.pdf
+          date: '2024-09-16'
+        - label: September Meeting 2
+          path: documents/2024-2025/officer/6.Sep2024-officer2-EN.pdf
+          date: '2024-09-30'
         - label: October Meeting
           path: documents/2024-2025/officer/8.Oct2024-officer-EN.pdf
           date: '2024-10-28'
@@ -77,6 +95,24 @@ fr:
     
     - type: Réunions des Fonctionnaires
       files:
+        - label: Réunion de mai
+          path: documents/2024-2025/officer/1.May2024-Meeting-FR.pdf
+          date: '2024-05-15'
+        - label: Réunion de juin
+          path: documents/2024-2025/officer/2.June2024-Meeting-FR.pdf
+          date: '2024-06-19'
+        - label: Réunion de juillet
+          path: documents/2024-2025/officer/3.Jul2024-Meeting-FR.pdf
+          date: '2024-07-10'
+        - label: Réunion de Août
+          path: documents/2024-2025/officer/4.Aug2024-Meeting-FR.pdf
+          date: '2024-08-14'
+        - label: Réunion de septembre 1
+          path: documents/2024-2025/officer/5.Sep2024-officer1-FR.pdf
+          date: '2024-09-16'
+        - label: Réunion de septembre 2
+          path: documents/2024-2025/officer/6.Sep2024-officer2-FR.pdf
+          date: '2024-09-30'        
         - label: Réunion de octobre
           path: documents/2024-2025/officer/8.Oct2024-officer-FR.pdf
           date: '2024-10-28'
