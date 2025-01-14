@@ -81,7 +81,7 @@ en:
             image_position: left
       
       - type: TraditionSection
-        title: The Keepers of the Tool
+        title: The Keepers of the Key
         traditions:
           - content: >-
               Three faceless, hooded figures guard the Cast
@@ -96,7 +96,7 @@ en:
               Always remember that it is a great privilege to
               bear witness to the tool.
             align: left
-            image: images/traditions/keepers.png
+            image: images/traditions/key.jpg
             image_alt: Keeper of the Tool
             image_position: left
 
@@ -200,7 +200,7 @@ fr:
             image_position: left
       
       - type: TraditionSection
-        title: Les Gardiens
+        title: Les Gardiens de la Clé
         traditions:
           - content: >-
               Trois personnages sans visage et avec un
@@ -216,12 +216,12 @@ fr:
               Rappelez-vous toujours que c’est un grand privilège de pouvoir témoigner de la présence de l’outil.
 
             align: left
-            image: images/traditions/keepers.png
+            image: images/traditions/key.jpg
             image_alt: Keeper of the Tool
             image_position: left
 
       - type: TraditionSection
-        title: The Coveted Iron Ring
+        title: L’anneau de fer
         traditions:
           - content: >-
               Le rite de passage de l’Ingénieur, initié en 1922,
