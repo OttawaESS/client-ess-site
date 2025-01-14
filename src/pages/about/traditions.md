@@ -79,6 +79,45 @@ en:
             image: images/traditions/otis.png
             image_alt: Feature 1 placeholder image
             image_position: left
+      
+      - type: TraditionSection
+        title: The Keepers of the Tool
+        traditions:
+          - content: >-
+              Three faceless, hooded figures guard the Cast
+              Iron Tool with their lives. Nobody knows
+              where they came from, but they make
+              appearances at social events to bless us with
+              the presence of the tool. Though it is common
+              practice to steal engineering relics from rival
+              schools, we have the keepers to thank that our
+              tool has never been stolen in our history. They
+              deserve your utmost respect and reverence.
+              Always remember that it is a great privilege to
+              bear witness to the tool.
+            align: left
+            image: images/traditions/keepers.png
+            image_alt: Keeper of the Tool
+            image_position: left
+
+      - type: TraditionSection
+        title: The Coveted Iron Ring
+        traditions:
+          - content: >-
+              Originating in 1922, the Ritual of the Calling of an Engineer
+              acknowledges and welcomes graduating engineers into the
+              Canadian Engineering Profession. The Iron Ring is a
+              constant reminder meant to direct toward consciousness of
+              ethics, morals, and social significance in the profession.
+              Worn on the little finger of the working hand, the ring
+              signifies the pride, unity and responsibility we have in our
+              profession. It is important to always shake the hand of Iron
+              Ring holders, for they have succeeded in the difficulties you
+              are about to face.
+            align: left
+            image: images/traditions/ring.jpg
+            image_alt: Iron Ring
+            image_position: left
 
 fr: 
    sections:
@@ -159,5 +198,48 @@ fr:
             image: images/traditions/otis.png
             image_alt: Feature 1 placeholder image
             image_position: left
+      
+      - type: TraditionSection
+        title: Les Gardiens
+        traditions:
+          - content: >-
+              Trois personnages sans visage et avec un
+              capuchon gardent l’outil de fonte avec leur vie.
+              Personne ne sait d’où ils viennent, mais ils font
+              des apparitions lors de certains évènements
+              sociaux pour nous bénir avec la présence de
+              l’outil. Bien qu’il soit courant de voler des
+              reliques d’ingénierie à des écoles rivales, nous
+              tenons à remercier les gardiens que notre outil
+              n’a jamais été volé dans notre histoire. Ils
+              méritent votre plus grand respect et révérence. 
+              Rappelez-vous toujours que c’est un grand privilège de pouvoir témoigner de la présence de l’outil.
+
+            align: left
+            image: images/traditions/keepers.png
+            image_alt: Keeper of the Tool
+            image_position: left
+
+      - type: TraditionSection
+        title: The Coveted Iron Ring
+        traditions:
+          - content: >-
+              Le rite de passage de l’Ingénieur, initié en 1922,
+              reconnaît et reçoit les ingénieurs qui ont obtenu leur
+              diplôme dans la Profession d’Ingénierie canadienne.
+              L’anneau de fer est un mémento des éthiques, des
+              morales et la signifiance sociale de la profession.
+              Porté sur le petit doigt de la main dominante,
+              l’anneau représente la fierté, l’unité et la
+              responsabilité que nous éprouvons envers notre
+              profession. Il est important que vous serriez la main
+              de ceux qui ont un anneau de fer, car ils ont déjà
+              réussi à surmonter les difficultés que vous
+              rencontrerez.
+            align: left
+            image: images/traditions/ring.jpg
+            image_alt: Iron Ring
+            image_position: left
+      
 
 template: advanced
