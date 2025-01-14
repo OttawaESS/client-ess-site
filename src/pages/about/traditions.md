@@ -96,7 +96,7 @@ en:
               Always remember that it is a great privilege to
               bear witness to the tool.
             align: left
-            image: images/traditions/key.jpg
+            image: images/traditions/keepers.png
             image_alt: Keeper of the Tool
             image_position: left
 
@@ -216,7 +216,7 @@ fr:
               Rappelez-vous toujours que c’est un grand privilège de pouvoir témoigner de la présence de l’outil.
 
             align: left
-            image: images/traditions/key.jpg
+            image: images/traditions/keepers.png
             image_alt: Keeper of the Tool
             image_position: left
 
