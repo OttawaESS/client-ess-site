@@ -5,6 +5,10 @@ en:
     - type: page_title
       title: Important Documents
 
+    - type: content_section
+      content: >-
+        NOTE: The French version of the constitution is still being translated.
+
     - type: documents_section
       actions:
         - label: General
@@ -86,6 +90,10 @@ fr:
   sections:
     - type: page_title
       title: Documents importants
+
+    - type: content_section
+      content: >-
+        NOTE : La version française de la constitution est encore en cours de traduction.
 
     - type: documents_section
       actions:
