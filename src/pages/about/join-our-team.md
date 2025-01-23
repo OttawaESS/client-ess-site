@@ -18,7 +18,7 @@ en:
             Please note: Absolutely no late submissions will be accepted. Nominations submitted after the given deadline will not be eligible to run. Additionally, all students presenting their candidacy must meet the eligibility criteria for the position. For any questions regarding the election process please contact the CEO Margaret at <a target="_blank" href="mailto:mwhat033@uottawa.ca">mwhat033@uottawa.ca</a>.
 
           align: left
-          image: images/ess-elections.jpg
+          image: images/hiring/exec2025-en.png
           image_alt: ESS Elections Poster
           image_position: left
         - title: Managers (Applications are closed)
@@ -81,7 +81,7 @@ fr:
 
             Remarque : aucune candidature tardive ne sera acceptée. Les candidatures soumises après la date limite ne seront pas admissibles. De plus, tous les étudiants qui présentent leur candidature doivent satisfaire aux critères d'admissibilité pour le poste. Pour toute question concernant le processus électoral, veuillez contacter la DGÉ Margaret à l'adresse <a target="_blank" href="mailto:mwhat033@uottawa.ca">mwhat033@uottawa.ca</a>.
           align: left
-          image: images/ess-elections.jpg
+          image: images/hiring/exec2025-fr.png
           image_alt: ESS Elections Poster
           image_position: left
     
