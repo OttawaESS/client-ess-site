@@ -9,11 +9,11 @@ en:
         - title: Executives
           content: >-
             Executive members of the ESS are elected each academic year in March. Their term begins on May 1st and ends on April 30th the subsequent year. Any vacant positions will be filled through a by-election at the beginning of the fall term. <br><br>
-            To apply, fill out a nomination form during the announced nomination period by getting signatures from any 15 engineering students.
+            To apply, fill out a nomination form during the announced nomination period by getting signatures from any 15 engineering students.<br><br>
 
-            Nominations for ESS executives for 2025-2026 are starting soon! The nomination period is January 27th until January 31st at 11:59 pm. Nominations for executive roles in ESS requires 15 signatures from current engineering students and a maximum 200 word platform written in BOTH French and English. The nomination must be emailed by 11:59 pm on January 31st to <a target="_blank" href="mailto:mwhat033@uottawa.ca">mwhat033@uottawa.ca</a>.
+            Nominations for ESS executives for 2025-2026 are starting soon! The nomination period is January 27th until January 31st at 11:59 pm. Nominations for executive roles in ESS requires 15 signatures from current engineering students and a maximum 200 word platform written in BOTH French and English. The nomination must be emailed by 11:59 pm on January 31st to <a target="_blank" href="mailto:mwhat033@uottawa.ca">mwhat033@uottawa.ca</a>.<br><br>
 
-            If you have any questions about positions and responsibilities you can ask us or look over the position mandates starting on page 14 of the constitution available in our bio
+            If you have any questions about positions and responsibilities you can ask us or look over the position mandates starting on page 14 of the constitution available in our bio.<br><br>
 
             Please note: Absolutely no late submissions will be accepted. Nominations submitted after the given deadline will not be eligible to run. Additionally, all students presenting their candidacy must meet the eligibility criteria for the position. For any questions regarding the election process please contact the CEO Margaret at <a target="_blank" href="mailto:mwhat033@uottawa.ca">mwhat033@uottawa.ca</a>.
 
@@ -73,11 +73,11 @@ fr:
           content: >-
             Les membres exécutifs de l’AÉG sont élus chaque année en mars. Leur mandat commence le 1er mai et se termine le 30 avril de l'année suivante. Tout poste vacant sera comblé par une élection partielle au début de la session d'automne.
             <br><br>
-            Pour postuler : Remplissez un formulaire de mise en candidature pendant la période de mise en candidature annoncée en obtenant les signatures de 15 étudiants en génie.
+            Pour postuler : Remplissez un formulaire de mise en candidature pendant la période de mise en candidature annoncée en obtenant les signatures de 15 étudiants en génie.<br><br>
 
-            Les nominations des dirigeants de l'AÉG pour 2025-2026 commencent bientôt ! La période de nomination est le 27 janvier et se termine le 31 janvier à 23h59. Les nominations pour les rôles exécutifs de l'AÉG requièrent 15 signatures d'étudiants actuels en ingénierie et une plateforme de 200 mots maximum écrite en français ET en anglais. La nomination doit être envoyée par courriel avant 23 h 59 le 31 janvier à <a target="_blank" href="mailto:mwhat033@uottawa.ca">mwhat033@uottawa.ca</a>.
+            Les nominations des dirigeants de l'AÉG pour 2025-2026 commencent bientôt ! La période de nomination est le 27 janvier et se termine le 31 janvier à 23h59. Les nominations pour les rôles exécutifs de l'AÉG requièrent 15 signatures d'étudiants actuels en ingénierie et une plateforme de 200 mots maximum écrite en français ET en anglais. La nomination doit être envoyée par courriel avant 23 h 59 le 31 janvier à <a target="_blank" href="mailto:mwhat033@uottawa.ca">mwhat033@uottawa.ca</a>.<br><br>
 
-            Si vous avez des questions sur les postes et les responsabilités, vous pouvez nous les poser ou consulter les mandats des postes se trouvant dans la page 14 de la constitution disponible dans notre bio. 
+            Si vous avez des questions sur les postes et les responsabilités, vous pouvez nous les poser ou consulter les mandats des postes se trouvant dans la page 14 de la constitution disponible dans notre bio. <br><br>
 
             Remarque : aucune candidature tardive ne sera acceptée. Les candidatures soumises après la date limite ne seront pas admissibles. De plus, tous les étudiants qui présentent leur candidature doivent satisfaire aux critères d'admissibilité pour le poste. Pour toute question concernant le processus électoral, veuillez contacter la DGÉ Margaret à l'adresse <a target="_blank" href="mailto:mwhat033@uottawa.ca">mwhat033@uottawa.ca</a>.
           align: left
