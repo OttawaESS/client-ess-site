@@ -1,14 +1,14 @@
-# id: slide-1
-# en:
-#   title: 101 Week Guide Applications
-#   description: Dust off those covies, shine your hardhat, and start practicing your Godiva’s Hymn because 101Week guide applications are open from May 30 until June 12 at 11:59 pm. Put your leadership skills to the test and join the incredible team that welcomes first year engineering students to University of Ottawa.
-#   image: images/Frosh-EN-2022.jpg
-#   button_label: Apply
-#   button_link: https://docs.google.com/forms/d/e/1FAIpQLSewrVhvco_RQwgBPV3LuqdRVt7ZFE3OTu8fStrXcUSbLbSB-g/viewform
+id: slide-1
+en:
+  title: Executive Nomination Period
+  description: Nominations for ESS executives for 2025-2026 are starting soon! The nomination period is January 27th until January 31st at 11:59 pm. Nominations for executive roles in ESS requires 15 signatures from current engineering students and a maximum 200 word platform written in BOTH French and English.
+  image: images/hiring/exec2025-fr.png
+  button_label: Apply
+  button_link: /about/who-we-are
  
-# fr:
-#   title: Guides pour la Semaine 101
-#   description: Attention, étudiants en génie! Sortez vos covies, préparez vos casques et pratiquer votre Godiva's Hymn, car la mise en candidature pour être guide pendant la Semaine 101 ouvre du 30 mai jusqu’au 12 juin à 23 h 59. Parlez de vos compétences en leadership et joignez-vous à l'incroyable équipe qui accueille les étudiants de première année en génie à l'Université d'Ottawa.
-#   image: images/Frosh-FR-2022.jpg
-#   button_label: En savoir plus
-#   button_link: https://docs.google.com/forms/d/e/1FAIpQLSewrVhvco_RQwgBPV3LuqdRVt7ZFE3OTu8fStrXcUSbLbSB-g/viewform
+fr:
+  title: Période de nomination des dirigeants
+  description: Les nominations des dirigeants de l'AÉG pour 2025-2026 commencent bientôt ! La période de nomination est le 27 janvier et se termine le 31 janvier à 23h59. Les nominations pour les rôles exécutifs de l'AÉG requièrent 15 signatures d'étudiants actuels en ingénierie et une plateforme de 200 mots maximum écrite en français ET en anglais. 
+  image: images/hiring/exec2025-fr.png
+  button_label: En savoir plus
+  button_link: /about/who-we-are
