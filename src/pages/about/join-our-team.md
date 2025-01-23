@@ -30,15 +30,15 @@ en:
           image_position: left
 
     - type: cta_section
-        title: Important Documents for Nomination
-        subtitle: 
-        actions:
-          - label: View here
-            url: documents/general/forms/Nomination-Form-.pdf
-            style: primary
-            new_window: true
-        has_background: true
-        background_color: gray 
+      title: Important Documents for Nomination
+      subtitle: 
+      actions:
+        - label: View here
+          url: documents/general/forms/Nomination-Form-.pdf
+          style: primary
+          new_window: true
+      has_background: true
+      background_color: gray 
 
     - type: line_divider
     - type: committee_section
@@ -86,15 +86,15 @@ fr:
           image_position: left
     
     - type: cta_section
-        title: Documents importants pour la nomination
-        subtitle: 
-        actions:
-          - label: View here
-            url: documents/general/forms/Nomination-Form-.pdf
-            style: primary
-            new_window: true
-        has_background: true
-        background_color: gray 
+      title: Documents importants pour la nomination
+      subtitle: 
+      actions:
+        - label: View here
+          url: documents/general/forms/Nomination-Form-.pdf
+          style: primary
+          new_window: true
+      has_background: true
+      background_color: gray 
 
     - type: line_divider
 
