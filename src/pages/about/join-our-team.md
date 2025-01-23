@@ -21,13 +21,6 @@ en:
           image: images/hiring/exec2025-en.png
           image_alt: ESS Elections Poster
           image_position: left
-        - title: Managers (Applications are closed)
-          content: >-
-            Managers are elected each academic year at the Annual General Meeting. Their term begins on May 1st and ends on April 30th the subsequent year.<br><br>
-          align: left
-          image: images/hiring/manager.png
-          image_alt: ESS AGM Poster
-          image_position: left
 
     - type: cta_section
       title: Important Documents for Nomination
@@ -39,8 +32,21 @@ en:
           new_window: true
       has_background: true
       background_color: gray 
+      
+    - type: line_divider
+
+    - type: features_section
+      features:
+        - title: Managers (Applications are closed)
+          content: >-
+            Managers are elected each academic year at the Annual General Meeting. Their term begins on May 1st and ends on April 30th the subsequent year.<br><br>
+          align: left
+          image: images/hiring/manager.png
+          image_alt: ESS AGM Poster
+          image_position: left
 
     - type: line_divider
+
     - type: committee_section
       title: Committees
       committees:
