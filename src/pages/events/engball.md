@@ -15,7 +15,7 @@ en:
         content: |- 
           <h1 style="text-align:center;">Ready to join?</h1>
 
-          Stay tuned for more information.
+          <embed src="https://engineering-students-society.square.site/product/engineering-ball-2025-bal-de-l-ing-nierie-2025/250" style="width:100%; height: 800px;">
 
       # - type: features_section
       #   title: Sponsors
@@ -89,7 +89,7 @@ fr:
         content: |- 
           <h1 style="text-align:center;">Prêt à nous rejoindre ?</h1>
 
-          Restez à l'écoute pour plus d'informations.
+          <embed src="https://engineering-students-society.square.site/product/engineering-ball-2025-bal-de-l-ing-nierie-2025/250" style="width:100%; height: 800px;">
         
       # - type: features_section
       #   title: Commanditaires
