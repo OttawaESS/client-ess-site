@@ -1,10 +1,10 @@
 ---
-title: Engineering Charity Ball 2024
+title: Engineering Charity Ball 2025
 
 en: 
    sections: 
       - type: secondary_hero_section
-        title: Engineering Charity Ball 2024 
+        title: Engineering Charity Ball 2025
         image: images/engball/hero.jpg
 
       - type: content_section
@@ -74,7 +74,7 @@ en:
 fr: 
    sections:
       - type: secondary_hero_section
-        title: Bal de Charité des Ingénieurs 2024
+        title: Bal de Charité des Ingénieurs 2025
         image: images/engball/hero.jpg
 
       - type: content_section
