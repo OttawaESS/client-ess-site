@@ -11,6 +11,21 @@ en:
         content: >-
          This highly anticipated annual event is a great night for everyone. This is your chance to get dressed up and enjoy a fun night with friends, all while supporting a good cause! With food, drinks, dancing, raffles, and more, you don’t want to miss out on this great night!
 
+      - type: grid_section
+        title: 
+        grid_items:
+          - content: |-
+              <embed src="/images/engball/tableplan.pdf" style="width:100%;height:500px;" type="application/pdf">
+          - content: |-
+              <embed src="/images/engball/menu.pdf" style="width:100%;height:500px;" type="application/pdf">
+        grid_cols: two
+        grid_gap_horiz: large
+        grid_gap_vert: small
+        enable_cards: false
+        align: center
+        has_background: true
+        background_color: gray
+
       - type: content_section
         content: |- 
           <h1 style="text-align:center;">Ready to join?</h1>
@@ -22,7 +37,6 @@ en:
             justify-content: flex-end;
             align-items: center;
             width: 100%;
-            height:500px;
             background: #FFFFFF;
             border: 1px solid rgba(0, 0, 0, 0.1);
             box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
@@ -123,6 +137,21 @@ fr:
       #   title: Programme
       #   image: images/101week/schedule/101french.png
 
+      - type: grid_section
+        title: 
+        grid_items:
+          - content: |-
+              <embed src="/images/engball/tableplan.pdf" style="width:100%;height:500px;" type="application/pdf">
+          - content: |-
+              <embed src="/images/engball/menu.pdf" style="width:100%;height:500px;" type="application/pdf">
+        grid_cols: two
+        grid_gap_horiz: large
+        grid_gap_vert: small
+        enable_cards: false
+        align: center
+        has_background: true
+        background_color: gray
+
       - type: content_section
         content: |- 
           <h1 style="text-align:center;">Prêt à nous rejoindre ?</h1>
@@ -134,7 +163,6 @@ fr:
             justify-content: flex-end;
             align-items: center;
             width: 100%;
-            height:500px;
             background: #FFFFFF;
             border: 1px solid rgba(0, 0, 0, 0.1);
             box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
