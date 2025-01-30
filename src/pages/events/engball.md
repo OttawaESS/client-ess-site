@@ -22,6 +22,7 @@ en:
             justify-content: flex-end;
             align-items: center;
             width: 100%;
+            height:500px;
             background: #FFFFFF;
             border: 1px solid rgba(0, 0, 0, 0.1);
             box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
@@ -134,6 +135,7 @@ fr:
             justify-content: flex-end;
             align-items: center;
             width: 100%;
+            height:500px;
             background: #FFFFFF;
             border: 1px solid rgba(0, 0, 0, 0.1);
             box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
