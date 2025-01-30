@@ -15,9 +15,9 @@ en:
         title: 
         grid_items:
           - content: |-
-              <embed src="/images/engball/tableplan.pdf" style="width:100%;height:500px;" type="application/pdf">
+              <img src="/images/engball/menu.png" alt="Menu" style="100%">
           - content: |-
-              <embed src="/images/engball/menu.pdf" style="width:100%;height:500px;" type="application/pdf">
+              <img src="/images/engball/floorplan.png" alt="Floorplan" style="100%">
         grid_cols: two
         grid_gap_horiz: large
         grid_gap_vert: small
