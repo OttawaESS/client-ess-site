@@ -15,7 +15,45 @@ en:
         content: |- 
           <h1 style="text-align:center;">Ready to join?</h1>
 
-          <embed src="https://engineering-students-society.square.site/product/engineering-ball-2025-bal-de-l-ing-nierie-2025/250" style="width:100%; height: 800px;">
+          <div style="
+            overflow: auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            align-items: center;
+            width: 100%;
+            background: #FFFFFF;
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
+            border-radius: 10px;
+            font-family: Karla, SQ Market, Helvetica, Arial, sans-serif;
+            ">
+              <img src="https://items-images-production.s3.us-west-2.amazonaws.com/files/d565d534de30a1c88a66ef810583ef2ae44c6c7d/original.png" alt="Engineering Ball 2025/ Bal de l'Ingénierie 2025" onerror="this.style.display='none'" style="width: 100%;">
+            <div style="padding: 20px;">
+                <p style="
+              font-size: 18px;
+              line-height: 20px;
+            ">Engineering Ball 2025/ Bal de l'Ingénierie 2025</p>
+                <p style="
+              font-size: 18px;
+              line-height: 20px;
+              font-weight: 600;
+            ">$70.00</p>
+              <a target="_blank" href="https://square.link/u/euxWO4Qu" style="
+              display: inline-block;
+              font-size: 18px;
+              line-height: 48px;
+              height: 48px;
+              color: #ffffff;
+              min-width: 212px;
+              background-color: #5D0096;
+              text-align: center;
+              box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
+              border-radius: 6px;
+            ">Buy now</a>
+            </div>
+              <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karla">
+          </div>
 
       # - type: features_section
       #   title: Sponsors
@@ -89,7 +127,45 @@ fr:
         content: |- 
           <h1 style="text-align:center;">Prêt à nous rejoindre ?</h1>
 
-          <embed src="https://engineering-students-society.square.site/product/engineering-ball-2025-bal-de-l-ing-nierie-2025/250" style="width:100%; height: 800px;">
+          <div style="
+            overflow: auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            align-items: center;
+            width: 100%;
+            background: #FFFFFF;
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
+            border-radius: 10px;
+            font-family: Karla, SQ Market, Helvetica, Arial, sans-serif;
+            ">
+              <img src="https://items-images-production.s3.us-west-2.amazonaws.com/files/d565d534de30a1c88a66ef810583ef2ae44c6c7d/original.png" alt="Engineering Ball 2025/ Bal de l'Ingénierie 2025" onerror="this.style.display='none'" style="width: 100%;">
+            <div style="padding: 20px;">
+                <p style="
+              font-size: 18px;
+              line-height: 20px;
+            ">Engineering Ball 2025/ Bal de l'Ingénierie 2025</p>
+                <p style="
+              font-size: 18px;
+              line-height: 20px;
+              font-weight: 600;
+            ">$70.00</p>
+              <a target="_blank" href="https://square.link/u/euxWO4Qu" style="
+              display: inline-block;
+              font-size: 18px;
+              line-height: 48px;
+              height: 48px;
+              color: #ffffff;
+              min-width: 212px;
+              background-color: #5D0096;
+              text-align: center;
+              box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
+              border-radius: 6px;
+            ">Buy now</a>
+            </div>
+              <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karla">
+          </div>
         
       # - type: features_section
       #   title: Commanditaires
