@@ -29,7 +29,6 @@ en:
             border-radius: 10px;
             font-family: Karla, SQ Market, Helvetica, Arial, sans-serif;
             ">
-              <img src="https://items-images-production.s3.us-west-2.amazonaws.com/files/d565d534de30a1c88a66ef810583ef2ae44c6c7d/original.png" alt="Engineering Ball 2025/ Bal de l'Ingénierie 2025" onerror="this.style.display='none'" style="width: 100%;">
             <div style="padding: 20px;">
                 <p style="
               font-size: 18px;
@@ -142,7 +141,6 @@ fr:
             border-radius: 10px;
             font-family: Karla, SQ Market, Helvetica, Arial, sans-serif;
             ">
-              <img src="https://items-images-production.s3.us-west-2.amazonaws.com/files/d565d534de30a1c88a66ef810583ef2ae44c6c7d/original.png" alt="Engineering Ball 2025/ Bal de l'Ingénierie 2025" onerror="this.style.display='none'" style="width: 100%;">
             <div style="padding: 20px;">
                 <p style="
               font-size: 18px;
