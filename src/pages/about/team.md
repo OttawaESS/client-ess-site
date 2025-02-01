@@ -51,7 +51,7 @@ en:
         - src/data/team/ess-manager-sports.yaml
 
     - type: grid_section
-        title: 2025-2026
+        title: 
         grid_items:
           - content: |-
               President - Sofia Ershova
