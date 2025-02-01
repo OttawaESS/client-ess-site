@@ -77,6 +77,8 @@ en:
             <br>
             <b>VP Equity</b> - Ryn Basinger (Summer + Fall 2024)
             <br>
+            <b>VP Equity</b> - vacant
+            <br>
             <b>VP Sustainable Initiatives</b> - Hayley Jubinville (May 2024 - Oct 2024)
             <br>
             <b>VP Sustainable Initiatives</b> - Leila Smaili (Nov 2025 - onwards)
