@@ -51,7 +51,7 @@ en:
         - src/data/team/ess-manager-sports.yaml
 
     - type: grid_section
-        title: 
+        title: Past Executives
         grid_items:
           - content: |-
               President - Sofia Ershova
@@ -67,7 +67,6 @@ en:
               VP Equity - Ryn Basinger
               VP Sustainable Initiatives - Leila Smaili
               VP Francophone - Carolina González G.
-
               
           - content: |-
               Manager of Social Media - Martina Duran Tseluiko
