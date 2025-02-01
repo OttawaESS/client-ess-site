@@ -55,7 +55,7 @@ en:
       grid_items:
         - content: |-
             <b>President</b> - Sofia Ershova (Summer + Fall 2024)
-            <b>Interim President</b> - Aiden McCooeye (Winter 2025)
+            <b>INTERIM President</b> - Aiden McCooeye (Winter 2025)
         - content: |-
             <b>VP External</b> - Ethan Tang
             <br>
@@ -81,7 +81,7 @@ en:
             <br>
             <b>VP Sustainable Initiatives</b> - Hayley Jubinville (May 2024 - Oct 2024)
             <br>
-            <b>VP Sustainable Initiatives</b> - Leila Smaili (Nov 2025 - onwards)
+            <b>INTERIM VP Sustainable Initiatives</b> - Leila Smaili (Nov 2025 - onwards)
             <br>
             <b>VP Francophone</b> - Carolina González
             
