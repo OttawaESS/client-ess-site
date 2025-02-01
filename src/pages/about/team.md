@@ -56,7 +56,7 @@ en:
         - content: |-
             President - Sofia Ershova
         - content: |-
-            VP External - Ethan Tang
+            <b>VP External</b> - Ethan Tang
             <br>
             VP Finance & Administration - Dominick Mann
             <br>
