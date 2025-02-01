@@ -51,51 +51,58 @@ en:
         - src/data/team/ess-manager-sports.yaml
 
     - type: grid_section
-      title: Past Executives (2024-2025)
+      title: Executives (2024-2025)
       grid_items:
         - content: |-
-            President - Sofia Ershova
+            <b>President</b> - Sofia Ershova (Summer + Fall 2024)
+            <b>Interim President</b> - Aiden McCooeye (Winter 2025)
         - content: |-
             <b>VP External</b> - Ethan Tang
             <br>
-            VP Finance & Administration - Dominick Mann
+            <b>VP Finance & Administration</b> - Dominick Mann
             <br>
-            VP Academic Affairs - Ashna Cheverlharan
+            <b>VP Academic Affairs</b> - Ashna Cheverlharan
             <br>
-            VP Communications - Madison Smrtka
+            <b>VP Communications</b> - Madison Smrtka
             <br>
-            VP Internal Affairs - Aiden McCooeye 
+            <b>VP Internal Affairs</b> - Aiden McCooeye (Summer + Fall 2024)
             <br>
-            VP Services - Luke Ballinger
+            <b>VP Services</b> - Maya Benhamou (Summer + Fall 2024)
             <br>
-            VP Social Affairs - Eric Hagen
+            <b>INTERIM VP Services</b> - Luke Ballinger (Winter 2025)
             <br>
-            VP Philanthropic - Gabrielle Graceffa
+            <b>VP Social Affairs</b> - Eric Hagen
             <br>
-            VP Equity - Ryn Basinger
+            <b>VP Philanthropic</b> - Gabrielle Graceffa
             <br>
-            VP Sustainable Initiatives - Leila Smaili
+            <b>VP Equity</b> - Ryn Basinger (Summer + Fall 2024)
             <br>
-            VP Francophone - Carolina González G.
+            <b>VP Sustainable Initiatives</b> - Hayley Jubinville (May 2024 - Oct 2024)
+            <br>
+            <b>VP Sustainable Initiatives</b> - Leila Smaili (Nov 2025 - onwards)
+            <br>
+            <b>VP Francophone</b> - Carolina González
             
         - content: |-
-            Manager of Social Media - Martina Duran Tseluiko
+            <b>Manager of Social Media</b> - Martina Duran
             <br>
-            Manager of Information Technology - Cyrus Choi
+            <b>Manager of Information Technology</b> - Cyrus Choi
             <br>
-            Manager of 101 Week - Mackenzie Conrad
+            <b>Manager of 101 Week</b> - Mackenzie Conrad (term ended after 101 week)
             <br>
-            Manager of Translations - Elsa Lange
+            <b>Manager of Translations</b> - Elsa Lange
             <br>
-            Manager of Marketing - 
+            <b>Manager of Marketing</b> - Jason Gonzalez (May 2024 - Nov 2024)
             <br>
-            Manager of Student Success - Krisha Veera
+            <b>Manager of Marketing</b> - vacant
             <br>
-            Manager of Sponsorships - Zoe Saunders
+            <b>Manager of Student Success</b> - Krisha Veera
             <br>
-            Manager of Wine and Cheese - Kyle Mendes
+            <b>Manager of Sponsorships</b> - Zoe Saunders (Nov 2024 - Apr 2025)
             <br>
-            Manager of Sports - Maria Hal
+            <b>Manager of Wine and Cheese</b> - Kyle Mendes
+            <br>
+            <b>Manager of Sports</b> - Maria Hal
             
       grid_cols: three
       grid_gap_horiz: large
