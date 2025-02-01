@@ -55,8 +55,9 @@ en:
       grid_items:
         - content: |-
             <b>President</b> - Sofia Ershova (Summer + Fall 2024)
+            <br>
             <b>INTERIM President</b> - Aiden McCooeye (Winter 2025)
-        - content: |-
+            <br>
             <b>VP External</b> - Ethan Tang
             <br>
             <b>VP Finance & Administration</b> - Dominick Mann
@@ -70,7 +71,8 @@ en:
             <b>VP Services</b> - Maya Benhamou (Summer + Fall 2024)
             <br>
             <b>INTERIM VP Services</b> - Luke Ballinger (Winter 2025)
-            <br>
+            
+        - content: |-
             <b>VP Social Affairs</b> - Eric Hagen
             <br>
             <b>VP Philanthropic</b> - Gabrielle Graceffa
@@ -84,12 +86,12 @@ en:
             <b>INTERIM VP Sustainable Initiatives</b> - Leila Smaili (Nov 2025 - onwards)
             <br>
             <b>VP Francophone</b> - Carolina González
-            
-        - content: |-
+            <br>
             <b>Manager of Social Media</b> - Martina Duran
             <br>
             <b>Manager of Information Technology</b> - Cyrus Choi
-            <br>
+            
+        - content: |-
             <b>Manager of 101 Week</b> - Mackenzie Conrad (term ended after 101 week)
             <br>
             <b>Manager of Translations</b> - Elsa Lange
