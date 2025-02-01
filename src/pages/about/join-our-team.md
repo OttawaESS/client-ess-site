@@ -106,7 +106,7 @@ fr:
 
     - type: features_section
       features:
-        - title: Directeurs (Les candidatures sont closes)
+        - title: Directeurs (Les candidatures sont fermées)
           content: >-
             Les directeurs sont élus chaque année lors de l'Assemblée générale annuelle. Leur mandat commence le 1er mai et se termine le 30 avril de l'année suivante.<br><br>
           align: left
