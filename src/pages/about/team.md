@@ -57,26 +57,44 @@ en:
             President - Sofia Ershova
         - content: |-
             VP External - Ethan Tang
+            <br>
             VP Finance & Administration - Dominick Mann
+            <br>
             VP Academic Affairs - Ashna Cheverlharan
+            <br>
             VP Communications - Madison Smrtka
+            <br>
             VP Internal Affairs - Aiden McCooeye 
+            <br>
             VP Services - Luke Ballinger
+            <br>
             VP Social Affairs - Eric Hagen
+            <br>
             VP Philanthropic - Gabrielle Graceffa
+            <br>
             VP Equity - Ryn Basinger
+            <br>
             VP Sustainable Initiatives - Leila Smaili
+            <br>
             VP Francophone - Carolina González G.
             
         - content: |-
             Manager of Social Media - Martina Duran Tseluiko
+            <br>
             Manager of Information Technology - Cyrus Choi
+            <br>
             Manager of 101 Week - Mackenzie Conrad
+            <br>
             Manager of Translations - Elsa Lange
+            <br>
             Manager of Marketing - 
+            <br>
             Manager of Student Success - Krisha Veera
+            <br>
             Manager of Sponsorships - Zoe Saunders
+            <br>
             Manager of Wine and Cheese - Kyle Mendes
+            <br>
             Manager of Sports - Maria Hal
             
       grid_cols: three
