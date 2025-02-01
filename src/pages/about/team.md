@@ -50,6 +50,44 @@ en:
         - src/data/team/ess-manager-winecheese.yaml
         - src/data/team/ess-manager-sports.yaml
 
+    - type: grid_section
+        title: 2025-2026
+        grid_items:
+          - content: |-
+              President - Sofia Ershova
+          - content: |-
+              VP External - Ethan Tang
+              VP Finance & Administration - Dominick Mann
+              VP Academic Affairs - Ashna Cheverlharan
+              VP Communications - Madison Smrtka
+              VP Internal Affairs - Aiden McCooeye 
+              VP Services - Luke Ballinger
+              VP Social Affairs - Eric Hagen
+              VP Philanthropic - Gabrielle Graceffa
+              VP Equity - Ryn Basinger
+              VP Sustainable Initiatives - Leila Smaili
+              VP Francophone - Carolina González G.
+
+              
+          - content: |-
+              Manager of Social Media - Martina Duran Tseluiko
+              Manager of Information Technology - Cyrus Choi
+              Manager of 101 Week - Mackenzie Conrad
+              Manager of Translations - Elsa Lange
+              Manager of Marketing - 
+              Manager of Student Success - Krisha Veera
+              Manager of Sponsorships - Zoe Saunders
+              Manager of Wine and Cheese - Kyle Mendes
+              Manager of Sports - Maria Hal
+              
+        grid_cols: three
+        grid_gap_horiz: large
+        grid_gap_vert: small
+        enable_cards: false
+        align: center
+        has_background: true
+        background_color: gray
+
 fr:
   sections:
     - type: page_title
