@@ -83,7 +83,7 @@ en:
             <br>
             <b>VP Sustainable Initiatives</b> - Hayley Jubinville (May 2024 - Oct 2024)
             <br>
-            <b>INTERIM VP Sustainable Initiatives</b> - Leila Smaili (Nov 2025 - onwards)
+            <b>INTERIM VP Sustainable Initiatives</b> - Leila Smaili (Nov 2024 - Apr 2025)
             <br>
             <b>VP Francophone</b> - Carolina González
             <br>
@@ -162,6 +162,72 @@ fr:
         - src/data/team/ess-manager-sponsor.yaml
         - src/data/team/ess-manager-winecheese.yaml
         - src/data/team/ess-manager-sports.yaml
+
+    - type: grid_section
+      title: Membres Exécutifs (2024-2025)
+      grid_items:
+        - content: |-
+            <b>Président.e</b> - Sofia Ershova (Été + automne 2024)
+            <br>
+            <b>INTERIM Président.e</b> - Aiden McCooeye (Hiver 2025)
+            <br>
+            <b>Vice-président.e aux affaires externes</b> - Ethan Tang
+            <br>
+            <b>Vice-président.e aux finances et à l'administration</b> - Dominick Mann
+            <br>
+            <b>Vice-président.e aux affaires académiques</b> - Ashna Cheverlharan
+            <br>
+            <b>Vice-président.e aux communications</b> - Madison Smrtka
+            <br>
+            <b>Vice-président.e aux affaires internes</b> - Aiden McCooeye (Été + automne 2024)
+            <br>
+            <b>Vice-président.e aux services</b> - Maya Benhamou (Été + automne 2024)
+            <br>
+            <b>INTERIM Vice-président.e aux services</b> - Luke Ballinger (Hiver 2025)
+            
+        - content: |-
+            <b>Vice-président.e aux affaires sociales</b> - Eric Hagen
+            <br>
+            <b>Vice-président.e aux affaires philanthropiques</b> - Gabrielle Graceffa
+            <br>
+            <b>Vice-président.e à l'équité</b> - Ryn Basinger (Été + automne 2024)
+            <br>
+            <b>Vice-président.e à l'équité</b> - vacant
+            <br>
+            <b>Vice-président.e aux initiatives durables</b> - Hayley Jubinville (Mai 2024 - Oct 2024)
+            <br>
+            <b>INTERIM Vice-président.e aux initiatives durables</b> - Leila Smaili (Nov 2024 - Avril 2025)
+            <br>
+            <b>Vice-président.e aux affaires francophones</b> - Carolina González
+            <br>
+            <b>Responsable des médias sociaux</b> - Martina Duran
+            <br>
+            <b>Responsable des technologies de l'information</b> - Cyrus Choi
+            
+        - content: |-
+            <b>Responsable de la semaine 101</b> - Mackenzie Conrad (trimestre terminé après 101 semaines)
+            <br>
+            <b>Responsable des traductions</b> - Elsa Lange
+            <br>
+            <b>Responsable du marketing</b> - Jason Gonzalez (Mai 2024 - Nov 2024)
+            <br>
+            <b>Responsable du marketing</b> - vacant
+            <br>
+            <b>Responsable de la réussite des étudiants</b> - Krisha Veera
+            <br>
+            <b>Responsable du parrainage</b> - Zoe Saunders (Nov 2024 - Avril 2025)
+            <br>
+            <b>Responsable du vin et fromage</b> - Kyle Mendes
+            <br>
+            <b>Responsable des sports</b> - Maria Hal
+            
+      grid_cols: three
+      grid_gap_horiz: large
+      grid_gap_vert: small
+      enable_cards: false
+      align: center
+      has_background: true
+      background_color: gray
         
 template: advanced
 ---
