@@ -28,6 +28,10 @@
             "url": "/about/team"
           },
           {
+            "label": "Past Team",
+            "url": "/about/past-team"
+          },
+          {
             "label": "Join Our Team",
             "url": "/about/join-our-team"
           },
