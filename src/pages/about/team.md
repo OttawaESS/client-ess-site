@@ -102,6 +102,8 @@ en:
             <br>
             <b>Manager of Student Success</b> - Krisha Veera
             <br>
+            <b>Manager of Sponsorships</b> - Anna Schubert (May 2024 - Nov 2025)
+            <br>
             <b>Manager of Sponsorships</b> - Zoe Saunders (Nov 2024 - Apr 2025)
             <br>
             <b>Manager of Wine and Cheese</b> - Kyle Mendes
@@ -214,6 +216,8 @@ fr:
             <b>Responsable du marketing</b> - vacant
             <br>
             <b>Responsable de la réussite des étudiants</b> - Krisha Veera
+            <br>
+            <b>Responsable du parrainage</b> - Anna Schubert (Mai 2024 - Nov 2025)
             <br>
             <b>Responsable du parrainage</b> - Zoe Saunders (Nov 2024 - Avril 2025)
             <br>
