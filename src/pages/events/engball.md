@@ -5,7 +5,7 @@ en:
    sections: 
       - type: secondary_hero_section
         title: Engineering Charity Ball 2025
-        image: images/engball/hero.jpg
+        image: images/engball/2025/hero.jpg
 
       - type: content_section
         content: >-
@@ -15,9 +15,11 @@ en:
         title: 
         grid_items:
           - content: |-
-              <img src="/images/engball/menu.png" alt="Menu" style="100%">
+              <img src="/images/engball/2025/menu.png" alt="Menu" style="100%">
           - content: |-
-              <img src="/images/engball/floorplan.png" alt="Floorplan" style="100%">
+              <img src="/images/engball/2025/floorplan.png" alt="Floorplan" style="100%">
+          - content: |-
+              <img src="/images/engball/2025/tablestatus-1.png" alt="Table Status" style="100%">
         grid_cols: two
         grid_gap_horiz: large
         grid_gap_vert: small
@@ -117,7 +119,7 @@ en:
         subtitle: 
         actions:
           - label: View here
-            url: images/engball/sponsorpackage.pdf
+            url: images/engball/2025/sponsorpackage.pdf
             style: primary
             new_window: true
         has_background: true
@@ -127,7 +129,7 @@ fr:
    sections:
       - type: secondary_hero_section
         title: Bal de Charité des Ingénieurs 2025
-        image: images/engball/hero.jpg
+        image: images/engball/2025/hero.jpg
 
       - type: content_section
         content: >-
@@ -141,10 +143,12 @@ fr:
         title: 
         grid_items:
           - content: |-
-              <img src="/images/engball/menu.png" alt="Menu" style="100%">
+              <img src="/images/engball/2025/menu.png" alt="Menu" style="100%">
           - content: |-
-              <img src="/images/engball/floorplan.png" alt="Floorplan" style="100%">
-        grid_cols: two
+              <img src="/images/engball/2025/floorplan.png" alt="Floorplan" style="100%">
+          - content: |-
+              <img src="/images/engball/2025/tablestatus-1.png" alt="Table Status" style="100%">
+        grid_cols: three
         grid_gap_horiz: large
         grid_gap_vert: small
         enable_cards: false
@@ -243,7 +247,7 @@ fr:
         subtitle: 
         actions:
           - label: Voir ici
-            url: images/engball/sponsorpackage.pdf
+            url: images/engball/2025/sponsorpackage.pdf
             style: primary
             new_window: true
         has_background: true
