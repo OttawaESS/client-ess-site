@@ -20,7 +20,7 @@ en:
               <img src="/images/engball/2025/floorplan.png" alt="Floorplan" style="100%">
           - content: |-
               <img src="/images/engball/2025/tablestatus-1.png" alt="Table Status" style="100%">
-        grid_cols: two
+        grid_cols: three
         grid_gap_horiz: large
         grid_gap_vert: small
         enable_cards: false
